@@ -1,0 +1,53 @@
+http://web.archive.org/web/20140725200653id_/http://www.cnn.com:80/2014/05/08/tech/innovation/universe-simulation
+
+-- it 's hard to describe billions of years of cosmic history			1
+but scientists have used a code to create a model of how the universe as we know it today might have evolved			1
+a new study in the journal @entity10 describes a simulation of the universe that is unique because of " how realistically it recreates the galaxies and the universe that we see , which is kind of a first for a simulation like this , " said @entity13 , study co-author at the @entity14			1
+@entity13 and collaborators released several videos this week showcasing highlights of what their numerical simulation , called @entity25 , can do			1
+running this model " took approximately 16Â million @entity27 ( central processing unit ) hours , " @entity29 , astronomer at the @entity31 , @entity31 , wrote in an accompanying article in @entity10			2
+" the end result , however , is a simulated universe that looks an awful lot like the real one			0
+" this simulation begins 12 million years after the @entity39 , which is still pretty early considering that the universe is about 13.8 billion years old			1
+" what it allows -- a statistically robust comparison against observations across all of cosmic time -- is a critical aspect in the development of better and more realistic models , which directly translates into more physical insight which we can extract from such simulations , " @entity13 said			0
+a range of galaxy types emerges in this simulation , such as blue spiral and red elliptical galaxies			2
+the content of hydrogen and elements heavier than hydrogen and helium seems consistent with observational data , study authors wrote			0
+" these observations capture a large variety of galaxy luminosities , sizes , colours , morphologies and evolutionary stages , providing remarkable benchmarks for galaxy formation theories , " study authors wrote			0
+a total of 41,416 galaxies are represented in the simulation			2
+it includes a population of elliptical galaxies that do n't form stars , disk galaxies that do form stars , and irregular galaxies			0
+our own @entity86 galaxy is a disk galaxy , and simulating how such a galaxy would be formed has been problematic in the past			0
+but the scientists ' calculations have overcome this , the study said			0
+the simulation takes into account that there are phenomena in our universe that we have never detected but that have had huge influence on cosmic evolution			1
+dark matter accounts for about 24 % of the universe , while normal matter -- everything that we can see -- is only 4.6 %			1
+dark matter " dominates the gravitational pull of everything , especially on large scales , " @entity13 said			1
+" it 's the backbone of the cosmic web			1
+" over the course of the universe 's history , galaxies have formed where dark matter was most concentrated			1
+but most of the universe is made of dark energy , responsible for the accelerating expansion of the universe			2
+the universe is expanding , but how quickly ? obviously , you ca n't model the entire universe at once , but this simulation does represent a substantial chunk of it : 350 million light years in each dimension , @entity13 said			1
+it allows scientists to zoom in to see the structure of individual galaxies , such as spiral arms			2
+still , there are shortcomings to the simulation : for instance , the mass of stars in low - mass galaxies gets built up earlier than what has been observed , meaning that populations of stars are shown as two to three times older than in reality			2
+@entity146 , professor of physics and director of the @entity149 in @entity150 , @entity151 , takes issue with the idea that this new simulation is better than its predecessors			0
+" other groups are doing a much better job of understanding what 's going on inside galaxies , including my own group , " said @entity146 , whose team also works on modeling the cosmos			0
+but the simulation does have strengths on a larger scale -- for instance , in showing how galaxies affect their surrounding environments , and how environments impact galaxies , he said			0
+the code used in the simulation , @entity173 , is not publicly available -- another of @entity175 's criticisms			0
+but @entity13 said that a complete description of its methods has been published , and that anyone with expertise who is motivated could use it to develop a similar code .			0
+
+scientists have released a new model of how the universe might have evolved
+the simulation begins 12 million years after the @entity39
+it represents more than 41,000 galaxies
+dark matter is the ' backbone of the cosmic web '
+
+@entity31:College Park
+@entity146:Primack
+@entity14:Harvard-Smithsonian Center for Astrophysics
+@entity13:Nelson
+@entity27:CPU
+@entity25:Illustris
+@entity39:Big Bang
+@entity10:Nature
+@entity173:Arepo
+@entity149:High-Performance Astro Computing Center
+@entity0:CNN
+@entity86:Milky Way
+@entity29:Michael Boylan-Kolchin
+@entity175:Primack
+@entity151:California
+@entity150:Santa Cruz

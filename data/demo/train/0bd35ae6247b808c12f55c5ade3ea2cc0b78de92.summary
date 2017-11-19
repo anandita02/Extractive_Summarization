@@ -1,0 +1,74 @@
+http://web.archive.org/web/20140924224312id_/http://www.cnn.com:80/2013/09/12/tech/mobile/iphone-fingerprint-privacy
+
+-- given the privacy concerns swirling around much of our digital activity these days , the idea of handing over one 's fingerprints to @entity4 via its new @entity5 has some people nervous			1
+the phone , which goes on sale september 20 , will feature a fingerprint sensor in its home button for added security			1
+users must " register " their print with the device , after which they can unlock the phone by placing a finger or thumb on the button			2
+the idea is that fingerprints , being unique to each person , augment users ' passcodes to offer an additional safeguard against hackers or thieves			1
+but can we trust @entity4 or its partners with our fingerprints ? and could n't hackers , those resourceful and relentless probers of digital firewalls , find new ways to trick the phone 's sensor ? the answers , experts say , appear to be : 1 ) probably , at least for now , and 2 ) yes , although that 's unlikely			1
+" there should always be some concern with new technologies or functionality that has such a large base of users , " says @entity42 , a consultant for security firm @entity43 , in an e-mail to @entity0			0
+" the fingerprint reader is more of a sales tactic than a strong security enhancement			2
+" what still needs to be researched is how this digital fingerprint can be used once it is leaked , hacked or opened up to @entity56			0
+" prints in the cloud ? some observers have wondered aloud on @entity60 and elsewhere whether @entity4 , armed with a potential database of millions of thumbprints , might turn over some customers ' prints to the @entity65 ( @entity65 ) if ordered to by the government			2
+after all , @entity4 was reported to have been a partner in the @entity65 's prism surveillance program and has acknowledged it hands over user data when mandated by the government			2
+but @entity4 has said users ' fingerprint information will be encrypted and stored securely inside the phone 's new @entity74 processor chip instead of on @entity4 's servers or backed up to @entity56 , the company 's web - based storage service			1
+@entity4 also has said it 's not allowing third - party applications to access the scanner -- at least not yet			2
+that 's good news for users ' privacy , experts say -- even amid news reports that the @entity65 can spy on smartphones			0
+" your @entity5 knows who you call			2
+it knows where you are			0
+and in the newest versions , it will know your thumbprint			0
+given revelations about how the @entity65 can access @entity4 devices , should you be worried about it having that biometric data ? no. no no no no no no. come on			2
+no , " writes @entity100 in the @entity101			0
+" your fingerprint ... is n't traveling anywhere			0
+is it possible that the @entity65 could ask @entity4 to upload a user 's fingerprint from the phone so that it can be transmitted to the agency ? sure			1
+but that likely would n't be a request that comes through @entity111 ; it would probably require a separate warrant			0
+not impossible , but , given the burden of demonstrating need for a warrant , not as easy as a few keystrokes			0
+" @entity0 : @entity5 fingerprint scanner will start security revolution fingerprint hacks then there 's the question of hackers replicating fingerprints to break into phones			1
+" fingerprints are not private , you leave them lying around everywhere , and if someone has enough incentive -- and the resources available to them -- they may try to defeat any security system that you trust your fingerprint to unlock , " writes noted security researcher @entity126 on his blog			1
+" one thing is for sure			0
+with the launch of the @entity5 , more people will be using fingerprint sensors as part of their daily security than ever before -- and the hackers will be certainly intrigued to see how they might circumvent it , " @entity126 adds			1
+@entity143 , co-author of " the @entity145 's @entity144 , " told @entity0 that if he were trying to hack an @entity5 , he would first try to lift prints from elsewhere on the device " and figure out how to replay those to the sensor to log in to the person 's phone			1
+" this is not as hard as it might sound			0
+a decade ago , a @entity156 cryptographer demonstrated how to fool fingerprint - recognition systems by transferring latent prints to a " finger " made from gelatin , the ingredient found in @entity161 and other sweets			0
+it was informally known as the " gummi bear hack			0
+" but @entity4 's new @entity166 technology is presumably more sophisticated than those old systems			0
+in addition , latent prints may not provide enough of an overlapping match to unlock a phone , says digital - security expert @entity172			1
+" you use a different part of your finger to touch the @entity5 sensor than what you use to touch other things , " writes @entity172 on the @entity175 blog			1
+" that means while hackers may be able to lift your thumbprint from you holding other objects , or from other parts of the phone itself , they probably ca n't get the tip print needed to do bad things on your @entity5			1
+" this means the fingerprint databases held by the @entity65 , @entity194 , and border security are largely useless at unlocking your phone : they do n't cover the same parts of your fingers , " @entity172 adds			1
+but there is another potential vulnerability in the @entity5 's fingerprint scans			2
+the @entity166 system also can be used as a secure way to approve purchases from @entity206 or the @entity207 , which makes some security experts uncomfortable			0
+" if @entity4 is right that fingerprints never leave the device , that means the new @entity214 will be sending some sort of authentication token to @entity4 servers to verify that the end user has produced a valid print , " writes @entity209 in @entity210 , a @entity0 content partner			1
+" if attackers figure out a way to capture and replay users ' valid tokens , it could lead to new ways for criminals to hijack user accounts			0
+
+the idea of handing over fingerprints to @entity4 via new @entity5 has some nervous
+the phone will feature a fingerprint sensor in its home button for added security
+@entity4 : fingerprint info will be encrypted and stored in your phone , not on our servers
+security expert : " hackers will be certainly intrigued to see how they might circumvent " system
+
+@entity111:PRISM
+@entity156:Japanese
+@entity214:iPhones
+@entity0:CNN.com
+@entity175:Errata Security
+@entity5:iPhone 5S
+@entity4:Apple
+@entity194:FBI
+@entity56:iCloud
+@entity74:A7
+@entity100:Philip Bump
+@entity101:Atlantic
+@entity209:Dan Goodin
+@entity172:Graham
+@entity126:Cluley
+@entity210:Ars Technica
+@entity207:App Store
+@entity206:iTunes
+@entity144:Handbook
+@entity145:iOS Hacker
+@entity161:Jell-O
+@entity166:Touch ID
+@entity143:Dino Dai Zovi
+@entity42:Joe Schumacher
+@entity43:Neohapsis
+@entity65:NSA
+@entity60:Twitter

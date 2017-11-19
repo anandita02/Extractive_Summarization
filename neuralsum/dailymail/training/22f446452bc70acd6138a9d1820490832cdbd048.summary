@@ -1,0 +1,36 @@
+http://web.archive.org/web/20140618174024id_/http://www.dailymail.co.uk/sciencetech/article-2655616/Massive-flaw-revealed-revealed-Gmail-address-EVERY-user-Googles-mail-service.html
+
+by @entity0 a massive security flaw in @entity4 's @entity3 service that could have been used to extract millions of addresses has been revealed			1
+the flaw was only found when an @entity8 security researchers raised the alarm with @entity4			1
+the exploit uses a sharing feature of @entity3 that allows a user to ' delegate ' access to their account			1
+by tweaking the web address , @entity24 found it was possible to reveal a random user 's email address			2
+by automating the character changes with a piece of software called @entity31 , he was able to collect 37,000 @entity3 addresses in about two hours			0
+@entity24 says the trick would not have exposed passwords or otherwise allowed easy access to those accounts , but could have left users vulnerable to spam , phishing or password - guessing attacks			0
+' i bruteforced a token in a @entity42 to extract all of the email addresses hosted on @entity4 , ' he revealed in a blog this week			2
+' i could have done this potentially endlessly , ' says @entity24 , a @entity46 , @entity8 - based penetration tester for security firm @entity48 , told @entity49			0
+' i have every reason to believe every @entity3 address could have been mined			0
+' the exploit would n’t have just affected personal users of @entity3 , @entity24 said , but also every business that uses @entity4 to hosts its email , including even @entity4 itself			1
+the exploit uses a sharing feature of @entity3 that allows a user to “ delegate ” access to their account			1
+by tweaking the web address , @entity24 found it was possible to reveal a random user 's email address			0
+by automating the character changes with a piece of software called @entity31 , he was able to collect 37,000 @entity3 addresses in about two hours			0
+@entity24 says it took @entity4 another month after his report to fix the bug			1
+the company initially declined to pay him under its bug bounty program for rewarding hackers who expose and help fix its security flaws			2
+but it later relented and paid him $ 500			0
+a @entity4 spokesman confirms that the company patched @entity24 ’s email - stealing bug and paid him a reward for his help , but declined to respond to requests for further comment			1
+@entity24 also admitted he has no idea if the flaw had been used			2
+' we ’ll never know , ' he said .			0
+
+exploit took advantage of a flaw in account sharing
+could have been present since 2010 ; bug has now been fixed
+was discovered by hacker who received a reward from @entity4
+
+@entity3:Gmail
+@entity31:DirBuster
+@entity0:Mark Prigg
+@entity24:Hafif
+@entity4:Google
+@entity8:Israel
+@entity46:Tel Aviv
+@entity42:Gmail URL
+@entity48:Trustwave
+@entity49:Wired

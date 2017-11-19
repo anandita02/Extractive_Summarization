@@ -1,0 +1,74 @@
+http://web.archive.org/web/20120107011554id_/http://www.cnn.com:80/2011/12/02/tech/mobile/carrier-iq-reactions
+
+-- the web fallout continued friday over news that a hidden app could be tracking smartphone users ' activity			1
+many bloggers and smartphone customers fretted about the privacy issues raised by @entity9 , an information - mining app secretly installed on many phones			1
+but at the same time , other tech observers were beginning to say that some of those concerns may have been over the top			1
+@entity16 , a recap : on monday , researcher and developer @entity18 posted a 17 - minute @entity21 video apparently showing how the software -- designed as a diagnostic tool to find and help fix mobile network problems -- runs on his smartphone and logs every keystroke , every text and the full url of every website he visits			1
+news of the app 's existence on millions of phones had bounced around on tech blogs for a while			1
+but attention skyrocketed this week when @entity18 posted his video			2
+by thursday , it had turned into a rapidly developing story in which new information seemed to surface hourly			2
+mobile carriers and smartphone makers rushed to dispute claims made by @entity18 and others who said they confirmed his findings , explain their use of the app or announce that they once used it but plan to get rid of it			1
+and friday morning , the controversy made its way into the courts			0
+a lawsuit was filed in the @entity56 against @entity9 , and phone makers @entity57 and @entity59 , claiming that the app violates customer privacy			1
+" given our dependence on smartphones , we rely on the assumption that our personal information is protected from third parties , " attorney @entity62 said in a written statement			0
+" yet , it appears that @entity9 has violated this trust			1
+" @entity73 's firm is representing several customers and is seeking to turn the complaint into a class - action lawsuit			1
+the potential ramifications obviously had other privacy - minded folks concerned as well			1
+" a couple of things seem pretty clear , " @entity80 , a senior privacy and technology analyst with the @entity83 , said friday			0
+" we do n't know what the company was storing or accessing or what their clients were storing or accessing , but they seem to at least have the capability to store and access a lot of very personal information			0
+" many mobile customers seemed to focus their concerns on the fact that the software runs without their knowledge and appears difficult , if not impossible , to uninstall			1
+for example , on @entity102 's community forums , several topics had been created to discuss the issue			0
+and customers were n't happy			0
+" there 's no excuse to knowingly and willingly want to have that kind of invasive software , that potentially puts customers sensitive information at risk , on the phone , " one customer wrote			0
+" this software may violate multiple privacy laws , and that alone ought to void our contracts			0
+" @entity102 said it uses the app to root out network problems but ca n't see user activity			1
+other wireless carriers and smartphone manufacturers also responded			2
+@entity124 said it does n't use the app , and @entity126 said it has stopped supporting it and plans to eliminate it altogether			2
+by thursday morning , some on the @entity130 were trying to put the brakes on the fears , though			0
+" okay , folks , before we complete this public lynching , is there any evidence that @entity9 actually transmitted inappropriate data ? " tweeted @entity133 , a correspondent for tech site @entity134			1
+in a message posted to @entity143 , @entity144 , an analyst with @entity145 , wrote that some of the fears about @entity9 have been overblown			1
+" after reverse engineering carrieriq myself , i have seen no evidence that they are collecting anything more than what they 've publicly claimed : anonymized metrics data , " he wrote			0
+" there 's a big difference between ' look , it does something when i press a key ' and ' it 's sending all my keystrokes to the carrier ! '			2
+' " " in my opinion , the media has made it more malicious than it really is and i am not concerned about my phone usage at all , " wrote @entity165 , a columnist with tech site @entity166			0
+" it sounds to me like the software is designed to benefit consumers and is not being used to track and target you			2
+" but the @entity83 's @entity80 remains concerned			0
+he cited promotional material on @entity9 's own website that notes its ability to track users ' activities			1
+" if you look at their website , we do n't know what their clients were buying , but we do know what they were selling , " he said			0
+" what they 're saying to the media does n't seem to comport to what they tout on their own website			0
+" @entity9 says the core purpose of its tool is to uncover broad trends across a network			1
+its software can help carriers find out where calls are dropping and why , and zero in on device glitches			0
+for at least some of those who remain concerned ( and there are no doubt many ) , there may be some hope of at least finding out if the app is running on their phones			2
+a new app in the @entity212 , @entity213 detector , is designed to help you simply find the kit on your phone if it exists			2
+it 's only a day old and not perfect , developers say , but will continue to be tweaked .			0
+
+@entity220 continues over smartphone info - tracking app
+many smartphone users express concern over @entity9
+researchers say the app can track keystrokes , web surfing and other user *behavior*
+some analysts say concerns about the app are overblown
+
+@entity21:YouTube
+@entity80:Stanley
+@entity83:ACLU
+@entity134:CNET
+@entity130:Web
+@entity133:Declan McCullagh
+@entity0:CNN
+@entity212:Android Market
+@entity213:Voodoo Carrier IQ
+@entity9:Carrier IQ
+@entity57:Samsung
+@entity56:U.S. District Court for the Northern District of California
+@entity59:HTC
+@entity73:Berman
+@entity16:First
+@entity220:Fallout
+@entity18:Eckhart
+@entity102:Sprint
+@entity126:Apple
+@entity124:Verizon
+@entity144:Dan Rosenberg
+@entity145:Virtual Security Research
+@entity166:ZDNet
+@entity143:Pastebin
+@entity165:Matthew Miller
+@entity62:Steve W. Berman

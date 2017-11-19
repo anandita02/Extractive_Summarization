@@ -1,0 +1,21 @@
+http://web.archive.org/web/20130419114916id_/http://www.cnn.com:80/2013/04/15/travel/faa-737-inspections
+
+-- the @entity1 is ordering that more than 1,000 @entity3 jets be inspected for a problem which could cause pilots to lose control of the aircraft			1
+according to the @entity1 , the inspections will focus on pins which attach the horizontal stabilizers to the fuselage			1
+they were prompted by reports that a coating used to protect the pins from wear and corrosion was applied incorrectly			2
+the @entity1 says premature failure of the pins could cause reduced structural integrity of the horizontal stabilizer to fuselage attachment , resulting in loss of control of the airplane			0
+the part number of each pin must be checked and pins with certain part numbers must be replaced with new , improved attach pins			0
+the order , called an @entity30 , is effective may 20 and applies to @entity3 series 600 , 700 , 700 - c , 800 , 900 and 900 - @entity33 aircraft			0
+the inspections are not expected to affect airline schedules			1
+the aircraft included in the directive are relatively new , entering service in 1998 or later .			0
+
+@entity1 says a problem with attach pins could cause pilots to lose control of aircraft
+the pins attach the horizontal stabilizers to the fuselage
+@entity1 *received* reports that a protective coating on the pins was applied incorrectly
+the inspections are not expected to affect airline schedules
+
+@entity3:Boeing 737
+@entity30:Airworthiness Directive
+@entity1:FAA
+@entity0:CNN
+@entity33:ER

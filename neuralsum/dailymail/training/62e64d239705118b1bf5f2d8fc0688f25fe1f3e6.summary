@@ -1,0 +1,73 @@
+http://web.archive.org/web/20141215233550id_/http://www.dailymail.co.uk/sciencetech/article-2805707/The-revolutionary-3D-microscope-lets-researchers-watch-cells-moving-body.html
+
+it gives an unprecedented glimpse into the body , and could revolutionise medicine			0
+a new @entity5 microscope can image cells in the body , watching as cancer spreads or an embryo develops , for instance			0
+the technique , called lattice light - sheet microscopy , generates extraordinarily sharp , 3 - d images and videos of live organisms at scales ranging from single molecules to early - stage embryos			1
+light sheet microscopy involves illuminating the specimen from the side , sweeping a thin pencil of light , termed a @entity34 beam , across the imaging field			1
+the images from that section are recorded , the specimen is moved a tiny fraction and the process repeated			2
+the @entity42 sections can then be integrated into a @entity5 image			0
+the process is fast enough to record dynamic events within the sample			0
+to reduce the time taken to scan a section , @entity47 had the idea of dividing the beam into seven parallel parts			1
+over the last decade , powerful new microscopes have dramatically sharpened biologists ' focus on the molecules that animate and propel life			2
+the imaging platform developed by @entity47 , who just weeks ago won a @entity60 prize , and colleagues at the @entity63 's @entity62 offers another leap forward for light microscopy			1
+light sheet microscopy involves illuminating the specimen from the side , sweeping a thin pencil of light , termed a @entity34 beam , across the imaging field			1
+the images from that section are recorded , the specimen is moved a tiny fraction and the process repeated			2
+the @entity42 sections can then be integrated into a @entity5 image			0
+the process is fast enough to record dynamic events within the sample			0
+to reduce the time taken to scan a section , @entity47 had the idea of dividing the beam into seven parallel parts			1
+the techniques have improved biologists ' ability to visually track the movements of cells ' tiniest structures – but there were always trade - offs			2
+imaging cells at high resolution in three dimensions usually meant sacrificing imaging speed , as well as subjecting cells to significant light - induced toxicity			1
+' what happens is you end up designing the questions you ask around the tools that are available , ' @entity99 says			0
+infections in the body : t cell expressing a plasmid ( orange ) approaching a target cell expressing a plasma membrane marker fused to @entity111 ( blue ) , as seen from the side ( top ) and from the viewpoint of the @entity116 ( bottom )			0
+' with the lattice light sheet , the @entity118 team can now optimize their imaging technology for the questions that biologists want to answer			1
+the new microscope evolved from one @entity47 unveiled in 2011			1
+to apply a super-resolution structured illumination technique developed at @entity127 by the late @entity128 , @entity47 's team moved the @entity34 beam to produce a lattice - like pattern of light			1
+' with that we not only get rid of the side lobe stuff , we actually push the resolution a bit beyond the diffraction limit , ' he says			0
+to reduce the time required to move the @entity34 beam each time a sample was imaged , the developers split the beam into seven parallel parts , so each traveled just one - seventh of the original distance			2
+suddenly , the cells they were imaging seemed healthier			0
+' what was shocking to us was that by spreading the energy out across seven beams instead of one , the phototoxicity went way down , ' @entity47 says			1
+' what i learned from that experience is that while the total dose of light you put on the cell is important , what 's far more important is the instantaneous power that you put on the cell			2
+' volume renderings at eight consecutive time points of a single specimen of the protozoan @entity164 taken from a 4d data set spanning 1250 time points			2
+the new microscope operates in two modes			0
+one uses the principles of structured illumination to create very high - resolution images			1
+in this case , the final image is created by collecting and processing multiple images of every plane of the sample			2
+imaging can be sped up to capture faster processes , albeit at lower resolution , with an alternative ' dithered ' mode			0
+light exposure , and thus damage to cells , is lower in the dithered mode ; in many cases , tagged proteins are naturally replaced by cells before their signal fades appreciably			0
+' so there are many cells you could look at forever in @entity5 , ' @entity47 says			1
+thirty teams of biologists have come to @entity127 over the past year to find out what the lattice light sheet microscope can reveal about the systems they study			1
+@entity200 , @entity99 , and @entity201 have worked with the researchers to optimize the technology for a variety of experiments			0
+cells in @entity208 ( left ) and anaphase ( right ) , the graph shows the distribution of growth rates at different stages of mitosis , averaged across nine to twelve cells			0
+the microscope is also fast enough to track the rapid growth and retraction of cytoskeletal components in dividing cells , and gentle enough to monitor the molecular dynamics of developmental processes that unfold over many hours			0
+' we know what the microscope can offer in terms of the imaging , but i think there are a lot of applications we have n't even thought of yet , ' @entity99 says			0
+@entity47 wants the lattice light sheet to be widely used , even as technology development continues in his own lab. his team has built a second microscope for @entity127 's @entity236 , where it will be available to visiting scientists free of charge , and deployed two more of the microscopes to labs at @entity242 and the @entity243			1
+in fact , @entity47 's team freely shares its designs , providing detailed instructions to scientists with the expertise to build their own version of the instrument			2
+@entity252 has licensed the @entity34 beam and lattice light sheet microscopy			1
+' it takes a huge amount of effort to move from a successful high - tech prototype to broader adoption of an imaging technology , ' @entity47 says			1
+' ultimately , commercialization is the crucial last step to ensuring that these technologies can have broad impact in the research community			0
+
+called lattice light - sheet microscopy , technique generates @entity272 images and videos
+can capture live organisms at scales ranging from single molecules to early - stage embryos
+developed by @entity47 , who just weeks ago won a @entity60 *chmistry* prize
+
+@entity99:Legant
+@entity116:APC
+@entity252:Zeiss
+@entity111:tagRFP
+@entity272:3-D
+@entity118:Betzig
+@entity236:Advanced Imaging Center
+@entity5:3D
+@entity34:Bessel
+@entity208:prophase
+@entity243:University of California , San Francisco
+@entity242:Harvard
+@entity128:Mats Gustafsson
+@entity127:Janelia
+@entity201:Wang
+@entity200:Chen
+@entity164:T. thermophila
+@entity47:Eric Betzig
+@entity42:2D
+@entity62:Janelia Research Campus
+@entity63:Howard Hughes Medical Institute
+@entity60:Nobel

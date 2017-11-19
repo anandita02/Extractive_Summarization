@@ -1,0 +1,25 @@
+http://web.archive.org/web/20110113171732id_/http://edition.cnn.com:80/2007/BUSINESS/12/21/schultz.profile/
+
+-- @entity1 joined @entity2 in 1982			1
+while on a business trip in @entity4 , he visited @entity6 's famous espresso bars -- impressed with their popularity and culture , he saw their potential in @entity10			0
+from june 2000 to february 2005 , mr @entity1 also held the title of chief global strategist			0
+from the company 's inception in november 1985 to june 2000 , he served as chairman of the board and chief executive officer			2
+from november 1985 to june 1994 , mr @entity1 was also the company 's president			0
+from january 1986 to july 1987 , mr @entity1 was the chairman of the board , chief executive officer and president of @entity21 , a predecessor to @entity2			1
+from september 1982 to december 1985 , mr @entity1 was the director of retail operations and marketing for @entity25 , a predecessor to the company			0
+mr @entity1 also serves on the board of directors of @entity30 e-mail to a friend			1
+
+@entity33 joined the @entity2 company in 1982
+he has held a *number* of positions in the company *including* *ceo* and president
+@entity33 serves on the board of *firectors* of @entity30
+
+@entity2:Starbucks
+@entity1:Schultz
+@entity0:CNN
+@entity6:Milan
+@entity10:Seattle
+@entity25:Starbuck Coffee Company
+@entity33:Schultz
+@entity21:Il Giornale Coffee Company
+@entity4:Italy
+@entity30:DreamWorks Animation

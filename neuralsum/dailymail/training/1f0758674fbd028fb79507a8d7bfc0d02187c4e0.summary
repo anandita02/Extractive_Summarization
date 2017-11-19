@@ -1,0 +1,53 @@
+http://web.archive.org/web/20131220024917id_/http://www.dailymail.co.uk/sciencetech/article-2525806/The-software-tell-youre-hipster-goth-surfer-scanning-Facebook-photos-customise-websites-see.html
+
+by @entity0 @entity1 : 08:51 est , 18 december 2013 @entity2 : 09:22 est , 18 december 2013 your @entity4 posts and the pages you like already give away a lot about you including what music you listen to , or your favourite restaurant			1
+but now researchers are using people ’s @entity4 photos to identify what sub-culture they belong to , from goths and bikers to hipsters and surfers			1
+they have created an algorithm that can identify certain elements associated with each of these groups , such as distinctive tattoos , hats and jewellery , before scanning other photos to find similar people			1
+by scanning photos for elements commonly associated with certain sub-cultures , including bikers , hipsters , goths , and surfers , researchers could categorise @entity4 photos into each of these groups			1
+the results could one day be used by advertisers to customise ads online researchers used a so - called ‘ multi-label classification algorithm ’			1
+the algorithm scans photos that have already been tagged , and looks for identifying features			1
+for example , if a picture is tagged as ‘ dog ’ , it will pick out the shapes and sizes of objects in the image			2
+it will then scan other photos looking for similar features and elements that match , or closely resemble , the original dog			2
+the software assumes that the new image contains similar elements as the original image and tags it with the same label			2
+this is called a ‘ parts and attributes ’ approach			1
+the @entity65 researchers used this model to scan photos of elements most commonly associated with different sub-cultures			1
+it started by scanning the head , neck and arms for tattoos			0
+it then checked for certain haircuts or jewellery , as well as the type of clothing and the colours the subjects wore			0
+these results could then be used by advertisers and websites to customise the type of content these people see , or the products they ’re more likely to buy			1
+to do this , researchers from the @entity65 used a so - called ‘ multi-label classification algorithm ’			1
+it is already used by certain photo editing software , for example , to help tag and categorise images			0
+the algorithm scans photos that have already been tagged , and looks for identifying features from each of these different groups			1
+it started by scanning the head , neck and arms of the sample images for tattoos			0
+it then checked for certain haircuts or jewellery , as well as the type of clothing and the colours the subjects wore , as well as poses			0
+according to the algorithm , hipsters , for example , may wear glasses , have longer hair and beards			2
+photos of @entity122 may predominantly feature the colour black and there may be tattoos or piercings			0
+bikers are either stood near bikes , wearing bandanas or certain types of jackets or are in more urban environments			0
+whereas surfers stand in more relaxed poses , for example , and wear shirts over t - shirts as well as caps			0
+the software uses a ' multi-label classification ' algorithm that is often used in photo - editing programs to help tag and organise images			1
+the green images pictured are those correctly identified as ( from top to bottom ) goths , formal and bikers			2
+the elements in the red images do n't match these respective groups the software begins by scanning the head , neck and arms of the sample images for tattoos			2
+it then checks for certain haircuts or jewellery , as well as the type of clothing and the colours the subjects are wearing , as well as their poses			0
+according to the algorithm , hipsters , for example , may wear glasses , have longer hair and beards			2
+photos of goths may predominantly feature the colour black and there may be tattoos or piercings			2
+bikers are either stood near bikes , wearing bandanas or certain types of jackets , or are in more urban environments			0
+surfers stand in more relaxed poses , for example , and wear shirts over t - shirts as well as caps			0
+they also looked at identifying ‘ formal photos ’ by suits and long dresses , and the way groups of people pose in quite rigid , uniform stances			1
+they also looked at identifying ‘ formal photos ’ by suits and long dresses , and the way groups of people pose in quite rigid , uniform stances			1
+unfortunately , the researchers claim that the algorithm is only accurate in 48 per cent of cases and only correctly identified groups in 9 per cent			0
+this means that it is unlikely to be used by websites any time soon without the software being enhanced			0
+according to members of the @entity209 project : ' image sharing via social networks has produced exciting opportunities for the computer vision community in areas including face , text , product and scene recognition			0
+' people can guess plenty of implicit information from the visual aspect of a group of people , but what can we automatically determine about the social subculture to which these people may belong ? ' we propose a framework that integrates state - of - the art person and face detection and uses low - and mid-level features to capture the visual attributes distinctive to a variety of social groups			0
+
+the software uses what ’s called a ‘ multi-label classification algorithm ’
+it identifies elements in @entity4 photos associated with select sub-cultures
+these sub-cultures included bikers , goths , hipsters and surfers
+the algorithm then scans other photos looking for these elements
+websites and advertisers could use this information to customise what these people see online
+
+@entity2:UPDATED
+@entity1:PUBLISHED
+@entity0:Victoria Woollaston
+@entity4:Facebook
+@entity209:Urban Tribes
+@entity65:University of California
+@entity122:Goths

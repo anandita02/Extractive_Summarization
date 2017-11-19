@@ -1,0 +1,16 @@
+http://web.archive.org/web/20131117132947id_/http://edition.cnn.com:80/2013/11/13/world/meast/israel-soldier-stabbing
+
+@entity0 -- a @entity5 man stabbed an @entity3 soldier wednesday , killing him , the @entity3 military said			2
+the attack occurred at the central bus station in @entity9			1
+the soldier was wearing his uniform and was headed to an army base when he was stabbed with a knife , the military said			0
+he was taken to a hospital where he later died			1
+authorities detained the attacker , but did not release additional details .			0
+
+the attack occurred at the central bus station in @entity9
+the soldier was *severely* *injured* and taken to the hospital , where he died
+
+@entity3:Israeli
+@entity1:CNN
+@entity0:Jerusalem
+@entity9:Afula
+@entity5:Palestinian

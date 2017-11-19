@@ -1,0 +1,41 @@
+http://web.archive.org/web/20130317153601id_/http://www.cnn.com/2011/TECH/social.media/01/26/facebook.security/index.html
+
+-- @entity1 is adding new security features , which come after a pair of high - profile cracks in the site 's defenses that surfaced this week			1
+one new mechanism is called " social authentication			0
+" to combat spam and prevent strangers from weaseling into your account , the system will sometimes show the user a friend 's headshot and ask to match a name to that face			0
+this multiple - choice photo quiz is a new take on a common web system called @entity22			2
+the older method displays a picture of some squiggly letters and asks you to type those on the keyboard			0
+it 's used for verifying that a site 's user is a person and not a computer program looking to exploit systems			0
+@entity1 reduced spam from partners ' applications by 95 % last year , @entity34 , the company 's technology chief , said at a conference this week			1
+the social networking giant currently employs captcha technology , but this new method could supplant that			1
+adding this human touch could not only combat robot intruders but also weirdos who try to thumb through your account after you forget to log out of the library computer			0
+" the vast majority of people who have used @entity1 have never experienced a security problem , " @entity52 , a @entity1 security engineer , wrote on the company blog			1
+" however , if we detect suspicious activity on your account , like if you logged in from @entity61 in the morning and then from @entity62 a few hours later , we may ask you to verify your identity so we can be sure your account has n't been compromised			0
+" @entity1 also started rolling out the option to securely browse the social networking site using a secure connection			1
+like the technology used by banking and some e-mail services like @entity71 and @entity72 , this defense encrypts all information to and from @entity1 so that it 's much harder for someone to eavesdrop on the @entity77 line			0
+" with a little motivation and not much skill , it 's fairly trivial to sniff @entity84 traffic , " @entity78 , the lead security analyst for @entity80 it , told @entity0 in november			0
+" maybe i want to see all web traffic for @entity1 because i want to see what the interesting person across the cafe is updating on @entity1			1
+" soon , @entity1 account holders concerned about hackers can turn on the " secure browsing " option in their settings panel			1
+two @entity1 users in particular should be advised to opt in to the feature			2
+@entity96 , the company 's ceo , and @entity100 president @entity99 were both victims of intruders on their @entity1 pages this week .			2
+
+@entity1 adds a security feature that asks you to identify friends in pictures
+the social networking site is also adding the option of secure web browsing
+these *additions* come after a pair of high - profile hacks on the site this week
+
+@entity22:Captcha
+@entity80:Intel
+@entity1:Facebook
+@entity0:CNN
+@entity34:Bret Taylor
+@entity62:Australia
+@entity100:French
+@entity52:Alex Rice
+@entity84:HTTP
+@entity78:Alan Ross
+@entity99:Nicolas Sarkozy
+@entity96:Mark Zuckerberg
+@entity77:Wi-Fi
+@entity61:California
+@entity71:Gmail
+@entity72:Hotmail

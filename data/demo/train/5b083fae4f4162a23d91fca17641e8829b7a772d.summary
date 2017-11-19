@@ -1,0 +1,24 @@
+http://web.archive.org/web/20150630040140id_/http://www.cnn.com/2014/08/09/us/jetblue-san-juan-engine-fire/
+
+a @entity1 flight departing from @entity2 in @entity3 , @entity4 , was evacuated saturday evening after one of its engines caught fire , according to a @entity10 statement			0
+" passengers and crew used emergency slides to evacuate the aircraft , " the statement read			1
+@entity1 spokesperson @entity15 told @entity16 there were no known injuries among the 186 passengers and six crew members on board			2
+@entity22 was headed to @entity23 in @entity24			1
+according to @entity15 , the plane was taxing on the runway for takeoff when problems developed 7:15 p.m. et. @entity15 could not elaborate on the nature of the mechanical issue			0
+the @entity10 said it will investigate the incident .			0
+
+emergency slides were *deployed*
+@entity35 was headed to @entity23 in @entity24
+no injuries *reported*
+
+@entity3:San Juan
+@entity2:Luis Munoz Marin International Airport
+@entity1:JetBlue
+@entity35:JetBlue Flight 704
+@entity24:New York
+@entity10:FAA
+@entity4:Puerto Rico
+@entity23:JFK
+@entity15:Recine
+@entity22:JetBlue Airways Flight 704
+@entity16:CNN

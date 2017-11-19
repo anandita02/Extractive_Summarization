@@ -1,0 +1,31 @@
+http://web.archive.org/web/20140817173946id_/http://www.dailymail.co.uk/sciencetech/article-2518217/Hackers-steal-personal-data-computers-using-SOUNDWAVES--secure-PCs-risk.html
+
+in the future , computer hackers could steal sensitive data from people ’s computers using nothing but soundwaves , experts have warned			2
+@entity9 computer scientists have proved the idea is possible by developing a new type of malware that can travel between machines using sound waves that are inaudible to unsuspecting humans			1
+using built - in microphones and speakers in laptops , the researchers managed to transmit passwords and small amounts of data between machines 65ft away from each other			2
+computer hackers could steal sensitive data from people 's computers using nothing but soundwaves ( illustrated ) , experts have warned			0
+computer scientists used built - in microphones and speakers in machines to pass passwords between machines 65ft away from each other the terrifying feat was achieved by computer scientists at the @entity37 , @entity38 and @entity39 in @entity9 , the @entity34 reported			1
+the researchers warned : ‘ acoustical networking as a covert communication technology is a considerable threat to computer security			0
+’ the finding is of huge concern to computer security firms that currently isolate important machines which have no internet connection , using ‘ air gaps ’ to protect them			1
+until now it has been thought that these computers would be safe from hackers but the new research , published in the @entity56 , casts doubt on this idea			0
+the researchers wrote : ' in our article , we describe how the complete concept of air gaps can be considered obsolete as commonly available laptops can communicate over their internal speakers and microphones and even form a covert acoustical mesh network			1
+’ the computer scientists started investigating the idea of hacking computers using sound by imagining how tech savvy criminals might gain access to the most secure of machines			1
+the researchers chose to used high pitched sounds , inaudible to humans , and harnessed the microphone and speakers in a @entity81 computer to transmit keystrokes from one machine to another			1
+the technique could be used to pass small data files , and passwords between machines , they said they noted that in the past hackers have used ‘ parts of the operating system that were not considered for communication ’ to gain access to sensitive data '			0
+consequently they came up with a hack using sound to steal data from ‘ air gap ’ protected machines and suggested that noise could be used to pass data between target computers and the ‘ hacker ’ machine			2
+the researchers chose to use sounds that are too high pitched for humans to hear and harnessed the microphone and speakers in a @entity81 computer to transmit keystrokes from one computer to another			2
+the technique could also be used to pass small data files passwords and encryption keys between machines , they said			0
+while in the experiment , they only managed a data rate of 20 bits per second , the slow rate is still enough to transmit passwords and could no doubt be improved upon in time			0
+the experiment passed data between computers positioned 65ft apart but the scientists believe the range could be expanded using ‘ mesh networks ’ to transmit sound over long distances , enabling hackers to attack from afar .			0
+
+@entity9 computer scientists transmitted passwords between two machines using soundwaves that are inaudible to humans
+researchers at the @entity37 , @entity38 and *ergonomics* in @entity9 *tapped* into laptop speakers
+the experiment is set to *change* the way important computers are secured , which are currently protected by ' air gaps '
+
+@entity34:Huffington Post
+@entity37:Fraunhofer Institute for Communication
+@entity39:Ergonomics
+@entity38:Information Processing
+@entity9:Germany
+@entity81:Lenovo T400
+@entity56:Journal of Communications

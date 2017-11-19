@@ -1,0 +1,65 @@
+http://web.archive.org/web/20130813125405id_/http://www.cnn.com:80/2012/03/20/tech/mobile/lost-smartphones-security
+
+-- do you use a passcode to protect access to your smartphone ? and if so , do you do that consistently ? every day , many smartphones get lost -- and found , not always by their owners			1
+what happens with those missing devices ? security software provider @entity10 recently conducted a test to answer that question			2
+it deliberately " lost " 50 @entity14 phones in @entity15 , @entity16 , @entity17 , @entity18 and @entity19			1
+these phones were loaded with identical apps , files and data -- and none of them was secured by a passcode or swipe unlock pattern			2
+@entity10 found that in the vast majority of cases -- more than 95 % -- the people who found these missing cell phones tried to access personal or sensitive information , or services such as online banking or e-mail			1
+being honest does n't mean people wo n't snoop either			0
+even though about half of the finders made some attempt to return the lost phone ( a contact e-mail and phone number for the " owner " was listed in the contacts app on each decoy phone ) , the vast majority of these people also tried to access data on the phone			1
+" we did get some nice e-mails from people who said they found the phone , sometimes expressing remorse for using it for a while , " said @entity50 , @entity10 's director of security response			2
+" and some of them actually tried to arrange to return the phones			0
+we were n't trying to research people 's motives and guilt -- that would be a project for a sociologist			0
+but we did learn a lot about the kind of stuff people try to do with phones they find			0
+" on 72 % of the lost phones , finders looked through stored photos			1
+attempts were made on 60 % of the phones to access social media			1
+more than 40 % of finders tried to access corporate e-mail and online banking			1
+@entity10 also placed text files containing a list of passwords for services on the phone ( 57 % of finders accessed those ) and a fake list of employee salaries ( accessed by 53 % of finders )			1
+dubbed " @entity94 " ( the name is an homage to the " honeypot " lure of attractive data or access often employed by cybersecurity practitioners ) , @entity50 emphasized this project was not trying to trap people who breached the privacy of others			0
+@entity10 configured the fake apps to appear to have a stored user name and password , so all the finder would have to do was hit " login			0
+" two - thirds of phone finders tried to do this			2
+when they got an error indicating that there was a technical problem accessing the service online , " many people then would look at the ' passwords ' file planted on the phone and then would try again , " @entity50 said			1
+obviously , @entity10 has a stake in this problem			0
+the company wants to sell mobile security software ( which it offers for businesses and also for consumers under the @entity122 brand )			2
+and software from this and other vendors ( such as @entity126 and @entity127 ) can help users track the location of a lost phone and remotely lock it or wipe the data			2
+@entity50 noted that @entity10 software was not installed on the decoy phones , and it was not used to track snooping and access activities by finders of the lost phones			1
+but even if you decide not to buy and install mobile security software , there are some basic steps you can take in advance to protect your phone			1
+first , set a passcode or swipe pattern to lock your smartphone and keep it on there			0
+it 's tempting to disable the passcode if you 're at your home or office , where you might be alone or only around people you trust -- but it 's too easy to forget to re-enable the passcode when you 're heading out the door			0
+also , you could avoid storing passwords in your mobile apps			1
+but that makes it tempting to use the same password for several services -- a significant security risk not just for your phone but online in general			1
+you might try a password management service such as @entity164 or @entity165 -- just be aware that these services can get hacked			0
+if you do n't take these precautions and end up losing your phone , it 's a good idea to find a computer quickly and log on to your e-mail , online banking and other services that you access from your phone and change your passwords			1
+whoever has your phone could change your passwords and hijack your accounts			2
+if you ca n't find your phone , you might want to notify your carrier that it 's been lost , to shut down the service until you can get another phone			1
+people who find or acquire your phone may use it to make a lot of international phone calls , running up your bill			0
+this happened to a friend of mine -- when she reported her lost smartphone , @entity183 found that over two days it had been used to place dozens of lengthy calls to @entity189			0
+( fortunately it waived the bill ; she did n't have to pay for those calls			0
+) losing your phone is n't the only risk to the data it contains			0
+some police departments are warning citizens that smartphone thefts are a growing trend			0
+often muggers or snatch - and - run phone thieves just try to sell stolen phones for cash -- but the people who buy them may try to access your data or services			2
+the opinions expressed in this post are solely those of @entity208 .			0
+
+in an *experiment* , a security firm deliberately " lost " 50 @entity14 phones in certain cities
+more than 40 % of finders of the phones tried to access corporate e-mail , online banking
+avoid storing passwords in your mobile apps to protect your accounts from being hijacked
+notify your carrier if you *'ve* lost your cell phone so it can shut off the service
+
+@entity17:Washington
+@entity16:San Francisco
+@entity15:Los Angeles
+@entity14:Android
+@entity164:1Password
+@entity10:Symantec
+@entity183:AT&T
+@entity0:CNN
+@entity19:Ottawa
+@entity18:New York
+@entity50:Haley
+@entity165:KeePass
+@entity126:Lookout Mobile Security
+@entity127:McAfee
+@entity94:Project Honeystick
+@entity122:Norton
+@entity208:Amy Gahran
+@entity189:Yemen

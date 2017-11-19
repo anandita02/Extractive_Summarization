@@ -1,0 +1,89 @@
+http://web.archive.org/web/20130703203319id_/http://www.cnn.com:80/2012/08/19/opinion/raskar-camera-corners
+
+-- a camera that can see around a corner ? i know this sounds like something in a sci - fi movie or a superhero comic , but this is a real - world technology we 've made possible with a camera that is aware of the travel time of light , an imaging technique that can create movies of light in motion with an effective rate approaching a trillion frames per second : the speed of light			1
+before i joined the @entity21 faculty in 2008 , i had done deep research in " computational photography , " a field of new imaging techniques dramatically improving the capture and synthesis of photos			2
+but , i knew there was more to photography than just depicting what the eye can see			2
+i wanted to create a camera that could see beyond the line of sight			2
+the speed of light is n't infinite : light travels about a foot per billionth of a second			2
+if i could build a camera fast enough to analyze light at high speeds in room - sized environments , i knew we could then create cameras to solve major problems in scientific and consumer imaging , and enable completely new functionality			1
+i spoke to top researchers in ultrafast lasers and photonics to understand what was currently possible			0
+when i did , most of them asked some version of : " why ? why spend years building a camera to look around corners when no commercial application is screaming for it and no funding agency has a call for it ? " in addition , it 's rare to shoot light pulses and analyze at such high speeds in large environments			1
+ultra-fast imaging experiments are usually limited to centimeter - or smaller - size samples			0
+i continued the work and in the spring of 2008 , with @entity71 from @entity72 , wrote a proposal that laid out the mathematical foundation and various experimental solutions for exploration			0
+@entity77 : @entity78 ' levitates ' a superconductor i also began working with @entity81 graduate student @entity80 to build a prototype , hoping that we would have something to demonstrate within a few months			1
+the grant proposal was rejected for administrative reasons ( i made a paperwork error ! ) , which meant we had to wait nearly a year to apply again			0
+but those two years did n't yield any meaningful results , as our lab components were n't designed to be used the way we wanted			2
+after nearly three years of experimental work , the team -- especially postdoctoral associate @entity93 and @entity21 professor @entity94 , many students , and several collaborators -- cobbled together pieces of the puzzle and built a software program to create a first demonstration of looking around corners			1
+very soon afterward , we could also start creating surreal movies of light in motion			1
+we call this new imaging technology femto photography because we capture a segment of the image with a flashlight ( in this case , a laser pulse ) on for a few millionths of a billionth of a second ( or a few femtoseconds ) and an exposure time approaching a trillionth of a second			1
+just how fast is femto photography ? think of it this way : if we took one - thousandth of a second of footage from the femto camera video output and slowed it down to the speed of 30 seconds per frame -- the approximate speed of a standard tv broadcast -- it would take us a lifetime to watch			1
+photographers know that at very short exposures and even at the most sensitive setting for dark scenes , we will record barely any light			2
+so what about in a trillionth of a second ? we actually record and average millions of photos to get enough light , each photo made to look the same via carefully timed synchronization with the light pulse			2
+so even if our exposure time is indeed nearly a trillionth of a second , to get sufficient light we must take an average			0
+thus , as of now , we can only record repeatable events , but this is not a fundamental limitation			0
+@entity77 : a robot that flies like a bird unlike conventional cameras , our femto camera captures an image as one thin slice at a time of one - dimensional space using a " streak tube , " a laboratory instrument that is commonly used by chemists to study light passing through chemical samples			1
+we then take hundreds of these narrow videos ( each shot at a slightly different angle ) and create a carefully synchronized , slow - motion composite of the light pulses			1
+it takes about an hour to collect and aggregate the data ( view a demonstration of a light pulse as it travels through an ordinary @entity172 bottle )			0
+to see around the corner , we use femto photography to analyze scattered light			1
+we bounce light off of visible parts into hidden parts and then measure the time and direction of returned light			0
+usually the scattering of energy is considered a nuisance -- whether driving in fog or poor reception from a cell phone tower -- and most techniques either try to avoid it ( by turning on fog lights ) or reduce the impact of scattering ( by selecting energy for the phone only from direct paths )			0
+in contrast , we exploit the scattering			0
+for the camera , a laser pulse is fired at a wall , and the impact of hitting the wall causes the particles of light to scatter			1
+some of the scattering particles return to the camera at different times			0
+this is repeated about 60 times per image as the camera measures how long it takes for the light to travel back and where the particles land			1
+an algorithm then crunches the data to reconstruct the hidden image			0
+this technique even allows us to see a three - dimensional object such as a mock - up of running person			0
+@entity77 : test for @entity221 's with a phone call as exciting as this work is , do n't look for this technology to be in practice tomorrow -- we 're still years away from bringing this to market			1
+but , we can already imagine multiple ways that it could have a significant , positive impact on our everyday lives			0
+by allowing us to " see " around a corner , for example , this technology added to our cars could let us know if there 's another vehicle approaching around a blind curve			1
+it also could give us a new way to look deep inside our bodies without x-rays , or to look through a window into a burning building from a distance to see if anyone is left inside -- without risking a firefighter 's life			0
+when i gave a @entity251 talk on femto photography in june , i began with a reference to @entity254 , a very popular @entity21 professor of electrical engineering who , in 1964 , wowed the world with an image of a bullet in midair , having just passed through an apple			1
+he accomplished this by using a strobe light to freeze the action of the bullet at a millionth of a second			0
+what we 're talking about here -- the speed of light -- is a million times faster , and is opening the door to a complete rethinking of what we mean by , and can do with , photography			2
+it is a first step toward a new world of imaging that far exceeds human ability , resynthesizing data and depicting it in ways that are within human comprehensibility			0
+the opinions expressed in this commentary are solely those of the author , @entity283 , who would like to thank his collaborators : @entity285 , @entity286 , @entity21 @entity287 ; @entity93 and @entity288 , postdoctoral associates , @entity81 ; @entity290 , @entity291 , @entity292 , @entity293 , @entity294 , @entity81 ; @entity295 , @entity296 , @entity297 ; @entity298 , @entity299 , and @entity300 , @entity301 ; @entity302 , @entity303 , @entity304 ; @entity305 , @entity306			1
+; @entity307 , @entity308 .			0
+
+@entity283 's team at the @entity81 is *re-imagining* what photography can do
+by creating movies of light in motion at a trillion frames per second , camera can see around corner
+@entity283 : technology is years away from applications in the real world
+he says it could be *helpful* in *preventing* car crashes and aiding *rescues*
+
+@entity21:MIT
+@entity80:Matthew Hirsch
+@entity251:TEDGlobal
+@entity254:Doc Edgerton
+@entity0:CNN
+@entity298:Diego Gutierrez
+@entity78:Boaz Almog
+@entity294:Di Wu
+@entity295:Matt O'toole
+@entity296:Kyros Kutulakos
+@entity297:University of Toronto
+@entity290:Everett Lawson
+@entity291:Otkrist Gupta
+@entity292:Nikhil Naik
+@entity72:UC Santa Cruz
+@entity221:Parkinson
+@entity172:Coca-Cola
+@entity94:Moungi Bawendi
+@entity93:Andreas Velten
+@entity77:TED.com
+@entity302:Kavita Bala
+@entity303:Shuang Zhao
+@entity300:Elisa Amoros
+@entity301:Universidad de Zaragoza
+@entity306:Rice University
+@entity307:Thomas Willwacher
+@entity304:Cornell University
+@entity81:MIT Media Lab
+@entity71:James Davis
+@entity308:Harvard University
+@entity305:Ashok Veeraraghavan
+@entity283:Raskar
+@entity287:Department of Chemistry
+@entity286:Professor
+@entity285:Moungi G. Bawendi
+@entity293:Amy Fritz
+@entity299:Belen Masia
+@entity288:Christopher Barsi

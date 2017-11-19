@@ -1,0 +1,51 @@
+http://web.archive.org/web/20140612131558id_/http://www.dailymail.co.uk/sciencetech/article-2649548/Forget-passwords-future-security-SQUIGGLY-LINES-Free-form-gestures-replace-PIN-grid-effective-lock.html
+
+by @entity0 following a number of high - profile security breaches , experts are once again predicting the demise of traditional passwords , but what is the alternative ? researchers from @entity9 believe they 've come up with a solution that adds a new , more secure spin to the grid - based patterns currently used on iphones and @entity16 devices			1
+it is the first free - form gesture password system that lets someone access a tablet , phone or computer simply by mimicking their previous motion on screen			1
+with the ability to create any shape in any size and location on the screen , the gestures had an inherent appeal as passwords and were harder to copy by hackers as more people use smart phones or tablets to pay bills , make purchases , store personal information and even control access to their houses , the need for robust password security has become more critical than ever			2
+it may not have all the bells and whistles , or the expense , of @entity55 ’s fingerprint scanner , but @entity56 does offer an alternative way to unlock an @entity16 phone - and it involves using your face			2
+the @entity62 feature was originally introduced in 2011 as part of @entity16 4.0 , also known as @entity64 , but despite this , it is still a relatively unknown tool			0
+it can recognise a person ’s face , and recent updates mean it can even establish whether or not the face being shown to the camera is real , or is a photograph			0
+once a photograph is taken it is stored in an encrypted file and each time a person wants to unlock their phone with their face , the @entity16 system will cross-reference the image with this original photograph			2
+the study by @entity88 in @entity9 shows that free - form gestures - sweeping fingers in shapes across the screen of a smart phone or tablet - can be used to unlock phones and grant access to apps			1
+these gestures are less likely than traditional typed passwords or newer ' connect - the - dots ' grid exercises to be observed and reproduced by ' shoulder surfers ' who spy on users to gain unauthorized access			1
+' all it takes to steal a password is a quick eye , ' said @entity109 , one of the leaders of the project and an assistant professor in the @entity115 's @entity114 at @entity116			0
+' with all the personal and transactional information we have on our phones today , improved mobile security is becoming increasingly critical			0
+' @entity109 believes this is the first study to explore free - form gestures as passwords			1
+the researchers will publish their findings this month as part of the proceedings of @entity128 2014 - an international conference in mobile computing			0
+in developing a secure solution to this problem , @entity109 and the other researchers from @entity116 and collaborators from @entity133 and @entity134 studied the practicality of using free - form gestures for access authentication			1
+with the ability to create any shape in any size and location on the screen , the gestures had an inherent appeal as passwords			0
+since users create them without following a template , the researchers predicted these gestures would allow for greater complexity than grid - based gestures offer			2
+most passwords today are in the form of text or a pin ( stock image shown ) , but future authentication for machines may be more possible with free - form gestures			1
+some modern devices like @entity16 smartphones already employ a grid - based password system , while @entity166 's @entity165 has a ' picture password ' method ' you can create any shape , using any number of fingers , and in any size or location on the screen , ' @entity109 said			1
+' we saw that this security protection option was clearly missing in the scientific literature and also in practice , so we decided to test its potential			0
+' to do so , the researchers applied a generate - test - retest paradigm where 63 participants were asked to create a gesture , recall it , and recall it again 10 days later			0
+the gestures were captured on a system designed by the team			0
+using this data , the authors tested the memorability of free - form gestures and invented a novel method to measure the complexity and accuracy of each gesture using information theory			1
+to put this analysis into practice , the @entity116 researchers then had seven computer science and engineering students , each with considerable experience with touchscreens , attempt to steal a free - form gesture password by shoulder surfing			1
+none of the participants were able to replicate the gestures with enough accuracy , so while testing is in its preliminary stages , the gestures appear extremely powerful against attacks			0
+while widespread adaptation of this technology is not yet clear , the research team plans to continue to analyse the security and management of free - form passwords in the future .			2
+
+scientists in @entity9 have devised a new free - form password system
+they claim free - form gestures can be used to unlock phones and tablets
+this could replace the grid system , or the standard text and pin
+researchers claims this is the most secure method to protect from ' shoulder surfers ' - people who could see and copy the password
+in tests they discovered free - form gestures were also difficult to hack
+
+@entity16:Android
+@entity0:Jonathan O'Callaghan
+@entity166:Microsoft
+@entity55:Apple
+@entity165:Windows 8
+@entity9:New Jersey
+@entity116:Rutgers
+@entity115:School of Engineering
+@entity114:Department of Electrical and Computer Engineering
+@entity56:Google
+@entity128:MobiSys
+@entity109:Lindqvist
+@entity88:Rugers University
+@entity134:University of Helsinki
+@entity64:Ice Cream Sandwich
+@entity62:Face Unlock
+@entity133:Max-Planck Institute for Informatics

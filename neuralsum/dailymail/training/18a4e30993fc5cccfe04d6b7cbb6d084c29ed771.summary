@@ -1,0 +1,48 @@
+http://web.archive.org/web/20150713195852id_/http://www.dailymail.co.uk/sciencetech/article-2910857/Is-Android-phone-risk-Google-refuses-fix-bug-affecting-BILLION-handsets.html
+
+a major security flaw has been found in @entity1 , @entity2 's phone software			1
+the bug could allow hackers to gain control of a device if the user is running an old version of the software			0
+however , the search giant has come under fire for saying it will not address the issue - which experts say could leave up almost a billion users vulnerable			2
+@entity1 4.4 and 5.0 , are unaffected by the latest flaw			1
+however , around 60 percent of @entity1 users are using 4.3 or below , and are at risk			1
+users of the latest @entity1 handsets or those who have update to @entity1 4.4 and 5.0 , are unaffected			1
+however , around 60 percent of @entity1 users are using 4.3 or below , and are at risk			1
+these users are advised to update their software if they can			2
+the flaw is in @entity25 , a component used to render web pages on an @entity1 device inside an app that 's not necessarily an internet browser , which affects all @entity1 versions before @entity1 4.4 @entity32			1
+@entity1 4.4 and 5.0 , are unaffected			1
+however , around 60 percent of @entity1 users are using 4.3 or below , and are at risk ' if the affected version [ of @entity36 ] is before 4.4 , we generally do not develop the patches ourselves , but welcome patches with the report for consideration , ' said @entity2			1
+' other than notifying oems , we will not be able to take action on any report that is affecting versions before 4.4 that are not accompanied with a patch			0
+' @entity48 's @entity47 discovered the security bug , and @entity2 's response , which he described as ' some eyebrow - raising news			2
+' webview is used in about 930 million @entity1 devices , @entity47 said			0
+' unfortunately , this is great news for criminals for the simple reason that , for real bad guys , pretty much everything is in scop , ' he said			0
+he called for @entity2 to take action			0
+' as a software developer , i know that supporting old versions of my software is a huge hassle			0
+' i empathize with their decision to cut legacy software loose			0
+' however , a billion people do n't rely on old versions of my software to manage and safeguard the most personal details of their lives			0
+experts have called for @entity2 to take action and fix the issue , even though it only affects users of an old version of @entity1			1
+' in that light , i 'm hoping @entity2 reconsiders if ( when ) the next privacy - busting vulnerability becomes public knowledge			2
+' @entity47 told @entity81 that he learned of the policy change last october and suspects it coincided with the release of @entity85 , the klatest version of @entity2 's @entity1 software			1
+. ' it 's important to consider that there is no published end - of - life or end - of - support policy from @entity2 with regard to any version of @entity1			1
+the latest @entity1 distribution figures from @entity2 indicates that 46 per cent of @entity1 devices still run on @entity95 , another 39.1 per cent use @entity32			2
+@entity95 runs on about 7.8 per cent of handsets , @entity97 , 6.7 per cent and @entity1 about 0.4 per cent			0
+' @entity2 may decide to drop support for @entity32 tomorrow , though doing so would be suicidal			0
+' of course , i would expect that dropping support for 60 % of your install base would also be suicidal , yet here we are , ' he said			0
+the latest @entity1 distribution figures from @entity2 indicates that 46 per cent of @entity1 devices still run on @entity95 , another 39.1 per cent use @entity32			2
+@entity95 runs on about 7.8 per cent of handsets , @entity97 , 6.7 per cent and @entity1 about 0.4 per cent .			0
+
+the flaw is in @entity25 , a component used to show web pages in apps
+*android* 4.4 and 5.0 users are unaffected - but 60 percent of @entity1 users are using 4.3 or below , and are at risk
+@entity2 says it does not issue updates to earlier versions of its software
+users advised to update their @entity1 *aoftware*
+
+@entity2:Google
+@entity1:Android
+@entity32:KitKat
+@entity25:WebView
+@entity36:WebView
+@entity81:ZDNet
+@entity47:Beardsley
+@entity85:Android 5.0 Lollipop
+@entity97:Ice Cream Sandwich
+@entity95:Gingerbread
+@entity48:Rapid7

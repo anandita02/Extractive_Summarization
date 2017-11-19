@@ -1,0 +1,51 @@
+http://web.archive.org/web/20140817222746id_/http://edition.cnn.com:80/2010/TECH/05/24/cnet.google.encrypted/?hpt=Sbin
+
+-- @entity1 began offering an encrypted option for web searchers on friday and said it planned to roll it out for all of its services eventually			1
+people who want to use the more secure search option can type " https://www.google.com " into their browser , scrambling the connection so the words and phrases they search on , and the results that @entity1 displays , will be protected from interception			1
+the beta service of the secure web search option begins in the @entity18 on friday and will be rolled out over the next few days to users around the world , said @entity21 , a @entity1 search product manager			1
+friday 's announcement makes @entity1 the first major search engine to offer this privacy - protective feature			2
+@entity26 , @entity27 , and @entity28 currently do not			0
+" some users will want the extra privacy and security this feature will offer , " @entity21 said in an interview with @entity0			0
+" but it 's not going to be the default option , at this point			0
+there 's a lot of work to be done before we get there			0
+" the encryption protects only data in transit between an individual 's browser and the @entity1 search server			2
+when people click on a search result and are directed to another web site , they leave the encrypted channel			2
+offering encrypted connections to @entity54 means that users in @entity56 and other regimes that engage in significant surveillance will -- assuming the connection is not blocked in the first place -- be able to conduct searches without governments knowing the search terms			1
+the protected web search service will feature a customized logo that includes an icon of a lock and " ssl " which stands for @entity70 , the technology used to encrypt the information as it travels between an individual 's computer and the @entity1 search server			1
+the @entity70 technology is typically used on banking and e-commerce web sites			0
+@entity1 has always offered @entity81 users the ability to use @entity83 ( @entity83 ) , which uses @entity70 , in the browser			2
+the company enabled @entity81 users to set it as a persistent preference in mid- 2008 and offered it as an option for @entity89 , as well			0
+it became the default for @entity81 in january			0
+people who choose the secure option on @entity1 will only be able to get encryption for web searches and not for other types of searches , such as @entity98 and @entity99 , at least for now			1
+as a result , links for those searches will not appear on the side or top of the search page when someone is in the secure search mode			0
+the secure web search option will slow down the initial connection a computer makes to the @entity1 server , but it may be hardly noticeable to most people			1
+it also means @entity1 will have to use more processor power to handle the scrambling and unscrambling of the @entity70 connection , which is the biggest reason most web sites do n't offer it as an option			2
+the service does not protect data stored on an end user 's computer or at the @entity1 server , and if someone has malware or a keylogger on the computer , web search data and other information could be stolen or leaked			1
+@entity1 announced last week that it would offer encryption for web search soon , in the wake of the news that vehicles for capturing @entity136 images had mistakenly been collecting data from unsecured @entity139 networks for years			1
+but @entity21 said the timing of the encryption announcement was completely unrelated and that @entity1 had been working on the web search encryption offering for a few months			1
+© 2010 @entity144 all rights reserved			0
+@entity0 , @entity0 and the @entity0 logo are registered trademarks of @entity144 used by permission .			0
+
+@entity1 began offering an encrypted option for web searchers on friday
+" @entity155 " scrambles the words and phrases you search on
+secure web search option will slow down the initial connection
+
+@entity144:CBS Interactive Inc.
+@entity1:Google
+@entity21:Viswanathan
+@entity26:AOL
+@entity27:Yahoo
+@entity28:Microsoft
+@entity54:Google.com
+@entity18:United States
+@entity81:Gmail
+@entity0:CNET
+@entity139:Wi-Fi
+@entity56:China
+@entity99:Maps
+@entity98:Image Search
+@entity89:Google Docs
+@entity136:Google Maps Street View
+@entity83:Hypertext Transfer Protocol Secure
+@entity70:SSL
+@entity155:Https://www.google.com

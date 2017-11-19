@@ -1,0 +1,39 @@
+http://web.archive.org/web/20141104153231id_/http://www.dailymail.co.uk/sciencetech/article-2230521/The-astonishing-video-shows-Microsoft-plans-instant-translation--voice.html
+
+a breakthrough in translation technology could one day enable you to converse in @entity3 without ever actually learning the language			1
+the new technology uses deep neural networks to take the accuracy and speed of language translation far beyond what was previously thought possible			1
+a video posted on @entity12 yesterday shows @entity13 , head of @entity14 , explaining improvements made to machine understanding of @entity18 words , with his talk automatically transcribed as he speaks			1
+machine translation : @entity13 , the head of @entity14 , showcases the software giant 's instantaneous translation software at @entity24 's 21st @entity23 in @entity25 but it is when he activates audio translation that the technology becomes really impressive , as it speaks to his audience in @entity30 - using mr @entity13 's own voice			1
+mr @entity13 presented the amazing new technology in @entity33 , @entity25 , at @entity24 's @entity35 event last month			2
+although research into computer speech recognition has been underway for the past 60 years , until recently even the best systems had word error rates of between 20 and 25 per cent			2
+however , working in collaboration with the @entity42 , researchers had @entity14 two years ago made a breakthrough			1
+using a technique called @entity45 , in which machines learning is patterned after human brain behaviour , researchers were able to train their software to understand speech better than ever ' during my october 25 presentation in @entity25 , i had the opportunity to showcase the latest results of this work , ' mr @entity13 said in a @entity56 blog post			0
+' we have been able to reduce the word error rate for speech by over 30 per cent compared to previous methods			2
+this means that rather than having one word in 4 or 5 incorrect , now the error rate is one word in 7 or 8			0
+' he added that this was the biggest breakthrough in the accuracy of computer speech recognition in more than 30 years			1
+amazing : the technology uses a technique called @entity45 , in which machines learning is patterned after human brain behaviour , to make more accurate translations than have been possible before mr @entity13 explained that the new technology works via a two step process			0
+first the software recognises the @entity18 words he is saying and finds the equivalent in @entity3 , which he says is the ' easy part '			0
+then it gets to grips with the rather more difficult task of reordering the words to fit the syntax of @entity30 , without which the translation would be a incomprehensible string of seemingly random words			0
+' most significantly , ' mr @entity13 added , ' we have attained an important goal by enabling an @entity18 speaker like me to present in @entity3 in his or her own voice , which is what i demonstrated in @entity25			0
+' it required a text to speech system that @entity14 researchers built using a few hours speech of a native @entity3 speaker and properties of my own voice taken from about one hour of pre-recorded ( @entity18 ) data			1
+' ' though it was a limited test , the effect was dramatic , and the audience came alive in response			0
+' when i spoke in @entity18 , the system automatically combined all the underlying technologies to deliver a robust speech to speech experience — my voice speaking @entity3			0
+
+use of deep neural networks allows better translation than ever before
+it takes data about the user 's voice to *recreate* it in another language
+@entity14 claims biggest machine translation breakthrough in 30 years
+
+@entity3:Chinese
+@entity23:Century Computing
+@entity33:Tianjin
+@entity14:Microsoft
+@entity13:Rashid
+@entity12:YouTube
+@entity24:Microsoft Research Asia
+@entity25:China
+@entity18:English
+@entity45:Deep Neural Networks
+@entity56:Microsoft TechNet
+@entity42:University of Toronto
+@entity35:21st Century Computing
+@entity30:Mandarin Chinese

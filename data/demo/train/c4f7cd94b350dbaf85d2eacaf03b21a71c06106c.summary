@@ -1,0 +1,57 @@
+http://web.archive.org/web/20150628172713id_/http://www.cnn.com/2010/TECH/mobile/07/02/apple.iphone.apology/
+
+-- after initially dismissing the reports about the iphone 4 antenna reception issue , @entity1 has officially admitted it exists , promising a software fix in a couple of weeks			1
+there 's a catch , though			0
+@entity1 's promised fix may not be good news for users experiencing the problem			1
+@entity1 claims it has erroneously calculated the formula which displays signal bars on the @entity14 , and therefore the @entity14 has been showing too many bars in areas with weak signal strength			1
+here 's how @entity1 explains it : " users observing a drop of several bars when they grip their iphone in a certain way are most likely in an area with very weak signal strength , but they do n't know it because we are erroneously displaying 4 or 5 bars			1
+their big drop in bars is because their high bars were never real in the first place			0
+" unfortunately , this seems like @entity1 is only acknowledging one part of the problem			1
+@entity36 's in - depth analysis showed that the signal drop when you grip the @entity14 by its lower - right side is very real			1
+therefore , @entity1 's fix probably wo n't fix that part -- arguably the biggest part -- of the problem , and will merely make the @entity14 display fewer bars in weak signal areas			1
+interestingly enough , @entity1 claims the miscalculation was present " since the original @entity14 , " so the fix will apply to older generation iphones as well			1
+here 's @entity1 's official announcement : dear @entity49 , the @entity14 has been the most successful product launch in @entity1 's history			1
+it has been judged by reviewers around the world to be the best smartphone ever , and users have told us that they love it			0
+so we were surprised when we read reports of reception problems , and we immediately began investigating them			0
+here is what we have learned			0
+to start with , gripping almost any mobile phone in certain ways will reduce its reception by one or more bars			2
+this is true of @entity14 , @entity68 , as well as many @entity69 , @entity70 and @entity72 phones			2
+but some users have reported that @entity14 can drop four or five bars when tightly held in a way which covers the black strip in the lower left corner of the metal band			1
+this is a far bigger drop than normal , and as a result some have accused the @entity14 of having a faulty antenna design			2
+at the same time , we continue to read articles and receive hundreds of emails from users saying that @entity14 reception is better than the @entity68			2
+this matches our own experience and testing			0
+what can explain all of this ? we have discovered the cause of this dramatic drop in bars , and it is both simple and surprising			0
+upon investigation , we were stunned to find that the formula we use to calculate how many bars of signal strength to display is totally wrong			2
+our formula , in many instances , mistakenly displays two more bars than it should for a given signal strength			1
+for example , we sometimes display four bars when we should be displaying as few as two bars			0
+users observing a drop of several bars when they grip their iphone in a certain way are most likely in an area with very weak signal strength , but they do n't know it because we are erroneously displaying four or five bars			2
+their big drop in bars is because their high bars were never real in the first place			0
+to fix this , we are adopting @entity123 's recently recommended formula for calculating how many bars to display for a given signal strength			1
+the real signal strength remains the same , but the @entity14 's bars will report it far more accurately , providing users a much better indication of the reception they will get in a given area			1
+we are also making bars one , two and three a bit taller so they will be easier to see			0
+we will issue a free software update within a few weeks that incorporates the corrected formula			1
+since this mistake has been present since the original @entity14 , this software update will also be available for the @entity68 and @entity138			2
+we have gone back to our labs and retested everything , and the results are the same - the @entity14 's wireless performance is the best we have ever shipped			0
+for the vast majority of users who have not been troubled by this issue , this software update will only make your bars more accurate			2
+for those who have had concerns , we apologize for any anxiety we may have caused			0
+as a reminder , if you are not fully satisfied , you can return your undamaged iphone to any @entity154 or the online @entity154 within 30 days of purchase for a full refund			0
+we hope you love the @entity14 as much as we do			0
+thank you for your patience and support			0
+
+@entity1 has promised a software fix for all generation iphones in a few weeks
+@entity1 claims it has erroneously calculated the formula which displays signal bars
+@entity1 may not fix the @entity14 gripping issue , what many *people* argue is the main problem
+software fixes will only address the number of signal bars displayed on @entity14 screens
+
+@entity1:Apple
+@entity0:MASHABLE.com
+@entity36:Anandtech
+@entity49:iPhone 4 Users
+@entity123:AT&T
+@entity14:iPhone
+@entity138:iPhone 3G
+@entity68:iPhone 3GS
+@entity69:Droid
+@entity72:RIM
+@entity70:Nokia
+@entity154:Apple Store

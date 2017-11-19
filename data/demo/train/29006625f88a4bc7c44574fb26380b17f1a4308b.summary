@@ -1,0 +1,59 @@
+http://web.archive.org/web/20110224170001id_/http://www.cnn.com:80/2011/TECH/mobile/02/15/coverage.mapping/
+
+-- mobile devices are only as good as the networks that serve them			2
+but too often , a mobile user will purchase a new smartphone with a two - year carrier contract , only then to learn that the phone gets lousy reception at home , work or school			0
+that 's why the first -- and obvious -- question consumers should ask themselves when considering a mobile phone is this : which carriers get the best service in the places where i spend most of my time ? the trouble : this is n't always an easy question to answer			0
+yes , carriers all provide coverage maps on their websites that show where their networks are supposed to reach -- theoretically , based on cell phone tower locations			1
+but , in reality , signal strength and network speed can vary substantially due to terrain , structures , the typical amount of data - hungry wireless devices on the network in a given location , and other factors			1
+when looking for a new carrier , some people attempt to gauge the local quality of a network by finding local customers of various carriers and asking them how many signal bars they generally see on their phones			0
+however , this is n't necessarily reliable , since ( as i wrote last year ) signal bars are largely meaningless , and they 're sometimes misleading			0
+this is where crowdsourcing can help : mobile users can work together to create crowdsourced maps that show how well wireless networks really perform in specific locations			1
+here are two projects that you can actually contribute to , by sending data from an app on your smartphone : @entity61 this project , by @entity62 , collects data via an @entity66 application			1
+as you are out and about , this application runs in the background , monitoring the signal strength of your carrier 's network			2
+if you have data - sharing turned on for the app ( you can turn it off ) , your data are stripped of identifying information and uploaded to @entity62 's servers			1
+aggregate user data are displayed on maps on the @entity61 site			1
+i 've installed this app on my @entity84 , and it 's interesting and useful			0
+in addition to showing the direction and location of the tower my phone is connected to , and signal strength , it allows me to conduct network speed tests			0
+this is important because both signal strength and network speed play important roles in the quality of voice calls and data connections			0
+according to the @entity61 blog , " a high ( signal strength ) does not guarantee a good connection			1
+you can be communicating really well with the tower but the tower might be choked up -- it might be dealing with so much network data that you get terrible speeds			0
+" also , being able to easily conduct your own network speed test can indicate whether your carrier might be " throttling " your data connection , as @entity112 recently said it will start doing to the top 5 % of its customers by data usage			0
+the coverage maps on the @entity61 site appear to offer data for major and minor carriers in most regions			1
+they do n't offer an @entity125 app , because of differences in how the @entity128 operating system captures signal data			1
+a @entity131 app is under consideration			1
+@entity133 this project collects data via an @entity125 app. @entity66 and @entity131 apps are coming , the site says			1
+the maps on the @entity133 site allow you to compare the performance of @entity143 , @entity112 , @entity144 and @entity146 networks			1
+smaller carriers , such as @entity148 or @entity149 , are not shown			0
+these maps are a bit simpler to interpret than the @entity61 , and they have user - friendly features			1
+for example , they express network speed as the number of seconds it takes to upload or download a song			0
+@entity133 users also can view their own personal map with a history of signal strength and network speed			2
+both of these projects are most useful in major metro areas where lots of people use smartphones			0
+they encourage people to use their apps in other locations to help make their maps more complete			0
+although people who use feature phones ( the next step down from smartphones , used by nearly 75 % of @entity181 mobile users ) can not run the apps for these projects , the data on these maps still might be useful for selecting a local carrier			2
+in the big picture , projects like these could help hold carriers accountable for the network speeds they advertise , an issue that 's likely to become especially contentious in the next few years as carriers struggle to deliver high - speed wireless broadband to a fast - growing number of data - sucking phones			2
+as @entity200 notes , " finally , we 'd have a source of real - world information to counteract the questionable maps we see from wireless providers			2
+" the opinions expressed in this commentary are solely those of @entity203 .			0
+
+company maps of wireless networks can be *inaccurate* or *lacking* *detail*
+application *designers* have turned to crowdsourced data
+@entity61 maps has an app for @entity66
+@entity133 has an app for @entity125 ; @entity66 and @entity131 versions coming
+
+@entity144:Sprint
+@entity62:Staircase3
+@entity146:T-Mobile
+@entity0:CNN
+@entity143:AT&T
+@entity181:U.S.
+@entity125:iPhone
+@entity148:US Cellular
+@entity149:MetroPCS
+@entity66:Android
+@entity84:Droid Incredible
+@entity112:Verizon
+@entity128:iOS
+@entity203:Amy Gahran
+@entity200:Mashable
+@entity131:Blackberry
+@entity133:RootMetrics
+@entity61:Open Signal

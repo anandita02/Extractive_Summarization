@@ -1,0 +1,47 @@
+http://web.archive.org/web/20150504143059id_/http://www.dailymail.co.uk/sciencetech/article-2847269/The-real-life-Marauder-s-Map-Harry-Potter-style-app-accurately-plots-building-s-rooms-track-people-inside-them.html
+
+in the @entity2 books , the magical @entity0 reveals the whereabouts of characters as they roam the halls and classrooms of @entity8 school			1
+and now a team of engineers has created technology that has the potential to work in the same way , but for any building around the globe			0
+called @entity17 , the software combines @entity19 signals , gps , and phone sensors to map indoor locations such as shopping malls , help people find items in supermarkets and even track people in a crowd			1
+the @entity17 software , from @entity30 ( @entity30 ) , helps app developers map indoor locations			1
+it combines real - time @entity19 signals , gps and sensors in phones to calculate accurate points , which could help people navigate shopping centres , find items in supermarkets and locate people in crowds it was created by @entity30 ( @entity30 ) , and can be added to any @entity45 app. gps systems typically rely on having a good line - of - sight to the sky and the satellites that provide it with its positioning information			1
+and while these systems do work , to an extent , indoors , the accuracy and reliability is poor because walls and roofs block this view			0
+once installed onto an app , @entity30 ’s software begins by checking @entity20 , it then combines this with real - time @entity19 signals			1
+these signals reveal the location of routers , for example , and the distances that devices are away from signal hubs			2
+it then uses what ’s known as pedestrian dead reckoning			0
+this uses motion sensors and compasses built into devices to determine not only the person ’s location , but also plot their movements			0
+this is based on the speed they are walking for example , and the angle they 're travelling			0
+this information is ultimately uploaded to @entity30 ’s cloud - based positioning centre to calculate an accurate indoor location			2
+@entity30 claims the technology is accurate to around 16ft ( five metres ) for a busy location , but this accuracy is improved depending on the number of @entity19 signals , for example			1
+once a developer adds the software to their app , @entity30 begins by checking gps and then combines this with real - time @entity19 signals			1
+these signals reveal the location of routers , for example , around a building , as well as the distances that devices are away from these signal hubs			0
+it then uses what ’s known as pedestrian dead reckoning			0
+this involves using motion sensors and compasses built into devices to determine not only the person ’s location , but also plot their movements based on the speed they are walking for example , and the angle they are travelling in			0
+this information is ultimately uploaded to @entity30 ’s cloud - based positioning centre to calculate an accurate indoor location			2
+@entity30 claims the technology is accurate to around 16ft ( five metres ) for a busy location , such as a shopping centre , but this accuracy can be improved depending on the number of @entity19 signals , for example			1
+‘ it ’s a useful technology for public venues , hotels and shopping malls , enabling people to quickly find their way to the destination , ’ said @entity137 , director of product line for location			2
+‘ an example use case is an airport ; using this technology in an airline application would allow the airline to offer guidance through the airport , indicate how long it will take to walk to the gate from their current location , notify gate changes with maps and what documentation they need in hand as people walk towards security			0
+the @entity163 ( pictured ) is a fictional map of @entity8 as featured in the @entity2 franchise			1
+it tracks the location of every person in the grounds , shown as footprints labelled with the person 's name ( pictured ) @entity30 told @entity172 the uses of the software are determined by the app , meaning it has the potential to track individual people - but only where the developers and users allow			1
+for example , the technology could be used by a dating app to track nearby singles , or a parent could use it to track their child in a crowd ‘ it would [ also ] allow the airline to understand where their passengers spend time at the airport or get lost			0
+’ @entity30 told @entity172 that the uses of the software are determined by the app , meaning it has the potential to track individual people - but only where the developers and users allow			1
+for example , the technology could be used by a dating app to track nearby singles , or a parent could use it to track their child in a crowd			0
+it could additionally be used to target people with specific adverts or promotions			0
+the users need to grant permission for any app running the software to be able to do this , and none of the user ’s information is shared with @entity30 .			2
+
+the @entity17 software helps app developers map indoor locations
+it use @entity19 signals , gps and phone sensors to calculate accurate points
+this could help people navigate shopping centres , find items in supermarkets and locate people in crowds
+system is *similar* to that seen in @entity2 's fictional @entity163
+
+@entity17:SiRFusion
+@entity2:Harry Potter
+@entity20:GPS
+@entity0:Marauder ’s Map
+@entity163:Marauder ’s Map
+@entity8:Hogwarts School of Witchcraft and Wizardry
+@entity19:Wi-Fi
+@entity45:Android
+@entity172:MailOnline
+@entity30:CSR
+@entity137:Dave Huntingford

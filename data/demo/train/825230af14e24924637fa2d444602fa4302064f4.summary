@@ -1,0 +1,19 @@
+http://web.archive.org/web/20090213220710id_/http://edition.cnn.com:80/2009/POLITICS/01/30/freshman.congressmen/
+
+congressman @entity0 @entity5 : @entity6			0
+
+two *freshman* representatives *document* their *experience* for @entity10
+rep. @entity0 is a @entity12 **representing** @entity2 **'s** second **district**
+rep. @entity4 is a @entity15 **representing** @entity5 **'s** @entity17 **district**
+
+@entity3:District 02
+@entity2:Colorado
+@entity1:D
+@entity0:Jared Polis
+@entity6:District 03
+@entity5:Utah
+@entity4:Jason Chaffetz
+@entity17:Third
+@entity15:Republican
+@entity10:CNN
+@entity12:Democrat

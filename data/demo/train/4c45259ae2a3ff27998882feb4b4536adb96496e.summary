@@ -1,0 +1,55 @@
+http://web.archive.org/web/20080218181034id_/http://edition.cnn.com:80/2008/BUSINESS/02/15/rfid.heathrow/
+
+@entity1 , @entity0 -- a six - month trial was launched this week that promises to transform the way luggage is tracked and monitored at @entity1 's @entity7			1
+as many as 28 in every 1,000 passengers do not arrive at their destination at the same time as their luggage			1
+the trial -- run by @entity13 and airline @entity14 -- is using @entity16 ( radio - frequency identification ) technology to tag baggage			1
+this will allow staff to more accurately track bags passing through the airport			1
+the crucial difference between rfid and the existing barcode system is its scanning accuracy			0
+barcode tags can be easily damaged in transit and are also at risk of being covered when scanned			0
+if not scanned , details must be entered manually into the system , adding time and error to the process			0
+@entity13 estimates that @entity7 can read only 60 per cent of labels that pass through			1
+@entity16 is reported to offer over 99 percent accuracy			1
+the £ 150,000 trial -- the first of its kind in the @entity40 -- will continue for six months tracking bags for passengers traveling with @entity14 to and from @entity43 , and transferring through @entity7			1
+a duplicate of the @entity7 system has been installed at @entity46			2
+during the check - in process at @entity49 , staff apply tags containing @entity16 chips to bags with information including the passenger 's name and route			1
+the chips are then read on entry into the baggage system ; they are tracked as they move throughout ; and finally on leaving the system			0
+as a result , says @entity60 , logistics director at @entity7 , staff can know where a bag is at " every moment of every day "			2
+@entity13 is also considering introducing a @entity66 text messaging service to keep passengers informed of where their bags are			1
+when passengers arrive at @entity7 , says @entity60 , the idea will be to send passengers a text informing them what belt and what time their bags will arrive at			1
+ultimately , the use of @entity16 could extend services to frequent flyers , and provide the means to added value services such as faster check - in , and even be integrated with secure collection and delivery			2
+the main benefits , however , will be for travelers passing through major hubs such as @entity7 and @entity43 , as this system offers better processing of baggage on transfer flights			2
+@entity14 and @entity13 are sharing the costs of the trial			0
+but as @entity91 , @entity14 vice president for @entity40 and @entity93 says , " cost is not an issue " , especially considering the savings the airline is expected to achieve by reducing loss and repatriation of bags			0
+and as @entity60 adds : " if we can introduce this across the whole network the costs will reduce significantly			0
+" @entity105 was one of the first to deploy @entity16 technology in 2005			2
+but as outlined in a recent survey by @entity109 , @entity16 is being used in just 6 percent of the airports surveyed			1
+" for this system to really take off we need other airports and other airlines to embrace the technology , " says @entity60			0
+that widespread adoption may not be far off			0
+the @entity109 survey indicated that @entity16 tags will be used in 45 percent of airports by the end of 2009			1
+it 's still early days , but @entity13 and @entity14 are optimistic for @entity16 's future in airports			2
+" there have been giant strides in the technology in aviation in recent years			0
+but in the last few decades there has n't been any advancement in the methods adopted for baggage handling , " says @entity91			0
+" this is a major step forward			0
+" e-mail to a friend			0
+
+new trial at @entity7 will use @entity16 to accurately track and monitor luggage
+*compared* to *exsiting* bar codes , @entity16 tags offer 15 percent more reading accuracy
+a proposed service will send *sms* to passengers informing when bags arrive
+
+@entity2:CNN
+@entity1:London
+@entity0:England
+@entity13:BAA
+@entity16:RFID
+@entity7:Heathrow airport
+@entity46:Dubai Airport
+@entity14:Emirates
+@entity40:UK
+@entity60:Cowlam
+@entity43:Dubai
+@entity66:SMS
+@entity109:SITA
+@entity93:Ireland
+@entity49:Heathrow Terminal 3
+@entity91:Sheppard
+@entity105:Hong Kong International Airport

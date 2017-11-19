@@ -1,0 +1,55 @@
+http://web.archive.org/web/20150716042801id_/http://www.dailymail.co.uk/news/article-2931383/I-feel-like-m-giving-life-happens-consumers-actually-READ-endless-terms-conditions.html
+
+is your favourite mobile phone app reading your text messages , rearranging your diary or sending emails to contacts without you knowing ? do n't be so sure			1
+these smartphone users , interviewed on the streets of @entity9 , were left stunned after being asked to read the terms and conditions of apps they were using and learning exactly what they had agreed to			1
+concerns : two mobile phone owners appear stunned after reading the terms and conditions of apps they have been using incredibly some apps demand users give them permission to snoop through personal data including text messages , send emails automatically , use their location and even record audio without permission			1
+most of those interviewed initially said they were not too bothered about data privacy and felt secure when using their phones			2
+but that quickly changed when they began to read some of the terms and conditions they had agreed to			1
+one , who simply could n't believe she had given an app permission to read her text messages and modify contacts , said : ' i feel like i 'm giving over my life to an app. ' another was equally surprised to learn he had given his phone permission to use his precise location for undisclosed purposes			1
+he said : ' that 's not something i think anyone else needs to know			2
+' the interviews were carried out by @entity55 and @entity56 , two groups set up protect individuals ' privacy , to mark @entity59 on january 28			1
+recent high profile hacking scandals at the likes of @entity63 have demonstrated how employees personal mobile phones are often the entry point for data breaches			0
+stunned : two more of the people interviewed read through the terms and conditions of popular apps another phone owner ca n't hide is disgust as he reads			1
+the interviews were conducted to mark @entity59 on january 28 @entity55 and @entity56 co-founder @entity74 @entity74 has written an open - letter to global ceo 's urging them to focus on privacy , rather than merely looking at it as a ' security ' issue '			1
+he said : ' when i see what happened to @entity63 recently -- the data stored on their servers leaked to the world -- my mind goes to that difference between privacy and security			0
+' i 'm sure @entity63 had firewalls and @entity90 , intrusion detection and antivirus , policies and procedures -- all the usual artifacts of corporate information security			0
+those things securely delivered a mountain of information to @entity63 's servers , where it was lost all at once			0
+' when it was lost , the privacy of @entity63 's partners and employees went with it			0
+that 's what corporate privacy is -- the privacy of the people in and around the corporation			0
+' if we focus on their privacy rather than the corporation 's security maybe we can make better choices			0
+many kinds of information do n't need to be stored for long , or at all			0
+if only participants keep a copy of their correspondence the company ca n't lose it			0
+' @entity123 's popular @entity122 app , which has been downloaded by over 500 million users , is a particular source of concern for those worried about data privacy			2
+according to @entity130 , the app has access to find accounts on the device , read contacts , access the user ’s , as well as edit , read and receive text messages			1
+other permissions give @entity123 the ability to directly call phone numbers , modify or delete files on usb storage , take pictures and videos , record audio , download files without notification , control vibration and change network connectivity			1
+this has led to user ’s complaining the app violates their privacy			0
+responding to an internet discussion last year @entity122 engineer @entity155 attempted to explain why their app needed such a high level of control over users ' phones			0
+he said : ‘ we require [ access to text messages ] so we can automatically intercept login approval sms messages for people that have turned two - factor authentication on for their accounts , or for phone confirmation messages when you add a phone number to your @entity123 account			1
+incredibly some apps demand users give them permission to snoop through personal data including text messages , send emails automatically and even record audio without permission ' unfortunately , the @entity122 permissions system does not allow us to specify that we would like to be able to read only sms messages from a specific number			1
+' ' it 's also worth noting that we would love to be able to ask only for the permissions we need for the specific features particular users uses			0
+' however , @entity122 does not allow permission requests on demand ; we have to request all permissions that cover each feature at install time , and the users can only grant or deny all of them and have no control over individual permissions			0
+' however it is not just the big name apps that have people worried			2
+even seemingly innocuous programs such as games or even flashlight apps are demanding users ' permission to access their information			2
+one game - happy fish , developer @entity210 - is programmed so it can collect a precise location , access photos , read your text messages and even tell which @entity218 network you 're using			1
+recent high profile hacking scandals at the likes of @entity63 demonstrated how employees personal mobile phones are often the entry point for data breaches likewise many flashlight apps which allow a device to be used as a torch also secretly record the most sensitive personal information			2
+this may include the location of the phone , details of its owner and their contacts , and even the content of text messages			1
+the data is then transmitted to market research companies and advertising agencies to track user ’s shopping habits , experts claim			0
+but it is also suspected that criminal gangs , hackers and identity thieves have developed torch apps of their own to obtain personal data about consumers which could give them access to their bank accounts .			2
+
+interviews were carried out to mark @entity59 on january 28
+phone owners asked to read out terms and conditions of popular apps
+some can edit , receive and read text messages as well as record audio
+
+@entity210:HappyElements
+@entity9:America
+@entity218:Wi-Fi
+@entity123:Facebook
+@entity56:Blackphone
+@entity55:Silent Circle
+@entity74:Phil Zimmerman
+@entity59:Data Privacy Day
+@entity90:VPNs
+@entity122:Android
+@entity130:Google Play
+@entity155:Franci Penov
+@entity63:Sony

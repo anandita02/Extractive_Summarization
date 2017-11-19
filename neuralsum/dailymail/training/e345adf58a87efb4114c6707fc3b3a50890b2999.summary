@@ -1,0 +1,92 @@
+http://web.archive.org/web/20140411000302id_/http://www.dailymail.co.uk/sciencetech/article-2600701/Are-YOUR-details-risk-heartbleed-hackers.html
+
+by @entity0 websites and their users have been left reeling this week after a flaw was exposed in a common encryption service			1
+around two - thirds of websites are vulnerable to so - called ‘ heartbleed hackers ’ , and now a password expert has created a tool to see if your favourite sites are affected			1
+lastpass ’ @entity12 looks to see when a site ’s secure encryption certificate was last valid and warns if the server may be at risk			1
+@entity13 ' @entity12 , pictured , looks to see when a site 's secure encryption certificate was last regenerated and warns if the server may be at risk			1
+it also reveals the websites that either are n't affected by the bug , or have updated their certificates the heartbleed bug lets hackers eavesdrop on supposedly secure communications			1
+it was found by uncovered by a team of researchers from @entity31 and @entity32 in the @entity34 cryptographic software			1
+@entity34 is open - source software that is widely used to encrypt web communications			1
+it is used to protect websites , instant messaging , email servers , virtual private networks and other communications			0
+@entity34 certificates are also used to protect credit card details on select services			0
+the software is used in two of the most widely used web servers , @entity48 and nginx			0
+research by analytics firm @entity51 found almost 500,000 websites could be affected			2
+in theory , if the site is vulnerable , any data that has been stored on it since 2011 - when the flaw is thought to have originated - could be at risk			1
+the tool also reveals the websites that either are n’t affected by the bug , or have updated their certificates			1
+experts are advising people to change their passwords , but if a website is still vulnerable , the information may still be at risk			2
+changing passwords will work on sites that have been updated , and if your details were stolen before the flaw was identified			2
+it 's good practice to change passwords following a vulnerability either way , though			0
+the heartbleed bug lets hackers eavesdrop on supposedly secure communications			1
+it was uncovered by a team of researchers from @entity31 and @entity32 in the @entity34 cryptographic software			2
+the software offers encryption services , such as when people log into internet banking , or into a webmail service like @entity91			0
+the fault lets a hacker craft an attack which , under the right conditions , will return small chunks of information from the remote system or service			0
+for example , it has been demonstrated that hackers can steal other users ’ usernames and passwords from @entity91 - although this flaw has now been fixed			1
+@entity34 is open - source software that is widely used to encrypt web communications			1
+according to the tool , pictured , @entity109 does n't use @entity34 so is not at risk @entity112 runs on the nginx server , which uses @entity34 software , and its @entity116 certificate was last valid three years ago			1
+@entity13 has flagged it as a potential risk , pictured			0
+the tool is a guide to affected services ; it is not a definitive list it is used to protect websites , instant messaging , email servers , virtual private networks and other communications from hackers			1
+the software is used in two of the most widely used web servers , including @entity48 and nginx , and is said to be used in one way or another by roughly two - thirds of all websites			1
+according to the tool , @entity109 does n’t use @entity34 so is not at risk			2
+the server details of @entity141 and @entity142 are n't reported , so @entity13 was unable to confirm if they use @entity34			2
+however , it warns neither sites ' ssl certificate has been updated since the flaw was identified			1
+@entity91 , which was confirmed as vulnerable by developers yesterday , has since updated its ssl certificate and is listed as secure again			2
+@entity112 runs on the nginx server , which uses @entity34 software , and its @entity116 certificate was last valid three years ago meaning @entity13 has flagged it as a potential risk			1
+the tool is a guide to affected services ; it is not a definitive list			0
+the bug means hackers can eavesdrop and leave no trace in server logs			2
+the flaw was introduced in @entity34 in december 2011 , and was ' in the wild ' until monday , when a new version fixing the flaw was released the flaw was introduced in @entity34 in december 2011 , and was ' in the wild ' until monday , when a new version fixing the flaw was @entity171 have confirmed the flaw is real			2
+' we were able to scrape a @entity91 username & password via the @entity177 bug , ' tweeted @entity178 of security firm @entity179 , showing a censored example			0
+research by analytics firm @entity51 found almost 500,000 websites could be affected			2
+' the serious overrun vulnerability in the @entity34 cryptographic library affects around 17 per cent of @entity116 web servers , ' it said			0
+the @entity177 bug lets anyone on the web read the memory of the systems protected by vulnerable versions of the @entity34 software			1
+it compromises secret keys used to identify the service providers and to encrypt web traffic			0
+this includes the names and passwords of the users and the actual content , such as credit card numbers			0
+attackers can ' eavesdrop ' on communications between servers , steal data directly from the them , and use the information to impersonate services and users on other sites or platforms			2
+@entity214 , global head of research at security firm @entity217 told @entity218 : ' this fault undermines the fundamental trust on the internet for anyone running the vulnerable software and it is widely integrated into the technology we all use every day			0
+' while the fault has now been fixed , providers must apply it manually , so many still are vulnerable			0
+' worse still , the defect was in the code for over two years before being discovered by security researchers - attackers could have discovered this at any time during that period and retrieved large volumes of data without anyone knowing			0
+' at this point the best thing for consumers to do is to assume their passwords and alike have been leaked			0
+they may not have been , but since it 's very hard to actually tell retrospectively , it is better to be safe than sorry			0
+' as providers rush to patch [ the flaw ] , consumers should apply typical it security best practice : ensure you change passwords - once you know the issue has been fixed by your provider ; update your computers ; and do n't use the same password across multiple sites or services			2
+' this is not the first defect of its kind and it certainly wo n't be the last , but it is one of the more serious faults we 've seen in recent internet history			0
+' ' the heartbleed bug allows anyone on the internet to read the memory of the systems protected by the vulnerable versions of the @entity34 software , ' according to a website the researchers who found the flaw set up to explain their find			1
+' this compromises the secret keys used to identify the service providers and to encrypt the traffic , the names and passwords of the users and the actual content			0
+' this allows attackers to eavesdrop communications , steal data directly from the services and users and to impersonate services and users			1
+' experts say the bug could leave up to 66 % of sites vulnerable to hackers if their encryption software is not updated			1
+it compromises secret keys used to identify the service providers and to encrypt web traffic			0
+this includes the names and passwords of the users and actual content , such as credit card numbers ' this bug has left large amount of private keys and other secrets exposed to the @entity312 , " they warned			0
+' considering the long exposure , ease of exploitation and attacks leaving no trace this exposure should be taken seriously			0
+' @entity319 of hosting firm @entity320 warned firms with @entity323 capabilities to be extra cautious			0
+' with potentially all web users affected by the recent ‘ heartbleed ’ security bug that has hit @entity34 software , which is the software that protects credit card transactions - it is important that @entity323 businesses contact their web hosting providers to check that they have taken necessary actions to avoid their customers being affected by spying and eavesdropping , ' he said .			1
+
+around two - thirds of websites are vulnerable to ‘ heartbleed hackers ’
+password expert has created a tool to see which sites are affected
+lastpass ’ @entity12 looks to see when a site ’s secure encryption certificate was last updated and warns if the server may be at risk
+the *problem* was found in the widely - used @entity34 software
+experts are *urging* server *owners* to *upgrade* to the latest version
+flaw lets hackers eavesdrop on communications and steal encryption keys
+
+@entity116:SSL
+@entity112:Instagram
+@entity12:Heartbleed Checker
+@entity171:released.Experts
+@entity0:Victoria Woollaston
+@entity177:Heartbleed
+@entity179:Fox-IT
+@entity178:Ronald Prins
+@entity218:MailOnline
+@entity51:Netcraft
+@entity31:Google Security
+@entity214:James Lyne
+@entity32:Codenomicon
+@entity13:LastPass
+@entity34:OpenSSL
+@entity217:Sophos
+@entity312:Internet
+@entity109:Bing.com
+@entity91:Yahoo
+@entity320:34SP.com
+@entity141:Facebook
+@entity142:Twitter
+@entity323:eCommerce
+@entity319:Daniel Foster
+@entity48:Apache

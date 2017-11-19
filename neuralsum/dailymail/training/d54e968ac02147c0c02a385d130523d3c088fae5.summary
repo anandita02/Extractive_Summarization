@@ -1,0 +1,44 @@
+http://web.archive.org/web/20150717114043id_/http://www.dailymail.co.uk/sciencetech/article-2943186/The-algorithm-spot-beauty-holiday-snaps-tell-selfies-delete.html
+
+researchers have revealed an algorithm they say can spot the ' beauty ' in photographs - and what makes a great selfie			1
+@entity6 in @entity7 say their software can spot the best holiday snap , and even analyse your selfies			1
+they say their work could improve the quality of snaps online - and used 10,000 photographic portraits rated by humans to learn what we look for			1
+the key to a good picture , the researchers say , is ' aesthetic score is related to sharpness of facial landmarks , image contrast , exposure , homogeneity , illumination pattern , uniqueness , and originality			2
+' race , gender , and age are largely uncorrelated with photographic beauty			1
+' the single most important factor is the sharpness of the image			0
+but other important factors include the contrast between the face and background			0
+' @entity46 portrait photographs are everywhere , and while the number of face pictures keeps growing , not much work has been done to on automatic portrait beauty assessment , ' the team wrote in the open source journal arxiv			1
+the say the rise of the selfie has meant a huge increase in the number of pictures people take			1
+' @entity59 ' have become a phenomenon , and recent studies show that images with faces are more popular ( +38 % ' likes ' on @entity64 ) than other pictures in online social networks			1
+' portraits are also used in web user profiles , in news articles , to represent celebrities and public figures , and they are an essential part of all kinds of ids			1
+' the researchers found that in fact , the person in the picture is often irrelevant			0
+' we find that race , gender , and age are largely uncorrelated with photographic beauty , ' wrote the researchers , led by			2
+' aesthetic score is related to sharpness of facial landmarks , image contrast , exposure , homogeneity , illumination pattern , uniqueness , and originality , ' they add			0
+they team say their algorithm is significantly better than other machine - based attempts to recognise beauty and provides some curious insights into the nature of photographic portraiture			1
+' we find that the beauty of a portrait is linked to its artistic value , and independent from age , race and gender of the subject			0
+' the single most important factor is the sharpness of the image			0
+but other important factors include the contrast between the face and background			0
+pictures of females also tend to be more memorable , as well as brighter and post-processed , while pictures of males tend to have darker colors - and men smile less than women in portraits			1
+the team 's algorithm determines which of these metrics correlated with the human beauty rating to decide how ' beautiful ' an image is			2
+they began with a set of 10,000 photographic portraits that have been rated for beauty by humans on a scale from 1 to 10 and annotated with words and phrases that describe each image			1
+the team first analyse each image using face recognition software that determines the age , sex and race of the main subject in each portrait along with the position of the face worked out from the relative coordinates of the eyes , nose and mouth			0
+they then created algorithms that measured how well each image achieved standard photographic techniques of composition , exposure and lighting			2
+these included the arrangement of objects within the image , the distribution of lighting within the image and the sharpness of the picture			0
+they also measured the exposure quality , contrast and jpeg compression along with the contrast between the face and the background			0
+the final step used the human annotations to classify the emotional polarity of each image , whether positive or negative and assessed the originality of the image compared to others			0
+the team 's algorithm then determines which of these metrics correlated with the human beauty rating			2
+the team say their algorithm is far more successful than other attempts to spot good pictures they say it can do this incredibly successfully			1
+' we also show that a classifier trained with our features to separate beautiful portraits from non beautiful portraits outperforms generic aesthetic classifiers			2
+' ' in our future work , we plan to broaden our framework by extending our database to include portrait images ' in the wild ' , exploring portrait aesthetics with a more challenging context , ' they said			0
+' physical / demographic properties such as gender , eye color , glasses , age , and race show very low correlation with image beauty , suggesting that any subject , no matter his / her traits , can be part of a stunning picture , ' conclude @entity222 and co.			0
+
+@entity6 says its algorithm can spot the best snaps
+used 10,000 photographic portraits rated by humans to learn
+pictures of females tend to be more memorable - and men smile less
+
+@entity222:Redi
+@entity7:Barcelona
+@entity6:Yahoo Labs
+@entity46:Digital
+@entity64:Instagram
+@entity59:Selfies

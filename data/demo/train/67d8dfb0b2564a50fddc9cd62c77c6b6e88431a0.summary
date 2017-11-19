@@ -1,0 +1,121 @@
+http://web.archive.org/web/20150321212205id_/http://www.cnn.com/2012/02/03/tech/mobile/government-android-phones/
+
+some @entity1 officials this year are expected to get smartphones capable of handling classified government documents over cellular networks , according to people involved in the project			1
+the phones will run a modified version of @entity12 's @entity11 software , which is being developed as part of an initiative that spans multiple federal agencies and government contractors , these people said			1
+the smartphones are first being deployed to @entity1 soldiers , people familiar with the project said			0
+later , federal agencies are expected to get phones for sending and receiving government cables while away from their offices , sources said			1
+eventually , local governments and corporations could give workers phones with similar software			1
+the @entity31 has been testing touchscreen devices at @entity1 bases for nearly two years , said @entity34 , a director for the @entity31 's @entity35 , in a phone interview			2
+about 40 phones were sent to fighters overseas a year ago , and the @entity31 plans to ship 50 more phones and 75 tablets to soldiers abroad in march , he said			2
+" we 've had kind of an accelerated approval process , " @entity34 said			0
+" this is a hugely significant event			0
+" currently , the @entity1 does n't allow government workers or soldiers to use smartphones for sending classified messages because the devices have not met security certifications			2
+officials have said they worry that hackers or rogue apps could tap into the commercial version of @entity11 and spill state secrets to foreign governments or to the web through a publisher such as @entity60			1
+as many as 5 million @entity11 users may have had their phones compromised by a recent virus outbreak rooted in apps found on @entity12 's market , said security software maker @entity66			1
+but with a secure smartphone , a soldier could see fellow infantry on a digital map , or an official could send an important dispatch from @entity74 's @entity73 without fear of security breaches			2
+developers in the government program have completed a version that has been authorized for storing classified documents but not transmitting them over a cell network , said two people contributing to the initiative			1
+smartphones cleared for top - secret dispatches -- high - level classified information that would compromise national security if intercepted -- are expected to be ready in the next few months , they said			2
+rather than building special handsets hardwired with secure components , the government plans to install its software on commercially available phones , the people familiar with the project said			1
+this approach is far less expensive and allows the government to stay up to date with the latest phones on the market , they said			1
+android vs. @entity100 there are hundreds of different @entity11 models available , and more than half of all smartphones sold globally in a recent quarter use @entity11 , according to industry research firm @entity104			1
+@entity105 has sold more @entity11 phones than any other @entity1 cell carrier , thanks in part to its marketing emphasis interest on the droid brand			1
+about a year ago , @entity105 also got the @entity112 , ending @entity114 's @entity1 exclusivity with that device			2
+" there 's a lot of interest in @entity11 , " @entity116 , a @entity105 director for its wireless data services , said in a phone interview			1
+" we are seeing @entity11 sales across all branches of government			1
+" still , @entity100 's @entity112 and @entity126 are also highly desired among @entity1 officials , and people involved in the @entity1 smartphone program said their goal is to support any type of smartphone			1
+as @entity136 has reported , the chairman of the @entity134 , gen. @entity135 , uses an @entity126 to read his classified intelligence by downloading cables and disconnecting from the network			0
+however , the government chose to work on @entity11 first because @entity12 already allows people to tinker freely with its code , said those working on the project			1
+federal officials have met with @entity100 , but they were told they could not have access to the core of the company 's mobile operating system , said @entity150 , an information - security director at @entity151 who is working on the government project as a contractor , in a phone interview			1
+" @entity11 was more cooperative in supporting some of the capabilities that we wanted to support in the operating system , whereas @entity100 was more averse , " @entity150 told @entity136			1
+" they 're shifting the strategy now			0
+" an @entity100 spokeswoman declined to comment on the meeting or any changes to its strategy			1
+@entity12 publishes the source code for @entity11 on its website for anyone to download and modify , and some partners are given access to the code before others			1
+a @entity12 spokesman declined to comment on the government project			1
+when @entity12 releases a new version of @entity11 or when a new version of its phones comes out , a compatible software update to the government 's secure @entity11 can be ready within two weeks , @entity150 said			1
+emphasis on security government programmers are making security modifications to @entity11 's kernel , which is the operating system 's central component , the people involved said			1
+the version will allow users to choose which data from @entity11 and its applications can be sent over the @entity189 , they said			1
+" when you download an application on your phone , you do n't really know what it does , " @entity150 said			0
+" we test the application in labs before the user consumes that application			0
+" after testing more than 200,000 apps , the researchers discovered that many programs ask for access to far more personal information contained in the phone than they need and , more alarmingly , send some of that superfluous data to the app developers ' servers , @entity150 said			0
+even some well - intentioned features can compromise national security if left unchecked			0
+for example , a weather app may automatically send a phone 's gps coordinates over the @entity189 to deliver a local forecast , or games may send the device 's unique identifier along with a high score			2
+on government phones , officials will be prompted with detailed reports about what data may be sent , and they can decline or allow each transmission , the people involved said			1
+" people want to play ' @entity228 , ' and we do want our people to be able to download ' @entity228 , ' " @entity150 said			0
+but he added , " if a clock application gets your gps and transmits something over the network , that 's not something that we would want to support			2
+" @entity150 , along with seven others at @entity151 and the @entity239 , are developing the smartphone software			2
+they are also consulting with several federal agencies , many within the @entity241 , he said			0
+he declined to name them			0
+" the government is actually working pretty hard in getting this technology to most agencies , " @entity150 said			2
+" security is everybody 's concern			0
+" a secret project officials have not spoken in depth about the project until now			2
+@entity255 and some trade publications , including @entity257 and @entity258 , have previously reported some details			0
+" we are very cautious about what we release to the public , " @entity150 said			0
+" the details of the technology have been something that we have not publicly disclosed			0
+" the project is funded by the @entity270 , the group responsible for early development of gps and the @entity189 , @entity150 said			0
+the @entity241 , which houses the agency , has designated the smartphone project as a priority , he said			0
+the @entity274 has been designated with evaluating the smartphone software for certification , @entity150 said			0
+the @entity274 gave approval for an earlier version of the system to handle classified data stored on a device , he said			0
+the @entity274 is also working on a competing system called @entity11 , or @entity283 , @entity284 , a @entity274 official , wrote this month in a brief e-mail to a group of software developers that was obtained by @entity136			1
+@entity11 is less flexible in supporting new devices or @entity11 updates from @entity12 and is unlikely to be deployed widely , @entity150 said			1
+an @entity274 spokeswoman wrote in an e-mail , " the ultimate goal is to give war fighters , analysts and other intelligence professionals access to classified information on the go -- boosting innovation in the field , efficiency and productivity			0
+" in an unusual move for the federal government , each version of the secure @entity11 operating systems will only need to be certified once before it can be deployed to any @entity1 agency , said two people involved in the project			1
+typically , each agency does its own independent security testing , they said			0
+also atypical is that the @entity274 published the source code for @entity11 online			2
+the same will be done with the @entity270 - funded project			0
+standardization group @entity315 is helping with security compliance , said @entity317 , a co-founder for the company			0
+the @entity274 's @entity319 announced the first release of @entity11 with a two - sentence message two - sentence message on january 6 to a developer mailing list			1
+he concluded by saying , " enjoy ! " " we had to go through many hoops for that to happen , " @entity150 said of the plan to open - source the software			0
+" by handing the source code out , other people will be able to take a look and tell us about bugs			0
+" private interest many companies have expressed interest in the government smartphone project , officials said			2
+the corporations that were among the first to adopt the @entity339 are interested in @entity11 , said @entity105 's @entity116			1
+the @entity100 spokeswoman also noted that nearly all @entity342 companies are testing or have employees using iphones and @entity126			2
+another obstacle for the government will be to figure out how to secure voice calls , @entity116 said			0
+" @entity349 is the immediate need , " @entity116 said			0
+" these devices are awesome			0
+they can do so many things , but at the end of the day , i still need to make a voice call			0
+" after the @entity270 project is certified for classified data , developers plan to work on securing the @entity11 system for voice - over ip communications using apps such as @entity363 , @entity150 said .			2
+
+government , *military* officials to get @entity11 phones capable of *sharing* secret documents
+the phones will run a modified version of @entity12 's @entity11 software , sources say
+contractor : @entity12 " more cooperative " than @entity100 working with government on phones
+
+@entity116:Schromsky
+@entity339:BlackBerry
+@entity114:AT&T
+@entity112:iPhone
+@entity257:Government Computer News
+@entity258:FedTech Magazine
+@entity134:Joint Chiefs of Staff
+@entity151:George Mason
+@entity150:Stavrou
+@entity274:NSA
+@entity270:Defense Advanced Research Projects Agency
+@entity12:Google
+@entity1:U.S.
+@entity136:CNN
+@entity315:OpenSSL Software Foundation
+@entity317:Steve Marquess
+@entity319:Smalley
+@entity239:National Institute of Standards and Technology
+@entity74:Washington
+@entity73:Metro subway
+@entity31:Army
+@entity35:Brigade Modernization Command
+@entity34:McCarthy
+@entity11:Android
+@entity135:Martin Dempsey
+@entity100:Apple
+@entity363:Skype
+@entity104:Gartner
+@entity105:Verizon
+@entity241:Defense Department
+@entity349:Voice
+@entity126:iPads
+@entity342:Fortune 500
+@entity189:Internet
+@entity228:Angry Birds
+@entity283:Security Enhanced Android
+@entity284:Stephen Smalley
+@entity66:Symantec
+@entity60:WikiLeaks
+@entity255:Reuters

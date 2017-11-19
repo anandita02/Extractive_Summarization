@@ -1,0 +1,71 @@
+http://web.archive.org/web/20131023095835id_/http://www.dailymail.co.uk/sciencetech/article-2360087/Is-mans-dream-The-bra-removed-CLAPPING-make-own.html
+
+by @entity0 published : 05:35 est , 11 july 2013 updated : 09:24 est , 11 july 2013 it sounds like something from a @entity4 film but a male artist from @entity6 has created a bra that can be undone simply by clapping			1
+the battery - powered design uses an electromagnet that controls a switch which opens the clasp of the bra when someone claps nearby			1
+designer @entity14 was inspired by the weird and wonderful hi - tech bras found in @entity18 bazaars and has created a step - by - step guide on how to make your own			1
+the battery - powered design uses an electromagnet built into the bra 's fabric , covered with a bow			1
+this magnet controls a switch which opens the clasp of the bra when someone claps nearby the design sounds like something from a @entity4 film ( @entity36 is pictured after her bra pings off during an exercise routine in @entity39 ) speaking on his @entity41 post , @entity14 said : ' the first time i read about @entity18 lingerie i was quite moved			1
+' in the @entity46 , we often think of @entity48 cultures as sexually repressed societies , when - in fact - it turns out that they are clearly leaps and bounds ahead of us in advancements in lingerie technology			1
+' henceforth , it became my mission to fast - forward lingerie technology in the @entity46			1
+' i figured the first step in this critical mission was to replicate some of the advancements made in @entity62			0
+' the article of lingerie that resonated most with my inner sensibilities was the clap - off bra			1
+' i immediately resolved to make my own clap - off bra as a springboard into @entity46 lingerie innovation			1
+' other @entity18 lingerie includes remote - controlled items and glow - in - the - dark bras and knickers			1
+although created as a novelty item , @entity75 's technology could be used by arthritis sufferers who find bra clasps difficult to use , as well as people with physical disabilities			1
+although created as a novelty item , @entity75 's technology could be used by arthritis sufferers who find bra clasps difficult to use , as well as people with physical disabilities			1
+designer @entity14 was inspired by the hi - tech bras found in @entity18 bazaars and has created a step - by - step guide on how to make your own the clap - off bra uses two circuit boards , an @entity94 , a 28 - pin socket , two @entity96 , a @entity97 , @entity98 , @entity99 and 100k resistors , a voltage regulator , nuts , bolts , a soldering iron and other items			1
+@entity14 experimented with exploding clasps using nitrocellulose that would burn the thread holding the clasp away to remove the bra			2
+he also tried using a metal coil called a solenoid , but the metal got too hot and could potentially burn the wearer			0
+the full step - by - step guide , with pictures , are on @entity41			2
+cut the clasp off of the bra			2
+carefully break open the casing for the relay to expose the electromagnet			2
+put your relay into the center of a prototype circuit board and make cut marks around the outline of the relay			0
+cut two prototype circuit boards to size			0
+one board should have a 1/4 " trimmed off of each long end , such that you are a left with a long strip			0
+the other board should be cut to a small square using the markings you made in the outline of the relay			0
+put together the circuit using the 28 - pin socket in place of the @entity141 chip			0
+cut the ends off a usb cable to leave a section of cable roughly 6 " to 8 " long			0
+cut a small bow - tie shaped section of fabric that will fold over the front of the bra - the part the clamp is attached to			2
+in the centre of this bow - tie cut a small opening and fasten a grommet			0
+insert a bolt through the grommet from the back towards the front and fasten it with a nut			0
+peel back the jacket of the usb cable to expose 4 - coloured wires and attach these wires to the circuit board			0
+@entity75 's code from his @entity41 site and upload it to the @entity94 board			0
+solder the wires to the circuit board			0
+sew down the electromagnet board to the fabric in the front of the bra where the clasp is attached			1
+sew the circuit board to the top of the back strap of the bra			0
+sew elastic straps perpendicular to the bra strap at the top and bottom and slide the 9v battery under the straps			2
+plug in the battery and put the bra on as per normal using the electromagnetic clasp			1
+clap twice to remove it			0
+a variation of this clapping technology was used to develop the @entity193 switch in the 1980s			2
+the @entity193 is a sound - activated electrical switch , sold by @entity6 - based @entity195			2
+the @entity196 can be used to control two electrical devices , based on if a person claps two or three times			1
+the @entity200 has a remote control function in addition to sound - based activation			0
+customers have complained that the @entity193 can sometimes be triggered by a dog 's bark , knocking or clapping on television .			0
+
+designed by male designer after he was inspired by hi - tech @entity18 lingerie
+the battery - powered clap - off bra is fitted with an electromagnet
+when a person claps , magnet acts as a switch to release the bra 's clasp
+it is hoped the technology could be used by arthritis sufferers
+
+@entity0:Victoria Woollaston
+@entity6:San Francisco
+@entity4:Carry On
+@entity196:Smart Clapper
+@entity195:Joseph Enterprises
+@entity193:Clapper
+@entity75:Download Sarafan
+@entity14:Sarafan
+@entity36:Barbara Windsor
+@entity39:Carry On Camping
+@entity200:Clapper Plus
+@entity18:Syrian
+@entity99:10K
+@entity98:1K
+@entity97:10uF capacitor
+@entity96:22pF capacitors
+@entity94:Arduino
+@entity141:ATMEGA168
+@entity48:Arab
+@entity46:Western
+@entity41:Instructables
+@entity62:Syria

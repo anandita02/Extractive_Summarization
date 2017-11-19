@@ -1,0 +1,56 @@
+http://web.archive.org/web/20141008111231id_/http://www.cnn.com:80/2014/08/07/opinion/wisniewski-hack-passwords/
+
+-- at least 1.2 billion usernames and passwords hacked			1
+is this truly scary or corporate fearmongering ? the @entity5 published an article this week that has shocked the public			1
+the article says that a @entity10 cybercrime group by the name of @entity12 has amassed this astoundingly large number of credentials from upwards of 420,000 distinct web sites			1
+my immediate response was : yeah , so ? in the context of the story it would seem that countless passwords are now known to this criminal group , and we should be panicking and changing all of our passwords			1
+@entity25 , the company that found this hack , may have a commercial interest in this reaction			1
+hold @entity29 offers to tell companies if their usernames and passwords were compromised for the princely sum of $ 120			1
+arguably , @entity29 stood to make more money out of this story than the @entity10 hackers themselves			1
+rather than go down the rabbit hole , let 's focus on what this really means and how we should react			1
+while 1.2 billion is a big number , it appears that many of these credentials could have been obtained from previous large - scale breaches such as @entity47 , @entity48 , @entity49 , @entity50 and @entity51			1
+the totals from these sites alone adds up to close to half a billion			1
+we can also assume that many of the 420,000 hacked websites were @entity57 blogs , forums and other places where people often consider using a " throwaway " password			1
+the concept is that things like your email , social media and bank require secure , unique passwords			2
+but all the other junk in our lives can just use a simple , less secure password			0
+the criminals do n't have the passwords in most cases			2
+they have cryptographic representations of the passwords known as hashes			2
+these hashes come in a lot of varieties with varying degrees of security associated with them			0
+the purpose of a hash is to slow down an attacker from being able to acquire your password if a password database is stolen			0
+this hashing is most effective if you follow good security practices , like not using dictionary words , and making sure to include numbers and symbols in your password			2
+people in general are bad at choosing passwords			2
+that means hashing is often only a speedbump for a determined attacker			0
+but the hashes bring out the truth of the matter			0
+the criminals do n't necessarily even have your password			0
+they have a hash that could result in them discovering your password , especially if it is poorly chosen like password123 or qwrtyasdfg			0
+many of these stolen hashes may have been obtained some time ago , which means they are less useful to the crooks now			0
+of course , we do n't know the truth and ca n't analyze what is known because @entity29 is trying to figure out how to monetize the knowledge , leaving even the experts a bit in the dark about how serious a discovery this truly is			0
+my advice ? keep calm and carry on			2
+it is always a good practice to use strong passwords and different passwords on the different sites we use and change them if we have reason to believe they might be compromised			1
+there are many tools available to assist with automating this task , making it only a minor inconvenience to keep track of your new stronger passwords			2
+many are available at no cost			0
+and if we have learned anything during our first 20 years of web surfing , it 's that we need a helping hand with our passwords			1
+hold @entity29 's findings are interesting			0
+if the research community gains access to the information we will all jump in with both feet to determine how it happened , what it means for internet security going forward and possibly even who is behind the attacks			0
+but for the rest of the world ? it 's business as usual			0
+think before you click , do your best to follow best practices with regard to your privacy and safety and enjoy your online experience			0
+it 's not as scary as it looks .			1
+
+@entity5 says 1.2 billion usernames and passwords were hacked by @entity10
+@entity176 : this is not as scary as it seems , carry on
+he says company that found the hack may have a commercial interest in the reactions
+@entity176 : of course , it 's always good practice to use strong passwords
+
+@entity0:CNN
+@entity12:CyberVor
+@entity5:New York Times
+@entity176:Wisniewski
+@entity25:Hold Security
+@entity10:Russians
+@entity51:eBay
+@entity50:RockYou.com
+@entity57:Mom and Pop
+@entity47:Adobe
+@entity29:Security
+@entity48:Sony
+@entity49:LinkedIn

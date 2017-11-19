@@ -1,0 +1,49 @@
+http://web.archive.org/web/20141229114520id_/http://www.dailymail.co.uk/sciencetech/article-2607641/Supercharge-Siri-Use-iPhones-personal-assistant-heat-house-switch-lights-unlock-car.html
+
+@entity0 ? students have given @entity2 a boost by allowing it to take photos , unlock cars and play songs on @entity8 most people use @entity2 to set reminders or find destinations on a map			1
+but now four students have managed to transform @entity15 ’s voice - sensitive personal assistant in to a super helper - making it capable of playing specific songs on @entity8 , taking photos and even adjusting the lighting and temperature of your house			1
+the technology , called @entity23 , combines a linguistic trick with third party apps to let users to get more from their iphone by simply talking to it			1
+while the technology is in its early stages , it already allows users to play music , post selfies on @entity34 and control @entity36 lights using voice commands			1
+the student startup said : ‘ imagine being able to control your nest thermostat and unlock your car through @entity2			2
+with @entity23 , these are now possible			0
+’ when a user says ‘ @entity23 turn off the lights , ’ @entity2 hears : ‘ @entity47 “ plex turn off the lights ” ' so that it thinks that the person wants to @entity47 something			1
+trickery : the technology is called @entity23 and uses a clever linguistic trick , servers and third party apps to enable users to get more from their iphone by simply talking to it			1
+here , the technology is used to play a song on a red speaker ( pictured ) when a user says ‘ @entity23 turn off the lights , ’ @entity2 hears : ‘ @entity47 “ plex turn off the lights ” ' so that it thinks that the person wants to @entity47 something			1
+@entity2 then searches @entity47 for the words ‘ @entity67 turn off the lights ’ and the newly developed technology intercepts the request between @entity2 and @entity47			2
+@entity2 then searches @entity47 for the words ‘ @entity67 turn off the lights ’ and the newly developed technology intercepts the request between @entity2 and @entity47 , the students explained			2
+the @entity72 students recently came third in a prestigious hackathon with their product , which they have described as ‘ an @entity76 ’			0
+in order to intercept the request between @entity2 and @entity47 , they built a proxy server - a system that acts as an intermediary for requests from clients seeking resources from other servers - and found a way of connecting iphones to a @entity88 server , which is the system that converts addresses like google.com into ip addresses			0
+a better personal assistant : while the technology is in its early stages , it already allows users to play songs on @entity8 , post selfies on @entity34 and control @entity36 lights using voice commands , ( pictured left and right ) by creating a server that spoofs the @entity88 ( domain name system ) of @entity105 , the programme is able to send a string of words the user asked @entity2 to its own server , which in turn allows communication with apps like @entity34 and @entity8			1
+after receiving a string of commands such as ‘ @entity67 turn off the lights , ’ their server uses natural language processing methods to understand the command			0
+it sends a ‘ @entity123 ’ to the phone with a custom web address like ‘ googolplex : / /			0
+’ that launches the @entity23 programme			0
+it then connects to the appropriate app and carries out the intended action			0
+at the moment , users can say ‘ @entity23 , play @entity132 ’ to start a track on @entity8 , ‘ @entity134 , turn on my lights ’ to turn on @entity138 smart lights , and ' @entity134 , make it warmer , ’ to interact with a nest thermostat			1
+the students are working on making it possible for anyone to build their own commands using @entity23			2
+the technology can be found at @entity145			0
+it 's getting hot in here : the company said : ' imagine being able to control your nest thermostat ( pictured ) and unlock your car through @entity2			0
+with @entity23 , these are now possible '			0
+
+students from the @entity72 developed the programme , which can be used on @entity156 without being *downloaded*
+@entity23 uses a linguistic trick , servers and third party apps to help users get more from their phone using @entity2
+it is in its early stages but allows users to use @entity8 , post photos on @entity34 and control @entity36 lights using voice commands
+
+@entity2:Siri
+@entity15:Apple
+@entity0:Super Siri
+@entity34:Instagram
+@entity105:Google.com
+@entity23:GoogolPlex
+@entity72:University of Pennsylvania
+@entity8:Spotify
+@entity36:Philips Hue
+@entity123:HTTP Redirect Response
+@entity47:Google
+@entity138:Phillips Hue
+@entity67:Plex
+@entity88:DNS
+@entity134:GoogolPlex
+@entity76:App Store for Siri
+@entity156:iPhones
+@entity145:betterthansiri.com
+@entity132:Demons

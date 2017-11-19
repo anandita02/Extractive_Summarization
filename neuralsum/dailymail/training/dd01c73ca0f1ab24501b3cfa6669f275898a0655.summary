@@ -1,0 +1,55 @@
+http://web.archive.org/web/20150715034651id_/http://www.dailymail.co.uk/sciencetech/article-2675798/Hundreds-European-US-energy-firms-hit-Russian-Energetic-Bear-virus-let-hackers-control-power-plants.html
+
+over 1,000 energy firms were infected with a sophisticated cyber weapon that gave hackers access to power plant control systems , it has been revealed			1
+called ' @entity7 ' , the malware was unmasked by security firm @entity8			1
+it said the software allows operators to monitor energy consumption in real time - and to cripple physical systems such as wind turbines , gas pipelines and power plants at the click of a mouse			1
+the virus infected power plant control systems , allowing operators to monitor energy consumption in real time - and to cripple physical systems such as wind turbines , gas pipelines and power plants at the click of a mouse			1
+the most ambitious attack campaign saw it compromise a number of industrial control system ( @entity29 ) equipment providers , infecting their software with a remote access - type @entity33			1
+this caused companies to install the malware when downloading software updates for computers running @entity29 equipment			2
+these infections not only gave the attackers a beachhead in the targeted organizations ’ networks , but also gave them the means to mount sabotage operations against infected @entity29 computers			0
+@entity48 uses two main pieces of malware in its attacks			2
+both are remote access tool ( @entity55 ) type malware which provide the attackers with access and control of compromised computers			2
+the attackers , known to @entity8 as @entity48 , managed to compromise a number of strategically important organizations for spying purposes and , if they had used the sabotage capabilities open to them , could have caused damage or disruption to energy supplies in affected countries			0
+the attack is believed to have compromised the computer systems of more than 1,000 organisations in 84 countries in a campaign spanning 18 months			2
+' among the targets of @entity48 were energy grid operators , major electricity generation firms , petroleum pipeline operators , and energy industry industrial equipment providers , ' @entity8 said			0
+' the majority of the victims were located in the @entity81 , @entity82 , @entity83 , @entity84 , @entity85 , @entity86 , and @entity87			0
+' the most ambitious attack campaign saw it compromise a number of industrial control system ( @entity29 ) equipment providers , infecting their software with a remote access - type @entity33			1
+this caused companies to install the malware when downloading software updates for computers running @entity29 equipment			2
+these infections not only gave the attackers a beachhead in the targeted organizations ’ networks , but also gave them the means to mount sabotage operations against infected @entity29 computers			0
+where the energetic @entity109 bit : @entity8 said the @entity81 and @entity82 were worst hit			0
+the @entity110 , which is also known by other vendors as @entity7 , appears to have been in operation since at least 2011 and may have been active even longer than that , @entity8 said			0
+' @entity48 initially targeted defense and aviation companies in the @entity81 and @entity116 before shifting its focus mainly to @entity81 and @entity119 energy firms in early 2013			0
+' ' @entity48 bears the hallmarks of a state - sponsored operation , displaying a high degree of technical capability			1
+' analysis of the compilation timestamps on the malware used by the attackers indicate that the group mostly worked between monday and friday , with activity mainly concentrated in a nine - hour period that corresponded to a 9am to 6pm working day in the @entity132 time zone			1
+' based on this information , it is likely the attackers are based in @entity136			1
+' @entity137 , a former @entity138 and military intelligence officer and founder of @entity140 , a security consultancy , told the ft : ' to target a whole sector like this at the level they are doing just for strategic data and control speaks of some form of government sanction			0
+' these are people working with @entity151 [ @entity153 ’s electronic spying agency ] ; working to support mother @entity153			0
+
+attack ' bears the hallmarks of a state - sponsored operation '
+timestamps show hackers based in @entity136
+malware has now been *identified* and can be removed
+
+@entity29:ICS
+@entity81:US
+@entity82:Spain
+@entity83:France
+@entity84:Italy
+@entity138:MI6
+@entity86:Turkey
+@entity87:Poland
+@entity153:Russia
+@entity137:Stuart Poole-Robb
+@entity136:Eastern Europe
+@entity151:Fapsi
+@entity119:European
+@entity132:UTC +4
+@entity7:Energetic Bear
+@entity8:Symantec
+@entity55:RAT
+@entity33:Trojan
+@entity110:Dragonfly group
+@entity109:Bear
+@entity140:KCS Group
+@entity116:Canada
+@entity48:Dragonfly
+@entity85:Germany

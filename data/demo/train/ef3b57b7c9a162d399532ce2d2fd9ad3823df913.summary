@@ -1,0 +1,21 @@
+http://web.archive.org/web/20140825000843id_/http://www.cnn.com/2014/08/24/world/americas/tropical-weather/
+
+-- @entity2 formed early sunday in the @entity3 , having strengthened from a tropical depression , the @entity1 said			0
+it has maximum sustained winds of 45 mph			1
+the hurricane center issued tropical storm warnings on sunday for the southeastern and central @entity9 as well as for the @entity10 and @entity11			2
+@entity12 is moving to the northwest but is expected to turn to the northeast in the coming days and miss the @entity16 coastline .			0
+
+it has maximum sustained winds of 45 mph
+tropical storm warnings have been issued in *parts* of the @entity9
+@entity24 *forecast* puts the storm east of the @entity16 early next week
+
+@entity3:Caribbean
+@entity2:Tropical Storm Cristobal
+@entity1:National Hurricane Center
+@entity0:CNN
+@entity12:Cristobal
+@entity11:Caicos Islands
+@entity10:Turks
+@entity9:Bahamas
+@entity24:NWS
+@entity16:United States

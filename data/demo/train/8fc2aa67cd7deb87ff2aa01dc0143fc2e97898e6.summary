@@ -1,0 +1,31 @@
+http://web.archive.org/web/20100824101743id_/http://www.cnn.com:80/2010/US/07/21/michigan.detroit.police.chief/?
+
+-- @entity2 , @entity3 , police chief @entity4 has resigned , the city announced wednesday			1
+" we appreciate the time and dedication that @entity4 has given to the @entity10 , " mayor @entity5 said in a statement			1
+" he has put the department on a path to reducing crime			1
+" the mayor named assistant chief @entity14 as interim police chief			1
+" i got some information on some things that had happened in our police department , " @entity5 said at news conference			2
+" i thought @entity21 , some of his decisions , i think compromised his position as chief , and because of that , i 've made the decision to replace him			0
+" @entity5 declined to go into details of what the decisions were that led to @entity4 ' resignation			0
+he would only say that the move was based on feedback both internally and externally over a period of time			0
+" it 's a combination of a lot of things that happened , " @entity5 said			0
+@entity4 came under fire in may when he allowed a reality film crew to follow officers as they executed a search warrant for a murder suspect , @entity0 affiliate @entity40 reported			1
+during the incident , an officer was accused of shooting and killing a 7 - year - old girl who was sleeping inside of the home			0
+@entity4 became the third @entity2 police within a year when he assumed the position last summer , @entity40 reported			2
+" we 've made some tremendous strides in the police department with a data - driven approach to solving crime , " @entity14 said			2
+" those things we are doing successfully , we will continue to build on			0
+
+new : mayor does not give a detailed reason for the *change*
+new : former chief was under fire for a reality *television* show
+" he has put the department on a path to reducing crime , " they mayor says of @entity4
+assistant chief named interim police chief
+
+@entity3:Michigan
+@entity2:Detroit
+@entity0:CNN
+@entity5:Bing
+@entity10:Detroit Police Department
+@entity4:Warren Evans
+@entity21:Chief Evans
+@entity40:WDIV
+@entity14:Godbee

@@ -1,0 +1,17 @@
+http://web.archive.org/web/20150717220927id_/http://www.cnn.com/2015/02/22/us/michael-phelps-engaged/
+
+record - setting @entity2 swimmer @entity1 is taking the plunge			0
+the gold medalist is engaged to girlfriend @entity5 , according to their verified social media accounts			1
+the couple announced the news early sunday morning on their @entity11 and @entity12 accounts			0
+" she said yes , " @entity13 captioned a picture of him and @entity5 cuddling in the snow .			2
+
+" she said yes , " he captions a picture of himself with girlfriend @entity5
+" i am *gon* *na* be a *mrs* , " @entity5 *posts*
+
+@entity2:Olympic
+@entity1:Michael Phelps
+@entity0:CNN
+@entity13:Phelps
+@entity5:Johnson
+@entity11:Twitter
+@entity12:Instagram

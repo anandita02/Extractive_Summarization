@@ -1,0 +1,103 @@
+http://web.archive.org/web/20150419055339id_/http://www.cnn.com/2014/10/03/opinion/schneier-apple-encryption-hysteria/
+
+-- last week @entity1 announced that it is closing a serious security vulnerability in the @entity3			1
+it used to be that the phone 's encryption only protected a small amount of the data , and @entity1 had the ability to bypass security on the rest of it			1
+from now on , all the phone 's data is protected			2
+it can no longer be accessed by criminals , governments , or rogue employees			1
+access to it can no longer be demanded by totalitarian governments			2
+a user 's @entity3 data is now more secure			1
+to hear @entity25 law enforcement respond , you 'd think @entity1 's move heralded an unstoppable crime wave			1
+see , the @entity28 had been using that vulnerability to get into peoples ' iphones			1
+in the words of cyberlaw professor @entity36 , " how is the public interest served by a policy that only thwarts lawful search warrants ? " ah , but that 's the thing : you ca n't build a " back door " that only the good guys can walk through			2
+encryption protects against cybercriminals , industrial competitors , the @entity45 secret police and the @entity28			1
+you 're either vulnerable to eavesdropping by any of them , or you 're secure from eavesdropping from all of them			2
+back - door access built for the good guys is routinely used by the bad guys			2
+in 2005 , some unknown group surreptitiously used the lawful - intercept capabilities built into the @entity56 cell phone system			2
+the same thing happened in @entity58 in 2006			2
+in 2010 , @entity45 hackers subverted an intercept system @entity61 had put into @entity62 to comply with @entity25 government surveillance requests			0
+back doors in our cell phone system are currently being exploited by the @entity28 and unknown others			0
+this does n't stop the @entity28 and @entity69 from pumping up the fear			0
+attorney general @entity71 threatened us with kidnappers and sexual predators			0
+the former head of the @entity28 's criminal investigative division went even further , conjuring up kidnappers who are also sexual predators			0
+and , of course , terrorists			0
+fbi director @entity79 claimed that @entity1 's move allows people to place themselves beyond the law " and also invoked that now overworked " child kidnapper			1
+" @entity84 , chief of detectives for the @entity87 police department now holds the title of most hysterical : " @entity1 will become the phone of choice for the pedophile			1
+" it 's all bluster			0
+of the 3,576 major offenses for which warrants were granted for communications interception in 2013 , exactly one involved kidnapping			1
+and , more importantly , there 's no evidence that encryption hampers criminal investigations in any serious way			1
+in 2013 , encryption foiled the police nine times , up from four in 2012 -- and the investigations proceeded in some other way			1
+this is why the @entity28 's scare stories tend to wither after public scrutiny			0
+a former @entity28 assistant director wrote about a kidnapped man who would never have been found without the ability of the @entity28 to decrypt an @entity3 , only to retract the point hours later because it was n't true			1
+we 've seen this game before			0
+during the crypto wars of the 1990s , fbi director @entity117 and others would repeatedly use the example of mobster @entity121 to illustrate why the ability to tap telephones was so vital			0
+but the @entity121 evidence was collected using a room bug , not a telephone tap			0
+and those same scary criminal tropes were trotted out then , too			0
+back then we called them the @entity129 of the @entity130 : pedophiles , kidnappers , drug dealers , and terrorists			0
+strong encryption has been around for years			1
+both @entity1 's @entity137 and @entity139 's @entity138 encrypt the data on computer hard drives			1
+off - the - record encrypts chat sessions			0
+@entity146 everywhere encrypts your browsing			0
+@entity150 phones already come with encryption built - in			1
+there are literally thousands of encryption products without back doors for sale , and some have been around for decades			1
+even if the @entity25 bans the stuff , foreign companies will corner the market because many of us have legitimate needs for security			1
+law enforcement has been complaining about " going dark " for decades now			1
+in the 1990s , they convinced @entity167 to pass a law requiring phone companies to ensure that phone calls would remain tappable even as they became digital			1
+they tried and failed to ban strong encryption and mandate back doors for their use			1
+the @entity28 tried and failed again to ban strong encryption in 2010			2
+now , in the @entity177 era , they 're about to try again			0
+we need to fight this			0
+strong encryption protects us from a panoply of threats			2
+it protects us from hackers and criminals			2
+it protects our businesses from competitors and foreign spies			0
+it protects people in totalitarian governments from arrest and detention			0
+this is n't just me talking : the @entity28 also recommends you encrypt your data for security			2
+as for law enforcement ? the recent decades have given them an unprecedented ability to put us under surveillance and access our data			1
+our cell phones provide them with a detailed history of our movements			0
+our call records , email history , buddy lists , and @entity214 pages tell them who we associate with			0
+the hundreds of companies that track us on the @entity218 tell them what we 're thinking about			0
+ubiquitous cameras capture our faces everywhere			0
+and most of us back up our @entity3 data on @entity225 , which the @entity28 can still get a warrant for			1
+it truly is the golden age of surveillance			0
+after considering the issue , @entity36 rethought his position , looking at this in terms of a technological - legal trade - off			0
+i think he 's right			0
+given everything that has made it easier for governments and others to intrude on our private lives , we need both technological security and legal restrictions to restore the traditional balance between government access and our security / privacy			1
+more companies should follow @entity1 's lead and make encryption the easy - to - use default			1
+and let 's wait for some actual evidence of harm before we acquiesce to police demands for reduced security .			2
+
+@entity255 : @entity1 closed serious security vulnerability in the @entity3 , enabling wide encryption
+he says law enforcement *overreacted* in saying it is a major form of protection for criminals
+law enforcement always complains about encryption but is little *stymied* by it , he says
+@entity255 : the benefits in protecting privacy far *outweigh* the costs
+
+@entity25:U.S.
+@entity28:FBI
+@entity117:Louis Freeh
+@entity139:Microsoft
+@entity255:Schneier
+@entity87:Chicago
+@entity137:FileVault
+@entity150:Android
+@entity130:Infocalypse
+@entity3:iPhone
+@entity1:Apple
+@entity0:CNN
+@entity177:post-Snowden
+@entity218:Internet
+@entity79:James Comey
+@entity56:Greek
+@entity58:Italy
+@entity71:Eric Holder
+@entity214:Facebook
+@entity36:Orin Kerr
+@entity129:Four Horsemen
+@entity121:Gotti
+@entity146:HTTPS
+@entity225:iCloud
+@entity167:Congress
+@entity142:PGP
+@entity45:Chinese
+@entity69:Justice Department
+@entity84:John J. Escalante
+@entity61:Google
+@entity62:Gmail
+@entity138:BitLocker

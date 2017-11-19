@@ -1,0 +1,58 @@
+http://web.archive.org/web/20150722113503id_/http://www.dailymail.co.uk/sciencetech/article-2102499/Google-Facebook-accused-bypassing-iPhone-privacy-spy-owners.html
+
+@entity0 : the smartphone 's safari browser is the most popular mobile web browser - @entity3 is alleged to have bypassed privacy features built into the browser @entity3 and @entity7 may have used a computer ' trick ' that allows them to monitor web browsing via @entity13 's safari browser to build up advertising ' profiles ' - circumventing @entity13 's safety measures			1
+the search giant bypassed privacy settings built into @entity13 's @entity20 web browser on @entity21 , pcs and @entity23 , according to a recent report			1
+other advertising companies , and @entity7 , reportedly used a similar method			0
+@entity20 is the most popular mobile web browser , used in all models of @entity13 's @entity21 and @entity29			1
+@entity3 allegedly circumvented the protection to build up profiles of web users , using a ' cookie ' that collected advertising information			1
+the move has caused outcry among privacy advocates			0
+it comes shortly after @entity40 privacy groups wrote to the search giant to ask it to ' halt ' a new privacy policy that would allow it to ' share ' customer data between services such as @entity47 , @entity48 and @entity49			1
+@entity3 allegedly used a ' trick ' which sends a blank message to the browser to make it accept unauthorised ' cookies '			1
+@entity13 says it is ' working to put a stop ' to the practice			2
+the code was uncovered by a @entity58 researcher @entity57 and was reported in the @entity59			0
+@entity3 has since disabled the code , and claims that the report is in error , and that its cookies only collected anonymous information			2
+the revelation caused outcry among online privacy advocates			0
+@entity69 's @entity68 says , ' coming on the heels of @entity3 's controversial decision to tear down the privacy - protective walls between some of its other services , this is bad news for the company			1
+' it 's time for @entity3 to acknowledge that it can do a better job of respecting the privacy of web users			1
+' @entity3 says that the report was in error			2
+' @entity83 mischaracterizes what happened and why , ' says a spokesperson			0
+' we used known @entity20 functionality to provide features that signed - in @entity3 users had enabled			2
+it ’s important to stress that these advertising cookies do not collect personal information			0
+' under fire : @entity3 is accused of ' bypassing ' @entity13 's privacy protection to gather advertising information ' unlike other major browsers , @entity13 ’s safari browser blocks third - party cookies by default , ' says the spokesperson			1
+' however , @entity20 enables many web features for its users that rely on third parties and third - party cookies , such as ' like ' buttons			0
+last year , we began using this functionality to enable features for signed - in @entity3 users on @entity20			0
+' to enable these features , we created a temporary communication link between @entity20 browsers and @entity3 ’s servers , so that we could ascertain whether @entity20 users were also signed into @entity3 , and had opted for this type of personalization			0
+'' however , the safari browser contained functionality that then enabled other @entity3 advertising cookies to be set on the browser			0
+we did n’t anticipate that this would happen , and we have now started removing these advertising cookies from @entity20 browsers			0
+@entity123 regulators recently wrote to @entity3 ceo @entity124 calling on the search giant to halt the introduction of its new ' one - size - fits - all ' privacy policy the policy was due to come into effect on march 1 , and would allow @entity3 to share what it knows about users between services such as @entity47 , @entity48 and @entity49			1
+the move horrified privacy advocates and bloggers - tech site @entity135 said that @entity3 would ' know more about you than your wife does ' and said the policy was ' @entity140 - ish '			2
+the @entity40 working party asked for @entity3 to stop the new policy while the working group investigate whether personal data is protected			2
+‘ we call for a pause to ensure that there can be no misunderstanding about @entity3 ’s commitments to information rights of @entity40 citizens			0
+’ ‘ given the wide range of services you offer , and the popularity of these services , changes in your privacy policy may affect many citizens in most @entity40 member states , ’ the group wrote to @entity3 chief executive @entity124 .			1
+
+search giant allegedly used ' cookie ' to monitor browsing habits
+bypassed @entity13 's safety measures
+privacy group says , ' this is bad news for the company . it 's time for @entity3 to do a better job '
+
+@entity23:Macs
+@entity20:Safari
+@entity21:iPhone
+@entity29:iPad
+@entity83:The Journal
+@entity135:ZDNet
+@entity3:Google
+@entity0:Apple iPhone 4S
+@entity7:Facebook
+@entity57:Jonathan Mayer
+@entity59:Wall Street Journal
+@entity58:Stanford University
+@entity13:Apple
+@entity124:Larry Page
+@entity123:European
+@entity140:Big Brother
+@entity47:Google Search
+@entity40:EU
+@entity68:Electronic Frontier Foundation
+@entity69:San Francisco
+@entity48:Gmail
+@entity49:YouTube

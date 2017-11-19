@@ -1,0 +1,64 @@
+http://web.archive.org/web/20150721214434id_/http://www.dailymail.co.uk/sciencetech/article-2533385/Snapchats-CEO-blames-recent-hack-Find-Friend-tool-let-users-opt-feature.html
+
+@entity1 's ceo @entity0 has come out in defence of his firm following a serious security breach involving the app 's @entity5			1
+in an interview with @entity9 - based today , the 23 - year - old admitted he was under the impression the company had done enough to resolve security issues with the app , but added : ' if you spend your time looking backwards , you 're just going to kill yourself '			0
+security experts claim @entity0 was warned ' months ago ' the app had a security hole , yet failed to respond effectively , which is being blamed for the leak of 4.6million user details on wednesday			1
+@entity1 's ceo @entity0 , left , has come out in defence of his firm following a security breach involving the app 's @entity5 , right			1
+according to @entity0 , the tool was abused by hackers to obtain phone numbers in response , the firm has announced plans to release an updated version of the app that lets users opt out of the feature			1
+the @entity5 was developed to help @entity31 find their friends ' usernames by using their mobile numbers			1
+according to @entity0 , this tool was abused by ' someone to find usernames of people that were n’t their friends '			2
+he added that the person targeted had 4.6million friends in their address book , and the hackers used this to find phone numbers			1
+previous reports have claimed @entity48 was one of the users affected by the hack , and this recent statement adds weight to the rumours it may even been his friend 's list that was compromised			0
+however , this has not been confirmed			0
+the tool is already optional , but the app update will make it possible for users to explicitly opt out of using the feature			0
+on christmas day @entity65 security research group , @entity64 revealed details of a security hole affecting the @entity1 site			1
+following news that millions of @entity1 accounts were hacked , developers have created an online tool that lets users check if their details have been compromised			2
+called @entity76 , pictured , the tool lets users enter their username before scanning the leaked list for a match a second tool , called @entity82 , pictured , lets users enter either their username or phone number to check if their account details are on the list			1
+the leaked list only featured details from @entity9 - based accounts anonymous hackers released a database of 4.6million @entity1 account details on @entity93			1
+the leak came a week after @entity1 claimed it had introduced measures to fix a security glitch , which it was told could result in users ' personal information being put at risk			2
+the group released the database via a website called @entity104 , giving people the option to download the list of usernames and phone numbers as well as their location			1
+hackers redacted the last two digits of each number , though , claiming the stunt was designed to ' raise awareness ' of the issue , not to ' encourage abuse ' for individual users			0
+however , they added that they would release the original list in ' certain circumstances			0
+' the security group revealed how the vulnerability on the site could be manipulated and added that @entity1 did not respond to their warnings when they raised the issue months ago			2
+after @entity128 published its findings , @entity1 said it took user privacy seriously and replied in a blogpost			2
+it said : ' theoretically , if someone were able to upload a huge set of phone numbers , like every number in an area code , or every possible number in the @entity9 , they could create a database of the results and match usernames to phone numbers that way			1
+yet on @entity93 , anonymous hackers released a database of numbers of phone numbers they had obtained from the app. the database was released via a website called @entity104 , and hackers gave people the option to download the list of usernames and phone numbers , as well as their location			1
+the hackers redacted the last two digits of each number , though , claiming the stunt was designed to ' raise awareness ' of the issue , not to ' encourage abuse ' for individual users			0
+a group of anonymous hackers released the phone numbers of 4.6 million @entity1 users on @entity93 in the @entity9 to ' raise awareness ' of the site 's security vulnerabilties in a statement on @entity177 , the group of hackers said : ' this information was acquired through the recently patched @entity1 exploit and is being shared with the public to raise awareness on the issue			1
+' the company was too reluctant at patching the exploit until they knew it was too late and companies that we trust with our information should be more careful when dealing with it			0
+' for now , we have censored the last two digits of the phone numbers in order to minimise spam and abuse			1
+' the group said it would consider releasing the original database , without the redacted digits , ' under certain circumstances '			0
+the hackers redacted the last two digits of each phone number on the list to avoid hacked account holders being abused			2
+however , they later said in a statement they would consider releasing the original database ' under certain circumstances ' @entity1 is a photo messaging app. it allows users to take photos , record videos and add messages and drawings			0
+messages are known as snaps and users can set a time limit on how long recipients can view their snap , ranging from one to 10 seconds			0
+the snap is then deleted from the recipient 's phone and erased from @entity1 's servers			2
+@entity219 lists the app as having been downloaded between 10 million and 50 million times			0
+following the news of the hack , developers created online tools that let users check if their details had been compromised			0
+one tool , called @entity76 , let users enter their username before scanning the leaked list for a match			0
+if the account features on the list , the person 's corresponding phone number would be displayed			0
+a second tool , called @entity82 , let users enter either their username or phone number to check if their account details made the list			1
+on christmas day an @entity65 security firm @entity64 revealed a vulnerability with the site , which could lead to users ' personal information being leaked			2
+@entity1 said it had taken action to address the issue			0
+
+@entity0 was warned his @entity76 app had a security hole
+the firm responded by issuing a blog post stating it took privacy seriously
+a week later hackers targeted the app to prove the vulnerability still existed
+some 4.6million @entity1 account details were leaked during the hack
+@entity0 blamed the hack on the ' abuse of the app 's @entity5 '
+the database includes phone numbers , usernames and locations
+
+@entity31:Snapchatters
+@entity1:Snapchat
+@entity0:Spiegel
+@entity177:Snapchat DB
+@entity5:Find Friend tool
+@entity48:Spiegel
+@entity9:U.S.
+@entity65:Australian
+@entity219:Google Play
+@entity82:Snapcheck.org
+@entity104:SnapchatDB
+@entity128:Gibson
+@entity64:Gibson Security
+@entity76:Snapchat
+@entity93:New Year 's Day

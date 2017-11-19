@@ -1,0 +1,52 @@
+http://web.archive.org/web/20101129202449id_/http://www.cnn.com:80/2010/POLITICS/10/25/voting.system.flaws/
+
+-- in a previous posting about voting issues , i mentioned @entity3 , an assistant professor of engineering and computer science at the @entity6 , whose " resume " includes hacking into voting machines in the name of exposing security flaws			1
+analysis : our votes are counted accurately -- are n't they ? at the time , his best - known exploit involved accessing a supposedly tamper - proof voting machine and getting it to play @entity16			2
+it turns out that as i was writing that , @entity3 and his students pulled off another coup , exposing vulnerabilities in an internet - based system for overseas and military voters that the @entity23 planned to test in the november election			1
+" within 36 hours of the system going live , our team had found and exploited a vulnerability that gave us almost total control of the server software , including the ability to change votes and reveal voters ' secret ballots , " @entity3 wrote on his blog			1
+this link is @entity3 's how - we - did - it			1
+along the way , @entity3 's team " collected crucial secret data stored on the server , " " modified all the ballots that had already been cast to contain write - in votes for candidates we selected , " " installed a back door that let us view any ballots that voters cast after our attack , " and -- best of all -- " left a ' calling card ' on the system 's confirmation screen , which voters see after voting			1
+" official ballot : @entity23 mock election ( pdf ) after 15 seconds , the page plays the @entity6 fight song			1
+the " @entity62 " attack on @entity23 's experiment went undetected , @entity3 said , until the fight song ( " @entity63 " ) was discovered			1
+to be fair , the people running the @entity23 pilot program made a couple of weeks available for outsiders to have a crack at their system			2
+while @entity3 and his students did their best in the name of protecting the sanctity of the voting process , it appears that there were others with potentially less - friendly motives also taking advantage of the test period			1
+testifying before the @entity81 -- in a virtually empty room , according to news reports -- @entity3 dropped this bomb : " while we were in control of these systems we observed other attack attempts originating from computers in @entity90 and @entity91			2
+these attackers were attempting to guess the same master password that we did			0
+and since it was only four letters long , they would likely have soon succeeded			0
+" @entity3 's team even changed the @entity23 system 's password ( who uses a four - letter password ? ) to thwart the foreign intrusions			1
+granted , this was a test and only a test of a small pilot program			0
+but the idea of attempts from outside of the @entity108 to compromise the security of the most basic of @entity108 rights should worry anyone who cares about the political process			0
+flaws in the @entity23 system was n't the only issue making news : the @entity118 at @entity120 's @entity119 spotlights three potential threats : voter registration problems ( 3 million people were unable to vote in 2008 because of such issues and registration efforts are notably fewer than the last election ) , ballot " security " operations ( often allegations of voter suppression or intimidation ) and voting machines			2
+another read on voter suppression concerns			0
+the controversy over the @entity136 's handling of the " @entity141 " voter intimidation case in @entity138 , @entity139 , on @entity140 2008 has not faded ; if anything , it 's grown as an issue for political conservatives			0
+the @entity145 reports that between 1997 and 2010 an estimated 800,000 people convicted of felonies regained their right to vote , as 23 states have , in varying fashions , changed their laws on the subject			0
+concerns remain about @entity108 military personnel stationed overseas getting ballots from their home states in time to vote and mail back before @entity140			0
+several states received waivers from a new requirement that ballots be mailed out by 45 days before the election , to ensure their return on time			0
+if you 're interested in following current court cases involving voting issues , check out this website from the @entity169 at the @entity170 .			0
+
+professor , students expose vulnerabilities in internet - based voting system
+@entity3 's team modified online ballots ; had page play @entity6 fight song
+@entity3 says other hackers were guessing at password , and likey would have succeded
+
+@entity23:D.C.
+@entity81:D.C. Board of Ethics and Elections
+@entity139:Pennsylvania
+@entity138:Philadelphia
+@entity136:Justice Department
+@entity119:School of Law
+@entity118:Brennan Center for Justice
+@entity3:Halderman
+@entity170:Ohio State University
+@entity0:CNN
+@entity6:University of Michigan
+@entity120:New York University
+@entity16:Pac-Man
+@entity108:U.S.
+@entity91:China
+@entity90:Iran
+@entity145:Sentencing Project
+@entity140:Election Day
+@entity141:Black Panther
+@entity169:Moritz College of Law
+@entity62:Wolverines
+@entity63:Hail to the Victors

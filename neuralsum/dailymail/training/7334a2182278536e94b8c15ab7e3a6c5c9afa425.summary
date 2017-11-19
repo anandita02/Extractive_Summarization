@@ -1,0 +1,83 @@
+http://web.archive.org/web/20150420090559id_/http://www.dailymail.co.uk/sciencetech/article-2562561/How-moon-faster-access-internet-Nasa-reveals-gangbusters-experiment-beam-HD-video-space.html
+
+@entity0 and @entity1 has given a spacecraft orbiting the moon a super high speed internet connection far faster than most users on @entity6			2
+the team admit they were stunned by the results , which pave to way for 3d video and remote robotic exploration of other moons and planets			1
+the team say their groundbreaking test ' worked like gangbusters '			2
+radio - frequency systems used for space communications today are usually tens of times slower			2
+' it worked like gangbusters , ' @entity32 , who led the @entity34 design team at @entity35 , and presented the demo ’s results at the @entity39 conference said			2
+@entity43 and @entity35 engineers tested the first - ever two - way laser link between the moon and the earth for about a month , according to @entity47			1
+' the system did what it needed to do , ' @entity32 said			0
+' the concept is right , and the system is reliable			0
+we think it ’s ready for prime time			0
+' @entity43 ’s follow - up laser communication mission , the @entity56 ( @entity57 ) , which is scheduled for launch in 2017 , will attempt to establish laser links at a rate of over 1 gigabit per second between @entity6 and a satellite in geosynchronous orbit ( which is ten times closer than the moon )			1
+@entity43 is planning to ditch primitive radio transmissions and start communicating with lasers in space			1
+the experiment is part of the @entity70 ( @entity34 ) mission which will be hosted aboard @entity73 satellite ( pictured ) the @entity57 will operate for five years in order to demonstrate the reliability of laser communication technology			1
+as well as hd video it could , for instance , also allow humans to remotely control machines for tasks such as asteroid mining or building structures on the moon			1
+@entity34 is @entity43 ’s first dedicated system for two - way communication using laser instead of radio waves			1
+‘ the goal of the @entity34 experiment is to validate and build confidence in this technology so that future missions will consider using it , ’ said @entity89 , @entity34 manager			2
+video : an overview of the @entity34 mission ‘ we can even envision such a laser - based system enabling a robotic mission to an asteroid , ’ he added			1
+‘ it could have @entity105 , high - definition video signals transmitted to @entity6 providing essentially “ telepresence ” to a human controller on the ground			2
+’ since @entity43 first ventured into space , radio frequency ( @entity111 ) communication has been the communications platform used			1
+but it is now reaching its limit as demand for more data capacity increases			0
+according to @entity43 , laser communication would be less likely to suffer from interference , another limitation of radio frequency ( @entity111 ) signals			1
+‘ @entity34 is designed to send six times more data from the moon using a smaller transmitter with 25 per cent less power as compared to the equivalent state - of - the - art radio ( @entity111 ) system , ’ said @entity89			0
+a primary ground terminal at @entity43 's @entity131 in @entity132 will receive and transmit signals ‘ lasers are also more secure and less susceptible to interference and jamming			1
+’ the @entity34 experiment is hosted aboard @entity43 ’s @entity73 : a 100 - day robotic mission designed , built , integrated , tested and will be operated by @entity138			1
+the @entity73 spacecraft will take 30 days to reach the moon because of its flight path			0
+@entity34 will begin operations shortly after arrival into lunar orbit and continue for 30 days afterward			2
+@entity34 ’s main mission objective is to transmit hundreds of millions of bits of data per second from the moon to @entity6			0
+this is equivalent to transmitting more than 100 @entity149 television channels simultaneously			0
+@entity34 receiving capability will also be tested as tens of millions of bits per second are sent from @entity6 to the spacecraft			0
+an mit team designed , built , and tested the terminal			0
+they will be responsible for @entity34 's operation at that site there is a primary ground terminal at @entity43 ’s @entity131 in @entity132 , to receive and transmit @entity34 signals			1
+an mit team designed , built , and tested the terminal			0
+they also will be responsible for @entity34 ’s operation at that site			0
+there are two alternate sites , one located at @entity43 ’s @entity168 in @entity169 , which is for receiving only			1
+the other is being provided by the @entity19 on the @entity171 island of @entity172 , off the coast of @entity174			0
+it will have two - way communication capability with @entity34			0
+' having several sites gives us alternatives which greatly reduces the possibility of interference from clouds , ' said @entity89			0
+@entity43 engineers believe this technology is even more exciting for communications beyond @entity6 ’s orbit			1
+in the past , @entity43 has experimented with sending low amounts of individual pulses to cameras on far - away space probes near @entity191 , @entity192 , and @entity193			1
+recently , an image of @entity196 ’s painting , the @entity197 , was transmitted to @entity43 ’s @entity198 ( @entity198 ) spacecraft orbiting the moon			2
+‘ but this was done at only hundreds of data bits per second , ’ said @entity89			0
+‘ @entity34 will be the first dedicated optical communication system and will send data millions of times faster			0
+
+' @entity70 ' paves the way for 3d video to be sent back from orbit
+@entity43 said connection reached speeds of 622 megabits per second
+could allow humans to remotely control robots for asteroid mining missions
+
+@entity20:OGS
+@entity21:Lunar Lasercom Optical Ground System
+@entity138:Ames
+@entity111:RF
+@entity89:Cornwell
+@entity131:White Sands Complex
+@entity132:New Mexico
+@entity171:Spanish
+@entity1:MIT
+@entity0:Nass
+@entity6:Earth
+@entity198:LRO
+@entity197:Mona Lisa
+@entity196:Leonardo da Vinci
+@entity193:Mercury
+@entity192:Mars
+@entity191:Jupiter
+@entity57:LCRD
+@entity56:Laser Communication Relay Demonstration
+@entity70:Lunar Laser Communication Demonstration
+@entity73:LADEE
+@entity32:Boroson
+@entity35:Lincoln Lab
+@entity34:LLCD
+@entity39:SPIE Photonics West
+@entity19:European Space Agency
+@entity18:Optical Ground Station
+@entity172:Tenerife
+@entity105:3D
+@entity174:Africa
+@entity168:Jet Propulsion Laboratory
+@entity169:California
+@entity149:HD
+@entity47:Spectrum IEEE
+@entity43:Nasa

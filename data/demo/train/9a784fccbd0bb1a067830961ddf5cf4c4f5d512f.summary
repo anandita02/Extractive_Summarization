@@ -1,0 +1,25 @@
+http://web.archive.org/web/20090609084351id_/http://www.cnn.com/2009/WORLD/americas/04/11/bolivia.president.hunger.strike/index.html
+
+-- @entity2 president @entity1 on sunday pledged to continue his hunger strike until monday , when @entity4 -- including the opposition - led @entity5 -- is set to reconvene			1
+@entity1 on hunger strike at the presidential palace in @entity2 's capital , @entity10			0
+@entity12 ' speech , televised by a state - run station , was his first formal address to the nation since starting the strike thursday in the government palace			2
+more than three days into the strike , @entity12 appeared healthy during his address			0
+the president wants the opposition - led @entity5 to set a date for general elections that are expected to give him another five - year term			1
+@entity12 on friday called on opposition members -- who walked out of the @entity4 in mid-session late thursday -- to pass the election law , the government - run @entity25 said			0
+the nation 's first indigenous president reportedly carried out an 18 - day hunger strike in 2002 , when he was expelled from @entity4 .			2
+
+@entity1 initiated his hunger strike thursday in the @entity34
+opposition - *controlled* @entity5 yet to pass law setting *december* date for vote
+general election expected to give him another five - year term
+@entity12 is the @entity45 nation 's first indigenous president
+
+@entity2:Bolivia
+@entity1:Evo Morales
+@entity0:CNN
+@entity12:Morales
+@entity5:Senate
+@entity25:Bolivian Information Agency
+@entity10:La Paz
+@entity45:South American
+@entity4:Congress
+@entity34:Government Palace

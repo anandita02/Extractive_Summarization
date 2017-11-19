@@ -1,0 +1,56 @@
+http://web.archive.org/web/20141017085858id_/http://www.cnn.com:80/2013/10/30/tech/innovation/hive-minds-how-swarm-robots
+
+-- in the dystopian future imagined within the popular terminator franchise , robots learn to think , self - replicate and eventually kill their human masters			1
+while this bleak vision assumes a number of seemingly distant technological and political developments , some ideas currently driving robotics research may , for some , bear an uncomfortable resemblance to those of the 80s sci - fi smash			0
+in particular , one area where life seems to be imitating art is the fledgling field of ' swarm robotics ' , in which scientists are creating teams of robots that can work together toward a single goal -- from mending a leak to clearing mines -- with minimal or no input from humans			1
+much of the research is based on the observed behavior of ' eusocial ' insects -- such as ants , bees and termites -- who work collectively on complex tasks without central management or higher order intelligence			1
+consider for a moment a typical termite nest -- with its labyrinth of chambers and intersecting corridors			0
+it 's built entirely by vast teams of micro-sized , speck - brained creatures ( no disrespect ) -- without so much as a blueprint to work from			1
+so , the question for researchers is : how can we emulate this type of behavior in robots to help us solve problems and generally make our lives easier ? recently , researchers at @entity54 ( @entity54 ) unveiled 'm - blocks ' - robots that can assemble themselves into different shapes to perform a range of basic tasks , without input from a human controller			1
+while m - blocks may not look particularly inspiring , the way they reshape is the first step toward a future where robots rebuild themselves to solve new problems			1
+an @entity69 - based robot working underwater might make itself narrow to fit through a deep sea crevasse , or a tiny team of medical robots could spread themselves flat to plug a gap in the human heart -- all without having been pre-programmed to do so			1
+at the moment researchers are still working to make teams of robots complete more basic tasks			2
+@entity81 researchers , for example , are using swarms of robots to fetch , carry and push objects in unison			0
+dr @entity85 , head of the @entity86 at the @entity81 , says : " we are developing artificial intelligence to control robots in a variety of ways			0
+the key is to work out what is the minimum amount of information needed by the robot to accomplish its task			2
+that 's important because it means the robot may not need any memory , and possibly not even a processing unit , so this technology could work for nanoscale robots -- for example in medical applications			1
+" some of the most interesting applications for swarm robotics exist where robots go beyond the realm of easy human reach , say into space or under the sea , or -- as @entity85 says -- inside the human body to perform medical tasks at a microscopic or ' nano ' scale			2
+@entity116 , a postdoctoral researcher at @entity117 has been working on an experiment ( that you can join in here ) to test different ways swarm robots can be deployed , with a view to seeing ' nano - robots ' eventually used in medical operations			1
+the project seeks to demonstrate how teams of robots could be utilized with minimal input from the outside world , possibly beneath the surface of the skin in a bid to tackle disease			2
+but how might this be done ? researchers at the @entity133 in @entity134 are looking at using swarms of miniature drones to fight pathogens within the human body			0
+@entity139 , the laboratory 's research chair , believes that preliminary research conducted in his lab could lead to future treatments where small magnetic robots are inserted into the body to fight cancer			2
+other researchers are investigating ways to use swarming robots in diagnosis , so that problems are detected before they become life threatening			0
+@entity116 believes that in future , swarms of nano - robots might even come to be used in surgery : " if we can shrink the surgeon and their tools while maintaining their effectiveness , non-invasive surgery could revolutionize health care			0
+i want to be a part of that dream , " @entity116 says			0
+@entity168 , a member of the @entity169 at @entity170 in @entity171 , @entity167 says that there are plenty of worthy applications for swarm robots , but some scientists working in the field worry that their research may end up being used for military purposes : " some potential application areas for swarms of robots are : cooperative search in disaster sites to support rescue efforts , pollution detection and monitoring , mine clearing , exploration , mapping and dynamic motion capture for the film industry , " he says			1
+" however , all this comes at a cost as this technology also will be exploited by defense agencies all over the world			0
+( for example ) the @entity198 has investigated how the hunting strategies of wolf packs , coyotes and killer whales can be used in military contexts			0
+the @entity205 is also investigating how one can use miniature robotic mosquitoes in the same context			0
+" and while the apocalyptic events of @entity210 's @entity209 : @entity209 are relatively unlikely , it is reassuring that many within the swarm robotics community are determined that their work will be applied to the right ends : " the big challenge , " @entity221 says , " is not only to formulate technologies that can be used in the real world , but also to ensure that swarm robotics technology will be used for the betterment of mankind			2
+
+scientists are building robots that can work in teams
+' swarm robots ' operate like hive insects such as ants , termites or bees
+@entity54 's m - blocks robot can self - assemble to solve different problems
+swarm robots could be used in search and rescue , medicine and space exploration
+
+@entity171:Melbourne
+@entity170:Monash University
+@entity221:Barca
+@entity0:CNN
+@entity210:James Cameron
+@entity167:Australia
+@entity198:U.S. Defense Force
+@entity134:Montreal
+@entity168:Jan Carlo Barca
+@entity169:Swarm Robotics Laboratory
+@entity69:M-Blocks
+@entity117:Rice University
+@entity116:Becker
+@entity209:Judgment Day
+@entity139:Sylvain Martel
+@entity85:Gross
+@entity86:Natural Robotics Lab
+@entity54:MIT
+@entity81:University of Sheffield
+@entity133:Nanorobotics Laboratory
+@entity205:Israeli Defense Force

@@ -1,0 +1,29 @@
+http://web.archive.org/web/20141213231811id_/http://www.cnn.com/2014/11/09/showbiz/matt-damon-bourne/
+
+-- actor @entity1 confirmed that he will return to the role of @entity3 in 2016 after stepping out of the spotlight for the fourth installment of the popular action series			1
+@entity1 's buddy @entity7 let the cat out of the bag in a red carpet interview friday with @entity11 news			1
+the two were joking about whether they treat each other differently when one is in better shape than the other , when @entity7 ( intentionally or not ) let the news slip			0
+" well , ( @entity1 's ) going to be doing a @entity3 movie next fall when i 've just completely lost any semblance of physical fitness			1
+so -- " @entity7 told @entity11 news			2
+" yes , next year , " @entity1 responded to @entity11 news when asked for clarification			1
+" it 'll be in 2016 when the movie will actually come out			0
+( director ) @entity27 is going to do another one and that 's all i ever said			0
+i just needed him to say yes			0
+" @entity1 played the title role of @entity33 assassin @entity3 in the first three installments of the series based on @entity37 's popular spy novels			2
+the fourth movie , 2012 's " @entity41 , " centered on @entity33 agent @entity39 , played by @entity40 .			0
+
+@entity1 tells @entity11 news that he will *reprise* role as @entity3
+@entity1 stepped out of the spotlight for the fourth installment in the @entity3 *franchise*
+" it 'll be in 2016 when the movie will actually come out , " @entity1 tells @entity11
+
+@entity3:Bourne
+@entity1:Damon
+@entity0:CNN
+@entity7:Affleck
+@entity27:Paul Greengrass
+@entity11:E !
+@entity39:Aaron Cross
+@entity33:CIA
+@entity37:Robert Ludlum
+@entity40:Jeremy Renner
+@entity41:The Bourne Legacy

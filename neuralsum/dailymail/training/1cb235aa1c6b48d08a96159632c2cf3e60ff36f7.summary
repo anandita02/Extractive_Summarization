@@ -1,0 +1,53 @@
+http://web.archive.org/web/20140915221224id_/http://www.dailymail.co.uk/sciencetech/article-2733898/Is-YOUR-Gmail-account-risk-Researchers-s-possible-hack-accounts-92-success-rate-method-works-ANY-smartphone.html
+
+by @entity0 for @entity1 smartphone users are increasingly aware of the need to take precautions to protect their personal data			0
+but now a team of researchers have identified a new weakness in @entity9 , @entity10 and @entity12 mobile operating systems that could be used to steal personal information from unsuspecting users			1
+experts found the method was successful 92 per cent of the time when they tried to hack @entity20 accounts and said that other apps were also easily accessible using the new technique			1
+they found that their method was successful 92 per cent of the time when they tried to hack @entity20 accounts ( stock image ) and said that other apps were also easily accessible scientists at the @entity35 , @entity36 and the @entity37 demonstrated the hack in an @entity9 phone			1
+they found it was successful between 82 per cent and 92 per cent of the time on six of the seven popular apps they tested , including @entity20 , @entity43 and @entity44 - a tax filing app. @entity47 was the only app they tested that was difficult to penetrate , with just a 48 per cent success rate			2
+the experts predicted there was a security risk with so many apps running on the same shared operating system , which gave them the idea of pinpointing the vulnerability			2
+‘ the assumption has always been that these apps ca n't interfere with each other easily , ’ said @entity59 , of the @entity60 at @entity61			0
+‘ we show that assumption is not correct and one app can in fact significantly impact another and result in harmful consequences for the user			0
+’ the hack works by accidentally downloading a malicious app , which gives a hacker access to a newly - discovered public side channel - numbers describing the shared memory of a process , which can accessed without asking a smartphone user ’s permission			1
+this shared memory is a common operating system feature in @entity10 , @entity9 ( pictured left ) and @entity12 ( right ) operating systems the computer scientists found their hacking technique was successful between 82 per cent and 92 per cent of the time on six of the seven popular apps they tested			1
+these included : @entity20 - 92 per cent @entity44 - 92 per cent @entity87 - 86 per cent @entity88 - 85 per cent @entity43 - 83 per cent @entity89 - 83 per cent @entity47 - 48 per cent researchers hacked into apps by getting a mobile user to download a seemingly benign - but in fact malicious - app such as one for background wallpaper on a phone			1
+once it was installed , the experts could exploit a newly discovered ' public side channel ' containing a shared memory of processes , which can be accessed without asking a smartphone user ’s permission			1
+they said that shared memory is a common operating system feature , which efficiently allows processes to share data			2
+while they only used it to exploit the @entity9 system , the experts believe the method would work on @entity113 and @entity10 operating systems too			1
+the experts monitored changes in the shared memory and linked them to users ’ actions such as logging into @entity20 or taking a picture of a cheque they wanted to deposit via the @entity43 app. they showed that it is possible to track which apps people are using in real time			1
+to keep smartphones as secure as possible , dr @entity59 advises users not to install untrusted apps , which could give hackers ( illustrated with a stock image ) access			0
+he said that in the future , side channels should be eliminated or more carefully regulated within operating systems in order to launch an attack , they started the hack at the precise moment the user logged into an app or took a photo and they did this inconspicuously by calculating the timing			2
+‘ by design , @entity9 allows apps to be pre-empted or hijacked , ’ dr @entity59 said			0
+‘ but the thing is , you have to do it at the right time so the user does n't notice			0
+we do that and that 's what makes our attack unique			0
+’ he explained that @entity47 ’s app was more difficult to attack because it allows one activity to lead to almost any other activity , which increases the difficulty of guessing which activity someone will conduct next			0
+to keep smartphones as secure as possible , dr @entity59 advised users not to install untrusted apps			0
+he said that side channels should be eliminated or more carefully regulated and operating systems more carefully designed to enable them to be easy to use , but also secure			2
+@entity1 has contacted @entity168 for comment .			0
+
+researchers at the @entity35 , @entity36 and the @entity37 identified a new weakness
+vulnerability affects @entity10 , @entity12 and @entity9 operating systems
+method was 92 *%* successful in hacking @entity20 accounts , in the *scenario*
+they exploited a newly discovered public side channel *–* which details shared memory used to make apps work efficiently - and is easily accessible
+the attack relied on ' users ' downloading a malicious app and the hackers timing their attacks precisely to correspond to useful actions
+
+@entity20:Gmail
+@entity0:Sarah Griffiths
+@entity35:University of California
+@entity12:iOS
+@entity37:University of Michigan
+@entity10:Windows
+@entity9:Android
+@entity36:Riverside Bourns College of Engineering
+@entity1:MailOnline
+@entity43:Chase Bank
+@entity44:H&R Block
+@entity47:Amazon
+@entity113:Apple
+@entity87:Newegg
+@entity88:WebMD
+@entity89:Hotels.com
+@entity59:Qian
+@entity168:Google
+@entity60:Computer Science and Engineering Department
+@entity61:UC Riverside

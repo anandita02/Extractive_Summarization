@@ -1,0 +1,60 @@
+http://web.archive.org/web/20140915132107id_/http://www.dailymail.co.uk/sciencetech/article-2561792/Email-Miles-tracks-distance-message-travelled-revealing-indirect-routes-emails-reaching-inbox.html
+
+by @entity1 reporter most people do n’t think twice about what happens to an email after they press send			0
+emails seem to appear instantly , but the reality is they often have long and indirect journeys through thousands of miles of cables - and a new program has been designed to help people visualise this arduous journey			1
+dubbed @entity13 , the email plug - in uses gps technology and internet tracking to log where a message was sent and where it was received			2
+this gif shows the indirect route taken by an email sent from @entity28 to @entity29 , which travelled via @entity30 , @entity31 and @entity32 @entity13 is a free plug - in for email programs such as @entity35 ’s @entity1 and @entity37 's @entity36			1
+when an email is sent , the location of the server sending the message is tagged into the code of the mail			2
+@entity13 scans an email for this so - called @entity46 tag			1
+every time an email is received by a new server , the new location tag is added to the email			2
+@entity52 's plug - in tracks the different server locations of the emails and calculates the distance , in miles , between the two using gps co-ordinates			1
+the distance is direct , from one point to another , and may not account for the length and shape of the cables it passes through			0
+the nature of email and web traffic means that for emails to travel long distances , it sometimes has to be passed through different servers as it enters and leaves different countries			1
+this is because different companies manage different network cables			0
+@entity13 then adds the location information to emails automatically			2
+it then calculates the total distance between the two and displays it on a monitor			2
+when an email is sent , the location of the server sending the message is tagged into the code of the mail			2
+@entity13 scans an email for this so - called @entity46 tag			1
+every time an email is received by a new server , the new location tag is added to the email			2
+@entity52 's plug - in tracks the different server locations of the emails and calculates the distance , in miles , between the two using gps co-ordinates			1
+inventor @entity100 hopes the program will ensure users do not take for granted how quickly we can communicate with one another in the modern world			0
+@entity52 , a 39 - year - old design lecturer from @entity28 , said : ' @entity13 is a programme you download which then works to show the miles your emails travel			1
+' ' information is ubiquitous , but the speed and transmission of this information is typically invisible to people who have no conception of the infrastructure involved , ' he added			0
+' the project looks to make those physical locations and separations more tangible and thus to change how people perceive their online communications , ' he went on to say			0
+the nature of web traffic means that for emails to travel long distances , they sometimes have to be passed through different servers as they enter and leave countries			1
+this is because different companies manage different cables			0
+@entity13 tracks the server locations and calculates the distance , in miles , between them after tracking the emails , @entity13 adds the location information and miles to emails automatically , pictured one of the program 's more interesting revelations is how indirect the route of many emails can be			1
+for example , an email sent from @entity28 to @entity29 in @entity144 travelled a total of 12,115 miles - much further than the actual distance between the two cities			1
+this is because the email first travelled 790 miles west to @entity30 , then another 2,163 miles west to @entity151 in @entity31			0
+after that it finally started making its way back east - first 1,699 miles to @entity32 , then 4,745 miles to @entity154 , before eventually heading 2,718 miles south into the @entity156 city			0
+the nature of email and web traffic means that for emails to travel long distances , it sometimes has to be passed through different servers as it enters and leaves different countries			1
+this is because different companies manage different network cables			0
+@entity52 claims the program does all of its time and distance calculations using the internet and a coordinate mapping system			0
+' @entity13 is beneficial because it adds a physical component to a phenomenon like email that is perceived as purely virtual , ' he said			0
+@entity52 has set up a @entity176 campaign to raise money to make the plug - in widely available .			0
+
+program allows users to track exact route an email has taken to their inbox
+emails often travel thousands of miles in *wrong* direction before arriving
+this is because web traffic and cables are owned by different companies
+as an email leaves one server and travels to the next , the gps location of each server is ' tagged ' into the email 's code
+@entity13 scans each email for these so - called @entity46 tags
+it calculates the distance between points , and the total distance travelled
+
+@entity31:California
+@entity30:Chicago
+@entity1:Mail
+@entity32:Dallas
+@entity13:Email Miles
+@entity37:Google
+@entity36:Gmail
+@entity144:Senegal
+@entity28:New York
+@entity29:Dakar
+@entity100:Jonah Brucker-Cohen
+@entity52:Brucker-Cohen
+@entity46:Geolocation
+@entity176:FundAnthing
+@entity35:Apple
+@entity151:Mountain View
+@entity156:West African
+@entity154:London

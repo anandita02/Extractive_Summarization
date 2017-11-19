@@ -1,0 +1,80 @@
+http://web.archive.org/web/20150515112710id_/http://www.dailymail.co.uk/sciencetech/article-2715964/Cyber-hacker-figured-hack.html
+
+a @entity1 - based hacker claims to have found a way to infiltrate communication systems on planes through @entity5 and inflight entertainment systems			1
+@entity7 , a consultant with cyber security firm @entity9 , is scheduled to explain his method at this week 's @entity11 hacking conference in @entity13			1
+if his claim is confirmed , it could prompt a serious review of aircraft security			0
+exposing threats : cybersecurity researcher @entity7 says he has figured out how to hack the satellite communications equipment on passenger jets through their @entity5 and inflight entertainment systems ' these devices are wide open			1
+the goal of this talk is to help change that situation , ' mr @entity7 , 32 , told @entity27			2
+the researcher said he discovered the vulnerabilities by ' reverse engineering ' - or decoding - highly specialised software known as firmware , used to operate communications equipment			2
+this equipment is made by companies including @entity36 , @entity37 , @entity39 's @entity38 , @entity40 and @entity41 in theory , a hacker could use a plane 's onboard @entity5 signal or inflight entertainment system to hack into its avionics equipment , potentially disrupting or modifying satellite communications			1
+this could interfere with the aircraft 's navigation and safety systems , mr @entity7 said			1
+risk : in theory , study shows a hacker could use a plane 's onboard @entity5 signal or inflight entertainment system to hack into its avionics equipment , potentially disrupting or modifying satellite communication cyber security experts believe it ’s too early to say for certain			1
+mr @entity7 admits he does n’t know how practical his hack would be in the real world			1
+he has only been able to create the exploit in a lab setting			0
+but if his method proves successful , the hack could give would criminals access to a plane 's navigation system			2
+manufacturer , @entity71 - whose aviation 700 aircraft equipment was the focus of the research - said hackers must have physical access to @entity36 's equipment for the hack to be successful			2
+more will be known later this week when mr @entity7 reveals how he hacked the equipment			1
+mr @entity7 said he decided to go public to encourage manufacturers to fix what he saw as risky security flaws			2
+he acknowledged that his hacks have only been tested in controlled environments , such as @entity9 's @entity86 laboratory , and they might be difficult to replicate in the real world			0
+mr @entity7 said he decided to go public to encourage manufacturers to fix what he saw as risky security flaws			2
+representatives for @entity36 , @entity37 , @entity90 and @entity40 said they had reviewed mr @entity7 's research and confirmed some of his findings , but downplayed the risks			1
+for instance , @entity36 , whose aviation 700 aircraft satellite communications equipment was the focus of @entity97 's research , said it is not possible for hackers to use @entity5 signals to interfere with critical systems that rely on satellite communications for navigation and safety			1
+the hackers must have physical access to @entity36 's equipment , according to @entity36 spokesman @entity109			0
+' in the aviation and maritime markets we serve , there are strict requirements restricting such access to authorised personnel , ' said mr @entity109			0
+forced to re-evaluate : details are sketchy about how the hack was done			2
+mr @entity7 has revealed that one vulnerability in equipment from all five manufacturers was the use of ' hardcoded ' log - in credentials details are still sketchy about how the hack was done			1
+mr @entity7 , however , has revealed that one vulnerability in equipment from all five manufacturers was the use of ' hardcoded ' log - in credentials			2
+these are designed to let service technicians access any piece of equipment with the same login and password			0
+the problem is that hackers can retrieve those passwords by hacking into the firmware , then use the credentials to access sensitive systems , mr @entity7 said			1
+a @entity41 spokesman declined to comment , saying information on such vulnerabilities was not public			0
+@entity11 , which was founded in 1997 , has often been a venue for hackers to present breakthrough research			2
+in 2009 , @entity143 and @entity144 demonstrated a method for attacking iphones with malicious text messages , prompting @entity148 to release a patch			0
+in 2011 , @entity150 demonstrated methods for attacking @entity153 's insulin pumps , which helped prompt an industry review of security			0
+mr @entity7 published a 25 - page research report in april that detailed what he said were multiple bugs in firmware used in satellite communications equipment , including aerospace , military , maritime transportation , energy and communications			1
+the report laid out scenarios by which hackers could launch attacks , though it did not provide the level of technical details that mr @entity7 said he will disclose at @entity11			1
+@entity37 spokesman @entity172 said the company had reviewed @entity97 's paper			0
+' we concluded that the risk of compromise is very small , ' he said			0
+fear of flying : @entity179 , a member of @entity11 's board said : ' the type of vulnerabilities he discovered are pretty scary just because they involve very basic security things that vendors should already be aware of ' @entity40 spokesman @entity186 said , ' we have determined that the risk to @entity40 subscribers is minimal , but we are taking precautionary measures to safeguard our users			1
+' one vulnerability that @entity7 said he found in equipment from all five manufacturers was the use of ' hardcoded ' log - in credentials			0
+these are designed to let service technicians access any piece of equipment with the same login and password			0
+the problem is that hackers can retrieve those passwords by hacking into the firmware , then use the credentials to access sensitive systems , mr @entity7 said			1
+@entity90 spokeswoman @entity207 said hardcoded credentials were ' a necessary ' feature for customer service			0
+the worst a hacker could do is to disable the communication link , she said			0
+mr @entity7 said he will respond to the comments from manufacturers during his presentation , then take questions during an open q&a session after his talk			0
+@entity179 , a member of @entity11 's review board , said mr @entity7 's paper marked the first time a researcher had identified potentially devastating vulnerabilities in satellite communications equipment			1
+' i am not sure we can actually launch an attack from the passenger inflight entertainment system into the cockpit , ' he said			1
+' the core point is the type of vulnerabilities he discovered are pretty scary just because they involve very basic security things that vendors should already be aware of			0
+' threat : as technology advances so do threats on international security			0
+mr @entity7 said he will respond to the comments from manufacturers during his presentation			0
+
+security researcher @entity7 says he has figured out how to hack the satellite communications on passenger jets through their @entity5
+communications can also be hacked through inflight entertainment systems
+@entity7 is scheduled to lay out the technical details of his research at this week 's @entity11 hacking conference in @entity13
+
+@entity27:Reuters
+@entity86:Madrid
+@entity153:Medtronic Inc
+@entity150:Jay Radcliffe
+@entity1:Berlin
+@entity172:Jim Burke
+@entity7:Santamarta
+@entity11:Black Hat
+@entity5:WiFi
+@entity179:Vincenzo Iozzo
+@entity9:IOActive
+@entity71:Combam
+@entity13:Las Vegas
+@entity37:Harris
+@entity36:Cobham
+@entity39:EchoStar Corp
+@entity38:Hughes Network Systems
+@entity97:Santamarta
+@entity109:Caires
+@entity207:Judy Blake
+@entity90:Hughes
+@entity144:Collin Mulliner
+@entity143:Charlie Miller
+@entity148:Apple Inc
+@entity186:Diane Hockenberry
+@entity40:Iridium
+@entity41:Japan Radio Co

@@ -1,0 +1,29 @@
+http://web.archive.org/web/20140217130624id_/http://www.cnn.com:80/2012/05/16/tech/web/google-search-knowledge-graph
+
+-- so , let 's say you 're doing a @entity4 search for " @entity5			1
+" did you mean the @entity7 hockey team or the @entity9 basketball team ? maybe the tv show ? or maybe you actually wanted to know something about monarchs			0
+@entity4 on wednesday announced @entity13 , a significant change to how search results are delivered that the company believes will make their search engine think more like a human			1
+" the web pages we [ currently ] return for the search ' kings , ' they 're all good , " @entity19 , director of product management at @entity4 , told @entity0 in an interview			1
+" you , as a human , associate those words with their real - world meaning but , for a computer , they 're just a random string of characters			0
+" with @entity13 , which will begin rolling out to some users immediately , results will be arranged according to categories with which the search term has been associated			1
+so , in the above example , boxes will appear with separate results for the hockey team , basketball team and tv show			0
+the user can then click on one of those boxes to only get results for the specific topic they were searching			0
+" it hones your search results right in on the task that you 're after , " @entity19 said			0
+more specific searches , say for the name of a celebrity , will render boxes with basic information , as well as links to what @entity4 believes are possibly related searches			2
+@entity19 says the initial version of @entity13 has information on 500 million people , places and things and uses 3.5 billion defining attributes and connections to create categories for them			2
+the feature will begin rolling out as early as wednesday afternoon for some users in the @entity71 and eventually be available on desktop , mobile and tablet searches			1
+it will first become available in @entity75 , then in other languages , @entity19 said .			0
+
+@entity4 *introduces* @entity13 , a *revamped* effort to make search more *intuitive*
+new tool divides search terms into most likely categories
+@entity13 begins rolling out wednesday to users in the @entity71
+
+@entity0:CNN
+@entity13:Knowledge Graph
+@entity5:Kings
+@entity4:Google
+@entity9:Sacramento
+@entity19:Menzel
+@entity75:English
+@entity7:L.A.
+@entity71:U.S.

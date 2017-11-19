@@ -1,0 +1,69 @@
+http://web.archive.org/web/20150522101729id_/http://www.dailymail.co.uk/sciencetech/article-2725893/Are-apps-secretly-listening-calls-Security-experts-discover-gyroscopes-identify-voices-VIBRATIONS.html
+
+many people are careful to protect their pin numbers , and are vigilant about giving smartphone apps access to their microphone in case they could be listened in on			1
+but now there ’s a new snooping threat , and it comes from a smartphone 's gyroscope			2
+experts say gyroscopes can be turned into crude microphones that can pick up on phone conversations with the aid of specialist software			1
+gyroscopes are used by smartphones for everything from screen orientation to gaming , and unlike with the phone ’s microphone , no explicit permission is needed from third parties to access them			1
+always listening : experts say that gyroscopes - which are used to steer cars in smartphone games such as @entity28 ( pictured ) - can be turned into crude microphones that can pick up on phone conversations with the aid of specialist software computer scientists from @entity33 and @entity35 defence research group @entity36 told @entity37 that gyroscopes can also pick up the frequency of soundwaves around them			1
+@entity43 software , for example , reads movement at @entity45 , which means its sensors can detect vibrations within the range of human voices - typically 80 to @entity51			1
+@entity52 limits this frequency range to the minimum needed for the app. during tests , vibrations were decoded using voice recognition software , making it possible for experts to eavesdrop on phone conversations - albeit less clearly than if they tapped into a phone ’s microphone			1
+when tested , the scientists found the custom - build software could identify around 65 per cent of numbers spoken in the same room as a hacked phone			1
+the technology is not yet honed enough to pose as great a threat as a microphone			2
+but , experts said advancing speech recognition algorithms could soon mean it could be an equally effective eavesdropping tool			2
+@entity75 , @entity76 , @entity77 , part of @entity77 , told @entity79 : ' the headlines will certainly raise alarm amongst smartphone users and certainly the refinement of the hack could represent a significant threat			0
+' at present however , the speech recognition capability of the software does not support the ability to capture all of what is said			2
+the research will certainly need to be closely monitored , as better analytics software support the ability to capture more audio			2
+' for now , users should ensure they review permissions requested from apps , particularly those that request access to microphone which remains the most efficient means to capture conversations			1
+' the team will showcase their technique at the @entity103 security conference in @entity104 , @entity105 , next week			0
+around 88 of @entity107 workers believe their calls and texts are being listened to , according to a survey of 1,000 @entity107 by @entity112 - based private communications firm @entity111			2
+when asked if they ’d buy a phone , or subscribe to a service , that protected calls and texts from eavesdroppers , almost a quarter of @entity107 said they would			0
+@entity119 , chief of revenue for @entity111 suggests , ‘ these figures confirm that many consumers recognise that mobile communications are no longer private			0
+it ’s also reassuring that almost a quarter of the @entity107 respondents … are willing to pay for privacy			0
+this is a trend we ’re seeing dramatically increase as individuals start to realise that they do have an option to privacy erosion			0
+’ using vibrations to gain access to smartphones and computers has become a focus for many computer scientists and security experts in recent years			1
+using a mobile phone , experts have previously been able to record the hum and whirs made by a computer 's cpu ( pictured ) as secure information was being decrypted scientists have previously used an @entity148 to record what was being typed on a nearby computer keyboard			1
+researchers at @entity152 tapped into its accelerometer - the internal device that detects when and how a phone is tilted - to sense keyboard vibrations			1
+they used it to complete sentences with up to 80 percent accuracy @entity161 , assistant professor in @entity152 's @entity162 , said : ' we believe that most smartphones made in the past two years are sophisticated enough to launch this attack ' - and it could be assumed that the number has risen because the study was done three years ago			1
+the technique works by using mathematical software that detects pairs of keystrokes , rather than individual letters			0
+hackers can then determine whether the pair of keys pressed is on the left or right side of the keyboard , and whether they are close together or far apart			0
+after the system has determined these characteristics for each pair of keys pressed , using probability it compares the results against a pre-loaded dictionary			0
+using vibrations to gain access to smartphones and computers has become a focus for many computer scientists and security experts in recent years			1
+last year , it was proven that hackers can steal data simply by recording the sounds a pc makes			0
+using a microphone in a mobile , scientists were able to record the hum and whirs made by a computer ’s central processing unit ( cpu ) as secure information was being decrypted			2
+by then identifying the certain parts of information that each of these unique sounds related to , they were able to extract the content of private emails			0
+this method could , in theory , also be used to steal passwords , logins or any other secure information entered into a web page			0
+@entity221 computer scientists have proved that malware can travel between machines using sound waves that are inaudible to unsuspecting humans			1
+using built - in microphones and speakers in laptops , the researchers managed to transmit passwords and small amounts of data between machines 65ft ( 20metres ) away from each other			0
+they came up with a hack using sound to steal data from protected machines and suggested that noise could be used to pass data between target computers and the ‘ hacker ’ machine .			0
+
+computer scientists from @entity33 and @entity35 defence research group @entity36 have turned a phone gyroscope into a crude microphone
+smartphones contain the sensors which are used for games and orientation
+they found gyroscopes can pick up frequency of soundwaves around them
+vibrations are then decoded by software , making it possible for experts to eavesdrop on phone conversations - with 65 per cent accuracy
+no permission is needed from third parties to access gyroscopes
+
+@entity28:Need for Speed
+@entity112:Swiss
+@entity111:Silent Circle
+@entity152:Georgia Tech
+@entity119:Vic Hyder
+@entity52:Apple
+@entity51:250Hz
+@entity79:MailOnline
+@entity75:Raj Samani
+@entity77:Intel Security
+@entity76:CTO EMEA
+@entity162:School of Computer Science
+@entity33:Stanford University
+@entity35:Israeli
+@entity37:Wired
+@entity36:Rafael
+@entity103:Usenix
+@entity104:San Diego
+@entity105:California
+@entity107:UK
+@entity221:German
+@entity161:Patrick Traynor
+@entity148:iPhone
+@entity45:200Hz
+@entity43:Android

@@ -1,0 +1,59 @@
+http://web.archive.org/web/20141208063005id_/http://www.dailymail.co.uk/sciencetech/article-2779734/China-internet-attack-capital-world-Almost-HALF-hacks-viruses-originate-country.html
+
+a representative study on internet attack traffic has revealed that @entity2 is the country where the largest number of attacks originate			1
+by monitoring connections on the web it was shown that 43 per cent of online attacks originated in @entity2 , more than three times @entity9 in second place with 15 per cent			1
+and the researchers add that general internet users can keep themselves safe by frequently updating their software			2
+the attacks in the study refer to attempts by a computer to connect to specific ports on the internet , which would indicate a hacked or infected computer that was trying to connect to other computers			2
+they about 200 computer systems around the world to monitor connections			1
+the results of where most attacks originated from is shown in this infographic the research was carried out by @entity23 , based in @entity24 , using 100 to 200 computers as ‘ agents ’ to create a representative view of internet traffic			1
+part of their ‘ state of the internet ’ quarterly report , the findings showed that nearly half of all web attacks originated in @entity2			1
+and most of them were directed towards ‘ @entity48 ’ , which is the port that web servers generally listen in on			0
+@entity23 ’s @entity50 , editor of the report , explains to @entity52 that the results should not be taken as a view of the internet as a whole , but rather only as representative findings			1
+last month warnings were issued about a ' catastrophic ' security flaw affecting one of the most important interfaces powering the web			0
+known as the @entity64 , the flaw could be ' bigger than @entity65 ' which put every computer user at risk earlier this year			0
+experts claim the bug may pose a serious threat to computers using @entity73 - based operating systems including @entity74 and @entity76 's @entity75 - and in turn , could spread to all internet - connected devices			1
+the bug , which also goes by the name ' @entity79 ' , could potentially allow hackers to gain access to every internet - enabled device in a person 's home using something as innocuous as a smart lightbulb			0
+the danger with this , in particular , is that once it has access to an internet - connected device it can jump onto others			0
+this includes smart locks that open front doors			0
+‘ we ’re basically saying from the systems we ’ve got out there , 43 per cent of the attacks we observe are coming from @entity2 , ’ he says			1
+when asked if he ’d expect similar results if every connection on the internet was monitored , he says : ‘ it ’s hard to say if they ’d be similar			0
+other attack traffic studies have placed @entity2 in top spot [ like @entity23 ] , others have placed other countries top			2
+’ explaining the method behind getting the data , mr @entity50 says internet ports can be thought of as telephone extensions			2
+‘ so , for example , human resources is extension 123 , finance is 456 and legal is 789 , ’ he explains			0
+‘ think of somebody that ’s randomly calling in to your company ’s telephone number and punching in various extensions			0
+’ he continues : ‘ @entity48 is the port that web servers generally listen on , so it may be indicative of somebody trying to look for vulnerabilities in common web based software			0
+’ the quarterly report , which has run since 2008 , comes at quite a busy time for internet security , with the @entity79 bug making headlines in previous weeks			2
+@entity79 is a newly emerged major @entity136 threat that affects a common software tool found in many operating systems known as @entity139 , or @entity139			2
+the findings were published in their quarterly ' state of the internet ' report			1
+however editor @entity50 tells @entity52 that the results do not necessarily represent the internet as a whole			1
+he adds that people can keep themselves safe by keeping their software and systems up to date ( stock image shown ) the biggest change from the previous report according to mr @entity50 is that @entity9 jumped back up to second place			1
+in 2013 @entity9 jumped into the top slot and significantly increased the amount of attack traffic from the country , but it seemed to be a quarter anomaly			0
+mr @entity50 says the results should not be too much of a cause for concern for general internet users , but he advises people to keep their systems up to date			1
+‘ generally the statement i would make would be to make sure you ’re keeping your systems patched and up to date , ’ he says			2
+‘ there ’s a reason @entity171 , @entity74 , @entity76 and so on publish updates on a regular basis			0
+‘ constantly update and patch your systems , make sure you ’re running malware and virus scanners , and make sure you ’re not doing anything stupid online			0
+
+@entity24 - based @entity23 says 43 per cent of internet attacks originate in @entity2 according to a representative study
+they about 200 computer systems around the world to monitor connections
+and they found that almost half came from @entity2 , more than three times @entity9 in second place with 15 per cent
+the findings were published in their quarterly ' state of the internet ' report
+however editor of the report @entity50 tells @entity52 that the results do not necessarily represent the internet as a whole
+he adds that people can keep themselves safe by keeping their software and systems up to date
+
+@entity171:Microsoft
+@entity2:China
+@entity136:Internet
+@entity24:Massachusetts
+@entity23:Akamai
+@entity9:Indonesia
+@entity65:Heartbleed
+@entity52:MailOnline
+@entity50:David Belson
+@entity79:Shellshock
+@entity74:Linux
+@entity75:Mac OS X
+@entity139:Bourne-again Shell
+@entity64:' Bash ' bug
+@entity76:Apple
+@entity48:Port 80
+@entity73:Unix

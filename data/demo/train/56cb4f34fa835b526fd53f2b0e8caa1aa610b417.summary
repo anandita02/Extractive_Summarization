@@ -1,0 +1,28 @@
+http://web.archive.org/web/20101112182608id_/http://www.cnn.com/2010/WORLD/asiapcf/11/12/australia.qantas.rolls.royce/index.html
+
+-- @entity1 said friday that the failure of a specific component of its @entity5 engine caused an oil fire that then forced a @entity7 to make an emergency landing			1
+" the failure was confined to a specific component in the turbine area of the engine , " the engine maker said			2
+" this caused an oil fire , which led to the release of the intermediate pressure turbine disc			0
+" the incident will cause the company 's full year profit growth to be slightly lower than " guided , " @entity1 said friday			1
+in july , the company had predicted its underlying profits would grow between four and five percent compared to 2009			0
+on monday , @entity7 ceo @entity23 told reporters the planes will not return to service until the airline is " 100 percent sure " about their safety			2
+oil leaks have been discovered in engines on three planes , and investigations continue , @entity29 added			1
+the leaks were beyond normal tolerances , he said			0
+on november 4 , a @entity7 flight was forced to return to @entity39 's @entity38 after one of its engines shut down and the engine 's covering , or cowling , tore off above the western @entity47 island of @entity48			1
+the @entity50 - bound flight was carrying 440 passengers and 26 crew members .			0
+
+@entity1 : the incident will cause full year profit growth to be lower
+a @entity7 made an emergency landing after one of its engine shut down
+company : oil leaks have been discovered in engines on three planes
+
+@entity23:Alan Joyce
+@entity1:Rolls-Royce
+@entity0:CNN
+@entity7:Qantas A380
+@entity5:Trent 900
+@entity39:Singapore
+@entity38:Changi Airport
+@entity29:Joyce
+@entity50:Australia
+@entity47:Indonesian
+@entity48:Batam

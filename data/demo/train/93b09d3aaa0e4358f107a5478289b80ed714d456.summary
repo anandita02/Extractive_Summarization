@@ -1,0 +1,60 @@
+http://web.archive.org/web/20140906141832id_/http://edition.cnn.com/2011/TECH/mobile/04/06/email.breach.gahran/index.html
+
+-- last week the news broke that the world 's largest permissions - based e-mail marketing company , @entity4 , had been hacked -- compromising the security of an unknown number of e-mail addresses and names			1
+major companies with millions of customers , such as @entity11 and @entity12 , sent e-mail notices alerting customers of the breach			1
+@entity0 's @entity16 explained that the main problem consumers face from this breach is an increased risk of targeted " phishing " attempts -- " a sneakier and more sinister version of spam ... fake e-mails that try to look real because the scammer knows something about you			1
+" recent research from @entity29 , an internet security firm , indicates that mobile users may be three times more likely to fall victim to e-mail phishing attempts			1
+this is becoming increasingly important since recent @entity37 research shows that more @entity38 are shifting their e-mail use to their mobile devices			1
+also , recent statistics from @entity42 indicate that @entity38 mobile users spend more time on their phones doing e-mail than using @entity46			1
+in january , @entity29 analyzed the " log files " ( access records ) of several web servers that had hosted phishing sites			2
+the records showed how many users accessed these nefarious sites , when they visited them , whether they entered their account login information and which devices they used to access the sites			2
+here 's what @entity29 learned : 1			0
+mobile users typically arrive first after the phishing e-mails are sent out			1
+" this makes sense since mobile users are ' always on ' and are most likely to read e-mail messages as soon as they arrive			1
+meanwhile , desktop users only read messages when they have access to their computer , " wrote @entity29 ceo @entity64			2
+" also , most fraudulent e-mails call for immediate action			2
+for example , they usually claim that suspicious activity has been detected in the user 's account and that immediate action is required			0
+most victims who fall for this ploy will visit the phishing site quickly			0
+" this is crucial , since internet providers and web hosts watch for phishing - style activity on their networks and often act quickly to block phishing sites			1
+in a @entity89 interview , internet security expert @entity86 warned that one of the most insidious parts of e-mail phishing is that the fake alert e-mail might actually say the company is notifying you in response to a recent publicized security breach -- that is , the one they perpetrated			1
+" it 's a perfect cover , " @entity86 noted			0
+mobile users are three times more likely than desktop users to enter login information			1
+the good news is that most people ( mobile or not ) do n't enter any login information when they land on a phishing site			2
+but among those who do , mobile users clearly were more likely to take this step into the phishing trap			1
+@entity112 users are eight times more likely than @entity115 users to access phishing sites			2
+according to @entity37 's latest figures , there are still more @entity115 phones than iphones in use in the @entity38 market			0
+according to @entity64 , it 's " equally difficult to spot phishing websites on @entity115 and @entity112 devices			0
+" so why the disparity ? @entity64 speculates that many @entity115 users are business users who were issued their blackberry by their employer , ostensibly with at least some security training			1
+in contrast , the @entity112 is overwhelmingly a consumer device			0
+how to protect yourself : be skeptical of any e-mails that claim to come from companies that you do business with			1
+although phishing attempts are most likely immediately after a data breach , they can occur weeks or months later			0
+logos , e-mail addresses , and other visual clues to authenticity can be faked			0
+never click a link in an e-mail message that you do n't trust 100 %			0
+many web browsers ( including mobile browsers ) can be " infected " by malicious code just by accessing a website			0
+but if you do click a link in an e-mail , make sure you never enter personal information on the resulting website			0
+if you receive what may be a phishing attempt and have questions about whether your account may have been compromised , do this : open a fresh web browser window ( on your computer or phone ) , access the real website of the company in question and log in to your account that way			2
+then check whether they 've issued any security alerts			0
+or just look up the company 's phone number and call them , an action that 's especially easy from your mobile phone			2
+just make sure you do n't just call whatever phone number is listed in the e-mail message			0
+the opinions expressed in this post are solely those of @entity179 .			0
+
+@entity4 , the largest permissions - based e-mail marketing company , was hacked
+mobile users are more at risk of falling prey to phishing scams , according to a security firm
+users should be skeptical of e-mails from companies they do business with
+
+@entity16:John Sutter
+@entity0:CNN
+@entity12:Target
+@entity11:JP Morgan Chase
+@entity4:Epsilon
+@entity179:Amy Gahran
+@entity38:U.S.
+@entity29:Trusteer
+@entity46:Facebook
+@entity37:ComScore
+@entity115:BlackBerry
+@entity112:iPhone
+@entity42:Nielsen
+@entity86:Ghosh
+@entity89:Marketplace Tech Report
+@entity64:Boodaei

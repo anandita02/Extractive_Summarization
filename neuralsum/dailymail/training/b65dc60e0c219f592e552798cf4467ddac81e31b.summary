@@ -1,0 +1,52 @@
+http://web.archive.org/web/20140529004252id_/http://www.dailymail.co.uk/sciencetech/article-2636404/Houston-modem-Scientists-reveal-laser-communication-used-astronauts-broadband-MOON.html
+
+by @entity0 scientists have proved that the sky is certainly not the limit for the internet , by showing it could be possible to get broadband on the moon			1
+a team of researchers from the @entity10 ’s ( @entity10 ) @entity11 demonstrated for the first time that a the technology exists to provide space dwellers with the connectivity we all enjoy here on @entity18			1
+it could allow large data transfers and even high - definition video streaming			1
+scientists at @entity10 say they have devised a way to transfer large amounts of data quickly and easily across the vast expanse of space			1
+this could provide future astronauts with a ' broadband network ' on the moon			1
+this is a computer - aided design drawing of the optical module on the satellite showing the telescope and gimbal ( pivoted support ) the team has been conducting tests transferring data from the earth to the moon , with specialist laser - based communication equipment			1
+a ground terminal at @entity45 , @entity46 , uses four separate telescopes to send the uplink signal to the moon			0
+each telescope is about six inches ( 15 centimetres ) in diameter and fed by a laser transmitter that sends information coded as pulses of invisible infrared light			2
+the reason for the four telescopes is that each one transmits light through a different column of air that experiences different bending effects from the atmosphere , @entity56 said			0
+this increases the chance that at least one of the laser beams will interact with the receiver , which is mounted on a satellite orbiting the moon			2
+this receiver uses a slightly narrower telescope to collect the light , which is then focused into an optical fibre similar to those used in terrestrial fibreoptic networks			0
+from there , the signal is amplified about 30,000 times			0
+a photodetector converts the pulses of light into electrical pulses that are in turn converted into data bit patterns that carry the transmitted message			0
+at the conference on @entity91 and @entity92 ( @entity93 ) 2014 , held between 8 and 13 june in @entity94 , @entity95 the team will present new details and the first comprehensive overview of the ' on - orbit performance ' of their record - shattering laser - based communication uplink between the moon and @entity18 , which beat the previous record transmission speed by a factor of 4,800			1
+earlier reports have stated what the team accomplished , but have not provided the details of the implementation			0
+@entity56 of @entity11 said : ' this will be the first time that we present both the implementation overview and how well it actually worked			0
+' the on - orbit performance was excellent and close to what we ’d predicted , giving us confidence that we have a good understanding of the underlying physics			1
+' the team made history last year when their @entity120 ( @entity121 ) transmitted data over the 239,000 miles ( 385,000 ) kilometers between the moon and @entity18 at a download rate of 622 megabits per second , faster than any radio frequency ( @entity127 ) system			2
+they also transmitted data from @entity18 to the moon at 19.44 megabits per second , a factor of 4,800 times faster than the best rf uplink ever used			0
+@entity133 's @entity120 ( @entity121 ) involved two - way laser communication between the @entity136 spacecraft and @entity18			1
+it showed that such a method could transmit huge amounts of data			2
+this means , for example , hd video could be transmitted to and from deep space mr @entity56 added : ' communicating at high data rates from @entity18 to the moon with laser beams is challenging because of the 400,000 - kilometer distance spreading out the light beam			1
+' it ’s doubly difficult going through the atmosphere , because turbulence can bend light - causing rapid fading or dropouts of the signal at the receiver			0
+' we demonstrated tolerance to medium - size cloud attenuations , as well as large atmospheric - turbulence - induced signal power variations , or fading , allowing error - free performance even with very small signal margins			0
+' while the @entity121 design is directly relevant for near - @entity18 missions , the team predicts that it ’s also extendable to deep - space missions to @entity165 and the outer planets .			2
+
+scientists at @entity10 say they can transmit vast amounts of data across space
+this could allow future astronauts to have access to a broadband network
+system uses two - way laser communication and could transmit hd video
+the team will present the results from their ' on - orbit test ' in june
+the research builds upon a previous laser comms *experiment* in 2013
+
+@entity0:Jonathan O'Callaghan
+@entity11:MIT Lincoln Laboratory
+@entity165:Mars
+@entity94:San Jose
+@entity10:MIT
+@entity121:LLCD
+@entity18:Earth
+@entity45:White Sands
+@entity46:New Mexico
+@entity91:Lasers
+@entity120:Lunar Laser Communication Demonstration
+@entity127:RF
+@entity95:California
+@entity136:Ladee
+@entity93:Cleo
+@entity92:Electro-Optics
+@entity133:Nasa
+@entity56:Stevens

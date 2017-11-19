@@ -1,0 +1,35 @@
+http://web.archive.org/web/20150331171543id_/http://www.dailymail.co.uk/sciencetech/article-2668140/Google-Glass-steal-PIN-codes-wearer-isnt-looking-victim.html
+
+@entity3 's controversial @entity2 wearable computer can be used to steal people 's pin codes from ten feet away simply by looking at them , it has been claimed			1
+researchers developed special software to analyse the shadows and movements of peoples ’ fingers in order to decipher pin codes entered into tablets and smartphones			1
+the team also showed the same technique would work using an @entity18 , @entity19 and webcam			1
+video captured by @entity2 produced a correct four digit pin from three metres away with 83 per cent accuracy ( this was improved to more than 90 per cent with manual corrections ) while the webcam was accurate 92 per cent of the time			1
+the research team led by professor @entity40 of the @entity41 are set to show off their software at the @entity44 hackers conference			2
+' our spying camera , including @entity2 , can take a video of the victim tapping on the touch screen and automatically recognize more than 90 % of the tapped passcodes from three meters away , even if our naked eyes can not see those passcodes or anything on the touch screen , ' they wrote			2
+the basic idea , the team said , is to track the movement of the fingertip and use the fingertip 's relative position on the touch screen to recognize the touch input			0
+' we carefully analyze the shadow formation around the fingertip , apply other computer vision techniques to automatically track the touching fingertip and locate the touched points			0
+' the team can then estimate exactly where on the screen the finger is touching			0
+they say their hack could easily be used in conferencesor even in bars where there are people entering pin numbers			2
+the researcher 's diagram showing how they were able to reliably capture @entity82 with a camcorder from 44 meters away - from a third floor window ' we are interested in scenarios such as conferences and similar gathering places where a @entity2 , webcam , or smartphone can be used for a stealthy attack			0
+' the team is also working on a solution - a secure keyboard which appears in a different part of the screen each time iit is used			0
+' any camera works , but you ca n’t hold your @entity18 over someone to do this , ' @entity40 told @entity103			1
+' because glass is on your head , it ’s perfect for this kind of sneaky attack			0
+' in response to the research @entity3 issued a statement saying : ' unfortunately , stealing passwords by watching people as they type them is nothing new			0
+we designed @entity2 with privacy in mind			0
+the @entity121 researchers testing pin - spying with @entity2 : they found that codes could easily be captured from ten feet away using @entity2 ' the fact that @entity2 is worn above the eyes and the screen lights up whenever it ’s activated clearly signals it ’s in use and makes it a fairly lousy surveillance device			1
+' the research team were also able to record pin codes using the same software from a distance of nearly 150 feet by using a more expensive camcorder with an optical zoom , and were able to capture a target ’s pin from a fourth story window on the other side of the road .			1
+
+software can analyse video taken ten feet away and *reveal* pin number
+technique also works using an @entity18 5 , @entity19 smartwatch and webcam
+
+@entity3:Google
+@entity2:Glass
+@entity19:Samsung
+@entity18:iPhone
+@entity44:Blackhat
+@entity82:PINs
+@entity103:Wired magazine
+@entity40:Fu
+@entity41:University of Massachusetts Lowell
+@entity31:Logitech
+@entity121:UMass

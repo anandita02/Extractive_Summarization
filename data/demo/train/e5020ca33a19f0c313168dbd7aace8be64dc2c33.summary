@@ -1,0 +1,22 @@
+http://web.archive.org/web/20130927074733id_/http://www.cnn.com:80/2013/02/22/tech/pinterest-hacked
+
+-- customer support tool @entity1 announced in a blog post friday that it had been hacked earlier this week			2
+the hack affected users of three services that use @entity1 : @entity7 , @entity8 and @entity9			1
+" we believe that the hacker downloaded email addresses of users who contacted those three customers for support , as well as support email subject lines , " @entity1 said in the post			0
+it did not name the three customers publicly , but subsequent e-mails from @entity7 , @entity8 and @entity9 to their customers confirmed the breach			0
+" we recently learned that the vendor we use to answer support requests and other emails ( @entity1 ) experienced a security breach , " said @entity7 in an email			1
+the pinboard - style photosharing social network site said it was only sending the e-mail to people who had used @entity1 and were possibly compromised			2
+it urged users to take measures to keep their accounts secure by not sharing their passwords and using strong passwords			1
+@entity8 told its customers to review any e-mail conversations they had with @entity1 to make sure there was no account information that could be used in phishing attacks			0
+@entity0 's @entity43 contributed to this report .			0
+
+the sites were breached via their vendor , @entity1
+the photosharing site @entity7 *warned* users about the breach via e-mail on friday
+the company urged users to ensure their passwords are strong
+
+@entity1:Zendesk
+@entity0:CNN
+@entity7:Pinterest
+@entity9:Twitter
+@entity8:Tumblr
+@entity43:Heather Kelly

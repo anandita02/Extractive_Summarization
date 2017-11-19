@@ -1,0 +1,67 @@
+http://web.archive.org/web/20140620042744id_/http://www.dailymail.co.uk/sciencetech/article-2599896/Security-alert-web-traffic-encryption-heartbleed-bug-discovered-leaving-two-thirds-web-traffic-exposed-hackers.html
+
+by @entity0 a major online security alert has been issued after experts found a bug in one of the web 's most common security systems			2
+called the ' heartbleed ' bug , it allows hackers to eavesdrop on supposedly secure communications			2
+the vulnerability was found by @entity13 researchers in the @entity15 cryptographic library , which is believed to be used in some way by roughly two - thirds of all websites on the @entity19 and is part of the most common server software in use			1
+experts say the bug could leave up to 66 % of sites vulnerable to hackers if their encryption software is not updated			1
+it compromises secret keys used to identify the service providers and to encrypt web traffic			2
+this includes the names and passwords of the users and actual content , such as credit card numbers @entity15 is open - source software that is widely used to encrypt web communications			1
+it is used to protect websites , instant messaging , email servers , virtual private networks and other communications			2
+it is used in two of the most widely used web servers , @entity46 and nginx			0
+it is claimed heartbleed can reveal the contents of a server 's memory , where the most sensitive of data is stored , including private data such as usernames , passwords , and credit card numbers			0
+the flaw also allows an attacker can get copies of a server 's digital keys , which can be used to impersonate servers or to decrypt communications from the past or potentially the future , too			1
+the flaw was introduced in @entity15 in december 2011 , and was been ' in the wild ' until yesterday , when a new version fixing the flaw was released			1
+experts have confirmed the flaw is real			0
+' we were able to scrape a @entity72 username & password via the @entity75 bug , ' tweeted @entity76 of security firm @entity77 , showing a censored example			0
+developer @entity79 , ' ok , ran my heartbleed script for 5 minutes , now have a list of 200 usernames and passwords for yahoo mail ... @entity86 ! ' the problem was uncovered by a team of researchers from @entity90 and @entity91			0
+research by analytics firm @entity92 says almost 500,000 websites could be affected			0
+' the serious overrun vulnerability in the @entity15 cryptographic library affects around 17 % of @entity100 web servers , ' it says			1
+its research found @entity102 , @entity103 , @entity72 , @entity104 , @entity105 , @entity106 , @entity107 , @entity108 , @entity109 , @entity110 , and the anonymous search engine @entity111 are all affected			1
+the bug means hackers can eavesdrop and leave no trace in server logs			2
+the flaw was introduced in @entity15 in december 2011 , and was ' in the wild ' until monday , when a new version fixing the flaw was released researchers have even given the bug its own logo ' the heartbleed bug allows anyone on the internet to read the memory of the systems protected by the vulnerable versions of the @entity15 software , ' according to a website the researchers who found the flaw set up to explain their find			1
+' this compromises the secret keys used to identify the service providers and to encrypt the traffic , the names and passwords of the users and the actual content			0
+' this allows attackers to eavesdrop communications , steal data directly from the services and users and to impersonate services and users			1
+' the vulnerability has been dubbed the @entity75 because it was discovered ' in the @entity15 's implementation of the @entity100 / @entity152 ( transport layer security protocols ) heartbeat extension ( @entity156 ) , ' the team said			0
+' this bug has left large amount of private keys and other secrets exposed to the @entity19 , " they warned			0
+' considering the long exposure , ease of exploitation and attacks leaving no trace this exposure should be taken seriously			0
+' the @entity75 bug allows anyone on the @entity19 to read the memory of the systems protected by the vulnerable versions of the @entity15 software			1
+this compromises the secret keys used to identify the service providers and to encrypt the traffic , the names and passwords of the users and the actual content			0
+this allows attackers to eavesdrop on communications , steal data directly from the services and users and to impersonate services and users			2
+@entity188 of hosting firm @entity189 warned firms with @entity192 capabilities to be extra cautious			0
+' with potentially all web users affected by the recent ‘ heartbleed ’ security bug that has hit @entity15 software , which is the software that protects credit card transactions - it is important that @entity192 businesses contact their web hosting providers to check that they have taken necessary actions to avoid their customers being affected by spying and eavesdropping , ' he said .			1
+
+experts urged server owners to *upgrade* to latest version of @entity15 software
+flaw allows hackers to eavesdrop on communications and steal encryption keys
+believed over 66 % of web sites could be affected - and experts say all web users will be at risk in some way
+servers believed to be affected include those run by @entity102 , @entity72 and @entity104
+
+@entity86:TRIVIAL
+@entity111:DuckDuckGo
+@entity110:Commonwealth Bank of Australia
+@entity152:DTLS
+@entity156:RFC6520
+@entity0:Mark Prigg
+@entity192:eCommerce
+@entity79:Scott Galloway
+@entity75:Heartbleed
+@entity77:Fox-IT
+@entity76:Ronald Prins
+@entity72:Yahoo
+@entity15:OpenSSL
+@entity13:Google
+@entity19:Internet
+@entity100:TLS
+@entity102:Twitter
+@entity103:GitHub
+@entity104:Tumblr
+@entity105:Steam
+@entity106:Flickr
+@entity107:HypoVereinsbank
+@entity108:PostFinance
+@entity109:Regents Bank
+@entity92:Netcraft
+@entity91:Codenomicon
+@entity90:Google Security
+@entity188:Daniel Foster
+@entity189:34SP.com
+@entity46:Apache

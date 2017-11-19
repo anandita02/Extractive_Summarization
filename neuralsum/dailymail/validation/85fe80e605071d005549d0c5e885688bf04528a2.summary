@@ -1,0 +1,52 @@
+http://web.archive.org/web/20150720225459id_/http://www.dailymail.co.uk/sciencetech/article-3019260/Mobile-phone-battery-life-one-day-10-YEARS-thanks-super-efficient-chip-harvests-energy-body.html
+
+battery life is consistently listed as a major flaw of smartphones , smartwatches and other wearables			1
+but this problem could soon be solved thanks to technology that promises to extend battery life for ' decades			1
+' @entity8 has released its latest microcontrollers ( @entity10 ) for a variety of gadgets that are so low power they can even harvest energy from a person 's body			1
+@entity8 has released its latest microcontrollers ( @entity10 ) for a variety of gadgets that are so low power they can even harvest energy from a person 's body			1
+@entity8 said its mcus extend ' battery life from years to decades , reducing the number of times batteries need to be changed in devices ' the ultra-low power @entity28 microcontrollers are part of @entity8 's 32 - bit @entity32 - based @entity10 range			1
+these are all powered by chip maker @entity32 's @entity34 + 32 - bit processors			0
+a number of @entity38 devices , including the @entity39 and @entity40 are powered by chips based around @entity32 technology			2
+during a demonstration of the microcontrollers to @entity45 at this year 's @entity46 , @entity47 , @entity8 's director of product marketing demonstrated how he could power a radio by placing his hand on a panel			1
+this panel recognised a change in temperature between the hand and the room and this was harvested to create charge			0
+mr @entity47 said this is based on piezoelectric materials			0
+the material is able to produce an electric charge when it stretches and is subjected to mechanical stress			0
+@entity64 is a type of piezoelectric material made up of integrated electrodes , and an adhesive polymer matrix			0
+the material is able to produce an electric charge when it stretches and is subjected to mechanical stress			0
+@entity8 said its mcus extend ' battery life from years to decades , reducing the number of times batteries need to be changed in devices such as fire alarms , healthcare , medical , wearable , and devices placed in rural , agriculture , offshore and other remote areas			1
+' they use a third of the power of rival chips and tests have shown they are the lowest power microprocessor ever made			0
+the microcontrollers run on the firm 's @entity91 technology and @entity8 's @entity93 that makes different parts of the device work together to carry out tasks			2
+by effectively ' sharing ' energy , the whole device uses less power and , subsequently , less battery			2
+it can also manage how much energy is being used by other components to make them as efficient as possible			0
+plus , the technology is so low power it can harvest energy from the body using changes in temperature			1
+during a demonstration of the microcontrollers at this year 's @entity46 , @entity47 , @entity8 's director of product marketing demonstrated how he could power a radio by placing his hand on a panel			2
+this panel recognised a change in temperature between the hand and the room and this was harvested to create charge			0
+mr @entity47 said this is based on piezoelectric materials			0
+during a demonstration of the microcontrollers at this year 's @entity46 , @entity47 , @entity8 's director of product marketing demonstrated how he could power a radio by placing his hand on a panel			2
+this panel recognised a change in temperature between the hand and the room and this was harvested to create charge the material is able to produce an electric charge when it stretches and is subjected to mechanical stress			0
+as @entity141 's @entity140 explained , the processor is n't powerful enough to run a computer desktop , for example , but does come with enough power and memory to stream media from a usb stick , send alerts from smart alarms and lights and run multiple apps			2
+the firm said that the microcontroller itself can run for years on a single charge , but the battery life of the devices it is added to will depend on how much they are used			1
+@entity8 's current model is designed for smart household devices and other gadgets that use relatively low power , but the technology has the potential to one day run on more power - hungry gadgets such as phones and tablets .			1
+
+@entity8 has released its ultra-low power arm - based microcontroller
+uses third of the power than rivals and can harvest energy from your body
+@entity180 - based firm said it will extend battery life in gadget to ' decades '
+reducing the number of times batteries need to be changed in wearables , fire alarms , smart homes and more
+
+@entity32:ARM
+@entity140:Sean Gallagher
+@entity34:Cortex M0
+@entity10:MCU
+@entity39:iPhone 5S
+@entity38:Apple
+@entity28:SAM L
+@entity8:Atmel
+@entity180:San Jose
+@entity46:CES
+@entity47:Andreas Eieland
+@entity40:iPad Air
+@entity64:PFC
+@entity45:ARMDevices.net
+@entity93:Event System
+@entity91:picoPower
+@entity141:Ars Technica

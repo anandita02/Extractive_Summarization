@@ -1,0 +1,43 @@
+http://web.archive.org/web/20150714223535id_/http://www.dailymail.co.uk/sciencetech/article-2920824/Hacking-alert-two-MILLION-cars-Gadget-used-insurance-firm-Progressive-monitor-driving-allow-hackers-control-braking-steering.html
+
+an electronic gadget that alerts insurance firms of people 's driving habits could be used by hackers to control the car , it has been claimed			1
+experts say the snapshot , which @entity9 has used in more than two million vehicles since 2008 , is simple to hack			1
+by gaining access to it hackers could theoretically affect steering or braking , a security expert has claimed			1
+the @entity17 ( right ) simply plugs into a car 's diagnostic port - but contains virtually no security measures , a leading expert has claimed			0
+a snapshot user manages to work out how the gadget communicates with the car , and found that he was able to access certain functions of the car 's @entity32 bus - a standard system which allows various computers and components inside a car to talk to each other			1
+the @entity17 connects to the car via this system , and by gaining access to it hackers could theoretically affect steering or braking			1
+@entity39 , who works as a security expert at consultancy firm @entity41 , reverse engineered the software included on the snapshot and found that he was able to access certain functions of the car 's @entity32 bus - a standard system which allows various computers and components inside a car to talk to each other			1
+the @entity17 connects to the car via this system , and by gaining access to it hackers could theoretically affect steering or braking			1
+' the firmware running on the dongle is minimal and insecure , ' he told @entity56			0
+' it does no validation or signing of firmware updates , no secure boot , no cellular authentication , no secure communications or encryption , no data execution prevention or attack mitigation technologies … basically it uses no security technologies whatsoever			0
+' @entity39 said the results could be disastrous			0
+' a skilled attacker could almost certainly compromise such dongles to gain remote control of a vehicle , or even an entire fleet of vehicles			2
+' once compromised , the consequences range from privacy data loss to life and limb			0
+@entity9 hit out at the claims , and the way they were revealed - the flaw was presented last week at the @entity83 hacking conference in @entity84			1
+' if an individual has credible evidence of a potential vulnerability related to our device , we would prefer that the person would first disclose that potential vulnerability to use so that we could evaluate it and , if necessary , correct it before the vulnerability could be exploited , ' the company told @entity56			0
+the gadget is plugged into the car 's diagnostic port - and sends information to insurance firms			0
+' while it 's unfortunate that mr. @entity39 did n't share his findings with us privately in advance , we would welcome his confidential and detailed input so that we can properly evaluate his claims			0
+' @entity39 reportedly contacted the manufacturer of the snapshot device , @entity107 , to inform it of the security vulnerability , but heard no response			2
+@entity9 says on its website that @entity17 ' notes information like the distance , time of day and how you drive , including any hard brakes			1
+' snapshot personalises your insurance rate based on your actual driving			2
+' the better you drive , the more you can save			0
+' @entity119 , principal security researcher at @entity120 , warned ' this is just another example of how , as our cars become increasingly connected , we open the door to threats that have long existed in the pc and smartphone world			0
+' as well as gaining remote access to the vehicle , by compromising usb dongles cybercriminals could potentially exploit features such as self - parking , active lane control , pre-collision systems and adaptive cruise control , all of which require some level of communication between a sensor and the brakes , acceleration or steering , usually over @entity146 or some other radio signal			2
+' as vehicles become increasingly connected and autonomous , we can only expect to see more attacks of this nature			2
+
+snapshot used by @entity9 in more than two million vehicles
+hackers could theoretically use it to affect steering or braking
+@entity9 called for hacker who discovered flaw to give them details
+
+@entity17:Snapshot
+@entity146:Bluetooth
+@entity32:CAN
+@entity119:David Emm
+@entity39:Thuen
+@entity9:Progressive
+@entity83:S4x15
+@entity84:Miami
+@entity41:Digital Bond
+@entity107:Xirgo Technologies
+@entity120:Kaspersky Lab
+@entity56:Forbes

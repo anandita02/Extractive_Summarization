@@ -1,0 +1,107 @@
+http://web.archive.org/web/20140223105805id_/http://www.cnn.com:80/2013/11/22/politics/health-website-anonymous-shopper
+
+@entity0 -- when the troubled federal health care website came online , the key " @entity3 " function was nowhere to be found -- even though it passed a key test almost two weeks before @entity6 launched			1
+that successful test , noted in documents obtained by @entity1 and confirmed by a source close to the project , contradicts testimony from an @entity13 administration official overseeing @entity6 , who told lawmakers earlier this month the function was scrapped because it " failed miserably " before the october 1 launch			1
+like much of the @entity6 rollout , the subject has become political fodder for @entity21 , who claim the decision to nix the anonymous shopper was made by administration officials worried it would produce rate estimates so high they would deter potential enrollees			1
+what is ' @entity3 ? ' the window shopping feature allows website visitors to compare health insurance plans without opening an account , verifying their identity or determining whether they qualify for a federal subsidy			1
+the tool was turned off before @entity6 launched and is still unavailable to users			0
+using anonymous shopping , visitors would have been able to enter their age , zip code , county , number of people in their household and whether they use tobacco , to obtain an array of almost instant quotes and detailed comparisons for various health insurance plans available to them			2
+it 's the website feature that best resembles president @entity13 's frequently stated vision for the website -- that it operates as the most popular e-retail sites millions of @entity56 use every day			0
+" just visit @entity6 , and there you can compare insurance plans , side by side , the same way you 'd shop for a plane ticket on @entity63 or a tv on @entity65 , " @entity13 said on october 1 , the day the website went live			1
+" you enter some basic information , you 'll be presented with a list of quality , affordable plans that are available in your area , with clear descriptions of what each plan covers , and what it will cost			2
+" yet on that day , and even now , that 's not really possible			0
+the absence of the online shopping tool is " a major design failure , " said @entity80 , vice president of programs at the @entity81 , an @entity82 - based nonprofit that supports and promotes the president 's signature health care program in the @entity85			2
+blocked out at @entity6 ? bypass on way soon , feds say online window shopping " is how people have become accustomed to shopping online , " @entity80 told @entity1			1
+" whether it 's for airplane flights or shoes , people have become accustomed to anonymously shopping without entering credit card or personal information			0
+" the feature had the added benefit of taking some of the traffic demands off the enrollment portion of the website , @entity80 said			0
+lawmakers : tell us why was the plan was scrapped so why was online window shopping shelved for @entity6 ? that was the question lawmakers posed to @entity106 , the top technology officer for the @entity107 , a subsidiary of @entity109 that helped build the @entity6 website			2
+@entity106 said he made the decision in conjunction with colleagues and testified before @entity114 last week that it was because the feature " failed so miserably that we could not conscionably let people use it			1
+" yet a @entity107 document made public by the same committee last week tells a different story			0
+the agency and one of its subsidiaries , the @entity124 and @entity125 , was working with government contractors on the website			0
+it determined the @entity3 feature " tested successfully , " revealed " no high severity defects open " and that " remaining lower severity defects will not degrade consumer experience			1
+" @entity107 raised questions about the " tested successfully " denotation for the feature in a statement			0
+in it , a spokeswoman writes : " â € @entity139 believes that the ' yes ' that is written on the document in question is likely an error , because the same document also lists a number of ongoing defects and problems with the tool			0
+additional defects were communicated and discussed in other settings			0
+" â € @entity152 source close to the project , however , said the anonymous shopper function did pass testing conducted in the weeks ahead of the @entity6 launch			2
+" this document reflects one point in time that was part of a series of ongoing updates and monitoring , " @entity157 , a spokeswoman for @entity109 , said in a written statement			0
+the successful test occurred on september 17 , according to a source familiar with the project			2
+the next day , in an internal e-mail obtained by @entity1 , @entity106 wrote the shopper function " is n't needed and thus should be removed			1
+" during an interview with the @entity171 on november 1 , @entity106 said there were 20 outstanding defects with the anonymous shopper that prevented it from making it online when the health care website launched			0
+but according to a list that @entity1 obtained , only 12 defects remained when the decision to shelve @entity6 was made			1
+" the application should not have displayed the tobacco question since the person seeking coverage is a kid , " read one of the listed defects			0
+a source close to the project said " the problems with the tool were actually rather minor " and could have been fixed by launch day			0
+instead , government officials shelved the @entity3 tool to shift focus on the parts of the website necessary to enroll users in insurance plans			1
+on september 12 and 18 , federal health officials instructed @entity200 , the contractor hired to create the @entity3 feature , to concentrate on a part of the website called " @entity205 , " rather than the window shopping feature , according to a document that @entity1 obtained			1
+" @entity205 " allows users to look at health insurance plans only after they have created an account at @entity6 , verified their identification and provided qualification details for a subsidy			2
+" as we have said , we always envisioned ' anonymous shopping ' as a tool that would be a part of @entity6 at some point , however we chose to prioritize other functionality in order to be ready for an october 1 launch , " @entity157 , the @entity109 spokeswoman , told @entity1			1
+a week before the federal exchange launched , @entity107 instructed contractors to disable @entity3 for launch day , the document shows , preventing @entity6 users from accessing the window shopping function			1
+prototype was a year in the making the @entity81 , along with seven other nonprofits , helped finance and direct the creation of an @entity3 prototype in conjunction with 11 states and the agencies of the federal government			1
+one of the world 's leading design firms , @entity239 , created the prototype , @entity241 2014 , as a model of world class health insurance shopping experience			0
+@entity239 's team for the $ 3 million project included the designer who created shoe and apparel giant @entity248 and currently directs design at the popular online restaurant reservation site , @entity251			0
+after a year of work , they presented their @entity3 template to state and federal officials in june 2012			1
+@entity107 endorsed the prototype and encouraged states to adopt it , according to a letter the agency wrote to states , which @entity1 obtained			1
+many of those states , including @entity85 , @entity265 and @entity266 , are using the feature designed by @entity239 effectively			0
+" after we presented [ the prototype ] to [ federal health officials ] , we never heard what they were doing with the design , " @entity80 said			0
+" the entire operation went dark , so to speak , and it was n't until it launched in october that we saw it was n't one of the components of how you apply " on the federal site			0
+political firestorm rages if it 's puzzling for health care experts such as @entity80 who consider the tool " a prerequisite to having a good consumer experience , " it 's red meat for @entity21 opposed to the health care program			1
+they accuse the @entity13 administration of sidelining the feature to hide the sticker shock of insurance plans and force @entity56 to jump through hoops before they can shop			1
+" although , @entity200 officials ( the contractor for the shopping tool ) were not able to identify who within the administration made the decision to disable the anonymous shopping feature , evidence is mounting that political considerations motivated the decision , " rep. @entity293 , the @entity21 chairman of the @entity171 , wrote in a leader to federal tech executives in october			1
+so far , no document or testimony has revealed @entity308 involvement in the anonymous shopper decision , and privately , some @entity21 admit the accusations the decision was made inside the @entity312 is motivated by politics more than evidence			0
+almost two months since @entity6 's enrollment function went live , the anonymous shopper function is still absent from the site 's features , though @entity109 and @entity107 point to other online browsing features on the troubled online portal			2
+" even without ( @entity3 ) in place , @entity107 included a list of plans and pretax credit examples of premiums on the homepage of @entity6 the day the site launched , and later rolled out our plan preview tool that allows consumers to see this information by entering some basic information about themselves and the coverage they are looking for , " @entity157 said			1
+the " @entity337 " tool was added to the site october 10 , amid criticism there was no window shopping feature			0
+but it only includes two age categories for estimates -- " 49 or under " and " 50 or older " -- and has been criticized for providing wildly varied cost estimates			0
+" it 's not as good as @entity347 , " @entity80 told @entity1			1
+" it does n't provide the full experience of anonymous shopping that was recommended " in the prototype @entity107 encouraged state exchanges to adopt , adding that the online window shopping tool " still remains a key component , particularly to filter plans in states where there are so many plans			1
+" seven weeks after @entity6 's launch , the @entity3 tool is still shelved			2
+at the federal government 's order , the contractor responsible for it , @entity200 , is not even working to ready it , a source close to the project tells @entity1			2
+@entity109 would not provide an estimate of when the window shopping feature will be available			0
+@entity1 's @entity367 and @entity368 contributed to this report			2
+watch @entity370 with @entity371 weekdays at 4pm to 6pm et and saturdays at 6pm et. for the latest from @entity372 .			0
+
+" @entity3 " function was *touted* as easy way to compare plans
+administration official said it was scrapped because it " failed miserably "
+documents @entity1 has obtained finds that the program passed key tests in september
+some *republicans* speculate whether it was pulled for political reasons
+
+@entity21:Republicans
+@entity106:Chao
+@entity107:CMS
+@entity80:Karp
+@entity81:California HealthCare Foundation
+@entity82:Oakland
+@entity114:Congress
+@entity139:ªCMS
+@entity85:California
+@entity371:Wolf Blitzer
+@entity109:HHS
+@entity152:ªThe
+@entity337:Plan Preview
+@entity3:Anonymous Shopper
+@entity1:CNN
+@entity0:Washington
+@entity6:HealthCare.gov
+@entity157:Peters
+@entity125:Insurance Oversight
+@entity239:IDEO
+@entity56:Americans
+@entity293:Darrell Issa
+@entity171:House Oversight and Government Reform Committee
+@entity13:Obama
+@entity312:West Wing
+@entity241:Enroll UX
+@entity367:Rachel Streitfeld
+@entity265:Colorado
+@entity347:Anonymous Shopper
+@entity124:Center for Consumer Information
+@entity200:CGI
+@entity205:Plan Compare
+@entity248:Zappos.com
+@entity251:OpenTable.com
+@entity370:The Situation Room
+@entity308:White House
+@entity266:New York
+@entity368:Kevin Liptak
+@entity65:Amazon
+@entity63:Kayak
+@entity372:The Situation Room click here

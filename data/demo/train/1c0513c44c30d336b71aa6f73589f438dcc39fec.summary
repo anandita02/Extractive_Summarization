@@ -1,0 +1,66 @@
+http://web.archive.org/web/20141027081128id_/http://www.cnn.com/2014/03/17/world/asia/satellite-signals-plane-identity-flight-370/
+
+-- there 's a reason why @entity4 officials are so confident it was @entity5 that sent signals to a satellite many hours after the plane disappeared from radar march 8			1
+that 's because @entity0 has learned signals from commercial aircraft to @entity13 satellites always include a code confirming the identity of the plane			1
+an @entity13 official , while declining to discuss specifics of flight 370 , tells @entity0 the satellite system is highly reliable , that each signal to an aircraft is met by a return signal and that those signals always contains a code verifying the identity of the aircraft			1
+it is " virtually impossible " to change an aircraft 's identifying code or to confuse one aircraft with another , the @entity13 official said			1
+further , after a satellite link is established at the beginning of a plane 's flight , it makes automatic , periodic checks until the end of the flight -- helping investigators determine the duration of the flight , if not its location			1
+that could explain why @entity4 authorities now say they have a " high degree of confidence " that @entity5 continued flying well after it disappeared from civilian radar screens			1
+map it : what happened to flight 370 ? government officials now believe the plane continued flying until at least 8:11 a.m. -- almost seven hours after disappearing from radar at 1:21 a.m. @entity4 officials , citing " satellite information " but giving scant details , this weekend refocused the search for the missing @entity58 , moving attention to massive arcs on both sides of the equator			1
+@entity4 authorities believe someone disabled several communications systems , perhaps to conceal the plane 's location			1
+one of those systems was a digital data system known as @entity69 , which uses the satellite to relay messages to the ground			0
+but while it is possible for someone in the cockpit to turn off @entity69 , the system 's powered antenna remained on , receiving and responding to hourly checks from a ground station , via the satellite			2
+@entity13 technicians continue to help , the company said			1
+" our experts have been pulled into the investigation			0
+we 've had people in @entity86 , " said @entity13 subject expert @entity84			2
+" we are putting everything into this to assist the investigation as best we can , because it seems there 's no other data set			0
+" how @entity13 works @entity13 , which is prohibited from discussing details of the @entity5 investigation , was able to provide @entity0 with a detailed explanation about how its system works			1
+the @entity96 - based satellite communications company owns and operates 10 satellites , all in geostationary orbit some 22,200 miles above the equator			1
+since a single satellite can see one - third of the @entity103 , multiple satellites are needed to provide seamless coverage and provide redundancy and reliability , the company said			1
+among other services , @entity13 provides satellite communications for the @entity69 , the acronym for @entity110 and @entity111			1
+it 's a digital datalink for short messages between an aircraft and an airline operations center , air traffic controllers and others			2
+@entity69 can be used to send messages and data of all types , including text messages from pilots to dispatchers , or automatically generated data on the health of the plane			0
+when a plane is over land , @entity69 messages typically are sent via vhf radio			0
+but when a plane is in remote regions , or over water and out of range of @entity130 , the signal is seamlessly switched to satellite			2
+" the pilot does n't have to do anything , " @entity84 said			0
+at its most fundamental , the satellite is a simple relay , transferring signals from ground stations to the aircraft , and back again , not unlike a cell phone tower , @entity84 said			1
+' handshakes ' help determine location when an aircraft powers up , the airplane automatically sends a signal logging onto the communications network			2
+thereafter , the ground station sends " polling signals " to the satellite , which relays them to the aircraft			1
+when the aircraft responds , it is known as a " handshake			0
+" the information relayed during the handshake is very limited , but it contains a unique identifying code to identify the aircraft			1
+the purpose of the hourly " handshakes " is to allow the satellite to know the approximate location of the aircraft so that it can efficiently relay any messages			2
+for this , the satellite needs to know the angle of the aircraft from the satellite			2
+an aircraft directly under the satellite would be at a 90 degree angle to the satellite ; an aircraft at the poles would be at 0 degrees			2
+in the case of @entity176 370 , authorities have said , the last message sent was at 40 degrees			0
+accident investigators , with the help of satellite experts , have used that information to determine the possible location of the plane			0
+" we 're trying to get up to speed on what that means and how to interpret it , " one @entity185 official told reporters			0
+" it 's sort of a new technology for us			0
+" " we have never had to use satellite handshaking as the best possible source of information , " the official said			0
+a completed handshake also suggests the plane was operational because the plane needs electrical power to send the return signal			0
+a plane 's return signal is an acknowledgment that , " yes , i 'm still here , " @entity84 said			0
+in the case of flight 370 , the " last successful handshake occurred somewhere along that circle , " the @entity185 official said			0
+" a lot of that semicircle is over land ; a lot of it is over water , " he said			0
+" we are trying to figure out how we can use that information to give us an idea of what the last known location of the airplane might have been			0
+
+@entity96 - based satellite communications company @entity13 talks to @entity0
+@entity225 says signals from aircraft to @entity13 satellites always include an @entity230 code
+it is " virtually impossible " to change an aircraft 's identifying code , official says
+this could explain why @entity4 is sure plane continued flying long after radar contact was lost
+
+@entity230:ID
+@entity0:CNN
+@entity13:Inmarsat
+@entity86:Kuala Lumpur
+@entity5:Malaysia Flight 370
+@entity4:Malaysia
+@entity176:Malaysia Airlines
+@entity69:ACARS
+@entity185:U.S.
+@entity103:Earth
+@entity84:Coiley
+@entity111:Reporting System
+@entity110:Aircraft Communications Addressing
+@entity225:Official
+@entity58:Boeing 777
+@entity130:VHF radio
+@entity96:London

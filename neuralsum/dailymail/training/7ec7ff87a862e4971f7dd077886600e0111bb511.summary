@@ -1,0 +1,68 @@
+http://web.archive.org/web/20141210230047id_/http://www.dailymail.co.uk/sciencetech/article-2800008/watch-internet-sleep-map-reveals-world-s-web-activity-disappears-sun-goes-uk-stays-awake.html
+
+while @entity1 and @entity2 may be cities that never sleep , in large parts of the world , the internet rests like a living creature each night			1
+a new animated map by @entity9 researchers reveals how large parts of @entity11 , @entity12 and @entity13 follow a ' diurnal usage ' pattern			1
+this means that internet usage peaks as the day progresses and then almost stops as the sun goes down			1
+over the course of two months , researchers pinged 3.7 million ip address blocks - representing almost one billion of the world 's four billion @entity36 addresses - every 11 minutes			1
+' the internet is important in our lives and businesses , from streaming movies to buying online , ' said professor @entity43 from the @entity31			2
+' measuring network outages is a first step to improving @entity47 reliability			2
+' in the map , the pink and red blocks show higher internet usage , while blue blocks suggest lower than average web activity			1
+tthe @entity26 , @entity9 , @entity27 , and @entity28 are active through the night , according to recent data collected in @entity51 the internet has revolutionised the way we communicate and a third of the world ’s population use it to stay connected			1
+now , @entity60 - based internet cartographer and computer scientist @entity58 has used software to ‘ ping ’ all of these global web devices and create a map demonstrating the technology ’s global reach			1
+in the majority of cases , this signal was sent to routers rather than individual gadgets , but mr @entity58 said @entity72 and @entity74 devices have appeared previously			0
+the cartographer said it took around five hours to ping all ip addresses on august 2			2
+the map then took more than 12 hours to create			0
+' pinging ' an ip address involves sending a signal to the device from a server , which causes the connection to ' light up ' - albeit not physically			1
+mr @entity58 is founder of @entity84 , a search engine for connected devices			0
+different colours represent the density of devices in that region , and unsurprisingly , the world ’s largest cities in developed countries glow the brightest			0
+red areas contain a lot of web - enabled devices , while green areas contain fewer			2
+black areas are regions where no signal was received			0
+while it may be no surprise that there seem to be less internet - connected devices in parts of @entity11 , mr @entity58 explained his map is not precise because some organisations block ping requests			1
+it is thought that areas of @entity110 should be coloured bright red on the map , but the country ’s ‘ @entity115 ’ explains why most of the country looks dark			0
+connected : @entity60 - based internet cartographer and computer scientist @entity58 has used software to ‘ ping ’ global web devices to build a map ( pictured ) demonstrating the technology ’s global reach the researchers say the diurnal usage seems to be correlated with countries than use dial - up links which could be shut down during the night , or with those who want to conserve electricity			1
+the finding could help scientists and policymakers develop better systems to measure and track internet outages , such as those that struck the @entity137 after @entity138			1
+understanding how the @entity47 sleeps may help them avoid confusing a sleeping internet with an internet outage			2
+' this work is one of the first to explore how networking policies affect how the network is used , ' professor @entity43 said			0
+' this data helps us establish a baseline for the internet — to understand how it functions , so that we have a better idea of how resilient it is as a whole , and can spot problems quicker the team 's work is ongoing			2
+' we have grown our coverage to four million blocks [ more than one billion addresses ] as internet use grows , ' professor @entity43 added			1
+a firm called @entity162 recently created a map of internet freedom around the world ( pictured ) based on a @entity167 report in 2013			0
+regions marked in white have the freedom to roam , as opposed to those marked red in separate research , a firm called @entity162 recently created a map of internet freedom around the world based on a @entity167 report in 2013			0
+in the report , countries were reviewed on limits placed on online content , obstacles to internet access , and violations of user rights			0
+they were then graded as free , partly free or not free and marked on a map in white , pink and red respectively			0
+countries marked in grey were not included in the report			0
+@entity110 , @entity191 and @entity192 were found to be the top three user rights violators when it comes to online freedom .			0
+
+@entity9 researchers pinged 3.7 million ip address blocks over two months
+they found the @entity26 , @entity9 , @entity27 , and @entity28 are active through the night
+large parts of @entity11 , @entity12 and @entity13 only log on during the day
+@entity204 shows high internet usage , while blue suggests low web activity
+finding could help develop better systems to track internet outages
+
+@entity26:UK
+@entity27:India
+@entity28:East Asia
+@entity115:Great Firewall
+@entity84:Shodan
+@entity138:Hurricane Sandy
+@entity110:China
+@entity137:New York area
+@entity2:London
+@entity1:New York
+@entity9:US
+@entity192:Syria
+@entity191:Iran
+@entity51:California
+@entity74:Android
+@entity58:John Matherly
+@entity72:iPhone
+@entity31:University of Southern California
+@entity13:Australia
+@entity12:Russia
+@entity11:Africa
+@entity36:IPv4
+@entity204:Pink
+@entity162:IVPN
+@entity167:Freedom House
+@entity47:Internet
+@entity43:Heidemann
+@entity60:Texas

@@ -1,0 +1,47 @@
+http://web.archive.org/web/20130903074746id_/http://www.dailymail.co.uk/sciencetech/article-2398171/Jekyll-app-sneaky-tactics-hackers-use-trick-Apples-App-Store-revealed.html
+
+by @entity0 published : 10:31 est , 20 august 2013 updated : 12:20 est , 20 august 2013 hackers have discovered a way of sneaking dangerous and malicious software onto @entity5 's @entity4 by tricking the store 's reviewers into thinking its safe			1
+the app , dubbed @entity10 after the character in @entity13 's famous book in which dr @entity14 has an evil alter ego called mr @entity16 , can be made to look like a harmless game , service , utility app and so on			1
+once it has passed @entity5 's strict app review policy , the computer scientists from the @entity21 who developed the technique can remotely change its binary code to make it malicious			1
+researchers from @entity21 have developed an app that tricks @entity5 into accepting it on the @entity4 , pictured , by convincing reviewers its safe			1
+once the app has been accepted , the designers can tweak its code to make it malicious and carry out attacks to steal people 's data , for example the findings were published in the paper , @entity10 on @entity43 : when @entity44			1
+researchers @entity45 , @entity46 , @entity47 , @entity48 , and @entity49 said : ' the key idea is to make the apps remotely exploitable and subsequently introduce malicious control ﬂows byrearranging signed code			0
+' since the new control ﬂows do not exist during the app review process , such apps , namely @entity10 apps , can stay undetected when reviewed and easily obtain @entity5 ’s approval			1
+' we implemented a proof - of - concept @entity10 app and successfully published it in @entity4			2
+we remotely launched the attacks on a controlled group of devices that installed the app. ' the result shows that @entity10 app can successfully perform many malicious tasks , such as stealthily posting tweets , taking photos , stealing device identity information , sending email and sms , attacking other apps			1
+' as well as sending messages and stealing @entity78 numbers , the app was also used to open malicious websites on the device 's built - in safari browser			2
+the app was dubbed @entity10 after the character in @entity13 's famous book from 1886			1
+in the book @entity16 has an evil alter ego called mr @entity16 to be accepted onto the @entity4 , apps must be functional in that they must not crash , include hidden features or work in a way other than what the developer advertised			2
+they must also have a user function and developers ca n't charge for app that does n't do anything			0
+any app that is defamatory , offensive , mean - spirited , or likely to place the targeted individual or group in harms way will be rejected			0
+apps that present excessively objectionable or crude content will be rejected along with apps that are designed to upset or disgust users			0
+@entity5 spokesman @entity106 told @entity107 that developers have made changes to the @entity43 in response to the @entity21 's research although it 's not known if the flaw has been completely fixed			0
+@entity5 has a strict policy on which apps are accepted onto its app store			2
+it does n't allow malicious or dangerous apps or apps that contain adult content , but it will also reject apps that do n't appear to have a set use or function			0
+this is to avoid rogue apps from appearing on the store			0
+all apps are additionally run inside what 's called the @entity43 sandbox , which isolates individual apps and prevents them from being able to communicate with other apps or other built - in programs			0
+this is supposed to mean that if one app becomes infected , it ca n't hijack the others , yet the @entity21 's research even managed to bypass this feature .			0
+
+when the app is submitted for review to @entity5 it appears to be safe
+once accepted onto the @entity4 , hackers are able to tweak the app to make it malicious
+the malicious app can then carry out attacks on the user 's device
+it has been dubbed @entity10 after the character from the book
+
+@entity16:Hyde
+@entity0:Victoria Woollaston
+@entity13:Robert Louis Stevenson
+@entity5:Apple
+@entity10:Jekyll
+@entity4:App Store
+@entity43:iOS
+@entity44:Benign Apps Become Evil
+@entity45:Tielei Wang
+@entity46:Kangjie Lu
+@entity21:Georgia Institute of Technology
+@entity78:ID
+@entity106:Tom Neumayr
+@entity107:MIT Review
+@entity14:Jekyll
+@entity48:Simon Chung
+@entity49:Wenke Lee
+@entity47:Long Lu

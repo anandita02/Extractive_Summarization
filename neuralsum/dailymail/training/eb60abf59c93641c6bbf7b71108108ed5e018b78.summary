@@ -1,0 +1,60 @@
+http://web.archive.org/web/20150508205039id_/http://www.dailymail.co.uk/sciencetech/article-2590589/The-app-lets-chat-WITHOUT-internet-phone-connection-FireChat-uses-hidden-iOS-feature-relay-messages.html
+
+the @entity1 app , pictured , uses @entity2 's @entity4 @entity3 to turn create a network of phone users without using mobile signal buried within the settings of @entity2 ’s @entity4 is a feature that could revolutionise how we communicate			1
+called the @entity3 ( mcf ) , it lets you send messages and photos even when a person has no signal			1
+now a group of developers has created a free @entity20 app called @entity1 that takes advantage of this feature - and it even works over long distances			1
+the @entity1 app was developed by the crowdsourced firm @entity23			0
+when a user opens the app , they can pick a screen name to start sending messages			1
+within the app there are ' chatrooms ' with ' everyone ' and ' @entity34 ' options			0
+the former will search for all users , while the latter option applies to people within @entity40 and @entity41 range who are also using the app. this is particularly useful when on a plane , or the underground			0
+it can also be used to save money on data plans , for example			0
+@entity2 added @entity50 to its @entity4 software last year			2
+it creates what is called a wireless mesh network that connects phones to each other			1
+in ' @entity34 ' mode , instead of sending messages using a mobile or data signal , the feature lets users send messages to people in close proximity that are in @entity40 or @entity67 range - up to around 30 feet ( 9 metres )			1
+it does this by creating a localised network in which each phone becomes a node , and the data is passed between nodes			1
+@entity2 uses the framework for its @entity77 feature , for example , which makes it easy to send files and data to other connected @entity20 users			2
+the @entity1 app , pictured left , was developed by @entity23			0
+in the app there are ' chatrooms ' including everyone and @entity89			0
+the former searches for all users , while the latter applies to people within bluetooth and @entity41 range			0
+it takes advantage of the same @entity98 7 tool @entity2 uses for its @entity77 feature , pictured right @entity2 added @entity3 ( mcf ) to its @entity4 software last year			1
+it creates what ’s called a wireless mesh network that connects phones to each other			1
+instead of sending messages using mobile or data signal , the features lets users send messages to people in close proximity that are in @entity40 or @entity67 range - up to around 30 feet ( 9 metres )			1
+it does this by creating a localised network in which each phone becomes a node and the data is passed between nodes			1
+@entity2 uses the framework for its @entity77 feature , for example , which makes it easy to send files and data to other connected @entity20 users			0
+these messages are sent securely , so the individual nodes ca n’t read them			0
+users can also send messages anonymously to avoid snooping , for example , because data is sent from app usernames , as opposed to mobile numbers			1
+elsewhere , because the feature does n’t use an internet connection , it ca n’t be infiltrated by hackers			0
+the @entity140 allows people to send information further however			0
+it does this by bringing all its nodes onto one network and relaying messages from one node to another until it reaches the final recipient			1
+it is not known whether there is a maximum distance the app will work within , and in theory it will work wherever there are nodes , but @entity160 has contacted the company to find out more			2
+the distance a message can be sent is probably dependent on whether a given region has the nodes needed to relay the messages			2
+nodes are simply a vehicle for passing data along a network			2
+on a traditional internet network any device that ’s connected to the network is also called a node			2
+for example , if a network has a phone , tablet , two computers and a printer connected to it there are five nodes on the network			0
+each of these devices have a network address which is used to uniquely identify each one			0
+this helps keep track of where data is being transferred to and from on the network			0
+there is an @entity192 version of the mesh networking feature , developed by @entity23 , but it is not a chat app and is instead used for file sharing .			2
+
+the @entity4 feature is called @entity3 ( mcf )
+it creates what 's called a wireless mesh , or peer - to - peer , network
+instead of sending messages using a mobile signal , the free app creates its own network where each mobile on it becomes a ' node '
+this means people in close proximity can message other nodes
+messages are also sent over long distance by relaying data from one node to another anonymously
+
+@entity3:Multipeer Connectivity Framework
+@entity2:Apple
+@entity1:FireChat
+@entity140:' Everyone ' Setting
+@entity34:Nearby
+@entity23:Open Garden
+@entity67:Wi-Fi Direct
+@entity4:iOS 7
+@entity20:iPhone
+@entity192:Android
+@entity50:MCF
+@entity40:Bluetooth
+@entity41:Wi-Fi
+@entity98:iOS
+@entity89:Nearby
+@entity77:AirDrop
+@entity160:MailOnline

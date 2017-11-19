@@ -1,0 +1,60 @@
+http://web.archive.org/web/20150703195231id_/http://www.dailymail.co.uk/sciencetech/article-2870710/Hacking-alert-Android-WATCHES-Experts-reveal-gadgets-infiltrated-read-messages-sent-wrist.html
+
+they are touted as the next bit thing in technology - smartwatches that can keep you up to date right from your wrist			0
+however , experts have warned they could also be the next big target for hackers			2
+a video reveals just how easy it is to read messages sent to a smartwatch running @entity15 's @entity14 software			1
+for this proof - of - concept , a @entity19 4 @entity14 device equipped with @entity20 and @entity21 were used			1
+using special software the team was able to ' brute force ' a six digit passcode used to link the phone to the watch - and then read messages sent to it			1
+' @entity33 , bands and devices all have a lack of security			0
+' we trust these devices with everything from messages and @entity42 updates to biometric information , ' said @entity44 of @entity45 , which uncovered the issue			2
+' everything from @entity50 messages to @entity42 or @entity51 chats are constantly being forwarded to your smartwatch			1
+' he found that @entity15 's @entity56 software relies on a six digit pin code to link to watches			1
+' this six digit pin code can be easily bruteforced , ' he said			1
+' it was not all that that difficult to do			0
+' ' because the @entity56 obfuscation relies on a pin code of only six digits during the initial pairing , an attacker would n’t take long to brute - force number and start reading your conversations in plain - text , ' he wrote			1
+' of course , this means an attacker would have to be fairly near the victim and log all intercepted @entity75 data packets , but the large - scale adoption of such an exploit could be fueled by the increasing number of smartwatches or smartbands			0
+' weaponizing it could only be a matter of time			0
+' for the proof - of - concept , a nexus 4 android device equipped with @entity20 and @entity21 were used			1
+' the implications of these recent findings are only moderately surprising – we know from past experience that adoption of new technologies does not always go hand - in - hand with better security practices			0
+' @entity56 watch was unveiled by @entity15 at its developer conference in @entity95 earlier this year			2
+the firm showed off the latest watches running @entity14 wear , a version of @entity14 designed for wearable computers			0
+' it 's finally possible to make a powerful computer small enough to wear on your body , ' said @entity15 's @entity105			0
+it showed off the @entity108 watch , which shows the users the most relevant alert at the time - for instance , a flight they are about to get or an upcoming meeting			1
+@entity15 also revealed apps for its watches , including a food ordering app from @entity118 that allows users to order favourite food directly from their wrist , and a recipe app called allthecooks that walks users through recipes on the watch face			2
+using special software the team was able to ' brute force ' a six digit passcode used to link the phone to the watch - and then read messages sent to it			1
+@entity108 said the @entity134 would initially be made available to 12 countries including the @entity136 , @entity137 , @entity138 , @entity139 and @entity140 , adding that it would announce its price and shipping date shortly			0
+' as one of the first @entity56 devices to market , we see this as the beginning of a long - term commitment to making wearables running @entity14 wear a household name , ' said dr. @entity152 , president and ceo of @entity108			0
+' we ’re confident that once consumers see how useful and compelling @entity56 can be , it will be integrated into their daily lives , just as smartphone have done			0
+' read more : @entity158 on @entity159 @entity160 on @entity42			2
+
+experts shows a @entity21 smartwatch being hacked
+*researchers* were able to ' brute force ' attack a setup pin code
+allowed them to read all messages sent to the watch from phone
+
+@entity20:Android L Developer Preview
+@entity21:Samsung
+@entity15:Google
+@entity159:Twitter
+@entity158:http://www.dailymail.co.uk/sciencetech/article-2685311/Inside-smartwatch-Hackers-reveal-really-goes-Android-powered-watches-Samsung-LG.html#ixzz3Ld24BCpo Follow us : @ MailOnline
+@entity139:Germany
+@entity138:France
+@entity152:Jong-seok Park
+@entity134:G Watch
+@entity137:UK
+@entity136:US
+@entity118:Eat
+@entity51:Google Hangouts
+@entity50:SMS
+@entity56:LG G Watch
+@entity75:Bluetooth
+@entity33:Smartwatches
+@entity14:Android
+@entity19:Nexus
+@entity105:David Singleton
+@entity108:LG
+@entity95:San Francisco
+@entity160:DailyMail
+@entity140:Japan
+@entity44:Liviu Arsene
+@entity45:Bitdefender
+@entity42:Facebook

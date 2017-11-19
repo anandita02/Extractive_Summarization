@@ -1,0 +1,34 @@
+http://web.archive.org/web/20150619054606id_/http://www.dailymail.co.uk/sciencetech/article-2556078/The-robo-aquarium-lets-fish-drive-themselves.html
+
+it could give your fish a new lease of life - and allow them to explore the world outside their aquarium			1
+a team of @entity10 researchers has developed a remote control aquarium on wheels that fish can steer themselves			1
+the bizarre gadget is set to be launched as a @entity16 project			1
+scroll down for @entity17 the robo - aquarium : the new gadget allows fish to roam free around their home the prototype version of ' fish on wheels ' was constructed using a standard webcam , and an @entity25 , a tiny comuter , controlled robot vehicle			2
+using the contrast of the fish with the bottom of the fish tank , its position is determined and used to send commands to the @entity25 computer control board to move the car into that direction			1
+it uses a camera to analyse the direction the fish is swimming in - and controls the car accordingly			1
+' we came up with the idea of developing the ' fish on wheels ' device because we wanted to have something to showcase the possibilities of computer vision technology , ' @entity41 of @entity10 firm @entity42 told @entity50			2
+' we then came to the idea that with computer vision even animals would be able to control devices			0
+' the best way to show this was to enable fish to drive their own aquarium wherever they want to go			2
+' a prototype version of ' fish on wheels ' was constructed using a standard webcam , a battery powered @entity64 and an @entity25 controlled robot vehicle			0
+using the contrast of the fish with the bottom of the fish tank , its position is determined and used to send commands to the @entity25 computer control board to move the car into that direction			2
+' our pet fish have always been limited to their water holding area known as ' the fish tank ' , the firm said			0
+a camera mounted above the tank allows it to ' watch ' the fish to see what direction to drive in the location of the fish is determined using computer software , which can then ' drive ' the car in the direction the fish is swimming in ' in an attempt to liberate fish all over the world , the first self driving car for fish has been developed			1
+' up until now driving vehicles has been limited to mankind only ( excluding a handful of autonomous vehicles driven by computers ) , but now your pet fish can also put the pedal to the metal			0
+' @entity41 said the project was still only at the prototype stage , and is set to be improved before being launched as a @entity16 project			1
+' hopefully this invention will encourage more development in enhanced pet mobility , so pet animals can travel the world more freely			0
+' the team admit they are not sure how much the fish knows about its newfound ability			0
+' we are still not sure if the fish really has any idea of what it is doing for now , ' said @entity41			0
+' after letting it drive a little while we always put it back in it 's normal aquarium with plants and filters to not stress it out too much			0
+
+aquarium mounted on remote control car *chassis*
+camera analyses the direction the fish is swimming in - and controls the car accordingly
+project could be *funded* as @entity16 project
+
+@entity17:Video
+@entity16:Kickstarter
+@entity10:Dutch
+@entity25:Arduino
+@entity50:MailOnline
+@entity41:de Wolf
+@entity42:Studio Diip
+@entity64:Beagleboard

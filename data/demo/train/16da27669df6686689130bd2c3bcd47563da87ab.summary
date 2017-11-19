@@ -1,0 +1,40 @@
+http://web.archive.org/web/20141019111946id_/http://www.cnn.com:80/2014/01/05/tech/yahoo-malware-attack
+
+-- a malware attack hit @entity3 's advertising server over the last few days , affecting thousands of users in various countries , an internet security company said			1
+in a blog post , @entity7 said @entity3 's servers were releasing an " exploit kit " that exploited vulnerabilities in @entity12 and installed malware			1
+" clients visiting yahoo.com received advertisements served by @entity17 , " the internet security company said			0
+" some of the advertisements are malicious			0
+" @entity7 , which is based in the @entity19 , focuses on cyber defense			0
+it estimates that tens of thousands of users were affected per hour			1
+" given a typical infection rate of 9 % , this would result in around 27,000 infections every hour , " the company said			0
+" based on the same sample , the countries most affected by the exploit kit are @entity28 , @entity29 and @entity30			1
+at this time it 's unclear why those countries are most affected , it is likely due to the configuration of the malicious advertisements on @entity3			1
+" if a computer infected with malware is connected to a network , attackers can often access other connected systems and servers			2
+@entity3 said it is aware of the attack and is monitoring and blocking such advertisements			2
+" at @entity3 , we take the safety and privacy of our users seriously , " it said in a prepared statement monday			1
+" from december 31 to january 3 on our @entity50 sites , we served some advertisements that did not meet our editorial guidelines -- specifically , they spread malware			1
+on january 3 , we removed these advertisements from our @entity50 sites			0
+" the attacks did not affect @entity57 , @entity58 and the @entity59 , @entity3 said			2
+" additionally , users using @entity61 and mobile devices were not affected , " it added			2
+@entity7 said it is unclear who 's behind the attack , but it appears to be " financially motivated			0
+" it did not provide details			0
+top tech fails of 2013			0
+
+new : ads began to appear on december 31 and were removed *friday* , @entity3 says
+@entity3 's servers released a kit that exploited @entity12 and installed malware
+an it security firm estimates tens of thousands of users were affected per hour
+
+@entity3:Yahoo
+@entity17:ads.yahoo.com
+@entity0:CNN
+@entity7:Fox-IT
+@entity12:Java
+@entity30:France
+@entity28:Romania
+@entity29:Great Britain
+@entity19:Netherlands
+@entity50:European
+@entity57:North America
+@entity59:Asia Pacific region
+@entity58:Latin America
+@entity61:Macs

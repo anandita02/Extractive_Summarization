@@ -1,0 +1,71 @@
+http://web.archive.org/web/20150723145002id_/http://www.dailymail.co.uk/sciencetech/article-3048713/Internet-trolls-run-t-hide-Algorithm-identifies-antisocial-web-users-80-accuracy.html
+
+comments sections and social networks across the web are littered with antisocial users who repeatedly abuse and provoke people to get a reaction			1
+these so - called ' trolls ' have even been known to cause mental distress to their victims			0
+but now a team of researchers has studied millions of such online posts to identify common traits among these users			1
+and it has built an algorithm that can recognise a potential troll with an accuracy of 80 per cent by scanning their comments			1
+experts studied 40 million posts by 1.7 millions users on news site @entity24 , political news site @entity25 and gaming site @entity27			1
+the researchers then divided users into those most likely to be banned , called @entity29 ( @entity30 ) , and other users dubbed never - banned users ( @entity35 ) the research was carried out by phd students from @entity38 and @entity39 , led by @entity40 , in a paper called @entity42 in @entity43			1
+the team examined three large online forums including general news site @entity24 , @entity25 , a political news site , and computer gaming site @entity27			0
+within these communities members that repeatedly violate community guidelines can be banned , either temporarily or permanently			0
+over an 18 - month period , the team studied the content and deletion rates of 40 million posts and 100 million votes posted by 1.7 million users across these sites			1
+from this data they were able to divide users into two groups			0
+posts made by antisocial web users , or trolls , are less readable in terms of language and coherency			1
+trolls are more likely to veer off - topic and have fewer similarities in terms of language and content compared to posts by other users			2
+trolls are also less likely to use positive words than other users , they swear more , and use less tentative or conciliatory language such as ' could ' , ' perhaps ' , or ' consider '			0
+in terms of activity , the study found that trolls make more comments each day , and post more times on each thread			0
+they purposefully try to create discussions , or actively respond to an on - going discussion			0
+trolls were also more likely to have had posts deleted than other users and over the 18 month study period , the number of deleted posts by @entity30 increased			1
+people who , over the course of the study , were subsequently banned from the sites , or were likely to be , were classified as @entity29 ( @entity30 )			1
+users who were n't banned during the study , and did n't exhibit signs that suggested they would be in the future , were known as never - banned users ( @entity35 )			1
+once these users were split up the researchers looked at four features to identify common traits among the @entity30 and @entity105			1
+the first was called ' @entity106 features ' and included studying the content of a post			0
+' activity features ' included how often a user posted in the forum , while ' @entity112 features ' looked at votes on individual posts that suggest a person or opinion 's popularity			0
+lastly , ' moderator features ' looked at how many posts had been moderated or deleted			0
+the findings suggest that posts written by @entity122 are ' less readable ' , tend to veer off - topic and have fewer similarities in terms of language and content compared to posts by @entity35			2
+the researchers compared the average text similarity of a user 's post with the previous three posts in the same thread			0
+' we find that the average text similarity of posts written by @entity136 is significantly lower than that of @entity35 , suggesting that @entity30 make less of an effort to integrate or stay on - topic , ' said researchers			1
+the team also found that while there was no consistent trend with respect to the use of words containing negative emotion among posts made by @entity30 , they are less likely to use positive words			1
+posts made by antisocial web users , or trolls , are less readable ( centre ) in terms of language and coherency and are more likely to veer off - topic and have fewer similarities than posts by other users ( left )			1
+trolls are also less likely to use positive words ( right ) than other users , and they swear more in posts in terms of activity , the study found that trolls make more comments each day and post more times on each thread			2
+they purposefully try to create discussions , or actively respond to an on - going discussion fbus are also more likely to swear and use less tentative or conciliatory language such as ' could ' , ' perhaps ' , or ' consider '			0
+in terms of activity , the research also found that @entity30 purposefully try to create discussions , or actively respond to an on - going discussion			2
+as a result they spend more time in individual threads than @entity35			0
+previous research found that post frequency was a signal of low quality discussions			0
+on @entity184 and @entity27 , trolls were more likely to reply to others ' posts , but on @entity24 , they were more likely to start new discussions			0
+still , across all communities , @entity122 appear to be ' effective at luring other users into potentially fruitless discussions ' , which is a sign of troll - like behaviour , said the study			2
+trolls were also more likely to have had posts deleted than other users and over the 18 - month study period , the number of deleted posts by @entity30 increased			1
+these traits are unlikely to help recognise a troll in their own right , but when combined , the researchers found they could be used to identify a troll with 80 % accuracy fbus contribute significantly more posts per thread they participate in , according to the results			1
+trolls were also more likely to have had more posts deleted than @entity213 , and over 18 months , the number of deleted posts by @entity30 increased			2
+these individual identifiers and traits are unlikely to help recognise a troll or antisocial behaviours in their own right			0
+however , when combined the researchers found they could identify a troll with an accuracy of 80 per cent			2
+' understanding how antisocial users may steer individual discussions can help us better quantify their influence on other users , ' concluded the researchers			2
+' our initial explorations suggest that @entity122 cause discussions to veer off - topic : replies to @entity30 were significantly less similar to preceding posts in a thread than replies to @entity35			1
+' one could also investigate the effects of having multiple antisocial users participate in a discussion			0
+' but they recognised the algorithm 's accuracy rate meant that one in five antisocial users are undetected and further works needs to be done to boost this rate and work out effective ways of dealing with the trolls			2
+the findings are published in @entity246 .			0
+
+researchers studied 40 million posts made by 1.7 million web users
+from this they divided people into two groups - future - banned users ( @entity30 ) and never - banned users ( @entity35 )
+they built an algorithm that scans posts for signs of antisocial behaviour
+study shows this algorithm can identify potential trolls in 80 % of cases
+
+@entity30:FBUs
+@entity35:NBUs
+@entity27:IGN
+@entity24:CNN
+@entity25:Breitbart.com
+@entity39:Cornell University
+@entity38:Stanford
+@entity29:Future-Banned Users
+@entity184:Breitbart
+@entity246:arXiv
+@entity42:Antisocial Behavior
+@entity40:Justin Chang
+@entity105:NBUs
+@entity106:Post
+@entity43:Online Discussion Communities
+@entity136:FBUs
+@entity122:FBUs
+@entity213:NBUs
+@entity112:Community

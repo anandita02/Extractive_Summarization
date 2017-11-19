@@ -1,0 +1,29 @@
+http://web.archive.org/web/20130606223700id_/http://www.dailymail.co.uk/sciencetech/article-2161231/Shocking-study-reveals-brain-scan-results-look-different-viewed-Mac-PC.html
+
+by @entity1 reporter published : 15:51 est , 18 june 2012 updated : 11:20 est , 19 june 2012 @entity2 used to analyse medical brain images gives significantly different results if it ’s run on a @entity6 @entity5 or pc , according to new research			1
+the findings by a team of @entity12 researchers has raised concerns about potential problems with software analysis			0
+data from 30 brain scans was fed into the computer using a package called @entity20			1
+variation : the differences in cortical grey matter volumes between @entity20 version v4.3.1 and v5.0.0 on a @entity5 ( @entity25 10.5 ) contrasting results : marked differences in subcortical grey matter volumes between @entity20 version v4.3.1 and v5.0.0 on a @entity5 ( @entity25 10.5 ) the software is one of the major medical image analysis programmes used to measure the size of different parts of the brain			1
+the research team ran the software on @entity37 and on @entity5 running different versions of @entity39 they found that not only did @entity37 and @entity39 installs of the software produce different results - but the version of @entity39 also had an impact , reported @entity44			1
+the findings by a team of @entity12 researchers has raised concerns about potential discrepancies with software analysis each time the software was used it measured the size and thickness of various structures of the brain			0
+the level of differences between computers varied depending on brain location			0
+for @entity5 vs @entity61 and @entity39 updates it was closer to 2 - 5 per cent			2
+but there was a 15 per cent variation just because of a @entity39 update			0
+the discrepancy between the results remains unclear			0
+on the @entity68 , the abstract concludes : ' the main conclusion is that in the context of an ongoing study , users are discouraged to update to a new major release of either @entity20 or operating system or to switch to a different type of workstation without repeating the analysis ; results thus give a quantitative support to successive recommendations stated by @entity20 developers over the years			2
+
+data from 30 brain scans was feed into the computer using a package called @entity20
+even version of @entity39 created different results
+
+@entity2:Software
+@entity20:FreeSurfer
+@entity6:Apple
+@entity5:Mac
+@entity25:OSX
+@entity39:Mac OS
+@entity1:Daily Mail
+@entity37:Windows
+@entity68:U.S. National Library of Medicine National Institutes of Health
+@entity12:German
+@entity44:Gizmodo
+@entity61:PS

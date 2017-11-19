@@ -1,0 +1,40 @@
+http://web.archive.org/web/20150707203159id_/http://www.dailymail.co.uk/sciencetech/article-2879977/Huge-security-flaw-mobile-phone-networks-let-hackers-listen-voice-calls-read-text-messages-revealed.html
+
+a massive security flaw that could let hackers listen in on private calls and read text messages has been revealed			1
+the flaw , is in a global telecom network called @entity6 that helps phone carriers across the world , including @entity9 and @entity10 , route calls and texts			1
+the flaws , to be reported at a hacker conference in @entity15 this month , are the latest in a string of major flaws in the system			1
+the flaws are in a system called @entity21 , the global network that allows the world 's cellular carriers to route calls , texts and other services to each other the flaws discovered by the @entity30 researchers are actually functions built into @entity21 for other purposes – such as keeping calls connected as users speed down highways , switching from cell tower to cell tower			1
+however , hackers worked out a way to repurpose the features for surveillance because of the lax security on the network			2
+' experts say it 's increasingly clear that @entity21 , first designed in the 1980s , is riddled with serious vulnerabilities that undermine the privacy of the world 's billions of cellular customers , ' said the @entity50 , which first uncovered flaws in the system earlier this year			1
+the flaws discovered by the @entity30 researchers are actually functions built into @entity21 for other purposes – such as keeping calls connected as users speed down highways , switching from cell tower to cell tower			1
+however , hackers worked out a way to repurpose the features for surveillance because of the lax security on the network			0
+although the extent of the flaws has not yet been revealed , it is believed hackers can locate callers anywhere in the world , listen to calls as they happen or record hundreds of encrypted calls and texts at a time for later decryption			1
+' it 's like you secure the front door of the house , but the back door is wide open , ' @entity74 , one of the @entity30 researchers , told the @entity50			0
+there also is potential to defraud users and cellular carriers by using @entity21 functions , the researchers say			1
+the @entity84 has even warned people against using their handset in light of the breaches			0
+' do n't use the telephone service provided by the phone company for voice , ' principle technologist @entity89 told @entity93			0
+hackers worked out a way to repurpose the features networks use to connect calls for surveillance because of the lax security on the network			2
+the voice channel they offer is not secure			0
+' you can use @entity104 , which is built into any @entity105 , or @entity6 , which you can download from the app store			0
+' these allow you to have secure communication on an insecure channel			0
+' he also believes that security agencies could be using the flaws			2
+' many of the big intelligence agencies probably have teams that do nothing but @entity21 research and exploitation			2
+' they 've likely sat on these things and quietly exploited them			0
+
+flaws set to be reported at a hacker conference in @entity15 this month
+are in a system called @entity21 that allows the world 's cellular carriers to route calls , texts and other services to each other
+claims security services could be exploiting flaws
+
+@entity30:German
+@entity15:Hamburg
+@entity21:SS7
+@entity6:Signal
+@entity10:Verizon
+@entity9:AT&T
+@entity50:Post
+@entity104:FaceTime
+@entity105:iPhone
+@entity74:Tobias Engel
+@entity89:Christopher Soghoian
+@entity84:The American Civil Liberties Union
+@entity93:Gizmodo

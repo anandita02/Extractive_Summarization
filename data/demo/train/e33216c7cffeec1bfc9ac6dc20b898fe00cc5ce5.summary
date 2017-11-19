@@ -1,0 +1,15 @@
+http://web.archive.org/web/20130917011459id_/http://www.cnn.com/2013/08/04/world/asia/australia-election
+
+-- @entity2 prime minister @entity1 announced sunday that national elections will take place september 7			1
+it 'll mark yet another turn in @entity2 politics			0
+in june , @entity1 returned as prime minister of australia -- three years after he was replaced in the office by his then - deputy @entity10			0
+@entity1 challenged @entity10 for leadership of the @entity12 and won a 57 - 45 vote among fellow @entity12 members of parliament .			2
+
+@entity2 prime minister @entity1 announced sunday that national elections will take place september 7
+@entity1 challenged @entity10 for leadership of the @entity12 and won a 57 - 45
+
+@entity2:Australian
+@entity1:Rudd
+@entity0:CNN
+@entity12:Labor Party
+@entity10:Gillard

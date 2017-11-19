@@ -1,0 +1,36 @@
+http://web.archive.org/web/20120729002703id_/http://www.cnn.com/2012/06/14/business/coca-cola-myanmar/index.html
+
+-- @entity1 could be coming to @entity2 soon			1
+the world 's largest beverage company has announced plans to return to the country for the first time in 60 years			1
+@entity9 has applied for a general license to begin conducting business there , the company stated in a press release			0
+@entity2 , the once reclusive nation , is one of three countries in the world where @entity1 does not do business , according to the company			1
+it does not have a presence in @entity21 and @entity22			0
+@entity2 's government is opening up to international investors as it undergoes a series of reforms			2
+the @entity27 , the @entity28 and others are easing sanctions , allowing their citizens and businesses to directly invest in @entity2 after the ruling junta returned to civilian rule and allowed free elections			1
+a recent oil and gas conference was held in the city of @entity38 to attract potential investors from around the world			0
+@entity42 laureate @entity41 , the democracy advocate who had been under house arrest for nearly two decades , recently won a seat in the country 's legislature			0
+this week , she traveled to @entity47 for the first time since her detainment to accept the @entity50 she was awarded in 1991			0
+still , challenges lie ahead for @entity2			2
+the country 's western state has been rocked recently by ethnic violence that prompted a state of emergency			0
+@entity1 , which sells sodas , bottled water , sports drinks as well as juices , described its investments in @entity2 as " significant " over the next three to five years			1
+initially , the products would be shipped into neighboring countries while local business ties are established			2
+the company 's international strategy is to operate as a local business in every market , with selling , distributing and manufacturing taking place locally , @entity1 stated in a release			1
+the company 's charity arm also pledged a $ 3 million grant for women 's economic programs in the country .			0
+
+@entity1 announced plans to do business in @entity2
+@entity2 is only one of three countries in the world without @entity1
+@entity27 , @entity28 and others are easing sanctions
+
+@entity22:North Korea
+@entity2:Myanmar
+@entity1:Coca-Cola
+@entity21:Cuba
+@entity27:U.S.
+@entity38:Yangon
+@entity9:Coke
+@entity0:CNN
+@entity50:Nobel Peace Prize
+@entity41:Aung San Suu Kyi
+@entity42:Nobel
+@entity47:Europe
+@entity28:European Union

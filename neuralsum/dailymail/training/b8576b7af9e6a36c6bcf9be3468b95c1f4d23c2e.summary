@@ -1,0 +1,60 @@
+http://web.archive.org/web/20140820214752id_/http://www.dailymail.co.uk/sciencetech/article-2709919/Massive-security-alert-Android-Fake-ID-bug-experts-warn-personal-financial-details-millions-users-risk-four-YEARS.html
+
+by @entity0 a new flaw in @entity5 's @entity4 mobile operating system leaves the personal and financial details of users open to hackers , a mobile analytics firm has claimed			1
+called @entity9 and discovered by security firm @entity10 , the malicious software , or malware , can impersonate other apps in order to gain access to secure areas of your phone and sensitive data that it holds , without the user becoming aware			1
+experts say the flaw has been present since 2010			2
+the flaw affects millions of handsets running @entity5 's @entity4 software called @entity24 , the malicious software , or malware , can impersonate other apps in order to gain access to secure areas of @entity4 phones and tablets			1
+it can then extract sensitive data that it holds , without the user becoming aware			0
+the vulnerability dates back to the january 2010 release of @entity4 2.1 the malware could also gain access to @entity41 , an app which utilises mobile payments , leaving thousands of user accounts at risk			1
+however , @entity5 has moved to calm any fears by confirming they have been alerted to the problem and issued a fix to protect users			1
+@entity4 is the operating system developed by technology giant @entity5			1
+in a blog post on the @entity10 website , chief technology officer @entity52 , said : ' the vulnerability allows malicious applications to impersonate specially recognised trusted applications without any user notification			2
+' this is a widespread vulnerability dating back to the january 2010 release of @entity4 2.1			1
+mr @entity52 also suggested the malware could gain access to ' financial and payment data by impersonating @entity41 ' , an app which utilises mobile payments , leaving thousands of user accounts at risk			1
+however , @entity5 has moved to calm any fears by confirming they have been alerted to the problem and issued a fix to protect users			1
+' we appreciate @entity10 responsibly reporting this vulnerability to us			2
+third - party research is one of the ways @entity4 is made stronger for users , ' said a @entity5 spokesman			1
+millions of @entity4 handsets are belied to be at risk as the flaw has been present since 2010 ' after receiving word of this vulnerability , we quickly issued a patch that was distributed to @entity4 partners , as well as to the @entity84			1
+' the technology giant also said that they had scanned their app store and found no apps that are currently exploiting the vulnerability			2
+@entity89 , security researcher at online firm @entity90 said that as long as users stick to official apps from the @entity94 , they are unlikely to be in too much danger			0
+' all is not lost for owners of unsupported devices as long as they stick to applications obtained from the @entity101 store and do not enable apps from untrusted sources , ' he said			0
+' users without access to @entity101 or who want an added layer of protection should install a mobile anti-virus product to detect this and other malicious apps			2
+this was a view echoed by @entity114 from web security company @entity115 , who suggested that the bug might not have even been known to hackers			0
+' probably not many people will already be affected by the flaw			0
+security flaws do go unnoticed by companies but that usually means they go unnoticed by hackers as well			0
+it ’s very possible that this vulnerability was already being used in the wild but my guess would be even if it was , the impact would be pretty low			0
+' it seems @entity5 is aware of the flaw now and monitoring for any apps that attempt to use this vulnerability			1
+the news of this flaw is the latest in a wave of recent vulnerabilities that have been reported online			0
+the @entity139 bug that affected the @entity141 certificate used to encrypt user information on the web was discovered earlier this year			2
+it led to a host of major websites having to issue patches to protect users , and @entity152 parents ’ forum @entity149 announced they were hacked as a result of the flaw			0
+e-commerce giant @entity154 was another high profile victim of hacking earlier this year , when millions of user passwords and other data was compromised after a flaw was discovered in its security			0
+' so if you get your apps from the @entity94 , you should hopefully be ok			0
+' if you get apps from elsewhere , it should go without saying that you are potentially putting your device at great risk			0
+@entity10 has confirmed that it will be releasing it ’s own app that will scan a device to check whether it is at risk to the vulnerability			0
+according to a 2013 survey , more than 60 % of the world ’s smartphone users have an @entity4 device .			2
+
+malware can impersonate other apps in order to gain access to secure areas of your phone
+vulnerability dates back to the january 2010 release of @entity4 2.1
+malware could also gain access to @entity41 to steal financial information
+@entity5 has issued patch for the bug
+
+@entity90:Tripwire
+@entity0:Mark Prigg
+@entity5:Google
+@entity24:Fake ID
+@entity4:Android
+@entity52:Forristal
+@entity9:Fake ID
+@entity10:Bluebox
+@entity149:Mumsnet
+@entity89:Craig Young
+@entity101:Google Play
+@entity115:AppRiver
+@entity114:Jonathan French
+@entity84:Android Open Source Project
+@entity41:Google Wallet
+@entity152:UK
+@entity139:Heartbleed
+@entity94:Play Store
+@entity154:eBay
+@entity141:SSL

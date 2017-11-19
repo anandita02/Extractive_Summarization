@@ -1,0 +1,52 @@
+http://web.archive.org/web/20150416155954id_/http://www.dailymail.co.uk/sciencetech/article-2416585/Nasa-robot-BRAIN-Experts-develop-camera-helps-space-robots-make-decisions.html
+
+as impressive as the @entity2 ’s findings have been , the rover just does n’t have the brains to cut it further out in the solar system			0
+this is because , at the start of each martian day , @entity6 has to deal with a significant communication delay when it sends its agenda to the @entity12 rover			2
+even moving at light speed , instructions from @entity14 take about 20 minutes to reach the surface of @entity12			1
+this 40 - minute roundtrip makes real - time control of the rover impossible			0
+at the start of each martian day , @entity6 has to deal with a significant communication delay when it sends its agenda to the @entity12 rover			2
+even moving at light speed , instructions from @entity14 take about 20 minutes to reach the surface of @entity12			1
+this 40 - minute roundtrip makes real - time control of the rover impossible on @entity24 's @entity23 , where astrobiologists suspect extraterrestrial life could exist , the delay balloons to over 90 minutes			0
+but an ‘ intelligent ’ camera that can not only take pictures of alien rock , but also analyse them and draw intelligent conclusions about what to do next is hoping to change all that			2
+named ‘ @entity35 ’ , the two - lens device snaps 3d images and a special processor , separate from the rover 's main computer , analyses the pictures			1
+by recognising textures in the photos , the processor distinguishes between sand , rocks and sky			0
+the processor then uses the size and distance to rocks in the picture to determine if any are scientifically important layered rocks			0
+named @entity35 , the two - lens device snaps 3d images and a special processor , separate from the rover 's main computer , analyses the pictures			2
+by recognising textures in the photos , the processor distinguishes between sand , rocks and sky the device uses two lenses to snap 3d images of an alien environment			1
+a processor , separate from the rover 's main computer , then analyses the images			0
+by recognising textures in the photos , the processor distinguishes between sand , rocks and sky			0
+the processor then uses the size and distance to rocks in the picture to determine if any are scientifically important layered rocks			0
+when @entity35 findsan interesting rock , it can either upload a high - resolution image back to @entity14 or send a message to the main processor to move toward the rock and take a sample			1
+when @entity35 spots an interesting rock , it can either upload a high - resolution image back to @entity14 or send a message to the main processor to move toward the rock and take a sample			1
+‘ we currently have a micromanaging approach to space exploration , ’ said senior researcher @entity90 , a geologist at the @entity91 ( @entity91 ) @entity92			0
+‘ while this suffices for our rovers on @entity12 , it works less and less well the further you get from the @entity14			1
+‘ if you want to get ambitious and go to @entity100 and asteroids and comets , you need more and more autonomy to even make that feasible			0
+’ while researchers recently introduced autonomous navigation to the @entity2 , its scientific objectives are still determined by the images it transmits back to @entity14			2
+@entity12 - to - @entity14 communication costs precious power and trickles at a bandwidth of around 0.012 megabits per second — about 250 times slower than a 3g cellphone network			1
+@entity12 orbiters can help speed up the data transfer rate , though the satellites only orbit into correct alignment a few short minutes each day			2
+@entity2 's constrained connection limits the number of @entity12 images it can send back to @entity14			1
+@entity35 snaps photos of rocks in the @entity125 in @entity92			2
+the desert rocks look similar to rocks the automated system might one day need to analyse on @entity12 or other far - away worlds ‘ if the rover itself could prioritise what 's scientifically important , it would suddenly have the capability to take more images than it knows it can send back			1
+‘ that goes hand in hand with its ability to discover new things that were n't anticipated , ’ said ms @entity90			0
+in its infancy , ms @entity90 and her colleagues trained @entity35 using real @entity12 images taken by previous rover missions			1
+@entity35 's training worked similarly to the facial unlock feature available on smartphones and computers			0
+the more examples of interesting rocks it was shown , the better it became at identifying the common features that made the rocks scientifically important			0
+recently @entity35 was successfully run through its paces in the rocky landscape of the @entity125 in @entity92 — a useful test environment for the @entity12 surface .			1
+
+the @entity35 can both take and analyse images of an alien environment
+current rovers require scientists on @entity14 to do the analysis of rocks
+it can takes around 20 minutes for a message from @entity14 to reach @entity12
+@entity35 hopes to remove this *bottleneck* for future rovers
+
+@entity2:Curiosity
+@entity14:Earth
+@entity35:TextureCam
+@entity6:Nasa
+@entity24:Jupiter
+@entity23:moon Europa
+@entity100:Europa
+@entity12:Mars
+@entity125:Mojave Desert
+@entity92:Southern California
+@entity91:JPL
+@entity90:Wagstaff

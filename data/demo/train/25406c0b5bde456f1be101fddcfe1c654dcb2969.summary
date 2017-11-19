@@ -1,0 +1,47 @@
+http://web.archive.org/web/20141112174135id_/http://www.cnn.com:80/2013/09/13/opinion/apple-iphone-fingerprint-privacy-opinion
+
+@entity0 -- using your fingerprint to identify yourself seems beguilingly simple : it belongs only to you , and you are n't going to lose it			2
+@entity7 's use of fingerprint technology -- although not the first in the industry -- seems very in tune with its ethos of making devices easy to use			1
+however , how safe fingerprint technologies really are does depend on how they are implemented			2
+you might ask , is my fingerprint stored , who else can access it ? can the government demand that @entity7 hand my fingerprints to them , or use @entity7 to identify criminals from their database ? @entity7 have stated on record that they do not store fingerprints , and nor does the device			1
+instead , the @entity28 stores the result of a check -- a " hash , " which may be unique , but ca n't reveal your fingerprint			2
+but after the revelations by @entity33 that @entity7 was one of four @entity36 companies to have handed over data to the @entity38 , @entity7 has a much harder job to persuade the public to trust them			1
+we need to know that backdoors wo n't be built into @entity28 to allow security services ' to retrieve your fingerprint data			2
+the @entity38 has been shown to have a program of demanding means of entry to the software and hardware of all cell phones , through introducing security flaws			0
+these flaws -- software bugs -- are also available to criminals and competing security agencies to exploit			0
+are we going to trust @entity7 's security wo n't be compromised ? they are participants in the @entity59 scheme -- whatever precisely that involves			1
+how else are they co-operating with secret @entity38 demands ? the long - term answer to these security trust issues is to reveal the whole of these systems , including the underlying " source code " so that computer programmers can check how they work , and ensure that systems are not compromised			1
+that 's not really the kind of approach that @entity7 has been famous for , often being very closed about their software development and asking us to trust them to know best			1
+citizens and businesses should not have to trust their security to systems they can not examine			0
+@entity7 's fingerprint system does create a risk of " normalizing " biometrics			1
+because of the @entity28 's widespread use , people may increasingly expect to use similar " easy " and " safe " biometric systems , without considering that they create highly personal identification , with risks of being tracked and surveilled , and yet do not necessarily deliver the security that they imply			1
+other low level fingerprint id systems suffer the same problems , yet are being employed in schools , even to replace library cards			0
+biometrics can create a false sense of security			1
+it is easy to assume that the tools really are a hard identification of an individual , and therefore , the technology can not be fooled , or go wrong			0
+however , systems can be fooled			0
+fingerprints and even your iris can be replicated			0
+@entity7 's fingerprint system may encounter a simple problem , in that the key to unlocking your phone -- your fingerprint -- could well be liberally scattered across the phone you are trying to protect			1
+while the phone may also look for body heat , or skin irregularities , there is at least a distinct path which could be used to try to break into a phone			0
+we 'll have to see if anyone can use it successfully			0
+some of these risks are manageable , through transparency and audit			0
+the wider social risks are far harder to manage ; arguably they are n't @entity7 's problem			1
+perhaps society needs to start having a much more intense debate about security and privacy , starting off with asking : whose security are we worrying about : my own , or the state 's ? how do i know what risks i am taking , and why should i trust any of the claims that are made ? people understand what a wallet or a doorlock is			2
+the risks with personal and financial information are less tangible , and the risks of state abuse of power sometimes less tangible still			0
+but these come with the digital technology ; we will truly be citizens of the digital age when we can successfully debate and deal with these problems			0
+the opinions expressed in this commentary are solely those of @entity148 .			2
+
+@entity7 's new @entity150 features fingerprint recognition technology
+@entity148 : @entity7 must persuade public to trust them after @entity33 's revelations
+@entity7 's fingerprint system does create a risk of " normalizing " biometrics - @entity159
+
+@entity33:Snowden
+@entity0:London
+@entity7:Apple
+@entity36:Internet
+@entity38:NSA
+@entity28:iPhone
+@entity148:Jim Killock
+@entity1:CNN
+@entity159:Killock
+@entity59:PRISM
+@entity150:iPhone 5S

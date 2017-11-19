@@ -1,0 +1,104 @@
+http://web.archive.org/web/20100326004131id_/http://www.cnn.com:80/2009/TECH/11/17/android.wired/
+
+-- a year after its release , @entity2 's open source @entity1 has become a sensation			1
+after a slow start , it is now available on at least 12 phones , with more devices waiting in the wings			1
+good news for @entity1 fans , right ? not really , say some developers			1
+a slew of problems have made managing @entity1 apps a " nightmare , " they say , including three versions of the os ( @entity1 1.5 , 1.6 and 2.0 ) , custom firmware on many phones , and hardware differences between different models			1
+for users , it means apps in the store could be buggy , might not work well depending on their handsets , and could deliver a frustrating experience			1
+unaware of the increasing back - end complexity , they would then be more likely to leave bad reviews for those apps -- a potentially lethal blow for small businesses , say developers			1
+" instead of working on updates to our apps , we find we are trying to make each app work for multiple versions of the os and different hardware capabilities , " says @entity39 , co-founder at @entity40 , an @entity1 - focused application development company			1
+" we are not complaining about all the growth , but if you are a small or a new @entity1 developer coming in and trying to learn i could see your head exploding			1
+it would be overwhelming , " he says			0
+the problem echoes similar concerns over @entity53 in the 1990s			0
+originally touted as a way for developers to build apps that would run on any computer ( " write once , run anywhere " ) , developers found that wide variations in @entity53 virtual machines as well as available hardware meant that @entity53 's promise was really " write once , debug everywhere			1
+" while @entity53 is still used -- particularly in the mobile space , where it powers games and other apps written for @entity53 - capable cellphones -- it is not nearly the cross-platform panacea it was originally conceived as			0
+@entity39 's concern about the fragmentation of @entity1 is being echoed by other developers , says @entity74 , vice president of business development at @entity75 , an mobile app analytics company			1
+" there 's no question that we are starting to hear developers express concern , " says @entity74			2
+" @entity1 is growing very fast and there 's a lot of excitement for it but it 's also a lot for work , especially for medium and small developers			1
+" since the launch of the first @entity94 @entity93 phone running @entity1 , a number of handset makers have jumped on the bandwagon			1
+@entity94 alone has five @entity1 handsets available , while others like @entity98 have shifted completely to the @entity1 platform			2
+in the past two months , @entity98 released two new @entity1 - based handsets , the @entity101 and @entity102			2
+and in a bid to differentiate themselves , handset makers are creating custom user interfaces like the @entity107 , the @entity108 and the @entity109 from @entity110			0
+@entity1 phones vary significantly in the hardware , too -- phones with and without camera flash , some have physical keyboards , others do n't			2
+" you may build an app that works perfectly with all three firmwares , but then when you run it on carriers ' roms it completely blows up , " says @entity39			0
+" so we find ourselves having to create apps that are compatible with multiple firmwares , multiple roms and multiple devices with different hardware			2
+" it 's in sharp contrast to the @entity132 platform			0
+@entity133 has tightly controlled the introduction of new iphones and updates to its operating system			0
+it has just three @entity132 models available since it first introduced the phone in 2007			0
+and all @entity132 users are prompted to update their phones to be on the same version of the operating system			0
+while @entity133 pioneered the app store idea with the @entity132 , @entity1 , too , offers @entity145 , a store for distribution of third - party programs			2
+unlike with the @entity133 app store , @entity1 developers do not have to go through an approval process to get their apps on the @entity152			1
+currently , the @entity1 market has about 10,000 apps compared to the 100,000 in @entity133 's app store			1
+for developers , @entity133 's autocratic ways may be frustrating , but they can pay off			2
+" @entity133 maintains an iron grip on what they do and there 's an advantage to that , " says @entity158 , owner of @entity159 , which has three apps on the @entity1 market			1
+" iphone developers do n't have to worry about fragmentation and creating apps for the @entity132 is much easier			2
+" founded about the same time as the first @entity1 phone hit the market , @entity40 today has more than 100,000 users across its three apps : a2b , @entity173 and @entity174			1
+but with @entity1 's growth , managing these apps is becoming quite a challenge , says @entity39			1
+the diversity of devices running @entity1 os has led to some unexpected results , says @entity39			1
+for instance , the @entity182 was launched without its gps setting turned on			0
+when run , the a2b application could trigger it -- but @entity40 soon found that the standard commands they used reacted differently on the hero than on other @entity1 devices			1
+instead of launching the gps settings , it set off the " screen unlock pattern " settings , says @entity195 , requiring @entity40 to write custom code in their app for that particular device			0
+@entity2 says it has emulators available that allows developers to test their application running on simulated devices so they can see how it behaves			1
+but it does n't always work , says @entity39			0
+" in a sense , we are shooting blind with the emulators because we have no idea how it is really working on the device			0
+" for instance , explains @entity195 , the graphics for their 3d game app , @entity211 worked fine on the emulator but crashed when run on @entity98 's droid phone			0
+@entity195 suspects a bug in the graphics driver on the @entity102			0
+writing for a fix for it took care of the problem but its not the best solution , he says			0
+" when we have to start writing rules based on the phone model in our code , it adds more code to our code base , creates more work for us and makes the app heavier , " says @entity195			2
+different versions of the os also means new functionality is added or some removed			0
+understanding these changes and making software backward compatible takes time , say @entity158			0
+" it 's a multiplication of work to support all of them			2
+" a bigger problem is the customization of firmware or custom roms			0
+for instance , @entity2 offers a basic homescreen with the @entity1 code			1
+but device manufacturers or network carriers can always modify it			0
+sometimes the changes are simple , such as replacing all white color with grey , or red with yellow			0
+that allows handset makers and carriers to tailor @entity1 better for their customers , something that @entity2 says it supports " strongly			1
+" " that is n't a big deal , " says @entity39			0
+" however , when they start changing fundamentally how certain activities are controlled , such as user settings and screen orientation , it creates issues for developers that have built their apps on an out of the box version of the firmware / @entity271			1
+" custom roms are always available for developers to look through , points out @entity40			0
+" @entity2 has mandated that every one base their releases on the standard versions , " says @entity195			2
+" but this slips under the radar			0
+" ultimately , developers will have to start making tough decisions on who they want to target and versions of the operating system they want to support , says @entity74			1
+" developers have to identify which devices and carriers appeal to the market they are creating an app for and develop just for it , " he says			2
+a one - man band , @entity158 says without any employees he ca n't maintain four different app versions			0
+" it 's getting a lot riskier on the @entity1			1
+it 's not 4x increase in the cost but it will be a lot more work			2
+" and while @entity158 says the apps are not his meal ticket , he does n't want to make choices that could cut off some @entity1 users from his apps			1
+" i will have to decide then how much return i am getting and if it is worth it			0
+" subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2010 @entity310 .			0
+
+after slow start , @entity1 system has taken off in *popularity*
+some developers say growth has made managing apps for the system a nightmare
+@entity2 says it provides emulators to let developers test whether their apps work
+it 's the diversity of devices running @entity1 that some say has led to uneven results
+
+@entity107:HTC Sense
+@entity159:Fognl
+@entity158:Schrock
+@entity110:Sony Ericsson
+@entity152:Android Market
+@entity133:Apple
+@entity271:SDK
+@entity2:Google
+@entity1:Android
+@entity0:WIRED magazine
+@entity174:CowPotato
+@entity195:Pick
+@entity53:Java
+@entity75:Flurry
+@entity74:Galligan
+@entity132:iPhone
+@entity310:Wired.com
+@entity39:Fagan
+@entity173:Key Ring
+@entity101:Cliq
+@entity102:Droid
+@entity98:Motorola
+@entity108:Motorola Blur
+@entity109:Rachael UI
+@entity94:HTC
+@entity93:T-Mobile G1
+@entity211:Cowpotato
+@entity145:Market
+@entity182:Sprint HTC Hero
+@entity40:Froogloid

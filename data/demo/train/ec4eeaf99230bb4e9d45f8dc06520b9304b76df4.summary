@@ -1,0 +1,32 @@
+http://web.archive.org/web/20120103155516id_/http://edition.cnn.com/2011/WORLD/meast/02/28/egypt.mubarak.assets/
+
+@entity1 , @entity0 -- @entity0 's attorney general issued an order monday freezing the assets of former president @entity6 and his family and prohibiting them from leaving the country			1
+attorney general @entity9 ordered the moves after @entity11 , a member of @entity0 's parliament who lost his seat after filing corruption cases against various officials , provided documents indicating @entity6 's family has secret bank accounts totaling more than 200 million @entity0 pounds ( $ 147 million ) , according to @entity19			1
+" i submitted the corruption documents on sunday night and on monday morning i was called in by the public prosecutor for investigation , and he asked me to rush to his office			0
+" the attorney general , himself , went over the documents in my possession and then issued his orders to bar @entity6 and his family from travelling and to impound their assets			1
+" @entity9 ordered the freeze for property owned by @entity6 , his wife @entity36 , his two sons @entity32 and @entity33 , and their wives and children , @entity19 reported			2
+the seizures include " movable properties , real estate , stocks , bonds and various financial assets			0
+" it was n't immediately clear how the order differed from a similar one reported last week			0
+@entity6 , through his attorneys and in official filings , has described reports of immense wealth as " fabrications and baseless rumors			0
+" but @entity11 said the documents he provided to @entity9 " are the first solid and concrete evidence on the fortune collected illegally by @entity6 and his family			2
+" @entity6 , who resigned february 11 after 18 days of protest against his rule , is believed to be staying at his residence in @entity61			1
+@entity2 's @entity62 and @entity63 contributed to this report			0
+
+new : former *lawmaker* says documents he filed are " solid and concrete " evidence of *wrongdoing*
+@entity0 's attorney general orders the assets of former president @entity6 and his family frozen
+@entity6 's family is also prohibited from leaving the country
+@entity6 resigned february 11 after 18 days of protests against his rule
+
+@entity2:CNN
+@entity1:Cairo
+@entity0:Egypt
+@entity6:Mubarak
+@entity11:Bakri
+@entity36:Suzanne
+@entity9:Mahmoud
+@entity33:Gamal Mubarak
+@entity19:EgyNews
+@entity32:Alaa
+@entity62:Mustafa Al-Arab
+@entity63:Saad Abedine
+@entity61:Sharm el-Sheikh

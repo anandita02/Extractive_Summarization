@@ -1,0 +1,54 @@
+http://web.archive.org/web/20110120075228id_/http://edition.cnn.com/2010/TECH/mobile/10/29/google.open.android/index.html
+
+business insider is contributing a series of columns to @entity3 that challenge commonly held beliefs about the tech world			0
+( @entity6 ) -- @entity7 loves to talk about how " open " @entity9 , its operating system for mobile devices , is			1
+especially when it comes to comparisons between @entity9 and @entity15 's @entity14 , openness is @entity7 's favorite talking point			1
+but what , exactly , does it even mean that @entity9 is " open ? " @entity7 would point to a number of broadly related facts about the os , but here 's the essential point : @entity9 is " open " in that @entity7 distributes its source code under something called the @entity27			1
+code distributed under an @entity27 is free for anyone to use as they wish			1
+importantly , unlike some open source licenses , the @entity27 lets anyone use the code in question as part of proprietary software			1
+that is , if you write something and distribute it for free under the @entity27 , i 'm free to tack on some modifications , keep the added code a secret , and charge customers for the whole package			1
+so , while @entity7 likes to say that @entity9 's openness is about giving the consumer freedom , the real freedom here has nothing to do with consumers			1
+consumers do n't buy operating systems			0
+phone manufacturers -- and the mobile carriers with whom they form partnerships -- are free to add code to @entity9 as they see fit before loading it on to their handsets and selling them to you			1
+they 're also free to throw up all sorts of hurdles to make it difficult for you to get rid of their software and install a " clean " version of @entity7 's os. the changes that handset makers and carriers make to @entity9 are generally bad news for the consumer			1
+many pre-install shoddy , proprietary software -- " bloatware " -- which ca n't be removed , to drive users to their own services			1
+they also cripple phone features			0
+the latest version of @entity9 , for instance , lets you use your phone as a mobile hotspot , allowing you to access the internet wirelessly from your nearby computer , using the phone 's data connection			2
+unfortunately , on most phones , that feature is broken by default , and can only be enabled by paying your carrier an extra monthly fee			0
+@entity7 's response to this is that because many different manufacturers are competing to sell @entity9 phones , consumers will always win out in the end			1
+if consumers did n't like the bloatware that came with their phones , other manufacturers would n't include it , the bad actors would lose customers , and everyone would have to adjust			0
+as @entity114 put it : " that 's how markets work			0
+" that is how markets work in textbooks			0
+it 's also more or less how unrestricted markets for undifferentiated products with large numbers of sellers work in practice			0
+unfortunately , it 's not how the market for cell phones works			0
+there are just a handful of corporations in the world that make quality , high - end phones			0
+and , in any given area , there are only a few carriers to provide service to those phones			0
+there are two oligopolies in between you and @entity9 , and they 're working together			2
+with all due respect to @entity114 , that sort of market generally does n't work very efficiently at all			0
+to be fair , there are lots of great ways in which @entity9 really does give users more freedom than the @entity14			2
+for one thing , @entity7 does n't try to prevent you from downloading apps of which it does n't approve			1
+and , for the most part , opening up the os to competition between different hardware manufacturers is terrific			0
+these aspects of " openness " are a big part of why i switched to @entity9 , and have no plans to go back			2
+but letting handset makers and , especially , carriers make the @entity9 experience worse is a bad move , and one the hurts @entity7 's customers			1
+and , contrary to what the company claims , it would n't have to betray any principles of open source to fix this			2
+@entity7 can go ahead and give away its source under the @entity27 , and let people run wild with it			1
+but it should n't give away the " @entity9 " brand to any company that cripples the product			1
+@entity7 is spending lots of money hyping that brand , and it is staking its reputation on it			2
+these companies are taking full advantage of that			0
+@entity7 can be open without letting companies release inferior products with @entity7 's name on them			2
+that kind of openness is bad news for the consumer , and ultimately bad news for @entity7			0
+copyright © 2010 @entity6 .			0
+
+@entity27 lets anyone use the code in question as part of proprietary software
+@entity7 does n't try to prevent you from downloading apps of which it does n't approve
+" it should n't give away the " @entity9 " brand to any company that cripples the product , " says @entity203
+
+@entity3:CNN.com
+@entity15:Apple
+@entity14:iPhone
+@entity7:Google
+@entity6:Business Insider
+@entity9:Android
+@entity114:Eric Schmidt
+@entity203:Saint
+@entity27:Apache License

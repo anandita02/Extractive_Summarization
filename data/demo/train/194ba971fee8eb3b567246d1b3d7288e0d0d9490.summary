@@ -1,0 +1,102 @@
+http://web.archive.org/web/20140624071414id_/http://edition.cnn.com:80/2009/TECH/10/29/kleinrock.internet/
+
+-- it was 1969 and a busy year for making history : @entity8 , the @entity9 , men on the moon -- and something less celebrated but arguably more significant , the birth of the @entity7			1
+on october 29 of that year , for perhaps the first time , a message was sent over the network that would eventually become the @entity13			1
+@entity14 , a professor of computer science at the @entity16 , connected the school 's host computer to one at @entity20 , a former arm of @entity21			1
+forty years ago today , the @entity7 may have uttered its first word			1
+twenty years later , @entity14 chaired a group whose report on building a national computer network influenced @entity26 in helping develop the modern @entity7			1
+@entity14 holds more than a dozen patents and was awarded the @entity28 last year by president @entity29			1
+in an interview with @entity0 , the 75 - year - old looks back on his achievements and peers into the exciting and sometimes scary future of the @entity13 he helped create			0
+@entity0 : in basic terms , what happened on october 29 , 1969 , and what was its importance to the internet as we know it today ? @entity14 : millions of people helped create this internet			1
+i basically supervised the creation of the internet at the first node , both in the first connection and the very first message			2
+we had just by then connected the first two host computers to the @entity7			1
+the first one was on september 2 , 1969 , when @entity16 connected its host computer to the first packet switcher , the first router if you will , ever on the @entity7			1
+but there was no other computer to talk to			2
+so a month later , @entity20 received its interface message processor , or @entity61 , connected it to their host computer , and we created the first piece of the backbone network when a 50 - kilobit - per - second line was connected between @entity16 and @entity20			1
+what we wanted to do was send a message essentially from @entity16 to @entity20 's host			1
+and frankly , all we wanted to do was log in -- to type an l - o - g , and the remote time - sharing system knows what you 're trying to do			0
+so we typed the " l , " and we asked over the phone , " did you get the ' l ? ' " and the response came back , " yep , we got the ' l. ' " we typed the " o. " " got the ' o ? ' " " ' @entity80 , got the ' o. ' " typed the ' g. ' " you get the ' g ? ' " crash ! @entity20 's host crashed at that point			2
+so the very first message ever on the @entity7 was the very simple , very prophetic " lo , " as in lo and behold			1
+and , you know , we were n't aware that this was a significant event that would be recorded in history			1
+we did not have a very effective message like " what hath @entity93 wrought " or " come here , @entity95 , i need you			2
+" or " one giant leap for mankind			0
+" we just were n't that smart			2
+when the host computers talked to each other , i like to say the @entity7 uttered its first words on that day			1
+@entity0 : before october 29 , 1969 , was no computer talking to any other computer ? @entity14 : well , typically not over a data connection , no. what was going on at that time was that many users sitting at terminals were connected to time - sharing systems with a local connection			1
+but that was just connecting to a single computer			2
+@entity0 : @entity16 sent a press release about your work in july of 1969 , just a few months before your october breakthrough			1
+at the time , did you have any idea how far - reaching all this was ? @entity14 : basically , i said the @entity7 will be always on , always available , [ and that ] everybody with any device could connect to the internet from any time and any location , and it would be as invisible as electricity			1
+what i missed was the social aspect , namely that my 99 - year - old mother would be on the @entity7 , as she was until she passed away two years ago			1
+and by the way , at the same time , my preschool granddaughter would be on the @entity7			1
+@entity0 : what is feature shock ? @entity14 : feature shock is a term i coined some years ago			1
+systems [ such as @entity135 or @entity136 ] contain an enormous number of features , each one of which may be valuable by itself , but no one is really able to use all the features			0
+however , because you 've essentially paid for all those features , you feel guilty if you do n't exploit them			2
+so you spend time learning to use them			0
+i 'm a power user of @entity146			0
+i spend thousands of hours learning how to use it effectively			0
+if someone came along with a new version of @entity146 that has a different interface than the one i 'm used to , and [ even ] if it were twice as good as @entity146 , i would n't bother installing it			2
+we 're overwhelmed by [ features ] ; we do n't know how to use them			2
+it slows down the rate at which new applications and features are accepted by the public because of this investment they have in their thousands of hours of learning			0
+and i consider that a good thing			0
+it allows a little more mature thinking in how we start hopping around in technologies and thereby losing the experience and history we had before			2
+there 's a kind of a measured way in which people will adopt new technology , and i think that 's helpful			2
+@entity0 : what are you up to these days in the development of the @entity7 ? @entity14 : i 'm working on what we call smart spaces , whereby the cyberspace comes out from behind the [ computer ] screen , where most people consider it residing , and moves out into your physical space so that there will be intelligence and embedded technology in the walls of your room , in your desk , in your fingernails , in your eyeglasses , in your automobile , in your hotel rooms all across the world as you move around			1
+@entity0 : if computers will be doing so much of our thinking for us , does that mean our brains will get less of a workout ? @entity14 : it 's always been the goal and desire of we technologists that as we provide capability that computers are good at -- number crunching , file storage , massive databases that can be searched -- that it would free us up to do the things that humans do so well , like pattern recognition and putting thoughts together , intuition and innovation			1
+so it may relieve us of some of the mundane things that we do n't do well			0
+on the other hand , i personally regret that the youth of today are depending so much for their simple arithmetic calculations on these handheld calculators or wristwatch calculators that they do n't know how to make change in the supermarkets anymore			0
+@entity0 : what other dangers could be ahead ? @entity14 : there 's a very dark side to the @entity7 , which we 're all familiar with			1
+it started with a worm in 1988 , and it became spam in 1994 , and now we have pornography , we have denial of service [ attacks ] , we have identity theft , we have fraud , we have things like botnets [ pieces of software that cyberthieves use to remotely and secretly control your computer ] , which really worry me			0
+one of the problems of the @entity7 is that we did n't install what i like to call strong user authentication or strong file authentication			1
+we did n't anticipate the level of the dark side we see today			1
+the culture of the early @entity7 was one of trust of all the users			1
+i knew every user on the internet in those early days			0
+it was an open culture			0
+we shared everything we did			0
+we got our gratification by putting things out there , which people could use			0
+and there was an etiquette -- net etiquette if you will , which people behaved			0
+@entity0 : what about privacy ? is it dead ? @entity14 : yes , in a word			2
+and it was voluntarily given up in many cases			0
+i mean , when someone lists their telephone number or uses their credit card or makes a cell phone call or even carries around a cell phone , that 's an awful lot of info about where you are , what you 're doing and some of your private matters			0
+there are cameras all over the place , and they 're increasing in number			0
+i like to say the only privacy we can expect is to go to the edge of the ocean , strip down and jump in and hope there 's no sonar down there tracking you , by the way , which there will be soon			0
+@entity0 : do you like to play video games over the @entity7 ? @entity14 : the answer is no , no. i 'm not of that generation			1
+nor do i use @entity316 or @entity317			0
+i 've got enough things that demand my attention			0
+... e-mail is a wonderful black hole for my time			0
+i do n't want to have to answer tweets and sms messages , following friends , etc. it 's too demanding and too frivolous in many ways			2
+@entity0 : do you have a certain emotional tie to the internet as if it were a member of the family ? @entity14 : of course i do , and it 's part and parcel to my dna			1
+but it 's as aggravating to me as to anyone else in terms of when it does n't work , when the applications do n't work			2
+@entity0 : were you always an inventor ? @entity14 : when i was about 6 years old , i built a crystal radio from instructions i found in a @entity345 comic book			2
+the thing that fascinated me was , i could basically get all the parts at no cost			0
+this was magic , and i spent the rest of my life trying to figure out how that works			0
+life is one big puzzle for me in the positive sense			0
+there are a lot of things to play with			0
+and they pay me for it .			0
+
+@entity14 sent first message over computer network october 29 , 1969
+a professor at @entity16 , he sent several words to computer at @entity21
+@entity14 : " we were n't aware this was a significant event that would be recorded in history "
+there 's dark side to @entity7 now that web *pioneers* did n't anticipate , he says
+
+@entity20:SRI
+@entity21:Stanford University
+@entity26:Congress
+@entity28:National Medal of Science
+@entity29:Bush
+@entity80:Yep
+@entity135:Windows
+@entity136:Safari
+@entity0:CNN
+@entity7:Internet
+@entity317:Twitter
+@entity316:Facebook
+@entity9:Miracle Mets
+@entity8:Woodstock
+@entity16:UCLA
+@entity14:Kleinrock
+@entity13:Web
+@entity95:Watson
+@entity345:Superman
+@entity93:God
+@entity146:PowerPoint
+@entity61:IMP

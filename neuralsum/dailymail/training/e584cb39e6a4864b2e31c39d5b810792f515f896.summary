@@ -1,0 +1,67 @@
+http://web.archive.org/web/20140827074314id_/http://www.dailymail.co.uk/sciencetech/article-2718872/One-sphere-rule-Gesture-controlled-connects-gadgets-turn-house-smart-home.html
+
+by @entity0 the age of the smart home is well and truly upon us , but keeping track of all the different devices in a house can be difficult			1
+that ’s where @entity8 comes in - the system is intended to monitor all aspects of a home and sync them with various devices			1
+by tracking location and environment , the designers say @entity8 can give the user intelligent control over a smart home			1
+the @entity8 links different appliances in a home and controls them all			1
+the central hub called a ' @entity27 ' ( shown ) can be controlled by smartphones or gestures - be alerted if you have left home and left an appliance on , and easily turn it of , such as heaters or lamps			1
+- see who is at home or away by detecting smartphones in the home			2
+- see exactly where lost wallet and keys are located using a tag			0
+- be alerted if a valuable is being moved and you ’re not at home , possibly suggesting an intruder is in the house			2
+- control of lights , media , and environment devices via natural gestures on top of the @entity27			1
+- create ‘ if this then that ’ ( @entity50 ) style rules against presence , location or time such as : ‘ if i ’m on my way home and it ’s cold outside turn on the heater			2
+’ @entity60 company @entity59 , based in @entity22 , have now started accepting pre-orders for their @entity8 system following a successful @entity64 campaign , with delivery due in october this year			1
+using gps , @entity67 , @entity68 and @entity69 ( @entity70 ) it is able to detect devices and create a ‘ map ’ of them in a home			0
+through an app it can then sync with a phone or other devices to control them all			0
+the brain of the entire system is the @entity83 , £ 180 ( $ 305 ) , which acts as a central hub for different devices in the home			1
+around the house the user then needs to place contact , motion and temperature sensors supplied by the company , known as ‘ @entity92 ’			1
+there can be configured with other services such as @entity95 , @entity96 and @entity97			0
+tiny devices known as a @entity99 also need to be placed around the house , which will allow the @entity8 to locate things			1
+this means , for example , it could show you where pets are in the house if they have a small @entity69 - enabled collar			2
+ninja sphere an open source modified version of @entity112 to operate			0
+shown here is one of the potential uses for @entity8			0
+by syncing with a @entity117 and lights it can alert a user that their lights are still on and let them turn them off using several devices one of the touted benefits is also that , using tags on certain items , it can detect when they are being moved and send an alert to the user ( shown )			2
+this could indicate than an intruder is in the home , for example using a phone or smartwatch , the central @entity8 hub can then control other aspects of a home			1
+for example , while watching the @entity139 could alert a user on - screen if their phone is ringing in another room , and even tell them where it is			0
+or while out of the house it could send a message to a phone that items are being moved while the owner is not there - suggesting an intruder might be in the home			1
+the device also has gesture - recognition software so , for instance , by waving a hand over the device the volume of music in a room could be altered			2
+or simply tapping the device could turn lights on and off			1
+it ’s not especially cheap at the moment , however : it costs £ 180 ( $ 305 ) for one @entity83 , in addition to the other sensors that are needed			0
+and the company also recommends that at least one @entity83 is need for every floor of a home for it to work properly			0
+two per floor are needed if the house is especially big			0
+‘ your ninja sphere learns about you , and your environment , ' says the company			0
+' it uses data from sensors and actuators to build a model that can inform you if something is out of place			0
+’ ‘ it can monitor temperature , lighting , energy usage , you and your pets ' presence , and anything else you connect to your sphere			0
+‘ by using data from your devices , environment , and location your sphere is able to advise you intelligently and give you control only when you need it			0
+' tiny devices known as a @entity99 also need to be placed around the house , which will allow the @entity8 to locate things			1
+this means , for example , it could show you where pets are in the house ( shown ) if they have a small @entity69 - enabled collar			2
+@entity8 uses an open source modified version of @entity112 to operate			0
+
+@entity22 - based company is preparing to release a unified smart home device
+the @entity8 links different appliances in a home and controls them all
+central hub called a ' @entity27 ' can be controlled by phone or gesture
+using a variety of external sensors it can change the environment in a home
+for example it can change the temperature or turn lights on and off
+it can also locate pets , wallets , keys and more around a house using tags
+
+@entity22:Sydney
+@entity59:Ninja Blocks
+@entity0:Jonathan O'Callaghan
+@entity27:Spheramid
+@entity67:Zigbee
+@entity8:Ninja Sphere
+@entity68:Wi-Fi
+@entity92:Smart Sockets
+@entity117:Smartwatch
+@entity50:IFTTT
+@entity139:TV Ninja Sphere
+@entity112:Ubuntu Linux
+@entity99:Waypoints
+@entity69:Bluetooth
+@entity97:Dropcam
+@entity96:Philips Hue
+@entity95:Nest
+@entity83:Spheramid
+@entity70:Low Energy
+@entity60:Australian
+@entity64:Kickstarter

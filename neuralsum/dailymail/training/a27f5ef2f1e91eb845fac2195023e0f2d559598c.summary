@@ -1,0 +1,62 @@
+http://web.archive.org/web/20150711232422id_/http://www.dailymail.co.uk/sciencetech/article-2894411/Want-know-s-spying-s-app-SnoopSnitch-uses-radio-signals-nearby-tracking-devices.html
+
+security experts recently revealed a massive security flaw that could let hackers listen in on private calls and read text messages on mobile networks			0
+one way in which such hackers - as well as some intelligence agencies - get access to such information is by using @entity11 ( @entity11 ) catchers , or ' stingrays '			1
+these controversial tracking devices trick mobiles into connecting with them , and now developers have created an app that claims to detect such gadgets , and warn users if their data is at risk			1
+an app called @entity24 ( homescreen pictured left ) claims to detect @entity11 catchers ( right ) - eavesdropping devices used for intercepting mobile phone traffic and tracking the movement of smartphone users - and warn smartphone users if their devices are giving up their personal information and connecting to them called @entity24 , the app scans for signals that indicate a switch from a legitimate tower to a ' stingray ' , where information may be being collected			1
+@entity11 catchers - eavesdropping devices used for intercepting mobile phone traffic and tracking the movement of smartphone users - are controversial because they act like ‘ fake ’ mobile towers			1
+@entity11 catchers are known as ' stingrays ' and are eavesdropping devices for intercepting mobile phone traffic and tracking the movement of mobile phone users			1
+a ' fake ' mobile tower acts between the target smartphone and service provider 's real towers			0
+in this way , it is considered a ' man - in - the - middle attack ' and can be detected by the app. catchers work by exploiting a security hole			0
+the gsm specification - the default global standard for mobile communications - requires a smartphone to authenticate to the network , but does n't require the network to make itself known to the handset			0
+the @entity11 catcher masquerades as a base station and logs @entity11 numbers of all the mobile stations in the area , as they attempt to attach to the imsi - catcher			2
+it forces mobile phones connecting to it to use no call encryption , or to use breakable encryption , making call data easy to intercept and convert to audio			1
+they sit between a real phone and telecom tower to launch a man - in - the - middle attack and intercept data			2
+once a phone has connected to a stingray , it makes it easy for a hacker to intercept and convert data to audio , enabling experts to listen to people 's phonecalls			0
+while experts may be using the techonology to target specific handsets of suspected criminals , it is almost impossible to avoid capturing data from other ' innocent ' smartphones in the process , too			0
+as a result , the use of stingrays has been banned in certain countries and @entity109 states such as @entity110 , for example			2
+reacting to public privacy concerns , security researchers @entity113 , @entity114 , and @entity115 from @entity116 in @entity117 created the @entity24 @entity120 app. they presented the findings at the @entity122 ’ annual meeting in @entity124			1
+the free @entity120 app ’s @entity126 listing reads : ‘ @entity24 collects and analyses mobile radio data to make you aware of your mobile network security and to warn you about threats like fake base stations ( @entity11 catchers ) , user tracking , and @entity136 attacks			1
+’ mr @entity114 told @entity137 that the app gathers information from the stingray , which is used to analyse if one is in close proximity			2
+it is rumoured that some law enforcement agencies across the globe and using the technology to collect information			0
+this map produced using @entity24 data so far , shows network security in @entity150			2
+there is not enough @entity109 data collected to make a map yet a massive security flaw that could let hackers listen in on private calls and read text messages was revealed last month			1
+the flaw , is in a global telecom network called @entity160 ( @entity136 )			0
+@entity136 helps phone carriers across the world , including @entity163 and @entity164 , route calls and texts			0
+although the extent of the flaws was not revealed , it is believed hackers can locate callers anywhere in the world , listen to calls as they happen or record hundreds of encrypted calls and texts at a time for later decryption			0
+‘ the phone receives information that 's useful for the attacker , but it 's also useful for the defender , ’ he said			0
+‘ there 's no one set of information , taken by itself , that allows you to detect an @entity11 catcher , but we do stream analysis of everything that happens on your phone , and can come out with a warning if it crosses a certain threshold			1
+’ crucially , the app ca n’t prevent a smartphone from connecting to stingrays , but lets a user known there is surveillance in a certain area			2
+the app currently only works with rooted @entity120 handsets that have @entity203 chips inside , such as @entity204 and @entity206 models			1
+rooted smartphones are ones where the owner can access system files and change features that they can usually only read			0
+but the app creators are working out how to extract information needed by the app to detect stingrays , in other ways .			1
+
+@entity24 app claims to detect so - called @entity11 catchers or ' stingrays '
+these devices trick phones into connecting to them , before accessing data
+they are controversial and are rumoured to be used in the @entity109 and @entity229
+app scans for signals that indicate a switch from a legitimate tower to a ' stingray ' , where information may be being collected
+@entity24 currently only works with rooted @entity120 handsets that have @entity203 chips inside , but its makers are developing more *options*
+
+@entity24:SnoopSnitch
+@entity117:Berlin
+@entity116:SRLabs
+@entity115:Tobias Engel
+@entity114:Nohl
+@entity113:Alex Senier
+@entity110:Florida
+@entity137:Motherboard
+@entity136:SS7
+@entity150:Europe
+@entity11:IMSI
+@entity126:Google Play
+@entity109:US
+@entity124:Hamburg
+@entity122:Chaos Computer Congress
+@entity206:Samsung Galaxy
+@entity120:Android
+@entity204:Sony
+@entity163:AT&T
+@entity160:Signal System 7
+@entity164:Verizon
+@entity229:UK
+@entity203:Qualcomm

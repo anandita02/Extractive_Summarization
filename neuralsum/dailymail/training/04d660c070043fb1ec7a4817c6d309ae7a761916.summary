@@ -1,0 +1,57 @@
+http://web.archive.org/web/20150422011116id_/http://www.dailymail.co.uk/sciencetech/article-2834592/The-end-computer-hacking-Software-searches-new-unknown-viruses-automatically-REPAIRS-damage.html
+
+computer scientists have developed a new type of software that not only detects and eradicates never - before - seen viruses and malware , but automatically repairs damage caused by them too			1
+the software , named @entity8 , then prevents a hacker ever infecting the computer again			1
+it works with a virtual computer that emulates the operations of a specific machine and is designed to watch over the virtual machine ’s operating system and applications			0
+the software , called @entity8 , then prevents a hacker ( illustrated with a stock picture ) ever infecting a computer again			1
+it works with a virtual computer that emulates the operations of a specific machine and is designed to watch over the virtual machine ’s operating system and applications @entity27 , research assistant professor of @entity29 at the @entity30 , explained that @entity8 is intended to protect servers and business computers that run on the @entity34 operating system , as well as military machines			1
+in the future it could be adapted for home laptops too			2
+‘ @entity8 technologies could find their way into consumer products someday , which would help consumer devices protect themselves against fast - spreading malware or internal corruption of software components			1
+but we have n’t tried those experiments yet , ’ he said			0
+the team , including professor @entity50 , created ‘ stackable debuggers ’ that run on top of each other and look inside the virtual machine while it is running to search for any unusual behaviour			0
+unlike a normal virus scanner on a consumer pc , that compares a catalogue of known viruses to something that has infected the computer , @entity8 can detect new , unknown viruses or malware automatically by sensing that something unusual is occurring in the computer ’s operation			1
+the @entity8 software works with virtual computer that emulates the operations of a specific machine and is designed to watch over the virtual machine ’s operating system and applications			1
+at the moment , it can protect servers and computers that run on the @entity34 operating system			2
+‘ stackable debuggers ’ run on top of each other and look inside the virtual machine while it is running to search for any unusual behaviour			0
+unlike a normal virus scanners on consumer pcs that compare a catalogue of known viruses to something that has infected the computer , @entity8 can detect new , unknown viruses or malware automatically by sensing that something is occurring in the computer ’s operation that is not correct			1
+it can then stop the virus , repair damaged code and learn not to let the bug access the machine again			0
+it can then stop the virus , repair damaged code and learn not to let the bug access the machine again			0
+as well as boosting cyber security for military missions , @entity8 could be used by web services such as @entity101 , which if attacked by a virus , could repair its service in minutes without having to take the servers down and stop customers from shopping			1
+to demonstrate the power of the system , the researchers , together with @entity111 - based defence contractor , @entity110 , showed officials from the @entity113 ( @entity113 ) how their software copes with a software bug called @entity116			0
+@entity117 was a software vulnerability discovered last september that affected many web servers and most @entity121 laptops and desktops , which allowed a hacker to control a machine			2
+within the first 24 hours of the disclosure of @entity116 , security researchers reported that more than 17,000 attacks by hackers had been made with the bug			0
+@entity8 is intended to protect servers and business computers that run on the @entity34 operating system , as well as military machines ( illustrated by the briefing room of general @entity135 in @entity136 , @entity137 )			1
+it could in the future be adapted for home laptops too military : the software could be used to provide extra protection for sensitive military machines			1
+business : @entity8 could be used by web services such as @entity101 , which if attacked by a virus , could repair its service in minutes without having to take the servers down and stop customers from shopping			2
+consumers : @entity8 could be adapted for home laptops to help consumer devices protect themselves against fast - spreading malware or internal corruption of software components			1
+@entity8 discovered the @entity158 attack on a web server and repaired the damage in four minutes , professor @entity27 said			2
+the team also tested @entity8 successfully on another six pieces of malware			0
+he said : ‘ it is a pretty big deal that a computer system could automatically , and in a short amount of time , find an acceptable fix to a widespread and important security vulnerability			2
+’ ‘ it ’s pretty cool when you can pick the " @entity173 " and it works			0
+’ the team will work on a way of using @entity8 in cloud computing next			0
+while the software is open source – and free to use – it will probably be incorporated into commercial products .			0
+
+computer scientists at the @entity30 , developed the @entity8 software
+it *'s* intended to protect business and military computers and servers
+software could be adapted to one day protect laptops at home
+it can detect new and unknown viruses and automatically fix damage
+*program* also learns to not let the bug back into a machine
+
+@entity30:University of Utah
+@entity173:Bug of the Week
+@entity29:Computer Science
+@entity27:Eide
+@entity101:Amazon
+@entity50:John Regehr
+@entity8:A3
+@entity117:Shellshock
+@entity116:Shellshock
+@entity34:Linux
+@entity158:Shellshock
+@entity113:Darpa
+@entity111:Massachusetts
+@entity110:Raytheon BBN
+@entity135:David Petraeus
+@entity137:Iraq
+@entity136:Mosul
+@entity121:Apple

@@ -1,0 +1,34 @@
+http://web.archive.org/web/20150711091550id_/http://www.dailymail.co.uk/travel/travel_news/article-2891110/EasyJet-flight-makes-emergency-landing-Stansted-Airport-pilot-declares-medical-emergency-Channel.html
+
+a plane travelling from @entity1 to @entity2 was diverted to @entity3 due to an on - board medical emergency			1
+the @entity5 landed at @entity3 shortly before 10.30pm last night , just under two hours after it set off from the @entity7 airport			0
+the budget airline flight had been due to land at @entity2 at 11.45pm			1
+the alarm was sounded as the plane flew over the @entity11 and the pilot was forced into a rapid descent			1
+' the safety and wellbeing of our passengers and crew is @entity16 's highest priority and the flight continued to @entity2 once the passenger had been transferred to a local hospital			1
+' we apologise for any inconvenience experienced due to the diversion and resulting delay			0
+' the plane resumed its journey from @entity3 at 11.30pm , landing in @entity2 at midnight			2
+the passenger was taken by ambulance to hospital			0
+the flight resumed its journey at 11.30pm from @entity3 after the passenger had been taken to hospital a spokesperson for the @entity45 said : ' the @entity45 was called to @entity3 last night ( december 29 ) just after 10pm			2
+' an ambulance crew , rapid response vehicle and a community first responder attended to help a female passenger who was taken ill. ' she was conveyed to @entity50 for further assessment and care , but her condition is n’t thought to be life - threatening			2
+' one passenger on board the flight , @entity54 , tweeted : ' must commend @ @entity16 staff on our flight home tonight			1
+dealt with the medical emergency & subsequent diversion to @entity3 very professionally			0
+' also hope you reward the young medic who assisted the crew incredibly calmly			0
+# easyjet # @entity66 '			0
+
+flight was *scheduled* to land at @entity2 from @entity1
+passenger on board needed ' urgent medical assistance '
+pilot sounded the alarm over the @entity11 and made rapid descent
+
+@entity3:Stansted
+@entity2:Manchester Airport
+@entity1:Geneva
+@entity7:Swiss
+@entity5:Airbus
+@entity11:English Channel
+@entity16:easyJet
+@entity20:EZY1954
+@entity19:MailOnline Travel
+@entity45:East of England Ambulance Service Trust
+@entity50:Broomfield Hospital
+@entity54:Samuel Hainsworth
+@entity66:EZY1954

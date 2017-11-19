@@ -1,0 +1,53 @@
+http://web.archive.org/web/20150529014239id_/http://www.dailymail.co.uk/sciencetech/article-3063092/Microsoft-reveals-web-site-claims-able-tell-people-REALLY-picture.html
+
+it 's no secret celebrities spend thousands upon thousands of dollars on maintaining their looks			1
+from bloody ' vampire facials ' to placenta serums and of course plastic surgery - the fountain of youth runs deep			1
+but an app is now trying to cut through all the cosmetics to determine exactly how old a person looks based on a picture			1
+the website , called how old do i look , it allows people to analyse any image found on @entity16 , @entity18 's search engine , or upload their own			1
+it even allows users to search for celebrities - and see what @entity18 thinks their real ages are			1
+it designed to site to show off the capabilities of its cloud server software			2
+it revealed the site today at its annual build developers conference in @entity57			2
+' we wanted to create an experience that was intelligent and fun could capture the attention of people globally , so we looked at the @entity64 available in the @entity65 , ' it said			2
+the system works by analysing 27 points on the face			2
+called face landmarks , they are a series of specifically detailed points on a face ; typically points of face components like the pupils , canthus or nose			2
+' these attributes are predicted by using statistical algorithms and may not always be 100 % precise			0
+oops : the site incorrectly guessed 30 - year - old @entity81 is actually 44 @entity82 , 39 , sporting a full beard , was recognized as being 45 by the system , while 49 - year - old model @entity85 registered as 40 @entity87 came out of the software well , being 37 - far below her real age of 56 - while it failed to recognise @entity91 at all 21 year old singer @entity92 was recognised as being 27 - while a logo for a beauty product was spotted as a 15 year old girl not bad : even with his graying beard , @entity96 , 51 , managed to look two years younger ' however , they are still helpful when you want to classify faces by these attributes			1
+' face landmarks are a series of specifically detailed points on a face ; typically points of face components like the pupils , canthus or nose			0
+face landmarks are optional attributes that can be analyzed during face detection			0
+by default , there are 27 predefined landmark points			0
+the system works by analysing 27 points on the face ( right ) called face landmarks , they are a series of specifically detailed points on a face ; typically points of face components like the pupils , canthus or nose			0
+' these attributes are predicted by using statistical algorithms and may not always be 100 % precise			0
+' however , they are still helpful when you want to classify faces by these @entity131 landmarks are a series of specifically detailed points on a face ; typically points of face components like the pupils , canthus or nose			0
+the face @entity136 has a demo page that uses the @entity136 to detect and extract information about faces in a photograph , and the team decide to work with this to create a site they hoped would go viral			0
+' we found the ability of the face @entity136 to estimate age and gender to be particularly interesting and chose this aspect of it for our project			1
+' ' to make the experience more fun we used the face @entity136 alongside the @entity136 from the @entity65 marketplace to create			0
+' family album : the site can even identify groups of poeple it allows people to age and sex any image found on @entity16 , @entity18 's search engine , or upload their own			1
+
+@entity165 can analyze any photo and will guess the age and sex
+said 30 - year - old @entity81 looks 44
+@entity18 app also determined @entity38 looks the right age of 53
+users can search for photos on @entity16 or upload their own
+
+@entity26:Helen Mirren
+@entity81:Khloe Kardashian
+@entity82:David Beckham
+@entity85:Cindy Crawford
+@entity87:Madonna
+@entity136:Bing Search API
+@entity131:attributes.Face
+@entity57:San Francisco
+@entity31:Kim Kardashian
+@entity16:Bing
+@entity32:Kanye West
+@entity37:Modern Family
+@entity36:Sofia Vergara
+@entity38:Obama
+@entity18:Microsoft
+@entity96:Brad Pitt
+@entity92:Ariana Grande
+@entity91:Taylor Swift
+@entity165:Site
+@entity46:Machine Learning APIs
+@entity64:APIs
+@entity65:Azure
+@entity48:B

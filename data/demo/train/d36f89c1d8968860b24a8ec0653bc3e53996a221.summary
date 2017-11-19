@@ -1,0 +1,32 @@
+http://web.archive.org/web/20140602072714id_/http://edition.cnn.com:80/2012/08/18/sport/football/song-arsenal-barcelon-football
+
+-- @entity1 confirmed on saturday the transfer of @entity4 midfielder @entity3 for $ 23.5 million , subject to a medical			1
+" @entity1 has agreed a deal with @entity4 for the transfer of @entity3 to the @entity8			1
+the fee is 19 million euros , " declared a statement on the club website			0
+" the @entity14 international midfielder will sign for the next five seasons with a release clause of 80 million euros , " the statement added			1
+song is scheduled to have a medical in @entity19 on monday before being officially presented on tuesday			1
+@entity4 manager @entity20 explaiend the club 's decision to sell song after his side 's 0 - 0 draw with @entity26			2
+" we have @entity28 coming back , i believe in one and a half months			0
+we have @entity30 back , we have @entity31 not far away and we might bring another midfielder in as well , " he told the club website			0
+" @entity3 expressed a desire to go to @entity1			0
+" song is the second member of the @entity4 first team to leave the club this week after last season 's top scorer @entity37 moved to @entity39 on friday .			2
+
+@entity1 announce that a fee has been agreed with @entity4
+midfielder is *due* in @entity19 for a medical on monday
+the @entity14 international will move for $ 23.5m
+song follows @entity37 out of @entity4
+
+@entity3:Song
+@entity30:Diaby
+@entity1:Barcelona
+@entity0:CNN
+@entity26:Sunderland
+@entity37:Robin Van Persie
+@entity4:Arsenal
+@entity39:Manchester United
+@entity28:Wilshere
+@entity8:Camp Nou
+@entity20:Arsene Wenger
+@entity19:Spain
+@entity14:Cameroon
+@entity31:Rosicky

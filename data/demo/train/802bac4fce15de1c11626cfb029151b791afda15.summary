@@ -1,0 +1,22 @@
+http://web.archive.org/web/20100327153634id_/http://edition.cnn.com:80/2010/WORLD/americas/02/11/uruguay.expresident.sentenced/index.html
+
+@entity0 , @entity1 -- a court sentenced former @entity1 president @entity4 to 30 years in prison on wednesday for the coup that consolidated his power in 1973 and for human rights violations			1
+judge @entity9 convicted @entity4 of violating the constitution , nine counts of " forced disappearance " and two counts of political homicide			1
+@entity4 , 81 , had already been under house arrest since 2007 for the killings of two opposition legislators in 1976			0
+@entity4 assumed office in 1972 following an election that has since been questioned			2
+in 1973 , he backed a military coup that kept him in power , and dissolved congress and suspended the country 's constitution			2
+the military pushed him out in favor of another leader in 1976			0
+journalist @entity28 contributed to this report for @entity2			0
+
+@entity4 assumed presidency in 1972
+he backed a military coup in 1973 that kept him in power
+judge convicts him of political homicide , forced disappearance
+military pushes @entity41 out in 1976
+
+@entity2:CNN
+@entity1:Uruguayan
+@entity0:Montevideo
+@entity4:Juan Maria Bordaberry
+@entity28:Dario Klein
+@entity41:Bordaberry
+@entity9:Mariana Mota

@@ -1,0 +1,62 @@
+http://web.archive.org/web/20150718055405id_/http://www.dailymail.co.uk/sciencetech/article-2948949/The-science-s-Wally-Computer-scientist-uses-algorithm-character-shortest-time-possible.html
+
+for decades @entity0 has eluded millions of children in the classic book series - and he ’s likely frustrated a number of adults too			1
+to make finding the bespectacled @entity7 , as he is known in the @entity8 - easier , a @entity6 - based computer scientist has devised a strategy using machine learning and algorithms			1
+by plotting the character 's location across the series , @entity12 created the path needed to travel around a typical page and find @entity0 in the quickest way possible each time			1
+mr @entity12 used an algorithm to approximate the ‘ optimal search path ’ ( pictured )			0
+he then divided the path into four sections , the first part is shown in blue , the second is orange , the third is green and the final section is shown in red			0
+this path represents one of the shortest possible paths to follow on the page to find @entity0 the method built on a previous strategy by @entity31 from @entity32 in november 2013			1
+during this research , mr @entity31 plotted @entity0 ’s 68 locations across seven books			1
+mr @entity12 took these plots to create a so - called kernel density estimation			1
+this established the probability of @entity0 being found in certain parts of a page			2
+from this , mr @entity12 discovered that @entity0 is rarely located in the top left - hand corner , or along the edges , to account for the box that typically described the setting and for printing inconsistencies			1
+@entity0 was also never found on the bottom of the right - hand page			2
+next , mr @entity12 used what is known as the ‘ travelling salesman problem ’ to check every possible @entity52 in the shortest time possible , with the least repetition			0
+by following this method , mr @entity12 was able to ‘ zoom through most illustrations ’ ( example pictured ) in less than 10 seconds			0
+he also discovered that on at least four occasions , book one in particular had instances or ‘ outliers ’ in which the strategy did n't work to make finding @entity0 - known as @entity65 in the @entity8 - easier , a computer scientist plotted all of the character 's 68 locations across seven of the classic books ( pictured )			1
+the method built on a previous strategy created by @entity31 from @entity32 in november 2013 ‘ in computer terms , that means we ’re making a list of all 68 points that @entity0 could be at , then sorting them based on the order that we ’re going to visit them , ’ explained mr @entity12 on his blog			1
+‘ those 68 points can be arranged in ~ 2.48 x 1096 possible ways			2
+to provide some context , that ’s more possible arrangements than the number of atoms in the universe			0
+’ due to the complexity of the task , mr @entity12 used machine learning to approximate the ‘ optimal search path ’ based on an algorithm			2
+@entity12 used an algorithm to plot the shortest path required to find @entity0 ( pictured )			1
+but also revealed tips to make the process easier @entity12 used an algorithm to plot the shortest path required to find @entity0			1
+but , mr @entity12 acknowledged that humans are unable to remember a path as easily as a computer and revealed tips to make the process easier			2
+@entity0 is rarely located in the top left - hand corner , or along the edges , for example			0
+he is also rarely found on the bottom of the right - hand page			0
+start on the bottom half of the left - hand @entity109 is n’t on the bottom half of the left page , ' then he ’s probably not on the left page at all '			0
+the upper quarter of the right page is the next best place to look and mr @entity12 said ' @entity0 seems to prefer to hide on the upper quarter of the right page			1
+' next check the bottom right half of the right page			0
+mr @entity12 added @entity0 has an aversion to the bottom left half of the right page and searchers should n't bother looking there until they 're exhausted the other hot spots			1
+he ran this algorithm for five minutes and created a solution that divided the path into four sections : the first part is shown in blue , the second is orange , the third is green and the final section is shown in red			0
+‘ this path represents one of the shortest possible paths to follow on the page to find @entity0 , ’ continued mr @entity12			1
+‘ so if we followed this path exactly , we ’d most likely find @entity0 much faster than someone following a more basic technique			0
+’ but , mr @entity12 acknowledged that humans are unable to remember a path as easily as a computer and revealed tips to make the process easier			0
+he said searchers should start on the bottom half of the left - hand page and if @entity0 is n’t on the bottom half of the left page , ' then he ’s probably not on the left page at all '			2
+mr @entity12 used these locations to create a kernel density estimation ( pictured ) and establish the probability of @entity0 being found in certain parts of a page			1
+from this , mr @entity12 discovered @entity0 is rarely located in the top left - hand corner , or along the edges			2
+he was also never found on the bottom of the right - hand page to create the path , mr @entity12 ran an algorithm for five minutes ( demonstrated ) to find the solution the upper quarter of the right page is the next best place to look and mr @entity12 said ' @entity0 seems to prefer to hide on the upper quarter of the right page			1
+' next check the bottom right half of the right page			0
+mr @entity12 added @entity0 has an aversion to the bottom left half of the right page and people should n't bother looking there until they 're exhausted the other hot spots			2
+by following this method , mr @entity12 was able to ‘ zoom through most illustrations ’ in less than 10 seconds			0
+he also discovered that on at least four occasions , book one in particular had instances or ‘ outliers ’ in which the strategy did n't work			0
+‘ this was all done in good humour and i i do n’t recommend actually using this strategy for casual ‘ @entity188 ? ’ reading , ' concluded mr @entity12			0
+‘ as with so many things in life , the joy of finding @entity0 is in the journey , not the destination , ’			0
+
+the strategy was *designed* by a @entity6 - based computer scientist
+he plotted @entity0 ’s locations across 68 pages in seven books
+using these locations , @entity12 created a kernel density estimation
+this established *patterns* and *similarities* of various points
+from this , he created the shortest path needed to visit the 68 points
+he said following this path on a *standard* where ’s @entity0 ? page is said to be the easiest and fastest way to find the *elusive* character
+
+@entity31:Ben Blatt
+@entity188:Where ’s Wally
+@entity0:Wally
+@entity7:Wally-or Waldo
+@entity12:Randal Olson
+@entity8:US
+@entity52:Wally location
+@entity32:Slate magazine
+@entity109:page.If Wally
+@entity65:Waldo
+@entity6:Michigan

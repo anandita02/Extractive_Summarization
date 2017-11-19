@@ -1,0 +1,48 @@
+http://web.archive.org/web/20150414044233id_/http://www.dailymail.co.uk/sciencetech/article-2563133/Now-thats-telling-time-RoboCLOCK-continuously-writes-rubs-hour-real-time.html
+
+the traditional clock has had its day			0
+a @entity2 creator has designed a robot that writes the time using a dry wipe pen on a miniature white board			1
+its mechanical arms then erase the time from this board , before starting again - and each time the robot writes , the numbers correspond to the real - world time as its being written			2
+it writes the time , in hours and minutes , on a white board using a dry wipe pen , before erasing it and starting again to make the @entity28 , users will need : a laser cutter or 3d printer @entity31 board 3 servos 1 dry wipe pen a piece of white board @entity38 nuts , bolts , thread tape instructions , with pictures , can be downloaded from @entity43			1
+@entity44 , the contraption only displays hours and minutes in 24 - hour clock , meaning that the time it takes to write the numbers does n’t cause a delay			1
+the contraption was designed by @entity19 member @entity18 , also known as @entity52 from @entity21			1
+@entity44 is made up of @entity53 printed parts and mechanisms , connected by @entity38 nuts , bolts and thread tape			2
+it is powered by an @entity31 board and three servos control and manage the movement of its arms			0
+@entity44 , pictured , is made up of @entity53 printed parts and mechanisms , connected by @entity38 nuts , bolts and thread tape @entity44 is powered by an @entity31 board , while three servos control and manage the movement of its arms , as seen in this diagram			1
+@entity18 has uploaded step - by - step instructions , with pictures and specifications , online to help other people create their own device @entity18 has now uploaded step - by - step instructions , with pictures and specifications , online to help other people create their own @entity28			0
+@entity78 ’s @entity44 is just the latest in a line of 21st century redesigns of the traditional and digital clock			0
+the @entity82 clock - named after the part of the brain responsible for spatial navigation and long - term - memory - was unveiled at the @entity88 in @entity89 last year			0
+the contraption only displays hours and minutes in 24 - hour clock , meaning that the time it takes to write the time does n't cause a delay standing 2.8m tall , it displays the time via two ‘ retrograde ’ indicators , so named because the hands travel in one direction before snapping back to the start , rather than rotating			1
+the one to the left shows the minutes ; the one to the right the hours			0
+more recently , @entity107 firm @entity106 designed a watch that displays the time in the form of @entity111 inkblots , whereas the @entity112 watch , from @entity114 - based designers , @entity115 and @entity116 , vibrates at five minute intervals , but does n’t show the actual time .			2
+
+the @entity17 was designed by @entity19 member @entity20
+it writes the time in 24 - hour clock using a pen on a miniature white board
+the number is then erased and the next corresponding time is written
+it is powered by an @entity131 board and the parts of the clock are @entity53 printed
+
+@entity17:Plotclock
+@entity20:Johannes
+@entity21:Nuremburg
+@entity28:Plotclock
+@entity116:Lars Vedeler
+@entity82:Hippocampus
+@entity114:Oslo
+@entity112:Durr
+@entity111:Hermann Rorschach
+@entity88:M.A.D ( Mechanical Art Devices ) Gallery
+@entity89:Geneva
+@entity131:Arduino
+@entity2:German
+@entity53:3D
+@entity52:Johannes
+@entity78:Joo
+@entity31:Arduino Uno
+@entity38:M3
+@entity19:Thingiverse
+@entity18:Joo
+@entity106:Tokyoflash
+@entity107:Japanese
+@entity115:Theo Tveterås
+@entity44:Plotclock
+@entity43:Thinigverse

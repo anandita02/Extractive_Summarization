@@ -1,0 +1,68 @@
+http://web.archive.org/web/20140808165036id_/http://www.dailymail.co.uk/sciencetech/article-2702589/Apple-denies-creating-iOS-backdoor-government-Hidden-files-discovered-iPhones-leave-devices-open-surveillance.html
+
+by @entity0 a security expert has warned @entity4 ’s @entity3 software contains potentially sinister tools that could be used by governments to spy on @entity8 and @entity9 users			1
+speaking at the ' @entity12 ' conference in @entity13 , @entity10 said that most users are unaware of the lack of protection for @entity8 data			0
+he added files found hidden within the firm 's software contain a file - relay service that can be used to access the user 's address book , photos , voicemail and any accounts configured on the device			1
+however , @entity4 has denied the claims the backdoor was created deliberately for government or surveillance purposes			0
+a security expert has claimed that @entity4 's @entity3 operating system has potentially sinister tools that could be used for government surveillance			1
+speaking at the ' @entity12 ' conference in @entity13 , @entity10 said most users are unaware of the lack of protection for @entity8 data his investigation followed earlier reports of the @entity40 spying on @entity4 products , which suggested a ‘ backdoor ’ in @entity3 could provide hackers with valuable information			1
+a backdoor is a hidden remote access port that can allow outside sources to access a device with little detection			1
+according to a report by @entity52 in @entity53 , @entity3 devices have data discovery tools that are separate from those used by @entity4			1
+the conclusion was based on an analysis of 600 million @entity3 devices , with handsets running the most recent versions of the software at particular risk			2
+@entity4 and its ceo @entity63 ( right ) have previously strenuously denied any collusion with the @entity40 in a backdoor spying program aimed at users of @entity8 ( pictured left )			1
+the conclusion was based on an analysis of 600 million @entity3 devices , with handsets running the most recent versions of the software at particular risk a backdoor is a hidden remote access from an outside source to the device ( stock image pictured ) that enables the hacker to have almost full access with little detection mr @entity10 added there is a file dubbed ‘ com.apple.pcapd ’ on the device that fires up without notifying the @entity3 device 's owner			1
+what is a ' backdoor ' ? a backdoor is a hidden remote access from an outside source to the device that enables the hacker to have almost full access with little detection			1
+should you be worried if you use an @entity4 device ? backdoors are not the type of thing an average hacker can easily exploit			0
+so far there has been no evidence that they 've been used for identity theft or a criminal attack how would could the government potentially make use of these backdoors ? backdoors can provide access to unencrypted information even if users have chosen to encrypt the data they back up			0
+data can include the user 's address book , stored photos , the voicemail database and any accounts configured on the device			1
+what are the main concerns ? mr @entity10 focused on three particular services known by the technical names com.apple.pcapd , com.apple.mobile.file_relay and com.apple.mobile.house_arrest			0
+how do these hidden files work ? the pcapd service starts a ' packet sniffer ' on an @entity3 device which records all data traffic to and from your @entity8			1
+it 's installed by default on all @entity3 devices and gives the user no warning when it 's activated			1
+the file_relay service exists to sweep up large volumes of raw data from particular sources on an @entity8 , and then release it in unencrypted form			0
+these include the address book , accounts , gps logs , photos , notes , calendar files , call history , voicemail and other records			1
+the third service , house_arrest , originally allowed @entity149 to copy documents to third - party apps			0
+now , as reported in @entity153 , house_arrest has access to wider app - related data , including photos , databases , screenshots and temporary ' cached ' information			2
+more information about @entity4 's diagnostic capabilities is available from the firm 's support pages			0
+he explained this can record network traffic and @entity168 request / response data from the device and could be targeted via @entity170			0
+‘ this software is n't some legacy code left on the device by @entity4 engineers for testing - it has been actively updated and expanded in various @entity3 revisions , ’ @entity53 claimed			1
+backdoors are not the type of thing an average hacker can easily exploit , and so far there has been no evidence they 've been used for identity theft or a criminal attack @entity4 responded by saying the services identified by mr @entity10 are not deliberately provided for government agencies to exploit			2
+the company added they are for ' diagnostic ' purposes , and to allow it workers to manage their company ’s devices			0
+more information about @entity4 's diagnostic capabilities is available from the firm 's support pages			0
+‘ the problem with this is that these services dish out data ( and bypass backup encryption ) regardless of whether or not ' @entity200 to @entity4 ' is turned on or off , and whether or not the device is managed by an enterprise policy of any kind , ’ mr @entity10 said on his blog			2
+‘ every single device has these features enabled and there ’s no way to turn them off , nor are users prompted for consent to send this kind of personal data off the device			0
+’ in january , @entity4 strenuously denied it played any role in the @entity40 's alleged efforts to hack the @entity8			2
+documents published in @entity218 's @entity217 revealed the @entity40 actively worked on software that enabled it to remotely access iphones and their text messages , photographs , contacts , location , voice mail and even their video			2
+the report included an @entity40 graphic dated 2008 that outlined a system in development called @entity231 , described as a ' software implant ' that allows infiltrators to push and pull and retrieve data from @entity8 such as contact lists			0
+@entity217 referred to it as a ' trojan , ' or malware that helps hackers get into protected systems			0
+the report did not suggest @entity4 had cooperated with the @entity242 spying agency on so - called backdoors			2
+the @entity245 - based , company said at the time that it had never worked with the @entity40 to deliberately weaken its products , promising that it would ' defend our customers from security attacks , regardless of who 's behind them			0
+' the investigation followed earlier reports of the @entity40 ( headquarters pictured ) spying on @entity4 products , which suggested a ' backdoor ' in @entity3 could provide hackers with valuable information			1
+@entity4 said at the time that it had never worked with the @entity40 to deliberately weaken its products			0
+
+a backdoor is a hidden remote access from an outside source to a device
+@entity10 made claim after reports of @entity40 spying on @entity4
+he found @entity3 devices have data tools separate from those used by @entity4
+tools include a file - relay service that can collect details such as the user 's address book , stored photos , voicemail and accounts on the cloud
+
+@entity153:ReadWrite
+@entity3:iOS
+@entity170:Wi-Fi
+@entity0:Ellie Zolfagharifard
+@entity4:Apple
+@entity9:iPad
+@entity8:iPhones
+@entity218:Germany
+@entity217:Der Spiegel
+@entity53:The Register
+@entity52:Iain Thomson
+@entity13:New York
+@entity12:Hackers on planet Earth
+@entity10:Jonathan Zdziarski
+@entity245:Cupertino
+@entity231:DROPOUTJEEP
+@entity242:U.S.
+@entity200:Send Diagnostic Data
+@entity168:HTTP
+@entity149:iTunes
+@entity40:NSA
+@entity63:Tim Cook

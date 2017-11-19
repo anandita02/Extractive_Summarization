@@ -1,0 +1,41 @@
+http://web.archive.org/web/20121125080807id_/http://www.dailymail.co.uk/sciencetech/article-2231713/Vibrative-Virtual-Keyboard-app-teaches-iPhone-interpret-vibrations-key-strikes-sized-keyboard.html
+
+by @entity0 published : 06:38 est , 12 november 2012 updated : 13:59 est , 12 november 2012 a prototype app for the @entity2 allows users to turn any tabletop into a keyboard			2
+the @entity6 uses the @entity2 's built - in accelerometer to read the vibrations as fingers tap a surface to work out which ' key ' is being pressed			1
+by analysing the strength and frequency of tremors through the surface the phone is resting on , the software works out the approximate location of the strike on a virtual qwerty keyboard			1
+scroll down to see it in action good vibes : a student at @entity23 has developed an @entity2 app which uses the gadget 's built - in accelerometer to interpret taps on a tabletop as strikes on a full - size keyboard the app has been developed by @entity33 designer @entity31 for his one - year cognitive computing master 's degree at @entity23			1
+' touch screen devices , such as smartphones , lack a suitable method for text input which can compete with mechanical keyboards , ' mr @entity35 said			0
+' the @entity6 aims to appease the frustration felt by smartphone users when faced with drafting lengthy emails or notes on a small onscreen keyboard			1
+' the keyboard requires no additional hardware as it taps into an @entity2 's built - in accelerometer , which is able to measure the vibrations caused by typing on any hard surface			1
+' a @entity52 entrepreneur is marketing carved wooden keyboards created from maple and walnut trees from the @entity56			0
+mixing one of man 's oldest materials with modern technology , each keyboard is wireless , using @entity63 to connect to pcs and tablets			2
+@entity66 said his work is an attempt to stop the ' impersonal , lifeless aesthetic ' that came in with the computer			0
+the software needs to be trained to interpret the tremors typing fingers produce on the particular surface used			2
+after collecting examples of all the keys on the keyboard , it compares new data to this training data to roughly work out which key have been pressed			1
+so far mr @entity35 has been able to reach an 80 per cent accuracy using the system , so errors occur the software will ' assume ' what the user intended to write using an auto - correct dictionary			1
+mr @entity35 , who created the system as part of studies into user interfaces , told the @entity94 : ' the signals i ’m collecting are very weak			0
+' at the moment it ’s more of a proof of concept but if you made the accelerometer more sensitive you could improve the accuracy quite easily			0
+' the technology has been designed for @entity2 , but mr @entity35 was forced to use a ' jailbroken ' device as @entity105 does not allow apps to change the way that its @entity109 keyboard works			0
+he says the software could easily be developed for other operating systems or devices which use accelerometers , however			0
+demonstrating the technology in a video , mr @entity35 uses a piece of paper printed with an image of a keyboard to train the software and then type out a text message			0
+showing how it could be used by a touch - typist , he then takes away the paper and continues to type directly on the wooden surface .			2
+
+@entity6 *invented* by @entity33 designer for his @entity129 project
+it reads the strength and frequency of vibrations to interpret keys pressed
+so far it 's only 80 *%* accurate , but *includes* auto - correct dictionary
+
+@entity31:Florian Kräutli
+@entity2:iPhone 4
+@entity33:Swiss
+@entity0:Damien Gayle
+@entity35:Kräutli
+@entity6:Vibrative Virtual Keyboard
+@entity23:Goldsmiths , University of London
+@entity52:French
+@entity56:Alps
+@entity129:MA
+@entity66:Julien Salanave
+@entity109:iOS
+@entity94:Telegraph
+@entity63:Bluetooth
+@entity105:Apple

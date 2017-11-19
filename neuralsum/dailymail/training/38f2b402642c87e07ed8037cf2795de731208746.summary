@@ -1,0 +1,119 @@
+http://web.archive.org/web/20141221201513id_/http://www.dailymail.co.uk/sciencetech/article-2769514/Bash-bug-worse-Heartbleed-Catastrophic-flaw-threaten-security-millions-internet-connected-devices.html
+
+warnings have been issued about a ' catastrophic ' security flaw affecting one of the most important interfaces powering the web			0
+known as the @entity6 , the flaw could be ' bigger than @entity7 ' which put every computer user at risk earlier this year			0
+experts claim the bug may pose a serious threat to computers using @entity15 - based operating systems including @entity16 and @entity18 's @entity17 - and in turn , could spread to all internet - connected devices			1
+@entity22 security researcher @entity21 tweeted ( pictured ) an example of how the bug can be exploited , and how code can be added , to websites on @entity27 running @entity17			1
+he warned that @entity28 is ' probably a bigger deal than @entity7 ' because it could threaten the security of millions of websites the bug makes all @entity18 @entity27 computers , around half of all websites and most internet connected home appliances vulnerable			1
+the danger is that it can run in the background , without a user ever knowing			0
+and once it does , a hacker will be able to take control of your device			1
+for instance , the bug could be used to read or send emails , copy banking data , turn on a webcam or listen in on a computer 's microphone			2
+essentially , this means if your computer will do something without asking for a password , then someone using the bug can also do the same			2
+anyone using these devices will need to include a ' patch ' update to the software as soon as it is released			1
+as well as computers , the public is being warned they may need to update their internet - connected devices , such as smart locks , separately			1
+bash is the software used to control the command prompt on many @entity15 computers , and the bug can exploit it to take complete control of a system			1
+@entity16 is used in everything from cars to cameras , as well as the @entity76 , and the bug could also affect @entity78 , @entity79 and @entity81 machines			1
+‘ the impact is very severe , it ’s not overstating it to say it ’s a more serious bug than @entity7 , ’ professor @entity82 , director of the cyber at @entity83 told @entity84			2
+‘ the primary way this is going to be exploited is through the web … a hacker can use the bug to put malicious things on the website or to steal information , like banking details			2
+’ the bug , which also goes by the name ' @entity98 ' , could potentially allow hackers to gain access to every internet - enabled device in a person 's home using something as innocuous as a smart lightbulb			1
+the danger with this , in particular , is that once it has access to an internet - connected device it can jump onto others			1
+this includes smart locks that open front doors			2
+@entity22 security researcher @entity21 tweeted an example of how the bug can be exploited , and how code can be added , to websites on @entity27 running @entity17			1
+by comparison , ' @entity7 ' - dubbed a ' critical security flaw ' at the time - only allowed hackers to spy on computers , not take control of them			1
+it is what 's called a command - line shell that lets users control software programs and features			1
+commands are sent to these programs by typing text into a particular area of code			0
+this code is typically restricted to programmers , but the bash bug leaves it open to attack from anyone bash does not require users to rush change their passwords , but it does provide another way for hackers to take control of computers and devices			1
+' the method of exploiting this issue is also far simpler			0
+you can just cut and paste a line of code and get good results , ' according to @entity157 , chief executive of a cybersecurity firm @entity158			0
+its potential to disrupt @entity18 @entity27 computers , which uses the bash software , is of particular concern , experts warned			2
+it is what 's called a command - line shell that lets users control software programs and features			1
+commands are sent to these programs by typing text into a particular area of code			0
+this area is typically restricted to programmers and website owners , but the bash bug leaves it open to attack from anyone			2
+for example , @entity17 users can run it by from their terminal , as can people running devices on the @entity16 operating system			1
+@entity79 is not affected in the same way , but if a hacker exploits malicious code through the flaw , they could gain access to any device , in theory , including @entity197 the bug is said to have existed for 25 years , and was discovered by @entity16 expert @entity199			1
+as an example , the @entity201 web server runs bash in the background to carry out tasks , including processing personal data entered into online form			0
+a hacker who exploits @entity28 could send a request for the information , and then add malicious code to the server to send the user to other sites , or to install a virus on their computer			0
+once the hacker has access , they could launch an attack on every visitor that users the site - and users could be none the wiser			2
+according to experts , there have n't been any reports of real - word attacks , but that does n't mean they wo n't ever be affected , nor does it mean they have n't happened in the past , without being detected			0
+reports are suggesting @entity18 has patched the flaw that explicitly affects the terminal on its @entity27 software , but the firm has not officially confirmed this			0
+the responsibility to fix the flaw lies with the website owners , meaning everyday users ca n't do anything to protect themselves			0
+website owners , especially running on @entity16 - based servers , are being told to check and patch their systems immediately			1
+the @entity7 flaw in open ssl encryption affected millions of sites earlier this year			0
+by comparison , @entity7 only allowed hackers to spy on computers ; not take control of them the only solution is to update every device that is vulnerable with a patch			1
+and this can only be done by website or server owners			0
+@entity261 , an engineering manager at cybersecurity firm @entity262 , warned the bug was rated a ' 10 ' for severity , meaning it has maximum impact			0
+he also rated it ' low ' for complexity of exploitation , meaning it is relatively easy for hackers to launch attacks			0
+' using this vulnerability , attackers can potentially take over the operating system , access confidential information , make changes , et cetera , ' mr @entity261 said			0
+' anybody with systems using @entity28 needs to deploy the patch immediately			1
+' ‘ while antivirus software and firewalls are the basic line of defence for most organisations , they ’re not going to be able to stop the attackers getting in this way , ’ said @entity282 , vice president at @entity283			0
+@entity293 - @entity292 advised computer users to obtain operating systems updates from software makers			1
+it said that @entity16 providers including @entity299 had already prepared them , but it did not mention an update for @entity302 representatives could not be reached			1
+@entity303 , a @entity304 security researcher , said via @entity305 that the patches seemed ' incomplete			2
+' however , mr @entity303 could not be reached to elaborate , but several security experts said a brief technical comment provided on @entity305 raised concerns			0
+the bug could allow hackers to gain access to every internet - enabled device in a person 's home.the danger with this is that once it has access to a internet - connected device it can jump onto others in the home			1
+this includes smart locks , such as the august lock ( pictured ) , that open front doors remotely unlike @entity7 , which only affected a specific version of @entity328 , the bash bug has been around for a long time			2
+' that means there are lots of old devices on the network vulnerable to this bug , ' said @entity21 , of security firm @entity335			1
+' the number of systems needing to be patched , but which wo n't be , is much larger than @entity7			0
+' the @entity7 bug allowed hackers to spy on millions of computers all over the world			2
+bash , however , allows hackers to read information , edit , delete or copy files , and run programmes			0
+all of this can take place without the user knowing			0
+unlike @entity7 , which forced users to change their passwords , @entity28 does n't have an easy fix			0
+it will largely be up to system administrators and software companies to issue patches			2
+' that means some systems could be exploited even though they are patched , ' said @entity357 , chief technology officer with security software maker @entity358			2
+he said corporate security teams had spent the day combing their networks to find vulnerable machines and patch them , and they would likely be taking other precautions to mitigate the potential for attacks in case the patches proved ineffective			1
+' everybody is scrambling to patch all of their @entity369 - facing @entity16 machines			1
+that is what we did at @entity358 today , ' he said			0
+' it could take a long time to get that done for very large organisations with complex networks			0
+' ' @entity7 , ' discovered in april , is a bug in an open - source encryption software called @entity328			1
+the bug put the data of millions of people at risk as @entity328 is used in about two - thirds of all websites			2
+it also forced dozens of technology companies to issue security patches for hundreds of products that use @entity328			0
+bash is a shell , or command prompt software , produced by the non-profit @entity392			0
+officials at that group could not be reached for comment .			0
+
+bug poses a threat to devices using @entity15 - based operating systems
+it includes @entity16 used in many devices such as cars and cameras
+it can also affect @entity78 , @entity79 , @entity81 and @entity17 machines
+bug , also called ' @entity98 ' , may let hackers take control of devices
+solution is to update every vulnerable device with a software patch
+some patches have already been released , but are still ' incomplete '
+
+@entity22:Errata
+@entity21:Robert Graham
+@entity27:Mac
+@entity28:Bash
+@entity81:IBM
+@entity82:Tim Watson
+@entity83:Warwick University
+@entity84:MailOnline
+@entity358:Veracode
+@entity357:Chris Wysopal
+@entity157:Dan Guido
+@entity335:Errata
+@entity7:Heartbleed
+@entity6:' Bash ' bug
+@entity199:Stéphane Chazelas
+@entity197:PCs.
+@entity79:Windows
+@entity299:Red Hat
+@entity76:Raspberry Pi
+@entity78:Android
+@entity292:CERT
+@entity293:US
+@entity17:Apple Mac OS X
+@entity16:Linux
+@entity15:Unix
+@entity18:Apple
+@entity98:Shellshock
+@entity369:Internet
+@entity201:Apache
+@entity261:Beardsley
+@entity262:Rapid7
+@entity302:OS X. Apple
+@entity303:Ormandy
+@entity392:Free Software Foundation
+@entity304:Google
+@entity305:Twitter
+@entity328:OpenSSL
+@entity283:Log Rhythm
+@entity282:Ross Brewer
+@entity158:Trail of Bits

@@ -1,0 +1,97 @@
+http://web.archive.org/web/20150720195542id_/http://www.dailymail.co.uk/sciencetech/article-2919762/Hacking-Wi-Fi-s-child-s-play-Seven-year-old-shows-easy-break-public-network-11-minutes.html
+
+just two days after an investigation revealed how much personal information public @entity2 networks can ‘ suck ’ from phones , a child has shown how easy the hotspots are to hack			1
+a seven - year - old broke into a @entity9 in just 10 minutes and 54 seconds after watching an online video tutorial			1
+the ethical hacking demo was carried out under the supervision of an online security expert to highlight just how vulnerable the networks are			1
+it took the seven - year - old 11 minutes to infiltrate the network by setting up a rogue access point - frequently used by attackers to activate a ‘ man in the middle ’ attack , and begin eavesdropping on - or ‘ sniffing ’ - traffic experts predict that attacks on free , public @entity2 networks will rise in 2015			1
+an investigation by 5 news earlier this week found that hackers can force customers in a café to switch their phones from a legitimate @entity2 to a fake one , without them knowing			1
+this made it possible for thieves to access phones , hack email accounts , steal login details , track people 's movements and access online bank accounts			1
+to put these dangers into perspective , virtual private network ( @entity46 ) provider @entity45 ( @entity48 ) recruited a child to attack a public network			1
+@entity16 from @entity53 in @entity54 hacked a willing participant ’s laptop while they were connected to an open @entity2			1
+sniffing / eavesdropping : the method of passively listening to data on the network without the users knowledge by tricking the network into passing all data through the hacker ’s computer first			2
+man in the middle attack : a method used to intercept traffic between a user ’s device and the destination system , such as the café offering the @entity2 , making a victim ’s machine think the hacker ’s machine is the access point to the @entity79			1
+@entity81 cache poisoning : a method of attack whereby ‘ updated ’ data is used to enable the hacker to divert the traffic to the hacker ’s destination of choice			1
+@entity90 : wireless access points installed on a company ’s network without the company ’s knowledge			2
+these access points override the legitimate network thereby allowing the hacker to perform a man in the middle attack and intercept data			2
+unsecured @entity2 network : an unsecured @entity2 network is a wireless network that does n’t request the user to log into it via the use of a username and password			1
+these are usually displayed as @entity112 networks			0
+@entity113 - @entity113 : the first wireless security scheme developed , it was designed to provide security that was essentially equivalent to the privacy that was enjoyed in a wired environment			2
+this is the least secure type of wireless network available			2
+@entity121 - used @entity120 ( @entity120 ) : this protocol further improves the security of @entity113 without the need to buy new hardware			2
+it still uses @entity113 for encryption , but it makes the attacks used to crack @entity113 a bit more difficult and time - consuming			2
+@entity132 - @entity131 : this is the next level up from @entity121 and was designed for the home and small businesses			0
+as the name implies , the new version uses a pre-shared key ( @entity131 )			0
+this has become standard that is now used by most households today			0
+@entity132 - @entity142 : this is a version of @entity132 used by businesses			0
+it uses the @entity142 , or @entity142 , to encrypt data and is the most secure			0
+it 's often coupled with a @entity149 server that is dedicated for authentication			0
+@entity149 - @entity149 ( @entity149 ) : a networking protocol that provides centralised authentication , authorisation , and accounting management for users who connect and use a network service within a business			1
+these users are authenticated against the company systems for added protection			0
+channels : wireless networks use channels which are separated out so that various communication streams do n't interfere with each other			0
+the 802.11 wireless standard allows for channels ranging from 1 thru 14			0
+brute - force attack : a method in which a hacker will try and break the password by continuously attempting to log in with different credentials until they find one that works			0
+it could take hours , days or months depending upon the complexity of the password being used			0
+dictionary attack : a method used to ry and break the password of a user or wireless device by going through all the words in a dictionary , trying each one in turn until it finds a password which works			0
+virtual private network ( @entity46 ) : a vpn is a way of using the public internet like a secure private network			1
+it encrypts data and routes it through remote servers , keeping the activity and location private and secure			0
+@entity90 are wireless access points , installed on a company ’s network without the company ’s knowledge			0
+ms @entity16 began by searching for , and watching , a freely available video tutorial detailing how to hack a network - a @entity205 search returns over 11 million results , and @entity207 lists 14,000 tutorials ( pictured ) she began by searching for , and watching , a freely available video tutorial detailing how to hack a network - a @entity205 search returns over 11 million results , and @entity207 lists almost 14,000 tutorials			1
+the schoolgirl then set up a @entity213 - frequently used by attackers to activate what is known as a ‘ man in the middle ’ attack , and began eavesdropping on , or ‘ sniffing ’ traffic			1
+@entity90 are wireless access points , installed on a company ’s network without the company ’s knowledge			0
+according to follow - up research , nearly two thirds ( 59 per cent ) of people regularly use unsecure , or ‘ open ’ @entity2 hotspots with one in five ( 20 per cent ) doing so weekly or more			1
+among those who use these unsecured networks , 19 per cent log on to online banking and 31 per cent send emails and personal documents these access points override the legitimate network , allowing the hacker to launch an attack and intercept data			1
+during this hack , ms @entity16 was effectively sitting between the legitimate @entity2 network and the customer ’s laptop , which is why it is dubbed a ‘ man in the middle ’ attack			1
+ensure a network is genuine : check the name of the network with a shop worker			0
+check the lock : secure websites display a green padlock symbol , also known as @entity252			0
+make sure this is present when using a site that handles personal data and avoid accessing sensitive documents or pages using public @entity2			2
+use a @entity46 ( @entity46 ) : not all sites display the @entity252 lock symbol , but a vpn will act as an intermediary between the device and the internet server			0
+downloading an app ? check permissions : before installing , make sure apps ca n't access unnecessary information			0
+for example , a drawing app should n't need a contacts list			0
+forget the network : when leaving a publich network , do n’t just log off , ask the device to forget the network so it does n’t automatically log on when in range later			0
+the experiment was overseen by independent online security expert @entity276			0
+he is hired by companies to check the robustness of their network systems			0
+‘ the results of this experiment are worrying but not entirely surprising , ’ said mr @entity276			2
+‘ i know just how easily a layman can gain access to a stranger ’s device , and in an age where children are often more tech - literate than adults , hacking can literally be child ’s play			1
+’ ‘ adults need to get their heads around online security basics - and stick to them whenever they connect to an unsecure network			1
+‘ as for children , while it ’s admirable educators are focusing on skills like coding , it ’s important to teach them about the dangers that lurk online , as well instilling a clear sense of the ethics – just as we did with the child that participated in this experiment			1
+‘ after all , as easily as one can now code a computer game , so one can fall into the dark world of hacking			2
+’ a recent @entity314 report revealed more than half of people in the @entity317 have fallen victim to cybercriminals			0
+according to follow - up research by @entity48 , nearly two thirds ( 59 per cent ) of people regularly use unsecure , or ‘ open ’ @entity2 hotspots with one in five ( 20 per cent ) doing so weekly or more			1
+an investigation by 5 news earlier this week found that hackers can force customers in a café to switch their phones from a legitimate @entity2 to a fake one , without them knowing			2
+this made is possible for thieves to access phones , hack emails , steal login details , track people 's movements and access bank accounts among those who use these unsecured networks , 19 per cent log on to online banking and 31 per cent send emails and personal documents			2
+@entity345 - @entity344 , marketing director at @entity48 added : ‘ the image of cyber criminals hiding in a dark room in some far - flung part of the world is antiquated - they are just as likely to be sitting next to you in a coffee shop or public library			1
+‘ and if a child can perform a basic hack on a @entity2 in minutes , imagine the damage a professional criminal hacker could do			1
+
+experts predict a rise in criminals hacking ‘ free @entity2 ’ in 2015
+to highlight the dangers , a virtual private network provider asked a seven - year - old to hack a network
+the child watched an online tutorial before hacking into the @entity2 hotspot
+it took her just 10 minutes and 54 seconds to infiltrate the network
+
+@entity81:DNS
+@entity252:Https
+@entity113:WEP
+@entity112:OPEN
+@entity276:Dempsey
+@entity131:PSK
+@entity132:WPA2
+@entity2:Wi-Fi
+@entity314:Cabinet Office
+@entity317:UK
+@entity213:Rogue Access Point
+@entity9:Wi-Fi hotspot
+@entity53:Dulwich
+@entity79:Internet
+@entity120:TKIP
+@entity54:South London
+@entity121:WPA
+@entity16:Davies
+@entity344:Charley
+@entity345:Cian McKenna
+@entity207:YouTube
+@entity205:Google
+@entity90:Rogue Access Points
+@entity142:AES
+@entity149:RADIUS
+@entity45:Hidemyass.com
+@entity46:VPN
+@entity48:HMA

@@ -1,0 +1,28 @@
+http://web.archive.org/web/20131203193636id_/http://www.cnn.com:80/2013/10/20/world/americas/tropical-weather-raymond
+
+-- @entity1 strengthened into a hurricane sunday off @entity4 's @entity3 , threatening to dump heavy rains			2
+a hurricane watch and tropical storm warning were in effect from @entity9 to @entity10 , according to the @entity11			1
+a hurricane warning was issued for @entity10 to @entity13			1
+as of sunday night , @entity1 was 155 miles west - southwest of @entity9			2
+it had maximum sustained winds of 100 mph , with higher gusts , and was moving north at 6 mph			0
+@entity1 strengthened rapidly and was expected to continue to strengthen			0
+the storm is forecast to near the coast within the hurricane warning area late monday or tuesday			1
+it is predicted it will take a sharp turn west before it has a chance to reach land , the hurricane center said			0
+@entity1 is forecast to dump heavy rain along the south - central coast of @entity4 , with between 2 to 4 inches and up to 8 over the state of @entity27			1
+the area was hit hard by another storm in september			0
+the previous storm , @entity31 , triggered deadly mudslides and left about 40,000 tourists stranded in @entity9 , a popular tourist destination .			0
+
+new : a hurricane warning is in effect for @entity10 to @entity13
+new : the storm is strengthening rapidly
+heavy rainfall is forecast along the south - central coast
+
+@entity3:Pacific Coast
+@entity31:Manuel
+@entity1:Raymond
+@entity0:CNN
+@entity13:Lazaro Cardenas
+@entity27:Guerrero
+@entity11:National Hurricane Center
+@entity10:Tecpan de Galeana
+@entity9:Acapulco
+@entity4:Mexico

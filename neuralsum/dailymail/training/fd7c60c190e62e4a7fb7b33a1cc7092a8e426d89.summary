@@ -1,0 +1,63 @@
+http://web.archive.org/web/20150103171725id_/http://www.dailymail.co.uk/sciencetech/article-2617228/New-Yorks-traffic-lights-HACKED-technique-work-world.html
+
+a security expert claims to have uncovered a major flaw in the traffic system in in major cities around the world including @entity5 and @entity6			1
+@entity7 , an @entity8 security researcher with @entity9 , says he can control traffic lights and even reroute traffic			1
+he discovered is was possible to control the sensors embedded into the road and used by control systems to monitor traffic			1
+@entity20 has 250 + customers in 45 @entity23 states and 10 countriesimportant @entity23 cities have deployments : @entity6 , @entity27 , @entity28 , @entity29 , @entity30 , @entity31 , etc.50 , 000 + devices deployed worldwide ( most of them in the @entity23 ) countries include @entity23 , @entity34 , @entity38 , @entity39 , @entity40 , @entity41 , etc. for instance , some @entity34 cities with deployments : @entity5 , @entity42 , @entity43 , @entity44 , @entity45 , @entity46 , @entity47 , etc. @entity40 has a big deployment on one of the most important and modern freeways			2
+he was able to take control of the sensors – @entity55 wireless vehicle detection systems – which are installed in 40 @entity23 cities , including @entity28 , @entity29 , @entity6 , @entity27 , as well as in nine other countries			1
+the system is comprised of magnetic sensors embedded in roadways that wirelessly collect data			1
+@entity62 contacted @entity20 , but it did not respond to requests			0
+@entity7 saiys he was inspired by the movie @entity65 , which sees hackers contolling a city 's traffic			2
+' probably many of you have watched scenes from ' @entity72 ' ( @entity72 ) where ' terrorist hackers ' manipulate traffic signals by just hitting enter or typing a few keys , ' he wrote in a blog post revealing the hack			2
+@entity7 , an @entity8 security researcher with @entity9 , showing thre system off in @entity27 , where it was used to influence traffic patterns			1
+' i wanted to do that ! i started to look around , and while i could n't exactly do the same thing ( too @entity86 style ! ) , i got pretty close			0
+' by exploiting the vulnerabilities i found , an attacker could cause traffic jams and problems at intersections , freeways , highways			2
+' @entity7 said that once he bought a sensor for himself , he found it was relatively easy to control			0
+' after getting the devices , it was n't difficult to find vulnerabilities			0
+' the vulnerabilities i found allow anyone to take complete control of the devices and send fake data to traffic control systems			1
+' basically anyone could cause a traffic mess by launching an attack with a simple exploit programmed on cheap hardware ( $ 100 or less )			2
+' i even tested the attack launched from a drone flying at over 650 feet , and it worked ! ' the equipment used in the hack , which @entity113 said can even be mounted on a drone @entity7 , an @entity8 security researcher with @entity9 , testing the system in @entity116 @entity7 said he even let the firm that makes the sensors know			1
+' what i would like to mention is that the vendor was contacted a long time ago ( september 2013 ) through @entity121 ( the initial report to @entity121 was sent on july 31st , 2013 )			0
+i was told by @entity121 that the vendor said that they did n't think the issues were critical nor even important			0
+' another excuse the vendor provided is that because the devices do n't control traffic lights , there is no need for security			1
+' this is crazy , because while the devices do n't directly control traffic control systems , they have a direct influence on the actions and decisions of these systems			1
+' he says he will now reveal details of the hack at a conference next month after the firm failed to address the problem			0
+' this should be another wake up call for governments to evaluate the security of devices / products before using them in critical infrastructure , and also a request to providers of government devices / products to take security and security vulnerability reports seriously , ' he said			0
+' by exploiting the vulnerabilities i found , an attacker could cause traffic jams and problems at intersections , freeways , highways , etc. ' it ’s also possible to cause electronic signs to display incorrect speed limits and instructions and to make ramp meters allow cars on the freeway faster or slower than needed			0
+' these traffic problems could cause real issues , even deadly ones , by causing accidents or blocking ambulances , fire fighters , or police cars going to an emergency call			0
+
+researcher claims to be able to control light patterns in @entity116
+say *technique* can be used in all major cities
+uses *special* $ *4,000* router to control traffic sensors embedded in roads
+
+@entity23:U.S.
+@entity20:Sensys
+@entity27:Washington
+@entity28:San Francisco
+@entity29:Los Angeles
+@entity116:Manhattan
+@entity113:Cerrado
+@entity86:Hollywood
+@entity7:Cerrudo
+@entity6:New York City
+@entity5:London
+@entity9:IoActive
+@entity8:Argentinian
+@entity55:Sensys Networks VDS240
+@entity72:Die Hard 4
+@entity31:Seattle
+@entity30:Boston
+@entity34:UK
+@entity39:Canada
+@entity38:China
+@entity121:ICS-CERT
+@entity44:Bournemouth
+@entity45:Aberdeen
+@entity46:Blackburn with Darwen Borough Council
+@entity47:Belfast
+@entity40:Australia
+@entity41:France
+@entity42:Shropshire
+@entity43:Slough
+@entity65:Die Hard
+@entity62:MailOnline

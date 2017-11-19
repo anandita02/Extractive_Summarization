@@ -1,0 +1,74 @@
+http://web.archive.org/web/20120619002137id_/http://www.cnn.com:80/2012/03/26/tech/gaming-gadgets/ipad-magazine-display
+
+-- as with any high - profile product release , @entity3 's new @entity2 device has been peppered with complaints since reaching consumers ' hands on march 16			1
+among them : that magazines look terrible on the @entity2 3 ′ s high - resolution display			1
+the complaints were first brought to light by @entity13 blogger @entity12			0
+he pointed out that in the @entity17 's @entity2 app , the text on some pages is rendered as @entity18 , and the text on other pages is rendered as an image (			1
+the latter pages now appear " badly aliased " -- i.e. conspicuously pixelated -- throughout the app because the images have n't been formatted to accommodate the @entity2 3 ′ s 2048 x 1536 - pixel resolution , he complains			1
+( the @entity2 2 , by comparison , has a resolution of 1024 x 768 pixels			1
+) the @entity17 and other @entity31 title have taken the heat for looking poor under the new display , but they 're not alone			0
+titles from other magazine publishers -- we looked at @entity38 and @entity39 from @entity40 , and at @entity41 and o : the @entity43 from @entity44 -- all suffered from the same problems			2
+the only exception ? @entity47 , which launched its @entity2 edition the same day the @entity2 3 hit stores			1
+the title planned its debut in conjunction with the tablet 's release , and thus was able to optimize for the @entity2 's " retina display " ahead of time , a @entity31 spokesperson told us			1
+the spokesperson added that the company is " working to optimize the rest of our digital edition portfolio over the next few weeks			0
+" but what will the ' optimization ' process entail ? how much will it increase file sizes ? ( we noticed , for instance , that @entity47 's premiere issue was a full 408 megabytes on the @entity2 3 , and less than 300 on the @entity2			1
+) we spoke with @entity69 , senior director of product management of @entity72 's digital publishing arm , to find out			0
+@entity72 's software powers all of @entity31 's editions for tablets			2
+magazine publishers who use @entity72 's software all begin with @entity79 to develop layouts , @entity69 explained			2
+those layouts can then be exported in three different kinds of formats : as images (			0
+jpg ) , @entity85 or html			2
+different kinds of files -- images , for instance , or video and audio files -- are embedded within those larger file types			0
+since magazines began publishing on tablets , " virtually all " publishers have chosen to export their digital editions as @entity97 (			2
+png ) files , @entity69 said			0
+" the primary reason they did that is because the fidelity is perfect			0
+what you see on the desktop when you 're designing is exactly what you see on the @entity2 when you 're finished			2
+images are the fastest thing to load , and if you 're trying to create a quick , effortless browsing experience , images are the way to do that , " he explained			0
+" that was okay when there was only one screen size -- when you were just working with the @entity2 1 and 2 , " he added			0
+" when the @entity2 3 came out , you were now dealing with a device with four times as many pixels			1
+" the @entity2 3 applies an anti-aliasing filter to all low - resolution content , which blurs images ever so slightly			1
+as a result , photographs still look about the same on the @entity2 3 , but the text looks a lot worse -- i.e. , visibly blurry , or pixelated			1
+what @entity47 did -- and what all other titles will have to do in the coming weeks -- is begin exporting their digital editions as pdfs , said @entity69			2
+but what about file size ? i pointed out to @entity69 that @entity47 was nearly as large as @entity138 's first issue for the original @entity2			1
+unfortunately , he said , magazine files will be larger for @entity2 3 readers because the image and video files need to be delivered at a higher resolution			1
+owners of first and second - generation @entity145 will still be able to download smaller , lower - resolution files , however			1
+a magazine that is around 400 megabytes on the @entity148 will be around 280 megabytes on the @entity2 1 and 2 , @entity69 said			2
+but why not render in html ? i asked @entity69			0
+would n't that make the files smaller , and give readers the added benefit of selectable text ? @entity69 claimed that publishing in @entity18 would n't substantially reduce the file sizes			0
+" in both cases , you have a bunch of words , and descriptions of where things should be , and multimedia			0
+those multimedia files are still the same size			0
+" he said the big disadvantage with @entity18 is that it 's " not very good at layout out things predictably and perfectly			0
+" rather , it 's optimal for helping people create content that will adapt to any size screen			0
+ultimately , however , @entity69 believes most publishers will move to html as standards improve and as publishers move to publish on a wider range of tablets			0
+so there you have it			0
+magazine readers need not despair about the appearances of their magazines for too much longer , as publishers are working to optimize their editions			1
+the fix is relatively simple : publishers will have to increase the resolution of their image and video files , and export their digital editions as pdfs			1
+@entity2 3 owners will have to suffer longer download times , and wo n't be able to store as many magazines on their devices as @entity2 1 and 2 owners , but that 's the price one pays for a visually stunning reading experience , no ? © 2011 @entity0			1
+
+users have complained some magazine apps look pixilated , or blurry , on the new ipad
+with the @entity2 3 , publishers are now dealing with a device with four times as many pixels
+publishers will have to increase the resolution of their files and export their editions as @entity85
+an exception is @entity47 , which was able to optimize for the @entity2 's " retina display " ahead of time
+
+@entity17:New Yorker
+@entity85:PDFs
+@entity3:Apple
+@entity2:iPad
+@entity0:MASHABLE.com
+@entity79:InDesign
+@entity72:Adobe
+@entity31:Conde Nast
+@entity13:Tumblr
+@entity12:Jamie Billett
+@entity39:Sports Illustrated
+@entity38:Time magazine
+@entity43:Oprah Magazine
+@entity18:HTML
+@entity97:PNG
+@entity145:iPads
+@entity148:iPad 3
+@entity44:Hearst
+@entity47:Vogue
+@entity40:Time Inc.
+@entity41:Esquire
+@entity69:Koch
+@entity138:Wired

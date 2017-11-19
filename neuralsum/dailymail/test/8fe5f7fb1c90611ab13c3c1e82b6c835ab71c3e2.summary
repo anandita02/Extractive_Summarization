@@ -1,0 +1,61 @@
+http://web.archive.org/web/20150722060320id_/http://www.dailymail.co.uk/sciencetech/article-3022053/The-Tricorder-Gadget-works-phone-study-chemical-makeup-object-released-June.html
+
+technology that claims to transform any smartphone into a @entity3 - style tricorder is set to be unveiled in @entity4			1
+the company behind the device says it has the potential to break down the chemical components of almost any object from a distance			1
+the technology could help a range of industries such as food and drink , healthcare and the defence sector , the researchers claim			1
+the company behind the device says it has the potential to break down the chemical components of almost any object from a distance			1
+the image shows how the picture might be used @entity29 and @entity30 , who are behind the system , say it works by analysing a materials ' hyperspectral signature ' , which is its unique chemical fingerprint			1
+the team have already patented the optical part of the system , which is based on existing microelectromechanical or ' @entity40 ' technology			1
+' the optical element acts as a tunable filter and the software - an image fusion library - would support this new component and extract all the relevant information from the image , ' said professor @entity48 at @entity30			1
+hyperspectral imaging collects and processes information from across the electromagnetic spectrum			1
+a tricorder is a scanning device used by @entity55 personnel in the @entity3 universe			0
+it was used largely by @entity58 , the alien first officer of the @entity59 once the camera take an image , the data would be further analysed by a third - party to extract the hyperspectral signature at any location in the image			1
+hyperspectral imaging collects and processes information from across the electromagnetic spectrum			1
+for each pixel in an image , a hyperspectral camera acquires the light intensity for a large number of different spectral bands			1
+this allows it to provide more detailed information about the scene than a normal color camera , which only acquires three different spectral bands			2
+the imaging works in both video and still photography , he says			2
+' we are close to producing a prototype , which is scheduled for release in june , ' said professor @entity48			0
+' a long list of fields stand to gain from this new technology			2
+' we predict hyperspectral imaging will play a major role in consumer electronics , the automotive industry , biotechnology , and homeland security			1
+' this back - end analyser would need a large database of hyperspectral signatures at its disposal			2
+applications of the sensor include remote health monitoring and industrial quality control			0
+' agricultural applications may also benefit because hyperspectral imaging could be used to identify properties of crops , vegetables , and other types of foods , ' mr @entity108 says			1
+' its hyperspectral platform is also suitable for wearable devices			2
+' a first - generation demonstration system of the camera			1
+once the camera take an image , the data would be further analysed by a third - party to extract the hyperspectral signature at any location in the image according to professor @entity48 , @entity29 is currently in discussions with major smartphone makers , car companies , and wearable device makers to move the technology forward			1
+a tricorder is a scanning device used by @entity55 personnel in the @entity3 universe			0
+there are two variations ; a regular ( engineering ) tricorder and a medical tricorder			0
+medical tricorders are used to wirelessly scan a patient , either in a ‘ sick bay ’ on a star ship or during an away mission			0
+the scanning tool can determine a patient ’s medical status , and allows doctors to quickly and easily diagnose their condition without an intensive or invasion examination			0
+and the company is n't the only one hoping to recreate @entity58 's tricorder			0
+earlier this year , researchers revealed a gadget that can be used to diagnose an illness simply by holding it to the forehead			0
+named @entity161 , the small round device is able to read a number of vital signs , including heart rate and temperature			0
+it contains a variety of different sensors alongside a microphone on the top of the gadget that together , can read vital signs , including body temperature , heart rate , blood oxygen level , heart rate variability and pulse wave transit time ( @entity178 )			0
+@entity178 is the time it takes for a heartbeat to reach somewhere else in a person 's body and is related to blood pressure			0
+its makers claim the device is 99 per cent accurate in less than 10 seconds			0
+@entity161 was finalist in the @entity186 , which was launched in 2013 to inspire a wireless device capable of detecting a range of diseases , including anaemia , tuberculosis and diabetes			0
+another device by @entity195 - based , @entity193 , uses computer - vision techniques to analyse images taken with a camera			2
+the scientists hope their system will make observations of the inside of the ears or throat , in the same way a doctor would , and then feed it into a computer for analysis			2
+other teams are using blood and urine samples to test for key markers			0
+the tiny microfluidic devices will , they claim , work in a similar way to hospital - lab tests .			0
+
+system uses *combination* of powerful software and ' @entity40 ' technology
+this allows the camera to pick up the hyperspectral image of an object
+hyperspectral imaging reveals chemical *composition* from a distance
+data will be analysed elsewhere and the *results* sent to a smartphone
+
+@entity3:Star Trek
+@entity30:Tel Aviv University
+@entity161:Scanadu
+@entity4:Israel
+@entity178:PWTT
+@entity195:London
+@entity29:Unispectral
+@entity193:ScanNurse
+@entity186:Qualcomm Tricorder X Prize
+@entity40:MEMS
+@entity55:Starfleet
+@entity108:Raz
+@entity59:Starship Enterprise
+@entity58:Spock
+@entity48:Mendlovic

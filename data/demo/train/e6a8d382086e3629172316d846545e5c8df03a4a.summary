@@ -1,0 +1,77 @@
+http://web.archive.org/web/20141007045534id_/http://www.cnn.com:80/2013/03/05/tech/flying-robots-autonomous-zurich
+
+-- professor @entity1 is n't short of admirers for his autonomous flying robots and the amazing tricks they perform			1
+every week , he receives a flood of e-mails from excited people telling him how to use them , he says			0
+" folks have contacted me about using them to deliver burritos and pizzas , paint walls , do search and rescue , monitor the environment , flying cameras for movies ... it 's just endless , " @entity1 says			1
+" i 'm not going to pass judgment on whether they are good or bad ... my role is to show people what is possible			0
+" it appears those possibilities are growing by the day at the @entity24 ( @entity24 ) where @entity1 leads a team of researchers at the @entity27 ( @entity28 )			1
+set up by @entity1 five years ago , the arena offers a " sandbox environment " for testing a fleet of progressively acrobatic quadrocopters			1
+in the beginning , these four - rotor machines learned to flip through 360 - degrees , " dance " to music and even play the piano			0
+today , increasingly complex flight maneuvers are being attempted as quadrocopters work together to build a six - meter tall model tower and juggle balls and poles			1
+it is an extraordinary and slightly befuddling sight to behold			0
+read : billion dollar mission to reach the @entity47 's mantle quadrocopters are controlled by varying the relative speed of each rotor blades , or pairs of rotor blades to generate thrust and control pitch , roll and yaw			1
+they 've been around for a long time , says @entity1 , but what 's making them so popular now as a creative tool is the shrinking size and cost of technology			1
+" in order to fly these things you need gyros			0
+only recently have they become small , accurate , and cheap enough to put on these vehicles , " he explains			0
+the tiny motors driving each rotor are also extremely powerful and cheap now , he says , as are the batteries			0
+last month , @entity24 released video footage of their latest stunt showing a quadrocopter balancing a pole before tossing it to another quadrocopter which successfully catches and controls the pole			1
+" we tried various catching maneuvers , " said grad student @entity81 , who @entity1 and a colleague supervised during the research , " but none of them worked until we introduced a learning algorithm , which adapts parameters of the catching trajectory to eliminate systematic errors			1
+" it took @entity81 around three months to perfect the move , @entity1 says , but the infrastructure behind the @entity28 has taken much longer to build up			1
+draped in protective netting and crash mats , the @entity28 looks like a rather down - at - heal gymnasium on first inspection , but a closer look reveals a high - tech suite of equipment which is crucial to understanding how the @entity24 's quadrocopters fly			1
+atop the 10 - meter cubed space sits a motion capture system ( made up of eight cameras ) which locate objects in the @entity28 at rates of more than 200 frames per second			0
+the data from this indoor gps system is sent to computers where custom - built software sends commands to the quadrocopters via wifi			2
+read : scientists build human brain inside a supercomputer " @entity119 is a very complex phenomena to model properly			0
+if we can create machines that learn and adapt what they are doing in aerobatics it pushes use towards more intelligent systems			2
+it 's a great research challenge , " @entity1 says			1
+within five years he expects to see a proliferation of flying machines being used in a variety of settings			2
+there are already companies exploring flying vehicles for inspection and for humanitarian purposes			2
+in the case of the latter , he points to the efforts of @entity143 - based start - up @entity142			0
+founded by @entity144 , the company have ambitious plans to build a network of autonomous vehicles delivering food and aid to inaccessible areas in developing countries			2
+in between in his other projects at @entity24 , which include developing balancing cubes and actuated wingsuits , @entity1 is also looking for ways to commercialize the university 's innovations			1
+he 's currently in the process of starting a company which aims to maximize the potential of their quadrocopters in the arts and entertainment industry			1
+if his previous forays into the business world are anything to go by then expect it to be wildly successful			0
+in 2003 , @entity1 co-founded @entity170 , applying the knowledge learnt creating a team of soccer - playing robots at @entity175			1
+read : search for alien life on @entity47 the company , which provides automated robot systems for warehouses , was sold to @entity181 for $ 775 million in 2012			0
+" when we were doing @entity185 ( an international robotics competition ) it did not enter my mind that the learnings i would take from my students i had trained could be used to build a company like @entity170 , " he says			0
+" basically , my mode of operation is really to focus on creating things that have never been done before and push the boundaries of what autonomous systems can do			2
+in the process , do great research and educate people on how to really make things work and the applications will come			2
+" there seems no limit to what autonomous flying robots might be capable of in the future and their unstoppable rise is increasingly causing concern , particularly their use in espionage and warfare			1
+suppressing the technology is not an option though , @entity1 argues			1
+" i 'm a firm believer that if the military use this technology then it 's just a short step away from everyone using it , " he says			1
+" we do n't want the technology to be misused			2
+the starting point is that our governments do n't misuse the technology			2
+as a society , we should question how much of a role , if any , these robots have in warfare			2
+" efforts to outlaw weapon - carrying drones have been gathering speed and support in recent months			0
+@entity234 published a report ( @entity236 ) in november 2012 urging governments to pre-emptively ban autonomous weapons			0
+another campaign , " @entity240 , " is being mobilized by the @entity241 and is due to launch in april			0
+far away from the social and political debates about the misuse of drones , @entity1 is just keen to promote his teaching philosophy and how students should approach learning			1
+" i think there needs to be more room for unconstrained creation			1
+we need to provide ways for folks , especially at university , to push the boundaries of what technology can do without being concerned about the immediate commercial application , " he says			0
+" we should be more concerned about fulfilling our dreams as children			0
+what was it we wanted to do as children ? we wanted to fly like birds			0
+well , why are n't we doing that ? "			0
+
+@entity1 heads @entity24 's @entity27
+arena is at *forefront* of research into autonomous flying robots
+quadrocopters learn amazing throwing and catching maneuvers
+@entity1 says technology education needs to promote " unconstrained creation "
+
+@entity144:Andreas Raptopoulos
+@entity170:Kiva Systems
+@entity1:D'Andrea
+@entity0:CNN
+@entity175:Cornell University
+@entity27:Flying Machine Arena
+@entity24:ETH Zurich
+@entity143:Californian
+@entity181:Amazon
+@entity28:FMA
+@entity185:RoboCup
+@entity81:Brescianini
+@entity47:Earth
+@entity234:NGO Human Rights Watch
+@entity240:Stop the Killer Robots
+@entity241:NGO International Committee for Robot Arms Control
+@entity236:Losing Humanity : The Case against Killer Robots
+@entity142:Matternet
+@entity119:Aerodynamics

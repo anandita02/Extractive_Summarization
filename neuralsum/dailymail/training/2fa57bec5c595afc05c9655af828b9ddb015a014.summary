@@ -1,0 +1,35 @@
+http://web.archive.org/web/20131014201545id_/http://www.dailymail.co.uk/sciencetech/article-2458720/Disney-Algorithms-touchscreen-enables-feel-TEXTURE.html
+
+by @entity0 published : 10:14 est , 14 october 2013 updated : 12:25 est , 14 october 2013 scientists have come up with a way of adding texture to touch screen computers so users can feel what they see			1
+researchers have written an algorithm for @entity10 touchscreens that modifies the friction between a user 's finger and the screen to add physical sensations to what a viewer is looking at			1
+the discovery could lead to textured maps where users can feel tall mountains , new apps for visually impaired people and more interactive touchscreen games			1
+@entity33 said the technology can be sued to feel features in a video ( pictured ) one key feature of the algorithm is that it is light weight and can be implemented in real - time			2
+a 3d model of objects ( like the kettle seen here ) can be zoomed and panned in real - time to sense fine edge and protruding features of the object scientists at @entity33 had previously managed to add physical sensations to virtual interactions like @entity52 by using puffs of air to give a user the sensations that they are touching what they are seeing on screen			1
+but they have now applied their idea to touchscreens in a new way , tested reported			0
+the algorithm , for ' the tactile rendering of 3d features ' on a 2d touchscreen , modifies the friction by producing subtle vibrations based on the slope of a virtual surface			0
+for example , if there is a dome on the screen , increased friction could make it feel like a user is passing their finger over a bump			2
+the algorithm modifies the friction between a person 's finger and the screen , based on the slope of a virtual surface			1
+for example , if there is a dome on the screen , increased friction could make it feel like a user is passing their finger over a bump @entity33 claims that it can reproduce edges , ridges , protrusions and bumps as well as other sensations using its technology , which creates the ability for people to feel the geography of maps , including raised mountains ( pictured ) the algorithm does this by modifying the voltage of the display to vary its friction so that different textures will affect the sensations a user feels in their fingertips			1
+@entity33 claims that it can reproduce edges , ridges , protrusions and bumps as well as other sensations using its technology			1
+the company said : ' a person sliding a finger across a topographic map displayed on a touch screen can feel the bumps and curves of hills and valleys , despite the screen ’s smooth surface , with the aid of a novel algorithm			2
+the method can be used to simulate the feel of a wide variety of objects and textures			0
+@entity33 said the algorithm is based on a discovery that when a person slides a finger over a real physical bump , they perceive the bump largely because lateral friction forces stretch and compress skin on the sliding finger			2
+users touching this image with the technology would feel bumps - the surface of the apples @entity33 said : ' the algorithm is based on a discovery that when a person slides a finger over a real physical bump , the person perceives the bump largely because lateral friction forces stretch and compress skin on the sliding finger			1
+' the algorithm is able to produce varying sensations and does not have to rely on a library of textures to apply to objects as it can produce custom textures at it goes			0
+@entity165 , who directs @entity33 , @entity167 ’s @entity166 , said : ' our brain perceives the 3d bump on a surface mostly from information that it receives via skin stretching			0
+' therefore , if we can artificially stretch skin on a finger as it slides on the touch screen , the brain will be fooled into thinking an actual physical bump is on a touch screen even though the touch surface is completely smooth			0
+' the technology could be used in various ways in the future , including being embedded into next - generation touchscreen displays			0
+the algorithm is able to produce varying sensations and does not have to rely on a library of textures to apply to objects as it can produce custom textures at it goes depth maps extracted from @entity52 - like sensors are used to render fine features on visual images that are not touchable or reachable			0
+the user touching this images would feel the ridges of the fossil			0
+
+researchers wrote an algorithm for @entity10 touchscreens that modifies friction by vibrating the screen , and in turn the user 's finger , to create sensations
+the algorithms created by scientists at @entity33 reproduce edges , ridges , protrusions and bumps as well as other sensations
+the discovery could lead to textured maps where users can feel tall mountains , apps for visually impaired people and more interactive games
+
+@entity33:Disney Research
+@entity0:Sarah Griffiths
+@entity166:Interaction Group
+@entity167:Pittsburgh
+@entity10:2D
+@entity165:Ivan Poupyrev
+@entity52:Kinect

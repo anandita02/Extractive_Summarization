@@ -1,0 +1,21 @@
+http://web.archive.org/web/20141023144012id_/http://www.cnn.com:80/2010/WORLD/asiapcf/10/05/nepal.deadly.wreck/
+
+@entity0 , @entity1 -- a passenger vehicle plunged off a cliff into a river in western @entity1 tuesday , killing 14 people , police said			1
+the accident occurred in @entity10 district , about 250 kilometers ( 155 miles ) west of @entity0			0
+the victims were identified as seven men and seven women , a police officer told @entity2			0
+the passengers were pilgrims going to @entity16 -- a holy site for both @entity18 and @entity19 -- in western @entity1 near the @entity21 border			1
+the cause of the accident is not immediately known			0
+overcrowding , poor roads , poor condition of vehicles and the treacherous terrain cause frequent accidents in the mountains of @entity1 .			2
+
+the passenger vehicle went into a river
+the cause of the accident is *unknown*
+the passengers were traveling to a holy site in western @entity1
+
+@entity2:CNN
+@entity1:Nepal
+@entity0:Kathmandu
+@entity10:Myagdi
+@entity19:Buddhists
+@entity18:Hindus
+@entity21:Chinese
+@entity16:Muktinath

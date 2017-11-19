@@ -1,0 +1,55 @@
+http://web.archive.org/web/20141211111658id_/http://www.dailymail.co.uk/sciencetech/article-2800093/facebook-hunts-stolen-passwords-site-scours-web-credentials-hackers-accounts.html
+
+almost three quarters of us use the same password for multiple accounts , meaning if one set of login credentials are stolen they can be used to access a wealth of private data			1
+to tackle this , and to keep @entity10 accounts safe , the social network has begun scouring the web for stolen email addresses and passwords			2
+it then checks these credentials with those used to access the site , and if it finds a match , warns the affected user their account is at risk			1
+@entity10 has created an automated service that monitors sites for stolen credentials			1
+it checks credentials to see if they match those being used on @entity10 , and the site assured users the process is automated , meaning it does n't know or store a user ’s actual @entity10 password ‘ the facebook security team has always kept a close eye on data breach announcements from other organisations , ’ said the social network ’s security engineer , @entity36			1
+in a blog post , he explained : ‘ theft of personal data like email addresses and passwords can have larger consequences because people often use the same password on multiple websites			0
+‘ unfortunately , it 's common for attackers to publicly post the email addresses and passwords they steal on public ' paste ' sites			0
+‘ our team wanted to do something to improve this situation , so we built a system dedicated to further securing people 's @entity10 accounts by actively looking for these public postings , analysing them , and then notifying people when we discover that their credentials have shown up elsewhere on the @entity63			2
+’ once @entity10 finds a set of stolen credentials , it passes the data into a program that ' parses ' it into a standardised format			1
+parsing is the process of analysing a string of symbols in computer language			0
+after the data has been downloaded and ‘ parsed ’ , an automated system checks it against the @entity10 database to see if any of the email addresses and hashed passwords match login information on @entity10			1
+the site ‘ hashes ’ each password using its internal password hashing algorithm			0
+hashing takes each user 's plain text password and runs it through a one - way mathematical function , to create a unique string of numbers and letters called the hash			0
+hashing makes it difficult for an attacker to move from hash back to password and it lets sites keep a list of hashes , rather than plain text passwords			0
+this means if a list is stolen , the plain text passwords ca n't be obtained easily			0
+since @entity10 stores passwords securely as hashes , it ca n't compare a password directly to the database			1
+instead , it hashes it , and compares the hashes			0
+if the email and hash combination does n't match , the site does n’t take any action			2
+if the email address and hash combination does match , @entity10 notifies the user next time they log in			1
+to do this , the site created an automated service that monitors different ' paste ' sites for stolen credentials , and watches for reports of large scale data breaches			1
+it collects the stolen credentials that have been publicly posted and checks them to see if the stolen email and password combination match the same email and password being used on @entity10			1
+if it finds a match , @entity10 notifies the affected user the next time they log in , and guides them through a process to change their password			1
+an example message is pictured to protect users , @entity10 offers @entity140 ( pictured ) , which adds an extra layer of security to an account			2
+when enabled , users must enter a code from their phone when logging in from a new browser last year , security experts uncovered a cache of 2 million stolen passwords to popular sites including @entity10 , @entity151 , @entity152 and @entity153			2
+researchers at @entity156 's @entity155 said they discovered the credentials while investigating a server in the @entity159 that cyber criminals use to control a massive network of hacked computers known as the ‘ pony botnet			0
+’ the firm reported its findings to the largest of more than 90,000 websites and internet service providers whose customers ' credentials it had found on the server			0
+representatives for @entity10 and @entity152 reset the passwords of affected users			1
+mr @entity36 assured users that because this is an automated process , the site does n't know or store a user ’s actual @entity10 password			1
+instead , to check for matches , it takes the email address and password and runs them through the same secure code used to check a password each time a member logs in			0
+if it finds a match , @entity10 notifies the affected user the next time they log in			1
+it also guides them through a process to change their password			2
+‘ this system has worked very well for us in the past , ’ continued mr @entity36			0
+‘ but we recognise that preventing stolen credentials is also important			2
+‘ the risks are also clear : if you use the same password on lots of websites , an attacker only has to get your password once to be able to access all of those accounts			0
+’ to protect users , @entity10 offers @entity140 , which adds an extra layer of security to an account			0
+when enabled , users must enter a security code from their phone when logging in from a new browser .			0
+
+@entity10 created an automated service that monitors for stolen credentials
+it checks credentials to see if they match those being used on @entity10
+site assured users the process is automated , meaning it does n't know or store a user ’s actual @entity10 password
+if it finds a match , @entity10 notifies affected users the next time they log in
+it also guides them through the process of changing their password
+
+@entity140:Login Approvals
+@entity10:Facebook
+@entity36:Long
+@entity63:Internet
+@entity159:Netherlands
+@entity153:Yahoo
+@entity152:Twitter
+@entity151:Google
+@entity156:Trustwave
+@entity155:SpiderLabs

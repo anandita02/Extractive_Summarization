@@ -1,0 +1,36 @@
+http://web.archive.org/web/20080417024818id_/http://edition.cnn.com:80/2007/BUSINESS/09/13/cocacola.facts/
+
+-- @entity1 was born in @entity2 , @entity3 , on may 8 , 1886			1
+dr. @entity4 , a local pharmacist , produced the syrup for @entity1			1
+it was put on sale at the nearby @entity8 for five cents a glass as a soda fountain drink			0
+an international organization , the @entity12 's first soda fountain sales to @entity13 and @entity14 were recorded in 1897			0
+its first international bottler -- in @entity17 -- was established in 1906			0
+the company entered @entity19 in 1927 and its 100th country -- @entity21 -- in 1957			0
+today , the @entity12 is the world 's largest beverage company with the most extensive distribution system in the world , operating in more than 200 countries across the world			1
+the company currently has over 400 different brands under its control , and is one of the most recognizable names in the commercial world			2
+the @entity12 , including the bottling entities it owns , employs approximately 71,000 people			2
+more than 58,000 of those employees work for the company outside of the @entity37 they are the largest private - sector employer across all of @entity40			1
+and in @entity40 , for every one job created by the @entity1 system , 16 jobs are created in the informal retail sector			2
+the company was placed in the top 25 places to work by @entity48 and was named @entity50 's @entity49 in 2006			0
+
+@entity1 was *invented* in @entity2 , @entity3 , in 1886 , by a @entity37 pharmacist
+today it is the largest beverage company in the world
+the company has operations in over 200 countries , employs *55,000* people
+
+@entity3:Georgia
+@entity2:Atlanta
+@entity1:Coca-Cola
+@entity0:CNN
+@entity13:Canada
+@entity12:Coca-Cola Company
+@entity37:U.S.
+@entity4:John Stith Pemberton
+@entity50:Wal-Mart
+@entity8:Jacobs ' Pharmacy
+@entity19:China
+@entity21:Sierra Leone
+@entity40:South Africa
+@entity17:Panama
+@entity14:Mexico
+@entity48:Essence magazine
+@entity49:International Supplier of the Year

@@ -1,0 +1,73 @@
+http://web.archive.org/web/20150710050724id_/http://www.dailymail.co.uk/sciencetech/article-2885677/Online-privacy-breakthrough-British-researchers-claim-developed-way-internet-security-layer.html
+
+it could give every internet user access to simple encryption - and make the internet a far more secure place			1
+scientists at @entity6 , working with @entity7 , say they have created an algorithm that can guarantee total privacy for everything from emails and text messages			1
+called ' the construct ' , they hope the system could be used to give everything from desktop machines to mobile phones simple to use encryption			1
+scientists at @entity6 , working with @entity7 , say they have created an algorithm that can guarantee total privacy for everything from emails and text messages			1
+the construct is the name given to the algorithm which thwarts the @entity24 results in a fully automated , standards based cryptographic key management protocol for @entity27 and the @entity29 network			2
+it means ' one click privacy ' ­ in an instant , and handles all of the key exchange and encryption that is needed - without the user having to do anything			1
+if you are not connected when you receive a message for example ( in its messaging security application ) , then you will be invited to join the key management service			1
+the company is headed by a computer scientist and mathematician , @entity45 , who used to be technology counsellor to the @entity48 ' @entity47			0
+' this allows people to lock their digital front doors and alarm their online lives , ' he told @entity55			0
+' the challenge is to give crypto to the masses , make it a one click solution and comply with corporate security			1
+' what we have developed is an algorithm that places a security layers into the dna of the internet - it will have crypto for the masses , and you wo n't even need a special app. ' the company has found a way of defeating what cryptologists call ' the man - in - the - middle attack ' or @entity24 – the ability of someone to hack and intercept an electronic message			1
+this requires an attacker to have the ability to both monitor and alter or inject messages into a communication channel			2
+one example of this used by hackers is active eavesdropping , in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection , when in fact the entire conversation is controlled by the attacker			2
+the attacker must be able to intercept all relevant messages passing between the two victims and inject new ones			2
+this is straightforward in many circumstances ; for example , an attacker within reception range of an unencrypted @entity111 wireless access point , can insert himself as a man - in - the - middle			0
+until now , said @entity45 said , there has been no foolproof way of blocking a third person from gaining access to the electronic conversation			0
+the team recently received a patent for their solution , and is currently in talks with a major backer , with a deal expected to be announced within weeks			2
+' the buyer of this company must be commercial and responsible , well respected and not fight with other firms , ' @entity45 warned			2
+' whoever aquires it can put this in place withih 30 days , and the deal going forward is that we will grow a small group to bring out more ip for this layer			0
+' the firm says it could even have been able to thwart the @entity138 attack			0
+the simple @entity139 ( @entity139 ) allows for any service provider to plug in any application to take care of privacy and security settings for data and image and voice			1
+this has never previously been possible			0
+an example of two such reference implementations include : messaging security – for cross platform on @entity153 , @entity154 and @entity155 where all @entity156 , @entity157 and emails ( with attachments ) are sent and received with just a simple one - click go button within the native applications – so the user has no need to visit other programs or applications to secure content			1
+a second applications enables all @entity169 users to store and retrieve their images , fully encrypted , within @entity169 's own servers – whereby not even @entity169 's own management can see such images			1
+this , if repeated within @entity174 renders no member of @entity178 's management have access to the images			0
+' @entity138 used to have a reputation for having biggest spend per head for security software , ' said @entity45			2
+' ' to be able to go inside there and get all the records is like walking through the front door , you need to nail these things to the floor			0
+' encryption is hard to use because of key management , and we have solved this			0
+' earlier this year , another company which had been working closely with @entity7 , the artificial intelligence start - up @entity197 , was sold to @entity198 for £ 400m			0
+the service was developed with researchers at @entity7			0
+professor @entity201 , @entity202 at @entity7 and a fellow of the @entity203 , a member of @entity205 ( @entity206 ) said : ' what differentiates low and high value ip is algorithmic research or its absence			0
+' @entity6 , rather like many of the other companies founded on algorithmic research , such as @entity198 and @entity169 , has done incredible work to solve the problem of automated key distribution and was one of the many reasons why @entity7 became involved			1
+' where issues of national security are concerned , the ciphers used are all government - approved , which means messages can be accessed if they need to be by the security services , he said			1
+' no longer will there be the complaint that security is hard to use on the internet or phones , ' the firm claims			1
+' the impact is truly revolutionary as it envisages a future in which there will be total user controlled privacy whilst also balancing the needs of national security by the architecture of the service which allows for @entity242			2
+' in short , every individual and / or machine now has the ability to call , from the cloud , its own cryptographic key ( pair )			0
+this process , for the first time in history , is fully automated			0
+
+hope to commercialise their algorithm within months
+would allow ' one click ' encryption of everything from from email to @entity169 posts on a mobile phone
+expected to be offered as a *subscription* service by internet firms
+messages can be accessed if they need to be by security services
+
+@entity27:TCP / IP
+@entity24:MITM
+@entity29:UMTS
+@entity139:API
+@entity138:Sony
+@entity111:Wi-Fi
+@entity153:IPhone
+@entity157:MMS
+@entity156:SMS
+@entity155:Blackberry
+@entity154:Android
+@entity7:UCL
+@entity6:Scentrics
+@entity198:Google
+@entity197:DeepMind
+@entity178:Apple
+@entity55:DailyMail.com
+@entity242:Legitimised Key Escrow
+@entity203:Royal College of Engineering
+@entity202:Dean of the Faculty of Engineering Sciences
+@entity201:Anthony Finkelstein
+@entity206:TAB
+@entity205:Scentrics ' Technical Advisory Board
+@entity174:ICloud
+@entity169:Facebook
+@entity45:Chandrasekaran
+@entity47:Business Advisory Board
+@entity48:Prince of Wales

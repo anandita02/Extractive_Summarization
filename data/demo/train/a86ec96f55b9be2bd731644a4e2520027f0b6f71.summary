@@ -1,0 +1,34 @@
+http://web.archive.org/web/20100109014737id_/http://edition.cnn.com:80/2009/WORLD/asiapcf/08/20/china.lead/index.html
+
+@entity0 , @entity1 -- @entity1 is shutting down a pair of smelting plants suspected of sickening several thousand children with lead poisoning , according to state - run media			1
+a @entity1 boy gets treated for blood poisoning in @entity11 province aug. 15			1
+at least 851 children living near a plant in northwestern @entity1 's @entity11 province were found to have excessive lead levels in their blood , according to the @entity18 news agency			1
+the @entity19 and @entity20 would cease operations no later than saturday , @entity18 reported wednesday , citing local authorities			2
+county officials had agreed to relocate residents who live within 1,640 feet ( 500 meters ) of the @entity19 and @entity20 in three years , but the relocation is behind schedule , @entity23 , the company 's general manager , told @entity18			2
+the local government has pledged to speed up the relocation , @entity18 reported this month			0
+a second smelter also was closed wednesday in central @entity1 and two of its executives detained , a local official said , according to @entity18 , initial tests showed more than 1,300 children in the @entity39 province town of @entity40 have excessive lead in their blood from the @entity43			1
+a second round of testing has been ordered to confirm the results			0
+the plant opened in may 2008 without gaining the approval of the local environment protection bureau , said @entity50 , a deputy environment chief in @entity51 , @entity18 reported			1
+the plant was within 500 meters ( about a quarter mile ) of three schools			2
+the poisonings have occurred against the backdrop of @entity1 's rapid industrialization , which has produced economic success and wrought environmental havoc			0
+hundreds of millions of @entity1 lack access to uncontaminated drinking water , and air pollution is blamed for myriad deaths and illnesses every year			0
+toxic air enshrouds cities across the country , one of the most polluted in the world			0
+the government has stepped up anti-pollution efforts in recent years , but many companies flout such campaigns and laws .			0
+
+a pair of plants suspected of sickening thousands of children is closed .
+at least 851 children in @entity11 province found to have lead poisoning .
+in @entity39 province , 1300 children near another plant were poisoned .
+
+@entity2:CNN
+@entity1:Chinese
+@entity0:BEIJING
+@entity11:Shaanxi
+@entity23:Sun Hong
+@entity39:Hunan
+@entity20:Zinc Smelting Co.
+@entity19:Dongling Lead
+@entity18:Xinhua
+@entity51:Wugang City
+@entity50:Huang Wenbin
+@entity40:Wenping
+@entity43:Wugang Manganese Smelting Plant

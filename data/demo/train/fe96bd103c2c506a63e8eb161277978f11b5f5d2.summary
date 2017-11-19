@@ -1,0 +1,71 @@
+http://web.archive.org/web/20090424071537id_/http://www.cnn.com:80/2009/TECH/04/22/first.mac.botnet/index.html?iref=nextin
+
+-- @entity2 computers are known for their near - immunity to malicious computer programs that plague @entity5 some security experts say viruses are moving toward @entity2 as those computers become more popular			1
+but that may be changing somewhat , according to computer security researchers			2
+it seems that as sleek @entity2 computers become more popular , they 're also more sought - after targets for the authors of harmful programs			1
+" the bad guys generally go toward the biggest target , what will get them the biggest bang for their buck , " said @entity17 , a director of security response at @entity18			0
+until recently , the big target always was @entity25 , and @entity27 computers were protected by " relative obscurity , " he said			2
+but blogs are buzzing this week about what two @entity18 researchers have called the first harmful computer program to strike specifically at @entity2 this trojan horse program , dubbed the " @entity34 , " has infected only a few thousand @entity2 machines , but it represents a step in the evolution of malicious computer software , @entity17 said			1
+the @entity34 is a sign that harmful programs are moving toward @entity2 , said @entity41 , a forensics and security analyst at @entity43 in @entity44			1
+" we all knew it was going to happen , " he said			0
+" it was just a matter of time , and , personally , i think we 're going to see a lot more of it			2
+" the malicious software was first reported in january			2
+it did n't gain widespread attention until recently , when @entity54 and @entity55 of @entity18 , maker of the popular @entity58 antivirus products , detailed the software in a publication called " @entity61			2
+" @entity2 users at large , however , should not be alarmed by the incident , experts said			1
+the program infects only computers whose users downloaded pirated versions of the @entity2 software @entity71			1
+the harmful software is a trojan horse , meaning it tries to sneak into the computer with some sort of permission from the user			1
+they wiggle their way into computers and replicate without the owner 's approval or knowledge			2
+the @entity2 program is called a botnet because infected computers become part of a network that is controlled by the program 's author			1
+the @entity2 botnet is significantly less threatening than computer worms like the much - publicized @entity94 , said @entity95 , a senior security researcher with @entity96			1
+@entity98 was thought to have infected up to 10 million computers , compared with thousands for the @entity34 , researchers said			1
+there 's also some question as to whether it is the first botnet to target @entity102 have targeted both pcs and @entity27 computers			0
+" this is n't the first botnet that 's been built using @entity2 computers , " @entity95 said			1
+" this is an interesting one in that it 's a little more flexible and includes some new features			0
+... it 's getting a lot of press mostly because it 's @entity2 and people are talking about how @entity2 are immune to malware -- and , sure enough , they 're not			1
+" the potential damage that could be caused by the @entity2 botnet is also less severe than other attacks , said @entity118 , a contributor to @entity120 , which is not affiliated with the computer company			1
+" it 's a very low - level attack , " he said			0
+" some people wo n't even notice the effect of it			0
+" it is in the interest of software companies like @entity18 , who spread the news , and @entity131 , which has downplayed the presence of the @entity133 , to raise concerns so they can promote their antivirus software packages , he said			0
+" yes , it is going to become a bigger problem and , yes , people have to become more aware , but i think that what @entity131 and @entity18 would like is for the panic to start and for people to start rushing to antivirus software , " which is n't necessary yet , @entity118 said			0
+in a statement , @entity27 said it is working to prevent security problems			0
+" @entity27 takes security very seriously and has a great track record of addressing potential vulnerabilities before they can affect users , " the statement says			0
+only about 7.4 percent of computer users work on @entity2 , according to @entity151 , a technology research firm			1
+that user base is proportionally more affluent than pc users , @entity118 said , which may make @entity2 a bigger target			2
+but overall , @entity2 are still far less vulnerable to attack than pcs , he said			2
+@entity17 said news of the @entity27 botnet is significant in part because it 's something other authors of malicious code can build from			0
+" i do n't think it 's a tipping point ; i think it 's an evolutionary step			0
+we see virus authors often use what somebody else has done , " he said			0
+" there 's a model			0
+there 's something out there to follow			0
+
+researchers find computer malware aimed at @entity2 computers
+the " @entity34 " infects a small number of @entity2 users through pirated software
+still , researchers say it is a step in the evolution of harmful computer programs
+as @entity2 become more popular , they 're more likely to be targets , experts say
+
+@entity27:Apple
+@entity25:Microsoft Windows
+@entity151:Gartner
+@entity131:McAfee
+@entity133:Trojan
+@entity118:Etherington
+@entity2:Macs
+@entity0:CNN
+@entity5:PCs.
+@entity55:Alfredo Pesoli
+@entity54:Mario Ballano Barcena
+@entity58:Norton
+@entity71:iWork
+@entity17:Haley
+@entity34:iBotnet
+@entity18:Symantec
+@entity102:Mac. Others
+@entity98:Conficker
+@entity96:Arbor Networks
+@entity95:Nazario
+@entity94:Conficker.c
+@entity120:theAppleBlog
+@entity44:Arizona
+@entity41:Paul Henry
+@entity43:Lumension Security
+@entity61:Virus Bulletin

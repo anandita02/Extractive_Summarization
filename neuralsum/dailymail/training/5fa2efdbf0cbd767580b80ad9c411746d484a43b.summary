@@ -1,0 +1,38 @@
+http://web.archive.org/web/20121125080631id_/http://www.dailymail.co.uk/sciencetech/article-2232757/Skype-forced-pull-password-reset-function-emerges-hackers-hijack-accounts-using-victims-email-address.html
+
+by @entity0 published : 08:49 est , 14 november 2012 updated : 11:13 est , 14 november 2012 a man uses @entity2 on an @entity3 : a security flaw has been revealed that allows hackers to seize control of accounts using their victim 's email address @entity2 was today forced to pull its password reset function after a vulnerability was revealed that allowed hackers to hijack accounts using just their victim 's email address			1
+the security flaw allowed an attacker to reset the password of any @entity2 users , locking victims out of their own accounts and giving the hacker total control			1
+to exploit the vulnerability , all attackers needed to know was the email address tied to their victim 's @entity2 account to persuade the @entity33 - owned service to provide a password reset token to given them access			1
+the hack was first reveal on a @entity40 - language forum two months ago , @entity37 reported			1
+a reporter for the tech site confirmed that the exploit was possible			0
+' we reproduced the attack , step - by - step , and managed to access the @entity2 accounts of @entity37 writer ( with permission ) @entity50 ( as well as editor @entity51 to verify again ) with only their email addresses , ' @entity43 wrote			2
+' essentially , that email address is used to create a new account with your own email address tied to it			0
+' then , minus a couple of key steps , you can use a password reset token to gain access to your target ’s account			2
+' the site 's investigation showed that the hack then gave access to a victim 's @entity2 account , revealing the target 's username and allowing the attacker to change the password			1
+once the password was changed , the hacker gained exclusive access to the account , with the victim no longer able to log in			0
+the @entity37 explained that the hack works because @entity2 sends password reminders to both the account holder 's email address and , crucially , the @entity2 app itself			1
+this allows a third - party to intercept the token , redeem it and claim ownership of the victim 's original username and account			0
+embarrassment : @entity2 has now disabled its password reset page until the flaw can be fixed the security exploit is an embarrassment for @entity33 , last week announced it was shutting down its live messenger service and forcing users to migrate to @entity2 , which it bought last year in a massive $ 8.5billion takeover			1
+once alerted to the vulnerability , @entity2 moved quickly to disable its password reset page			2
+@entity2 spokesman @entity98 told @entity99 : ' early this morning we were notified of user concerns surrounding the security of the password reset feature on our website			2
+this issue affected some users where multiple @entity2 accounts were registered to the same email address			0
+' we suspended the password reset feature temporarily this morning as a precaution and have made updates to the password reset process today so that it is now working properly			0
+' we are reaching out to a small number of users who may have been impacted to assist as necessary			0
+' @entity2 is committed to providing a safe and secure communications experience to our users and we apologise for the inconvenience .			0
+
+*russian* - language forum first revealed the vulnerability two months ago
+@entity124 allowed attackers to lock out victims by changing account password
+embarrassment for @entity33 which bought @entity2 for $ 8.5bn last year
+
+@entity3:iPad
+@entity2:Skype
+@entity33:Microsoft
+@entity0:Damien Gayle
+@entity37:Next Web
+@entity43:Emil Protalinski
+@entity51:Matt Brian
+@entity50:Josh Ong
+@entity40:Russian
+@entity99:MailOnline
+@entity98:Leonas Sendrauskas
+@entity124:Hack

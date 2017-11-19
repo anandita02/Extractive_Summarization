@@ -1,0 +1,63 @@
+http://web.archive.org/web/20141020140143id_/http://www.dailymail.co.uk/sciencetech/article-2747803/Google-soon-like-HUMANS-Image-recognition-software-accurate-spots-individual-object-photo.html
+
+as humans , we can distinguish between different objects easily - such as dogs wearing hats , or between oranges and bananas in a bag - but for computers this has been typically much more difficult			1
+a team of @entity12 researchers has developed an advanced image classification and detection algorithm called @entity15 , which is twice as effective than previous programs			1
+it is so accurate it can locate and distinguish between a range of object sizes within a single image , and it can also determine an object within , or on top of , an object , within the photo			1
+a team of @entity27 - based @entity12 researchers developed @entity15 , that uses an advanced classification and detection algorithm to identify object			1
+the technology is so accurate , it can distinguish a range of object sizes , and it can also determine an object within or on an object – such as a dog wearing a hat ( pictured ) the software recently placed first in the @entity41 large - scale visual recognition challenge ( @entity42 )			1
+the @entity12 researchers began by training neural networks to carry out the recognition tasks similar to how the human brain works			1
+the layers and structure of the algorithm were based on the @entity52 principle , for example , which describes how neurons adapt in the brain as we learn			2
+it also features scale invariance , which states that objects do n’t change even if they ’re multiplied by a common factor			0
+for example , at its most basic , making an image of an object larger or smaller does n’t change the object , its shape or proportions			0
+this helps the software learn the shape and size of different objects , no matter how small , and be able to recognise them in the future			0
+a more detailed explanation is available from the @entity76			0
+this annual academic challenge was set up to test state - of - the - art technology in image understanding , both in the sense of recognising objects in images and locating where they are			1
+@entity12 has made the software open to other developers , to help increase its accuracy , and in the future , the technology could be used to improve @entity91 searches			1
+it could also scour @entity93 videos for specific objects or shapes			1
+the competition has three categories , including classification , classification with localisation , and detection			2
+the classification track measures an algorithm ’s ability to assign correct labels to an image			2
+the classification with localisation category assesses how well an algorithm finds an object within an image , and how accurate its label is			1
+finally , the detection challenge is similar , but uses stricter evaluation criteria			0
+as an additional difficulty , the challenge includes images with tiny objects that are hard to recognise and locate , even by the human eye			0
+the software recently placed first in the @entity41 large - scale visual recognition challenge ( @entity42 )			0
+this annual academic challenge was set up to test state - of - the - art technology in image understanding , both in the sense of recognising objects in images and locating where they are			1
+examples are pictured the researchers began by training neural networks to carry out the tasks similar to how the human brain works			0
+this was based on the @entity52 principle , which describes how neurons adapt in the brain as we learn			0
+this helps the software learn the shape and size of different objects , no matter how small ( examples pictured ) to score highly in the challenge , an algorithm must be able to describe a complex scene by accurately locating and identifying all the multiple objects in it			2
+in this year ’s challenge , team @entity15 doubled the quality of last year 's results			2
+the algorithm was created by @entity12 interns @entity155 and @entity156 , as well as @entity12 researchers , @entity158 , @entity159 , @entity156 , @entity160 , @entity161 , @entity162 , and software engineer @entity163			1
+the researchers began by training neural networks to carry out the recognition tasks similar to how the human brain works			0
+the layers and structure of the algorithm were based on the @entity52 principle , for example , which describes how neurons adapt in the brain as we learn			0
+it also features scale invariance , which states that objects do n’t change even if they ’re multiplied by a common factor			0
+in this year ’s challenge , team @entity15 doubled the quality of last year 's results			2
+the technology built upon image recognition research carried out by @entity182 from the @entity183 , which was able to teach computers to divide images into objects ( pictured ) for example , at its most basic , making an image of an object larger or smaller does n’t change the object , its shape or proportions			2
+this helps the software learn the shape and size of different objects , no matter how small , and be able to recognise them in the future			0
+a more detailed explanation is available from the @entity76			0
+software engineer @entity163 concluded : ‘ these technological advances will enable even better image understanding on our side and the progress is directly transferable to @entity12 products such as photo search , image search , @entity93 , self - driving cars , and any place where it is useful to understand what is in an image as well as where things are			1
+
+a team of @entity12 researchers and *students* has developed @entity15
+it recognises objects using a classification and detection algorithm
+the technology is so accurate , it can distinguish a range of object sizes
+it can also determine an object within , or on , another object - such as a dog wearing a hat
+the technology could be used to improve @entity91 searches
+it could also scour @entity93 videos for specific objects or shapes
+
+@entity162:Andrew Rabinovich
+@entity163:Christian Szegedy
+@entity15:GoogLeNet
+@entity161:Dumitru Erhan
+@entity12:Google
+@entity182:Alex Krizhevsky
+@entity183:University of Toronto
+@entity160:Drago Anguelov
+@entity52:Hebbian
+@entity159:Pierre Sermanet
+@entity158:Yangqing Jia
+@entity91:Google Image
+@entity41:ImageNet
+@entity42:ILSVRC
+@entity76:Google Research Blog
+@entity93:YouTube
+@entity156:Scott Reed
+@entity155:Wei Liu
+@entity27:California

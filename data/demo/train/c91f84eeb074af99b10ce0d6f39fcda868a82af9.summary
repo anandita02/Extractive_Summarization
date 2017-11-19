@@ -1,0 +1,14 @@
+http://web.archive.org/web/20090120213209id_/http://www.cnn.com/2008/US/07/22/mxp.meade.nascar/index.html
+
+@ highlight @entity2 ' @entity1 participated at a special @entity3 day			0
+
+@entity1 *visited* the @entity5 in @entity*6* , @entity7
+*watch* " @entity9 with @entity1 " *monday* **-** *friday* from *6* **-** *10* a.m. et on @entity2
+
+@entity3:NASCAR
+@entity2:Headline News
+@entity1:Robin Meade
+@entity7:IL
+@entity6:Joliet
+@entity5:Chicogoland Speedway
+@entity9:Morning Express

@@ -1,0 +1,39 @@
+http://web.archive.org/web/20110806135501id_/http://www.cnn.com:80/2011/HEALTH/03/08/japan.vaccines/?
+
+@entity0 -- a safety panel convenes in @entity3 tuesday to examine whether two vaccines widely used around the world contributed to the deaths of five children in the past month			1
+@entity3 's health ministry ordered doctors to stop immunizing infants with the vaccines while authorities investigate @entity15 's @entity14 vaccine and @entity18 's @entity17 vaccine -- commonly given to infants in the @entity20 and other developed nations			1
+the health ministry said it suspended the vaccines because the children all died within a short period of time ; four died last week and one died in february			2
+three of the infants had underlying medical conditions , the health ministry said			0
+authorities are investigating the medical history of one of the children , and the fifth child had no apparent illness at the time of vaccination , according to the ministry			2
+both companies maintain that their vaccines -- which are aimed at stopping bacteria that can cause meningitis , pneumonia and other serious infections -- are safe			1
+" @entity15 thoroughly reviews and continually monitors all of its medicines and vaccines , as safety is our top priority , " @entity15 said in a statement			1
+" no causal relationship has been established between the events reported in @entity3 and vaccination to date			0
+we are conducting a thorough evaluation of these cases in cooperation with the relevant regulatory health authorities			0
+" @entity18 said that the company expresses condolences to the families who had lost children , but also said that no causal relationship between the deaths and the @entity17 vaccine had been established			1
+" we have been and will be providing all data of @entity17 and will fully collaborate with the ministry of health and welfare , " the company said			0
+@entity14 prevents illnesses caused by pneumococcal bacteria and @entity17 prevents infection with the @entity71 influenza			1
+pediatrician @entity72 said @entity3 's medical community hopes the suspension is temporary and fears the government is overreacting to the deaths			1
+" i 'm concerned that this will impact the future of these critical vaccines , " she said , noting that she has been receiving concerned calls from parents since the government announced the suspension			0
+the @entity84 has backed the inclusion of @entity14 in national childhood immunization programs , especially in developing nations where infant mortality remains high			0
+@entity15 estimates it has distributed more than 360 million doses of the vaccine , which is available in more than 100 countries around the world and part of the routine childhood immunization schedule in more than 50 countries			0
+in @entity3 , 2 million doses have been administered			0
+the @entity97 said it was aware of the suspensions in @entity3 , but " physicians assessing vaccine safety at the @entity97 and @entity102 have not detected new safety concerns " related to the vaccines .			2
+
+@entity15 's @entity14 and @entity18 's @entity17 are suspended in @entity3
+authorities are investigating whether the vaccines played a role in five recent deaths
+both companies maintain that their vaccines are safe
+a pediatrician says doctors are concerned that authorities are overreacting
+
+@entity3:Japan
+@entity17:ActHIB
+@entity1:CNN
+@entity0:Tokyo
+@entity20:United States
+@entity15:Pfizer
+@entity18:Sanofi Pasteur
+@entity102:CDC
+@entity14:Prevenar
+@entity84:World Health Organization
+@entity97:FDA
+@entity71:Haemophilius
+@entity72:Michiko Suwa

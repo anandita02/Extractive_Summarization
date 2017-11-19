@@ -1,0 +1,53 @@
+http://web.archive.org/web/20120404231322id_/http://www.cnn.com/2011/09/19/tech/innovation/solar-powered-intel-chip/
+
+-- researchers at @entity2 debuted an experimental processor at the company 's developer forum this week , which could lead to devices with significantly lower energy consumption			2
+the chip -- codenamed " @entity9 " -- is known as a near - threshold voltage processor , which allows transistors to operate at super-low , near " threshold " voltages to increase efficiency and decrease energy consumption			1
+this level is very near the voltage at which transistors switch on and start conducting current , which is the " threshold " voltage			1
+in the demonstration , the experimental low - power processor was used on a pc running @entity22 , powered only off a solar cell the size of a postage stamp			1
+the processor was used in conjunction with another experimental project , a concept dram called the hybrid memory cube , which is a super efficient memory interface			2
+" we used a solar cell in the demonstration to show how little power was required , " said @entity2 spokeswoman @entity31 in an interview			1
+" but it could run on anything that has power			0
+" like lemon juice , or perhaps a potato as @entity31 suggested			0
+" the key message is the low power and how much more transistors would be power - efficient running at near - threshold			1
+" several years of research have led to @entity2 's near - threshold voltage - processor design			1
+it 's heat - sink free , and rather than operating at those super low thresholds all the time , it switches into @entity52 mode ( under 10 mw in power consumption ) when its workload is light			1
+this means , rather than powering off completely , a device can stay on in an " ultra low - power state , " preserving active processes and open applications -- " always - on " devices			2
+the technology could even be used to develop " zero - power " architectures " where power consumption is so low that we could power entire digital devices off solar energy , or off the energy that surrounds us every day " , like vibrations or movements , ambient wireless signals or solar power			1
+@entity52 could find itself in a host of applications ranging from processors and mobile devices to embedded devices , appliances and automobiles			1
+energy efficiency has always been a concern for device manufacturers and chipset makers , but as the hardware industry moves to mobile and more lightweight computing , it 's become a much bigger issue			0
+so far , @entity2 has had some difficulties finding its way into mobile devices because of power consumption issues			0
+its low - power competitor arm has dominated in that area , even threatening to displace it as the processor in @entity97 laptops and desktops ( according to rumor )			1
+but @entity2 's latest offerings , including its @entity102 processors and @entity104 processors , have become much more efficient			0
+@entity2 's latest , the @entity106 " @entity107 " transistor , also marks a major improvement , both in design , and in its 30 % improvement in performance			0
+@entity52 is a significantly bigger step than these commercial processors			2
+the technology results in a 5 to 10x improvement in energy consumption			0
+but it 's not without problems			0
+when electrical noise is introduced , logic level readings can be inaccurate			0
+so the challenge is to maintain a balance of performance versus efficiency			0
+" most digital designs operate at nominal voltages -- about @entity127 today			0
+@entity52 circuits operate around 400 to 500 millivolts , " says @entity2 researcher @entity128 in a blog post on the subject			2
+consistently running electronics at such low voltage levels is a challenge because the difference between a " 0â € ³ and a " 1â € ³ becomes very small ( electrical signal-wise )			2
+@entity2 's experimental @entity52 processor may never find itself in an actual consumer product , @entity140 says , but is an important stepping stone towards future processors that will			1
+subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity146 .			0
+
+chip with codename " @entity9 " is known as a near - threshold voltage processor
+in demonstration , pc powered by a solar cell the size of a postage stamp
+@entity158 switches into @entity52 mode , under @entity160 , when its workload is light
+
+@entity22:Linux OS
+@entity2:Intel
+@entity146:Wired.com
+@entity0:WIRED magazine
+@entity140:Vangal
+@entity106:Tri-Gate 3-D
+@entity9:Claremont
+@entity160:10 mW
+@entity52:NTV
+@entity102:Atom
+@entity158:Chip
+@entity104:Oak Trail
+@entity128:Sriram Vangal
+@entity107:Ivy Bridge
+@entity97:Apple
+@entity127:1V
+@entity31:Brown

@@ -1,0 +1,58 @@
+http://web.archive.org/web/20150320051717id_/http://www.cnn.com/2013/08/27/tech/web/new-york-times-website-attack/
+
+the @entity1 website was still experiencing some issues late wednesday and early thursday following a widespread outage			1
+evidence continued to mount that it was the result of an attack by the @entity6			1
+the group , loyal to @entity9 president @entity8 , has been behind multiple attacks on media websites in recent months and , on @entity12 , took credit for a sophisticated hack that had hobbled the @entity1 ' news site for roughly 20 hours			1
+" the @ nytimes attack was going to deliver an anti-war message but our server could n't last for 3 minutes , " the group posted on its @entity12 feed at about 9:40 wednesday morning			1
+the attack came as governments in several countries considered military action in light of reports that @entity8 has used chemical weapons against his own people in an effort to quell an uprising calling for his ouster			1
+" our website and domain are now down , but it was worth the attempt , for # @entity9 and world peace , " the group wrote later			1
+what is the @entity6 ? the group said their site was taken down because they violated their registration agreement			1
+people on @entity12 began reporting the @entity1 site was down as early as 3 p.m. et tuesday			1
+some users also reported difficulty accessing the @entity1 ' mobile site and apps			2
+the newspaper posted a message on its @entity51 page about 5 p.m. et that said , " many users are having difficulty accessing the @entity1 online			2
+we are working to fix the problem			0
+our initial assessment is the outage is most likely the result of a malicious external attack			2
+" @entity1 chief information officer @entity61 sent the same update internally to employees at 4:20 p.m. and advised them not to send out sensitive emails " until this situation is resolved , " according to a statement from the @entity1			2
+the outage was the result of an attack on the company 's domain name registrar , @entity72			0
+the hackers gained access to a @entity76 it reseller account using a phishing email and proceeded to change the @entity79 records of multiple domains , including @entity81 , according to the company			0
+" we are currently reviewing our logs to see if we can obtain information on the identity of the party that has used the reseller credentials , and we will share this information with the reseller and any relevant law enforcement bodies , " said @entity72 's @entity83 in a statement			0
+@entity12 also was hampered briefly by a similar attack			1
+several @entity12 users posted screenshots of a " hacked by @entity6 " message they said they received when they went to the @entity1 homepage			1
+the @entity6 has frequently targeted the @entity99 news media			0
+the group has hacked into the @entity12 feeds of the @entity102 and the @entity103 , and on august 15 they briefly hacked the websites of several major news organizations redirecting them to a sea page			2
+@entity107 has been the target of similar attacks			0
+@entity61 said tuesday 's attack was more sophisticated than previous @entity6 hacks			1
+" it 's sort of like breaking into the local savings and loan versus breaking into @entity115			0
+a domain registrar should have extremely tight security because they are holding the security to hundreds if not thousands of web sites , " said @entity61 in the @entity1			0
+while the site was down , the @entity1 continued to post articles at its numerical ip address , 170.149.168.130 and at @entity124			2
+tuesday 's episode was the @entity1 ' second sustained website outage this month			1
+the newspaper 's site also went down august 14 for several hours , an outage the newspaper blamed on " an internal issue			0
+" in an update on a company blog , @entity12 confirmed that there was a @entity79 issue with one of the domains used to host images			0
+" viewing of images and photos was sporadically impacted			0
+by 22:29 @entity144 , the original domain record for twimg.com was restored			0
+no @entity12 user information was affected by this incident , " said the post .			0
+
+@entity1 site still experiencing problems following tuesday outage
+@entity6 takes credit for @entity1 attack
+the group is loyal to @entity9 president @entity8
+@entity12 also experienced problems on tuesday *due* to a similar attack
+
+@entity144:UTC
+@entity1:New York Times
+@entity61:Frons
+@entity6:Syrian Electronic Army
+@entity9:Syrian
+@entity8:Bashar Al-Assad
+@entity51:Facebook
+@entity81:NYTimes.com
+@entity102:Associated Press
+@entity103:Washington Post
+@entity79:DNS
+@entity99:U.S.
+@entity107:CNN.com
+@entity12:Twitter
+@entity124:news.nytco.com
+@entity76:Melbourne
+@entity83:Tony Smith
+@entity115:Fort Knox
+@entity72:Melbourne IT

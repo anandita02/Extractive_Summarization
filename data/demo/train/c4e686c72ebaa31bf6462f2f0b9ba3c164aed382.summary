@@ -1,0 +1,30 @@
+http://web.archive.org/web/20090430023644id_/http://www.cnn.com:80/2009/HEALTH/01/29/cancer.facts/
+
+@entity0 -- cancer is one of the leading causes of death in the world , particularly in developing countries			1
+tobacco use is one of the largest causes of cancer in the world			0
+in 2008 a report by the @entity12 revealed that , until recently , cancer was considered a disease of westernized , industrialized countries			2
+today the situation has changed dramatically , with the majority of the global cancer cases now found in the developing world			1
+however , myths and misconceptions about cancer still abound			0
+below @entity0 's @entity21 has compiled facts from the @entity23 about this killer disease			2
+-- there are more than 100 types of cancers ; any part of the body can be affected			0
+-- cancer is a leading cause of death worldwide : in 2007 , it accounted for 7.9 million deaths ( around 13 per cent of all deaths ) in 2007			2
+-- the five most common types of cancer that kill men worldwide are ( in order of frequency ) : lung , stomach , liver , colorectal and esophagus			0
+-- while for women worldwide the five most common types of cancer are : breast , lung , stomach , colorectal and cervical			0
+-- about 72 per cent of all cancer deaths in 2007 occurred in low - and middle - income countries			1
+-- deaths from cancer worldwide are projected to continue rising , with an estimated 12 million deaths in 2030			1
+-- the @entity23 estimates that 30 per cent of cancers can be prevented , mainly by not using tobacco , having a healthy diet and being physically active			1
+-- tobacco use is the single largest preventable cause of cancer in the world			0
+-- a third of cancers could be cured if detected early and treated adequately			1
+-- a fifth of all cancers in the world are caused by a chronic infection , for example human papillomavirus ( @entity69 ) causes cervical cancer and hepatitis b virus ( @entity73 ) causes liver cancer			0
+
+the majority of cancer cases are now found in developing countries
+72 per cent of all cancer deaths in 2007 occurred in *poorer* countries
+by 2030 , @entity23 estimates there will be 12 million cancer *related* deaths worldwide
+a third of cancers can be cured if detected early and treated adequately
+
+@entity23:WHO
+@entity0:CNN
+@entity12:International Agency for Research on Cancer
+@entity21:Vital Signs
+@entity69:HPV
+@entity73:HBV

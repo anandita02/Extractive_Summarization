@@ -1,0 +1,63 @@
+http://web.archive.org/web/20140116142200id_/http://www.dailymail.co.uk/sciencetech/article-2538517/Want-write-bestseller-Avoid-talking-body-parts-emotions-negativity-include-plenty-quotes.html
+
+by @entity0 published : 06:43 est , 13 january 2014 updated : 06:59 est , 13 january 2014 when @entity2 sat down in a café in @entity4 and penned her first @entity6 book , little did she know the literary phenomenon she was creating			0
+until now , predicting exactly what makes book a bestseller was somewhat of a mystery , yet researchers from @entity13 claim to have created an algorithm to do just that			1
+by analysing the words used in classic books , the algorithm was able to correctly predict which books were bestsellers , and which were less successful , in 84 per cent of cases			1
+computer scientists analysed books including @entity25 's @entity24 , pictured left , and @entity28 's @entity27 , right			0
+they then used an algorithm to predict each book 's relative success			2
+by comparing the predictions with book sales , the researchers correctly guessed success in 84 % of cases successful books tended to feature more nouns and adjectives , as well as a disproportionate use of the words ‘ and ’ and ‘ but ’ - when compared with less successful titles			1
+the most popular books also featured more verbs relating to ‘ thought - processing ’ such as ‘ recognised ’ and ‘ remembered ’			1
+verbs that serve the purpose of quotes and reports , for example the word ‘ say ’ and ‘ said ’ , were heavily featured throughout the bestsellers			0
+alternatively , less successful books featured ‘ topical , cliché ’ words and phrases such as ‘ love ’ , as well as negative and extreme words including ‘ breathless ’ and ‘ risk ’			1
+poor - selling books also favoured the use of ‘ explicitly descriptive verbs of actions and emotions ’ such as ‘ wanted ’ , ‘ took ’ , ‘ promised ’ ‘ cried ’ and ‘ cheered ’			2
+books that made explicit reference to body parts also scored poorly			0
+overall , they found that successful books contained a high number of nouns and adjectives - and plenty of quotes			1
+the algorithm , developed at @entity74 , used a method called ‘ statistical stylometry ’ that can mathematically analyse words and grammar in text			0
+computer scientists from the university began by downloading classic books from the @entity85 archive , including @entity86 , @entity28 ’s @entity27 and @entity24 by @entity25			1
+they also scanned bestselling lists on @entity88			0
+each book ’s text was scanned using a specially - designed algorithm			1
+this algorithm then predicted the success of each title			2
+these predictions were compared to the success of each title , based on historical stats , figures and critical reaction , and were able to match the popularity of the book 84 per cent of the time			1
+successful books tended to feature more nouns and adjectives , as well as a disproportionate use of the words ‘ and ’ and ‘ but ’ – when compared with less successful titles			1
+the most popular books also featured more verbs relating to ‘ thought - processing ’ such as ‘ recognised ’ and ‘ remembered ’			2
+verbs that serve the purpose of quotes and reports , for example the word ‘ say ’ and ‘ said ’ , were also heavily featured throughout the bestsellers			0
+the predictions were compared to the success of each title , based on historical stats , figures and critical reaction			1
+successful books tended to feature more nouns and adjectives , as well as quotes , while poor - selling books used more adverbs and negative language			1
+stock image of library is pictured negative words and references to body parts were most commonly used in less successful books , according to the study alternatively , less successful books featured ‘ topical , cliché ’ words and phrases such as ‘ love ’ , as well as negative and extreme words including ‘ breathless ’ and ‘ risk ’			1
+poor - selling books also favoured the use of ‘ explicitly descriptive verbs of actions and emotions ’ such as ‘ wanted ’ , ‘ took ’ , ‘ promised ’ ‘ cried ’ and ‘ cheered ’			0
+books that made explicit reference to body parts also scored poorly			0
+@entity146 ’ @entity145 scored highly , as did @entity24 by @entity25			0
+@entity28 's @entity27 was among the least successful , alongside @entity147 , by @entity148			0
+‘ predicting the success of literary works poses a massive dilemma for publishers and aspiring writers alike , ’ explained assistant professor @entity149			0
+‘ previous work has attempted to gain insights into the ‘ secret recipe ’ of successful books			2
+but most of these studies were qualitative , based on a dozen books , and focused primarily on high - level content - the personalities of protagonists and antagonists and the plots			2
+‘ our work examines a considerably larger collection - 800 books - over multiple genres , providing insights into lexical , syntactic , and discourse patterns that characterise the writing styles commonly shared among the successful literature			0
+’ the findings have been published by the @entity178 .			0
+
+researchers downloaded classic books from the @entity85 archive
+the text of each book was analysed using a specially - created algorithm
+this algorithm compared the type of words used with each book ’s success
+predictions were compared to the success of each title , based on historical stats , figures and critical reaction
+in 84 % of cases the algorithm correctly predicted bestselling books
+successful books contained a high number of nouns and adjectives
+while less successful books featured more verbs and adverbs
+
+@entity2:J.K. Rowling
+@entity146:Miguel De Cervantes
+@entity0:Victoria Woollaston
+@entity13:New York
+@entity6:Harry Potter
+@entity24:Robinson Crusoe
+@entity25:Daniel Defoe
+@entity178:Association of Computational Linguistics
+@entity28:Dan Brown
+@entity4:Edinburgh
+@entity148:Philip Roth
+@entity149:Yejin Choi
+@entity147:My Life As A Man
+@entity85:Project Gutenberg
+@entity86:Charles Dickens ' A Tale Of Two Cities
+@entity88:Amazon
+@entity74:Stony Brook University
+@entity145:Don Quixote
+@entity27:The Lost Symbol

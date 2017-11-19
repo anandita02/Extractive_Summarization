@@ -1,0 +1,37 @@
+http://web.archive.org/web/20120823220306id_/http://www.dailymail.co.uk/sciencetech/article-2135751/Back-door-leaves-factories-traffic-control-systems-U-S-military-equipment-open-cyber-attacks--Canadian-company-responsible-STILL-wont-fix-it.html
+
+by @entity0 published : 13:54 est , 26 april 2012 updated : 14:12 est , 26 april 2012 a ' back door ' in supposedly ' ultra-secure ' systems offered by a @entity5 security company has left the @entity7 military vulnerable to foreign cyber attack			1
+@entity9 , which markets its ' high security ' equipment as ' military specification ' has a ' back door ' that even unskilled hackers could penetrate			1
+an easily crackable password could give hackers access to the systems - which are often used to control military equipment , traffic systems and even power grids			1
+@entity9 , which markets its ' high security ' equipment as ' military specification ' has a ' back door ' that even unskilled hackers could penetrate the @entity5 company behind the equipment is keen to boast of its ' military - grade ' security			1
+' the @entity28 family of rugged ethernet switches are specifically designed to operate reliably in harsh military environments , ' says the company			0
+' ideally suited for a number of military applications including navy , army , and air force , these products are ideal for creating mission - critical , real - time , control applications in many harsh and ' extreme ' operating environments			2
+' except , of course , the equipment is completely unprotected against malicious hackers , it is claimed			2
+the devices have a single , unchangeable username - factory - and hackers can access them using a @entity49 address - information that is often publicly available			2
+' they knew it was there , ' security researcher @entity50 told @entity56 's @entity55 blog			0
+' they stopped communicating with me after that			0
+' ' the @entity28 family of rugged ethernet switches are specifically designed to operate reliably in harsh military environments , ' says the company since @entity50 's discovery , @entity9 has issued a statement urging users to disconnect their equipment - but has yet to fix the problem			1
+' @entity68 recommends to our @entity70 customers that they disable device access via @entity73 and @entity74 after initial device configuration is complete			0
+leaving these protocols enabled represents a security issue that is currently under investigation by @entity68 , ' says the company			0
+' @entity68 is continuing to investigate this issue and will provide updates as more information becomes available			0
+
+' military specification ' equipment used by @entity7 forces and @entity87
+researcher *uncovers* easily ' hackable ' back door
+*standard* password allows even unskilled hackers access
+@entity95 *acknowledges* problem - but just *advises* users to disconnect
+
+@entity0:Rob Waugh
+@entity7:U.S.
+@entity55:Threat Level
+@entity5:Canadian
+@entity9:Ruggedcom
+@entity49:MAC
+@entity50:Clarke
+@entity56:Wired
+@entity68:RuggedCom
+@entity87:Navy
+@entity74:RSH
+@entity95:Company
+@entity70:ROS
+@entity73:Telnet
+@entity28:RuggedSwitch

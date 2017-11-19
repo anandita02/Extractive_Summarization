@@ -1,0 +1,61 @@
+http://web.archive.org/web/20150627183242id_/http://www.dailymail.co.uk/sciencetech/article-2553026/The-gadget-hack-CAR-Terrifying-12-tool-remotely-control-headlights-locks-steering-brakes.html
+
+not content with stealing your personal information , hackers could soon take control of your car - using a homemade gadget that is smaller than an mobile phone			1
+called the @entity8 ( @entity9 ) , the device can be fitted to any car 's @entity10 ' within minutes ' and run malicious code through the vehicle 's system			1
+once hackers take hold of this network they can control lights , locks , steering and even brakes - and it costs just $ 20 ( £ 12 )			1
+once hackers take hold of this network they control lights , locks , steering and brakes many cars come with built - in software that run on an operating system in a similar way to phones and computers			1
+the @entity43 ( @entity9 ) has four wires that are attached to the different outputs of a car 's @entity10			1
+a 60p ( $ 1 ) computer chip is used to bypass any encryption on the car before reading and writing data from the flash memory of the vehicle 's engine control unit			2
+the gadget is smaller than an @entity55 , meaning it sits in the palm of the hacker 's hand , and can be controlled remotely			2
+hackers can use any command they want to program an action via the @entity9 , and this includes disabling the brakes , deploying the airbag , locking the doors and enabling the alarm			2
+the gadget was created by @entity26 security researchers @entity69 and @entity70			0
+it was previously showcased at last year 's @entity73 conference in @entity74 , and now the developers plan to demonstrate the device during the @entity78 version of the event in march			0
+' it can take five minutes or less to hook it up and then walk away , ' @entity69 told @entity82			0
+' we could then trigger it to do whatever we have programmed it to do			0
+' many cars come with built - in software that run on an operating system in a similar way to phones and computers			0
+the tool has four wires that are attached to the different outputs of a car 's controller network			1
+a $ 1 computer chip is used to bypass any encryption on the car before reading and writing data from the flash memory of the vehicle 's engine control unit			0
+the gadget is smaller than an @entity55 , meaning it sits in the palm of the hacker 's hand , and can be controlled remotely			0
+hackers can use any command they want to program an action via the @entity9 , and this includes disabling the brakes , deploying the airbag , locking the doors and enabling the alarm			2
+hacking tools can be attached to a car 's @entity10 ( @entity10 ) , pictured			1
+this diagram shows the electronic layout of a typical car and the features controlled by the @entity10 are shown along the black lines including lights , climate , seats , heating and locks engineers from @entity130 previously managed to hack the software that runs the electronics in a 2010 @entity133 and @entity134 , pictured , so that the brakes , steering , speedometer and the car 's electronics can be controlled remotely using a laptop the @entity43 is approximately three quarters the size of an @entity143 , pictured @entity69 and @entity70 's gadget is not the first example of hackers exploiting the vulnerability of car systems and software			1
+using a laptop wirelessly connected to a car 's electronics , @entity130 security engineers @entity151 and @entity153 were able to remotely control the brakes , the accelerator , change the speedometer , switch the headlights on and off , tighten the seatbelts and even blast the horn inside a @entity133 and @entity134			1
+their project was funded by a grant from the @entity164 to highlight the security risks affecting modern - day cars			0
+by hacking the network in the two cars , and exploiting @entity171 bugs , the software became hackable and the researchers said it was possible to send remote code executions from a mobile device			2
+remote code executions let people remotely control the car 's features			1
+using a laptop wirelessly connected to a @entity133 ' electronics , the engineers @entity151 and @entity153 were able to remotely control the brakes , the accelerator , change the speedometer , switch the headlights on and off , tighten the seatbelts and even blast the horn @entity133 previously said it ' was n't impressed ' with @entity151 and @entity153 's hack and claimed its systems were robust and secure			1
+a @entity134 spokesman said they were taking the hack ' very seriously '			0
+researchers from the @entity195 and the @entity196 , @entity193 were the first to publish findings into hacking software in cars in 2010			0
+@entity153 said : ' academics have shown you can get remote code execution			0
+we showed you can do a lot of crazy things once you ’re inside			0
+
+gadget is fitted to the @entity10 ( @entity10 ) of a modern car
+*depending* on the make of car , the @entity10 controls lights , locks and brakes
+hackers claim it can be fitted to any car 's network ' within five minutes '
+@entity43 ( @entity9 ) runs malicious code into the car 's system
+researchers in the @entity226 previously hacked the software in a @entity133
+
+@entity26:Spanish
+@entity82:Forbes
+@entity153:Valasek
+@entity134:Ford
+@entity151:Miller
+@entity130:Indiana
+@entity133:Toyota Prius
+@entity171:Bluetooth
+@entity196:University of California
+@entity9:CHT
+@entity8:Hacking Tool
+@entity193:San Diego
+@entity78:Singapore
+@entity55:iPhone
+@entity74:Las Vegas
+@entity70:Garcia Illera
+@entity73:Black Hat
+@entity10:CAN
+@entity69:Vazquez Vidal
+@entity164:U.S Defense Advanced Research Projects Agency
+@entity226:U.S.
+@entity143:iPhone 5S
+@entity43:CAN Hacking Tool
+@entity195:University of Washington

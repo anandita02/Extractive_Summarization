@@ -1,0 +1,42 @@
+http://web.archive.org/web/20150731174232id_/http://www.dailymail.co.uk/news/article-3055281/Global-vendor-payment-devices-uses-default-password-not-changed-1990.html
+
+millions of point of sales systems are vulnerable to security breaches as they are protected by the same default password - used by a global maker of payment devices for more than two decades , researches say			1
+the password , 166816 , is still being used by about 90 per cent of customers , researchers @entity8 and @entity10 disclosed on wednesday during the annual @entity14 security conference in @entity15			1
+@entity10 said that the unidentified vendor had been using the same default password since at least 1990 , according to @entity18			2
+researchers @entity10 ( right ) and @entity8 ( left ) said a global maker of cash registers has been using the same default password on the payment devices for more than two decades			1
+this potentailly puts the devices at risk of being a target of a security breach ' @entity29 out of 10 times when we see equipment from that manufacturer , 90 per cent of the time , this is the password , ' he said			2
+' i actually saw this password really recently on a different manufacturer 's device [ by a customer ] who thought the password was unique to them			2
+' hackers would need physical access to the payment devices , opening a panel of the device using a paperclip , to exploit it , according to @entity18			1
+this type of attack is uncommon and reportedly easy for malicious staff			0
+for example , during the conference it was revealed that two individuals reportedly entered a major @entity58 retail store , unscrewed a server rack and walked out with the server leaving the store unable to process credit card payments , according to @entity63 while @entity10 and @entity8 did not name the vendor using the 166816 password , a @entity65 search pointed to @entity68 which connects around 27 million payment devices around the world , according to @entity63 on thursday , @entity68 said in a statement that all of its devices in the field came with the same default password , @entity76 , according to @entity77			1
+the company also said the password can be found on the internet with instructions for programming terminals			0
+however , @entity68 claimed sensitive payment information or personally identifiable information can not be captured , even though the password has become known over the years			1
+while @entity10 and @entity8 did not name the vendor , a @entity65 search pointed to @entity68 ( file photo of one of the company 's payment devices ) the company said : ' what the password allows someone to do is to configure some settings on the terminal ; all executables have to be file signed , and it is not possible to enter malware just by knowing passwords			1
+' its new products come with a ' pre-expired ' password that has to be changed during installation set up , according to @entity68 , and the company also said it encourages customers to change the default password , reported @entity77			2
+as retailers have increasingly battled security breaches in recent years , @entity109 was at the center of the second - largest card breach at a @entity58 retailer two years ago			0
+an investigation found that hackers stole the personal information of at least 70million of @entity109 's customers , including names , mailing addresses , telephone numbers and email addresses			0
+hackers are thought to have stolen the credit card details by breaking into @entity109 's computer systems and installing data mining software on credit card machines			0
+the software installed on 40,000 machines across @entity109 's 1,797 stores read the information on a card 's magnetic strip - including account number , sort code and @entity138 code - when it was swiped through the machine			0
+all of the card details were then sent back to the hackers through the internet , before the theft was discovered after nearly three weeks			0
+in another case of a security breach , in 2014 , 56million debit and credit cards are estimated to have been breached in a data theft between april and september at @entity150 stores in the @entity58 and @entity151 .			0
+
+researchers said during security conference that payment devices by unidentified global vendor came with password ' 166816 '
+while researchers did not identify the vendor , @entity65 search points to @entity68 , which said its devices in the field come with password ' @entity76 '
+@entity68 claimed sensitive payment information or personally identifiable information can not be captured
+
+@entity15:California
+@entity14:RSA
+@entity10:Henderson
+@entity29:Nine
+@entity65:Google
+@entity18:The Register
+@entity8:Byrne
+@entity76:Z66831
+@entity138:CCV
+@entity68:Verifone
+@entity58:U.S.
+@entity109:Target
+@entity151:Canada
+@entity150:Home Depot
+@entity77:CSO
+@entity63:RT.

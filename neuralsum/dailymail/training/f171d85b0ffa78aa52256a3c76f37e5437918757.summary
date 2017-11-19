@@ -1,0 +1,68 @@
+http://web.archive.org/web/20150414085106id_/http://www.dailymail.co.uk/sciencetech/article-2958597/Facial-recognition-breakthrough-Deep-Dense-software-spots-faces-images-partially-hidden-UPSIDE-DOWN.html
+
+picking faces out of a crowd is something humans are hardwired to do , but training computers to act in the same way is much more difficult			2
+there have been various breakthroughs in this field in recent months , but the latest could be the most significant yet			0
+researchers from @entity10 and @entity11 have developed an algorithm that can identify faces from various different angles , when part of the face is hidden and even upside down			1
+the @entity18 algorithm was built by @entity10 in @entity19 and @entity11			1
+the researchers used a form of machine learning known as a deep convolutional neural network to train a computer to spot facial features ( pictured ) in a database of images at the moment , the so - called @entity18 does n't recognise who the individual faces belong to , just that there is a face			1
+but the technology has the potential to be trained in this way			0
+the algorithm was built by @entity36 and @entity37 at @entity10 in @entity19 and @entity38 at @entity11			1
+the @entity10 algorithm was developed using a form of machine learning known as a deep convolutional neural network			1
+this involves training a computer to recognise elements of images from a database using various layers			1
+a team of @entity51 researchers recently developed an advanced image classification and detection algorithm called @entity54 , which similarly used this technique			2
+it is so accurate it can locate and distinguish between a range of object sizes within a single image , and it can also determine an object within , or on top of , an object , within the photo			0
+the @entity51 researchers began by training neural networks to carry out the recognition tasks similar to how the human brain works			1
+this helps the software learn the shape and size of different objects , no matter how small , and be able to recognise them in the future			0
+a more detailed explanation is available from the @entity75			0
+it built on the @entity78 algorithm which spots front - facing people in images by picking out key facial features such as a vertical nose and shadows around the eyes			1
+by collecting these markers , the algorithm is able to determine if an image contains a face or not			2
+but , this did not account for faces that have been obscured , are looking in various directions , or were upside down			0
+with this in mind , mr @entity36 and his team used a form of machine learning known as a deep convolutional neural network			1
+this involves training a computer to recognise elements of images from a database using various layers			1
+@entity51 used a similar technique for its recent @entity54 classification algorithm that can identify images within images , such as a hat on the head of a dog sat on a bench			2
+mr @entity36 trained his algorithm using a database of 200,000 images featuring faces shown at various angles and orientations , plus 20 million images that did n't contain faces			1
+in their paper , the researchers said : ' in this paper we propose a method based on deep learning , called @entity18			2
+' ' it has minimal complexity ... and can get similar or better performance [ than other systems ] while it does not require annotation or information about facial landmarks			0
+' and , the team said the technology could be improved following further training			0
+the algorithm ( recognition pictured left ) can identify faces from various different angles , when part of the face is hidden and even upside down ( example pictured right )			1
+at the moment , the technology does n't recognise who a face belongs to , but could be trained to do so @entity51 used a similar neural network technique for its recent @entity54 classification algorithm that can identify images within images , such as a hat on the head of a dog ( pictured ) @entity155 's @entity154 tool also used this neural network technique to help recognise users in photos			1
+its algorithm identifies faces ' as accurately as a human ' and offers tag suggestions which the user can accept , or reject			0
+the technology was first showcased last march , but the site has now started rolling out the automatic tagging tool to select users			0
+@entity167 uses technology designed by an @entity170 startup called face.com			0
+@entity51 's technology is so accurate it can locate and distinguish between a range of object sizes within a single image , and it can also determine an object within , or on top of , an object , within the photo ( pictured ) @entity155 's @entity154 tool also used this neural network technique to help recognise users in photos			1
+its algorithm identifies faces ' as accurately as a human ' and uses a 3d model to virtually rotate faces so they are facing the camera			2
+image ( a ) shows the original image and ( g ) shows the final , corrected version @entity155 bought the startup in 2013 and developed the facial recognition tool with support from face.com 's @entity192 at its @entity195 lab. the researchers used the software to build a 3d model of a face from a photo that can be rotated into the best position for an algorithm to begin searching for a match			2
+after creating a model , the team used a neural network that had been trained on a database of faces to try and match the face with one in a test database of more than 4 million images , containing more than 4,000 separate identities , each one labelled by humans			1
+its creators said @entity215 finds a match with 97.25 per cent accuracy			0
+the tagging option has now started appearing in the privacy settings of accounts globally - although in many cases it still says the feature is ' unavailable ' - and a number of users have reportedly been given the tool			0
+@entity155 uses @entity154 to offer tag suggestions which the user can accept , or reject			0
+the tagging option ( pictured bottom ) has started appearing in the settings of accounts globally - although in many cases it says the feature is ' unavailable ' - and a number of users have reportedly been given the tool security researcher @entity236 said : ' the social network plans to use the system to identify its users in new photos as they are uploaded			0
+if your visage appears in one of the 400 million pictures added to the network each day you 'll receive an email from @entity155 alerting you '			0
+
+algorithm was built by @entity10 in @entity19 and @entity11
+it built on @entity78 algorithm which spots front - facing images of people
+researchers used a form of machine learning known as a deep convolutional neural network
+this involves training a computer to spot features in a database of images
+the algorithm can identify faces from various angles , when part of the face is hidden and even upside down
+it does n't recognise who a face belongs to , but could be trained to do so
+@entity155 and @entity51 use similar networks to improve image recognition
+
+@entity170:Israeli
+@entity236:Lee Munson
+@entity11:Stanford University
+@entity37:Mohammad Saberian
+@entity36:Farfade
+@entity38:Li-Jia Li
+@entity195:Artificial Intelligence
+@entity10:Yahoo Labs
+@entity192:Yaniv Taigman
+@entity19:California
+@entity18:Deep Dense Face Detector
+@entity215:DeepFace
+@entity51:Google
+@entity78:Viola-Jones
+@entity54:GoogLeNet
+@entity75:Google Research Blog
+@entity154:Deep Face
+@entity155:Facebook
+@entity167:DeepFace

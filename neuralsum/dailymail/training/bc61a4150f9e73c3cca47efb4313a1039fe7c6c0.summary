@@ -1,0 +1,67 @@
+http://web.archive.org/web/20150401153350id_/http://www.dailymail.co.uk/sciencetech/article-2724495/Top-websites-crash-web-starts-run-space-Fears-major-technical-problems-regular-occurrence.html
+
+major technical problems could become a regular occurrence for website users because the internet is running out of space , experts have warned			1
+an online breakdown caused chaos on tuesday , costing the economy millions of pounds in lost trade and effectively closing access to a number of huge websites			1
+online auctioneer @entity13 was out of action for most of the day , with buyers and sellers inundating the site with complaints about lost business after being unable to log onto their accounts			1
+an online breakdown caused chaos on tuesday , costing the economy millions of pounds in lost trade and effectively closing access to a number of huge website ( file picture ) hundreds of thousands of users were unable to log on and the auction site was flooded with traders demanding compensation			1
+the problem is understood to have been caused by the crucial ‘ nuts and bolts ’ of the internet – called the @entity35 ( @entity35 )			1
+internet companies and large networks use this ‘ route map ’ - consisting of hundreds of thousands of complex paths through the web - to send information to each other			1
+when visiting a website , users rely on machines called routers to remember how to navigate trusted routes through the ever - expanding internet			2
+@entity50 , managing director of web hosting experts @entity49 answers the main questions about the internet outage			1
+what caused this issue ? as traffic travels around the internet , it 's directed by routers which know where to send individual packets on the basis of a ' lookup table			1
+' this table has groups of @entity66 addresses to help direct traffic to the right places , like postcodes in a sorting office			0
+the number of groups of ip addresses that can be held in the very fast type of memory required for this job is limited to 512,000 in some routers			0
+once this number is exceeded , those routers stop working properly			0
+the cause of this issue was that a major @entity83 networking company took one large group of ip addresses and split it into 15,000 smaller groups			0
+this took the total number of prefixes ( packets of ip addresses ) from about 500,000 to 515,000 so this pushed past the limit and meant that routing stopped working in parts of the @entity83			0
+this was fixed in about 10 minutes but it still caused significant disruption to internet users and some major sites like @entity13			1
+' why were @entity13 and @entity101 affected in particular ? people take more notice when these high profile sites go down			1
+many more sites would have been affected , they just were n't as noticeable			0
+' we were always going to hit this limit , the prediction was that it would happen by october			0
+@entity109 , one of the world 's biggest manufacturers of routers , notified all of its customers of this potential issue back in may			0
+it 's possible that internet service providers ( @entity118 ) thought they still had more time before this would become an issue			1
+will it become more widespread ? will more websites be affected ? the limit will certainly be reached again			0
+whether or not the web is brought to its knees depends on how many network providers make the necessary upgrades before the limit is reached permanently			2
+ipv4 exhaustion is contributing to this problem because as ipv4 resources get more limited they are handed out in smaller groups which makes the number of prefixes increase			1
+so the very slow take - up of @entity136 is having an indirect effect on the speed with which we hit this limit , and the likelihood of this issue happening again @entity142 will happen if everyone does nothing , and will the situation get worse ? ' if this problem is n't fixed , we will see a catastrophic repeat on a much larger scale			2
+this news might act as a catalyst for networking companies to act , but their track record on updates is far from encouraging			0
+but older routers are finding it difficult to manage with newer technology – such as smartphones and tablets which have drastically increased the number of people online and the time spent online			2
+they have imposed a huge volume of extra traffic onto the web , leaving some routers struggling with lack of memory and processing power			2
+some machines impose an arbitrary upper limit of 512,000 different routes , a number that experts say is out of date			2
+the system is similar to the human brain being unable to cope with remembering ‘ all the back streets ’ on a long car journey , said dr @entity180 , a research fellow at the @entity181			0
+online auctioneer @entity13 was out of action for most of the day , with buyers and sellers inundating the site with complaints about lost business ( file picture ) in order to deal with the increase in web traffic , routers need to be updated with more memory and processing power			1
+but experts said some machines are starting to become badly dated			2
+dr @entity180 told @entity198 : ‘ it ’s really a case of the routers being overloaded due to more and more devices and more and more fragmented @entity204 landscape of lots of little networks			0
+’ @entity207 , chief executive of internet traffic monitoring firm @entity208 , said : ‘ this is likely to happen more and more the devices there are and the less the infrastructure is going to be able to cope			0
+this definitely wo n’t be the last we hear of @entity35 outages			0
+’ weekly internet retail sales averaged £ 729 million in june - meaning more of these problems could see online retailers losing millions of pounds of trade in the future			1
+@entity221 , from the market analysts @entity223 , said : ‘ online firms build up their reputations on trust , on delivering a flawless experience to their customers			0
+‘ if such problems become a regular feature , then that is a serious problem both for firms and for the economy in general			1
+’ video courtesy of @entity236			0
+
+technical problems could increase as web runs out of space , experts say
+an online breakdown on tuesday cost the economy millions of pounds
+@entity246 @entity13 was out of action for most of the day *sparking* complaints
+problem thought to have been caused by crucial ' nuts and bolts ' of internet
+
+@entity221:Richard Perks
+@entity118:ISPs
+@entity223:Mintel
+@entity13:eBay
+@entity35:BGP
+@entity83:US
+@entity142:soon.What
+@entity198:The Daily Telegraph
+@entity180:Wright
+@entity181:Oxford Internet Institute
+@entity101:Amazon
+@entity246:Auctioneer
+@entity50:Steve Rawlinson
+@entity66:IP
+@entity109:Cisco
+@entity236:Maron Structure Technologies
+@entity136:IPv6
+@entity207:James Gill
+@entity49:Tagadab
+@entity208:GoSquared
+@entity204:Internet

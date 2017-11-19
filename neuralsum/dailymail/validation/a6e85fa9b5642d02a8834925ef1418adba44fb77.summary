@@ -1,0 +1,58 @@
+http://web.archive.org/web/20150720223048id_/http://www.dailymail.co.uk/sciencetech/article-2993651/The-ultimate-American-road-trip-revealed-Data-scientist-uses-algorithms-plot-best-route-United-States.html
+
+planning the perfect road trip is n't just about creating the ultimate playlist and getting a map - what you really need are algorithms			1
+now the man behind the ' where 's @entity9 ' algorithm has created a road trip route revealing the best way to visit 48 @entity13 states			1
+using a series of equation , the @entity15 data scientist says his method can also be used on shorter journeys , beating google maps on providing the best route possible			2
+zoom in on this interactive map to find the best road trip route across the @entity13 @entity24 came up with the map when @entity26 challenged him to plot the best route across continental @entity13			1
+his only limitation was to make one stop in all 48 contiguous @entity13 states , along with @entity30 and two stops in @entity32			2
+each stop would be at a national natural landmark , national historic site , national park or national monument			0
+and the car could never leave @entity13 soil			0
+to create the map , mr @entity24 first found the shortest distance by road between each of the 50 landmarks provided			1
+the tricky part was putting the landmarks in order to eliminate as much driving back on himself as possible			0
+zoom in on this interactive map to find the best road trip route across @entity51 the man behind the ' where 's @entity9 ' algorithm has created a road trip route revealing the best way to visit 50 @entity13 states			1
+the resulting 13,699 - mile route would take 9.33 days of non-stop driving if you had the road to yourself rather than looking at every possible solution , @entity24 used something known as a ' genetic algorithms ' which starts with just a few random solutions			1
+it then manipulates these solutions , while trying something slightly different each time , until it finds one that it ca n't improve on			0
+the resulting 13,699 - mile route would take 9.33 days of non-stop driving if you had the road to yourself			1
+in his blog , mr @entity72 explains how he used information from @entity75 and wrote code to discover the optimum distance to drive to all 50 landmarks			2
+this was the same code he had previously created to discover @entity9 – or @entity81 in the @entity82			0
+' with 50 landmarks to put in order , we would have to exhaustively evaluate 3 x 1064 possible routes to find the shortest one , ' he wrote			0
+' if you started computing this problem on your home computer right now , you 'd find the optimal route in about 9.64 x 1052 years — long after the sun has entered its red giant phase and devoured the @entity93			0
+' this complication is why @entity96 's route optimisation service only optimises routes of up 10 waypoints			0
+' rather than looking at every possible solution , he used something known as a ' genetic algorithms ' which starts with just a few random solutions			0
+it then manipulates these solutions , while trying something slightly different each time , until it finds one that it ca n't improve on			0
+the data scientist has also created another road trip map that makes stops at the top - ranked @entity111 map is 12,290 miles long and is similar to the original but skips over @entity112 , @entity113 and @entity114 the resulting 13,699 - mile route would take 9.33 days of non-stop driving if you had the road to yourself			1
+mr @entity24 , however , advises putting aside two to three months to complete the trip			2
+' you 'll hit every major area in the @entity13 on this trip , and as an added bonus , you wo n't spend too long driving through the endless cornfields of @entity126 , ' he wrote on his blog			2
+the data scientist has also created another road trip map that makes stops at the top - ranked @entity111 cities			1
+this map is 12,290 miles long and is similar to the original but skips over @entity112 , @entity113 and @entity114			0
+' this is especially interesting because @entity111 reviewers recommend cities like @entity136 , @entity15 — the seventh most crime - ridden city in the @entity13 — over any city in @entity112 , @entity113 and @entity114			2
+i 'll leave the interpretation of that fact to the reader , ' @entity140 wrote			0
+@entity140 also created an ideal @entity51 road trip and he 's released the code so that anyone can create their own route			1
+the @entity51 trip covers 16,287 miles and 14 days of driving , and mr @entity24 advises putting three months aside to explore the cities .			1
+
+@entity15 data scientist , @entity24 , came up with route using an algorithm that calculates shortest distance
+the 13,699 - mile route travels through 48 states and would take 9.33 days of non-stop driving on clear roads
+mr @entity24 also created a 12,290 - mile road trip map that makes stops at the top - ranked @entity111 cities in @entity13
+he has created a @entity51 road trip and released code used to create it so that any can create a *custom* route
+
+@entity75:Google Maps API
+@entity30:Washington D.C.
+@entity15:Michigan
+@entity32:California
+@entity140:Olson
+@entity24:Olsen
+@entity93:Earth
+@entity9:Waldo
+@entity51:European
+@entity81:Wally
+@entity82:UK
+@entity114:West Virginia
+@entity113:Vermont
+@entity112:North Dakota
+@entity111:TripAdvisor
+@entity96:Google Map
+@entity126:Nebraska
+@entity26:Discovery News
+@entity136:Flint
+@entity13:US
+@entity72:Olson

@@ -1,0 +1,38 @@
+http://web.archive.org/web/20150403142916id_/http://www.dailymail.co.uk/sciencetech/article-2564984/Now-thats-digit-al-music-Intuitive-gloves-allow-wearer-make-noises-using-hand-gestures.html
+
+it can take years to master the violin or get to grips with the piano			0
+but an electrical musical instrument in the form of gloves allows a wearer to make music using expressive and intuitive hand gestures			1
+the @entity10 relies on sensors , a magnetic field and software to make futuristic noises , but to the untrained eye it looks a bit like magic			2
+they have small magnetic sensors attached to the fingers			0
+wearers wave their gloved hands over a magnetic ' base ' which emits magnetic fields that the sensors on the gloves pick up			2
+the gloves themselves do not make sound			2
+they are essentially a midi device and simply send out data and different parameters that are interpreted by special computer software			0
+virtually any noise can be created			0
+wears control the noises created by spreading their hands apart to increase volume and raising and lowering them to control pitch accordingly			1
+by closing the fingers , the @entity10 wearer activates flex sensors and muffles the sound , while twisting the hands adds distortion that makes the noises sound extra futuristic			1
+‘ the goal was to create the most intuitive instrument , ’ said @entity49 , an engineering student at @entity50 , @entity51 , @entity52 , who came up with the idea of an instrument played by gesturing in the air			1
+computer scientist @entity59 helped him bring it to life			0
+the gloves are fitted with sensors that report their position and the orientation of the wearer ’s hands in a magnetic field			2
+raising and lowering gloved hands controls pitch and spreading them apart increases volume			1
+by closing the fingers , the @entity10 wearer activates flex sensors and muffles the sound , while twisting the hands adds distortion that makes the noises produced sound extra futuristic			1
+through an interface created by mr @entity59 , hand positions are converted to signals in the universal @entity85 language for electronic instruments and fed to a synthesiser			0
+the result looks something like a person listening to music and pretending to conduct , but the ‘ conductor ’ makes music by waving his hands in thin air			0
+‘ we ’re trying to capture those intuitive gestures and make music , ’ mr @entity49 explained			1
+the duo used magnetic sensors in the gloves that were originally developed for medical applications , motion tracking and manipulating 3d graphics			0
+before creating the @entity10 , mr @entity49 developed an electronic instrument that looked a bit like a cello , in which conductive strips replaced strings and a joystick held in the right hand controlled the sound			2
+mr @entity49 ( pictured ) controls the noises created by spreading his hands apart to increase volume and raising and lowering them to control pitch accordingly			1
+by closing the fingers , the @entity10 wearer activates flex sensors and muffles the sound , while twisting the hands adds distortion that makes the noises sound extra futuristic he wanted to allow musicians to make noises in a more expressive way and came up with the idea of making @entity10 solely controlled by a person ’s hands in thin air			1
+the duo are building on the idea so that a person will be able to control recorded sounds of different instruments , provide visual representations and add percussion using body movements - all at once			0
+‘ the musician will create a whole song on stage with nothing , ’ mr @entity49 said .			0
+
+engineering students at @entity50 , @entity52 , made the gloves that use a magnetic tracking system and can create virtually any sound
+the @entity10 enables wearers to make music using expressive and intuitive hand gestures so that music *lessons* are not required
+raising and lowering the hands controls pitch and spreading them apart increases volume , while other effects can be *achieved* by twisting hands
+
+@entity10:Aura
+@entity52:New York
+@entity51:Ithaca
+@entity50:Cornell University
+@entity85:Midi
+@entity59:Ndubuisi
+@entity49:Li

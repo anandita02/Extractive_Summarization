@@ -1,0 +1,39 @@
+http://web.archive.org/web/20150201022123id_/http://www.dailymail.co.uk/sciencetech/article-2296947/iOS-6-1-3-bug-fix-New-iPhone-lock-screen-hack-DAY-Apple-released-update-fix-passcode-flaw.html
+
+@entity0 has been left red - faced again after a fresh security breach was discovered in the @entity3 's software the day after it released an update fixing the last one			1
+the new vulnerability differs from the passcode bug fixed by the latest @entity9 update but it too gives unauthorised access to the phone 's contacts and photos			1
+it emerged after the @entity16 firm released @entity17 , which put a stop to hackers who discovered a simple combination of button presses to bypass the phone 's lock screen			1
+hacked : a new flaw in @entity9 has been revealed which can allow hackers access to @entity3 owners ' pictures and contacts , just a day after @entity0 released a software update to fix a previously discovered vulnerability the new lock screen bug is slightly less complicated and involves ejecting the @entity3 's sim card while using its built - in voice controls to make a phone call			1
+it was revealed by @entity38 user videosdebarraquito , who posted a video detailing the procedure			0
+that 's the same phone enthusiast who spread the word about the earlier exploit , again via @entity38			0
+the latest video shows the exploit executed on an @entity3 but it seems the bug applies to most modern iphones , ars technica reported			0
+the hack involves activating voice dialling mode from the lock screen and instructing the phone to make a call , then ejecting the sim card at just the right moment			1
+that brings up the phone 's dialling pad , from where the contacts list can be accessed and , via that list , the owner 's photos			2
+insecure : the phone 's contact list can be accessed and , via that , the photo gallery precaution : turning off the ' @entity71 ' feature will keep personal information safe , but if @entity73 is enabled for lock screen use the exploit does n't work either @entity75 replicated the hack on the same model phone , while @entity78 managed it on an @entity79 but not an @entity80			0
+@entity3 5 users should still beware , however , since @entity84 site @entity82 claims to have carried out the hack on @entity0 's latest smartphone offering			2
+@entity73 does not appear to be the culprit allowing unauthorised access to the phone , instead the exploit is carried out through @entity0 's @entity90 feature which predates the virtual assistant			1
+@entity92 recommends turning off the ' @entity71 ' feature to keep personal information safe , but if @entity73 is enabled for lock screen functionality the exploit does n't work either , according to ars technica			0
+the video detailing the hack was published just yesterday but has already attracted more than 120,000 views			0
+@entity0 has yet to comment .			2
+
+new vulnerability gives unauthorised access to contacts and photos
+emerges the day after @entity0 released @entity17 bug fix
+simple hack involves ejecting @entity110 while making call through voice controls
+
+@entity3:iPhone
+@entity16:Silicon Valley
+@entity0:Apple
+@entity38:YouTube
+@entity9:iOS
+@entity17:iOS 6.1.3
+@entity80:iPhone 5
+@entity82:iPhoneblog.de
+@entity79:iPhone 4S
+@entity78:TheNextWeb
+@entity110:SIM
+@entity75:Iphoneincanada
+@entity84:German
+@entity71:Voice Dial
+@entity92:Videosdebarraquito
+@entity73:Siri
+@entity90:Voice Control

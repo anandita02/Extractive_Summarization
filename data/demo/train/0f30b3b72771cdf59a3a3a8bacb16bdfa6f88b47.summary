@@ -1,0 +1,17 @@
+http://web.archive.org/web/20110214195457id_/http://www.cnn.com/2011/WORLD/asiapcf/02/14/afghanistan.attack/index.html
+
+@entity0 , @entity1 -- a suicide bomber attacked a shopping center in @entity0 on monday afternoon killing at two people , officials said			2
+the attack took place at the @entity10 shopping mall , said police spokesman @entity11			1
+he said a guard at the mall was killed , while another was wounded			0
+the second fatality was a civilian , said @entity18 , head of the central hospital .			0
+
+new : a civilian and a guard is killed , officials say
+new : another guard is hurt , police say
+the attack takes place at the @entity10 shopping mall
+
+@entity2:CNN
+@entity1:Afghanistan
+@entity0:Kabul City
+@entity11:Hashmatiullah Stanikzai
+@entity10:City Center
+@entity18:Kabir Amiri

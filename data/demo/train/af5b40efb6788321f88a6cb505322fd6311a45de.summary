@@ -1,0 +1,39 @@
+http://web.archive.org/web/20131005151711id_/http://www.cnn.com:80/2012/11/19/tech/social-media/facebook-https
+
+-- bad news : your @entity3 page is likely about to slow down			1
+good news : the change will help keep online thieves away			0
+according to a recent blog post , @entity3 is in the process of moving all of its users in @entity12 -- and soon the rest of the world -- to a type of internet connection that is more secure but also tends to slow down web browsing a bit			1
+called @entity20 , as opposed to less - secure @entity19 , it 's the connection you see on online retail sites when you 're about to enter credit card information or a password			2
+sometimes a little lock icon appears in the browser window when you 're connected to a site with @entity20			2
+( the " s , " by the way , stands for " secure			0
+" ) " as the @entity35 evolves , expectations around security change , " @entity3 's @entity33 wrote last year when he announced that @entity20 would become an option on @entity3			1
+" for example , @entity20 -- once a technology used primarily on banking and e-commerce sites -- is now becoming the norm for any web app that stores user information			2
+" the new change is that @entity3 is starting make @entity20 the default setting for all its 1 billion - plus users , so people who have n't selected that option soon will get added security -- and , potentially , slower browsing			1
+" people will be able to opt - out of @entity20 for maximum speed if that 's how they roll , " according to the blog @entity54			1
+" it is far from a simple task to build out this capability for the more than a billion people that use the site and retain the stability and speed we expect , " @entity3 's @entity55 told that tech news site , " but we are making progress daily towards this end			1
+" this may slow down connections only slightly , but we have deployed significant performance enhancements to our load balancing infrastructure to mitigate most of the impact of moving to @entity20 , and will be continuing this work as we deploy this feature			1
+" how will you know whether you 're using https or @entity19 ? look at the top of your browser window , where you enter internet addresses			0
+if you go to @entity3 and see https://facebook.com in that box , then you 're browsing on the more - secure connection , which scrambles data as it sends it back and forth to @entity3 's servers , making it more difficult for someone in the middle to nab your passwords or other sensitive data			0
+" think of it like this : you 're having a private conversation with your new boyfriend or girlfriend , and your ex -- unbeknownst to you -- is a few tables over listening to every word , " the blog @entity88 writes in a post titled " @entity90 is @entity20			0
+" " that 's the sort of risk @entity19 poses , whereas @entity20 would be more like if you and your new romantic interest were speaking a new language that only the two of you understood			0
+to your stalker of an ex , this information would sound like gibberish and s / he would n't get any value from listening if s / he tried			0
+" @entity20 is a way for you to exchange information with a web site securely so you do n't have to worry about anyone trying to listen in			0
+" other online services , including @entity115 , already use @entity20 by default .			2
+
+@entity3 is moving to @entity20 connections by default
+that may result in slowed speeds for some users
+the switch is *designed* to offer *additional* security
+people who are *unhappy* with the change can opt out
+
+@entity3:Facebook
+@entity20:HTTPS
+@entity0:CNN
+@entity35:Web
+@entity12:North America
+@entity33:Alex Rice
+@entity19:HTTP
+@entity115:Gmail
+@entity55:Frederic Wolens
+@entity54:TechCrunch
+@entity88:Lifehacker
+@entity90:WTF

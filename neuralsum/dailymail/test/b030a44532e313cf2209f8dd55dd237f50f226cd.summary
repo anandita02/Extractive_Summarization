@@ -1,0 +1,42 @@
+http://web.archive.org/web/20150603183746id_/http://www.dailymail.co.uk/sciencetech/article-3060883/Hackers-MEDICAL-equipment-Security-experts-discover-telesurgery-robots-risk-cyber-attacks.html
+
+a flaw in robots designed to perform surgery has been found that lets them be easily hacked , according to researchers			1
+the experts were able to take control of a so - called telerobot during surgery by exploiting a simple programming trick			1
+this enabled them to change the speed of the arms of the robot and change their orientation , making it impossible for the machines to carry out a procedure as directed			2
+researchers at the @entity19 studied the @entity20 ( shown )			1
+they found that robots designed for surgery could be ' easily ' hacked in to			1
+this is because they are operated over public networks which allowed the researchers to access them and stop them working the research was carried out by scientists at the @entity19 by toying with a product from their own university - the @entity20 teleoperated robotical surgeon			1
+@entity33 means an operator can use the robot remotely , through a control console			0
+the first telesurgery took place in 2001 with a surgeon in @entity40 successfully removing the gall bladder of a patient in @entity43 , more than 3,730 miles ( 6,000km ) away			0
+the communications ran over a dedicated fiber provided by a telecommunications company			0
+but this is an expensive option since such fibers can cost tens of thousands of dollars			0
+since then , surgeons have carried out remote operations and begun to experiment with ordinary communications links over the web , which are significantly cheaper			0
+although there are no recorded incidents in which the communications infrastructure has caused problems during a telesurgery operation , there are still questions over security and privacy , said the experts			0
+source : @entity64 in the case of @entity20 , a remote operator users two long and thin arms to perform complex procedures where otherwise their hands might not be capable			0
+while this experiment was performed in a controlled environment and not on the operating table , the researchers said it 's clear more stringent security measures are needed			2
+@entity20 runs on a single pc , and communicates with a control console using a standard communications protocol known as @entity79			0
+but rather than take place over a secure private network , this takes place over public networks			1
+‘ due to the open and uncontrollable nature of communication networks , it becomes easy for malicious entities to jam , disrupt , or take over the communication between a robot and a surgeon , ’ said the researchers			1
+in their test , the experts performed various types of cyberattack to see how easily it could be disrupted			0
+this included changing the commands sent by an operator to the robot , modifying signals or hijacking - completely taking over - the robot			2
+and they were also able to ‘ easily stop the robot from ever being properly reset , thus effectively making a surgical procedure impossible			2
+’ while this experiment was performed in a controlled environment and not on the operating table ( stock image pictured ) , the researchers said it is clear more stringent security measures are needed during the experiment , an operator was asked to move blocks onto different pegs ( shown ) with the robot , but when the ' hackers ' took control , the task proved difficult - or impossible the researchers note that while their test applies only to @entity20 , other surgical robots that use similar teleoperation were likely also at risk			1
+‘ some of these attacks could have easily been prevented by using well - established and readily - available security mechanisms , including encryption and authentication , ’ the researchers note			1
+we believe that presented concerns are not unique to teleoperated surgery , but are common to all teleoperated robots			1
+‘ because of the wide variety of physical and digital capabilities these systems wield , telerobotic security needs to become front - and - centre			2
+’ the findings are published in the paper : to make a robot secure : an @entity136 on @entity137 .			0
+
+researchers at the @entity19 studied so - called telerobots
+they found robots designed for surgery could be hacked and manipulated
+this is because robots being tested were operated over public networks
+it allowed the researchers to access them and stop them working
+
+@entity20:Raven II
+@entity33:Teleoperation
+@entity19:University of Washington
+@entity79:Interoperable Telesurgery Protocol
+@entity43:France
+@entity40:New York
+@entity64:MIT Technology Review
+@entity136:Experimental Analysis of Cyber Security Threats Against Teleoperated Surgical Robots
+@entity137:arXiv

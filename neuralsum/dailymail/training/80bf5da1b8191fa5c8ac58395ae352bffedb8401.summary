@@ -1,0 +1,62 @@
+http://web.archive.org/web/20141016113711id_/http://www.dailymail.co.uk/sciencetech/article-2757013/The-robo-cheetah-one-day-outsprint-Usain-Bolt-jump-hurdles.html
+
+@entity0 has revealed the latest version of its running robo - cheetah - and pledged it will one day outrun @entity4			1
+the team has recently written an algorithm that allows the cheetah to ' bound ' like a real animal			1
+on an indoor track , the robot sprinted up to 10 mph , even continuing to run after clearing a hurdle - and researchers say it will eventually hit 30mph			1
+the predator is the fastest land animal on @entity23 , able to accelerate to 60 mph in just a few seconds			0
+as it ramps up to top speed , a cheetah pumps its legs in tandem , bounding until it reaches a full gallop , the @entity0 team say - and now their robo - cheetah can do the same the @entity0 team have built a sleek , four - legged assemblage of gears , batteries , and electric motors that weighs about as much as its feline counterpart			1
+the team recently took the robot for a test run on @entity0 's @entity40 to show it can run on rough terrain			1
+in experiments on an indoor track , the robot sprinted up to 10 mph , even continuing to run after clearing a hurdle			1
+the @entity0 researchers estimate that the current version of the robot may eventually reach speeds of up to 30 mph			1
+the key to the bounding algorithm is in programming each of the robot 's legs to exert a certain amount of force in the split second during which it hits the ground , in order to maintain a given speed : in general , the faster the desired speed , the more force must be applied to propel the robot forward			1
+@entity64 , an associate professor of mechanical engineering at @entity0 , hypothesizes that this force - control approach to robotic running is similar , in principle , to the way world - class sprinters race			1
+' many sprinters , like @entity4 , do n't cycle their legs really fast , ' @entity64 says			2
+the team have even given their robo - cheetah the markings of its animal counterpart ' they actually increase their stride length by pushing downward harder and increasing their ground force , so they can fly more while keeping the same frequency			1
+' @entity64 says that by adapting a force - based approach , the cheetah - bot is able to handle rougher terrain , such as bounding across a grassy field			1
+in treadmill experiments , the team found that the robot handled slight bumps in its path , maintaining its speed even as it ran over a foam obstacle			2
+' most robots are sluggish and heavy , and thus they can not control force in high - speed situations , ' @entity64 says			2
+' that 's what makes the @entity0 cheetah so special : you can actually control the force profile for a very short period of time , followed by a hefty impact with the ground , which makes it more stable , agile , and dynamic			1
+' @entity64 says what makes the robot so dynamic is a custom - designed , high - torque - density electric motor , designed by @entity113 , the @entity114 at @entity0			1
+these motors are controlled by amplifiers designed by @entity117 , a principal research engineer in @entity0 's @entity118			1
+the combination of such special electric motors and custom - designed , bio-inspired legs allow force control on the ground without relying on delicate force sensors on the feet			1
+@entity64 and his colleagues — research scientist @entity127 and graduate student @entity129 — will present details of the bounding algorithm this month at the @entity133 / @entity132 in @entity134			2
+the team say the act of running can be parsed into a number of biomechanically distinct gaits , from trotting and cantering to more dynamic bounding and galloping			0
+in bounding , an animal 's front legs hit the ground together , followed by its hind legs , similar to the way that rabbits hop — a relatively simple gait that the researchers chose to model first			2
+' bounding is like an entry - level high - speed gait , and galloping is the ultimate gait , ' @entity64 says			0
+' once you get bounding , you can easily split the two legs and get galloping			0
+' as an animal bounds , its legs touch the ground for a fraction of a second before cycling through the air again			0
+the percentage of time a leg spends on the ground rather than in the air is referred to in biomechanics as a ' duty cycle ' ; the faster an animal runs , the shorter its duty cycle			0
+@entity64 and his colleagues developed an algorithm that determines the amount of force a leg should exert in the short period of each cycle that it spends on the ground			0
+that force , they reasoned , should be enough for the robot to push up against the downward force of gravity , in order to maintain forward momentum			0
+' once i know how long my leg is on the ground and how long my body is in the air , i know how much force i need to apply to compensate for the gravitational force , ' @entity64 says			0
+' now we 're able to control bounding at many speeds			0
+' and to jump , we can , say , triple the force , and it jumps over obstacles			0
+' in experiments , the team ran the robot at progressively smaller duty cycles , finding that , following the algorithm 's force prescriptions , the robot was able to run at higher speeds without falling			2
+the team with their robo - cheetah at @entity0 @entity64 says the team 's algorithm enables precise control over the forces a robot can exert while running			1
+by contrast , he says , similar quadruped robots may exert high force , but with poor efficiency			0
+what 's more , such robots run on gasoline and are powered by a gasoline engine , in order to generate high forces			0
+' as a result , they 're way louder , ' @entity64 says			0
+' our robot can be silent and as efficient as animals			2
+' the only things you hear are the feet hitting the ground			0
+' this is kind of a new paradigm where we 're controlling force in a highly dynamic situation			0
+' any legged robot should be able to do this in the future			2
+
+@entity0 has created algorithm to allow robot to ' bound ' like a real cheetah
+can reach 10mph on track - and researchers say it will soon hit 30mph
+future versions could outrun human sprinters
+electric motors mean robot is virtually silent
+
+@entity23:Earth
+@entity0:MIT
+@entity4:Usain Bolt
+@entity113:Jeffrey Lang
+@entity117:David Otten
+@entity114:Vitesse Professor of Electrical Engineering
+@entity40:Killian Court
+@entity129:Meng Yee Chuah
+@entity134:Chicago
+@entity127:Hae-Won Park
+@entity118:Research Laboratory of Electronics
+@entity64:Kim
+@entity133:IEEE
+@entity132:RSJ International Conference on Intelligent Robots and Systems

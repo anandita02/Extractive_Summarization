@@ -1,0 +1,24 @@
+http://web.archive.org/web/20090426011729id_/http://edition.cnn.com:80/2009/BUSINESS/02/20/saab.reorganization/index.html
+
+-- @entity2 car manufacturer @entity1 , a fully owned subsidiary of @entity3 , announced friday that it will " file for reorganization ... to create a fully independent business entity			1
+" the @entity2 car maker says a formal reorganization is the best way to create an " entity that 's ready for investment			0
+" under the @entity2 court system , an independent administrator will be appointed to work closely with the @entity1 management team to formulate a reorganization proposal , which will be presented to creditors within three weeks of the filing			2
+@entity1 said it will continue to operate as usual and in accordance with the formal reorganization process , with the government providing some support during this period			0
+" we explored and will continue to explore all available options for funding and / or selling @entity1 and it was determined a formal reorganization would be the best way to create a truly independent entity that is ready for investment , " said @entity22 , managing director for @entity1			2
+" @entity1 has an excellent foundation for strong growth , assuming we can get the funding to complete engineering , tooling and manage launch costs			0
+reorganization will give us the time and means that help get these products to market , while minimizing the liquidity impact of @entity1 on @entity3 " @entity3 said this week that it plans shed tens of thousands of employees , close factories , cut product lines and wants billions of dollars in government funding to stave off bankruptcy			1
+when all is said and done , @entity3 said that by 2011 it could need a total of $ 30 billion , which includes the $ 13.4 billion in @entity49 loans it has already received			1
+in the near term , @entity3 will most certainly need $ 9.1 billion in additional loans and could require an additional $ 7.5 billion in the next two years if auto sales do n't improve .			0
+
+independent *adminstrator* appointed to form @entity1 reorganization plan
+auto maker says plan *considered* to be the best way to *attract* future funding
+@entity1 is a fully owned subsidiary of ailing @entity62 auto maker @entity3
+@entity3 is *fighting* to stave off bankruptcy with job cuts , @entity49 loans
+
+@entity3:GM
+@entity2:Swedish
+@entity1:Saab
+@entity0:CNN
+@entity22:Jan Ake Jonsson
+@entity62:U.S.
+@entity49:U.S. Treasury

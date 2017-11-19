@@ -1,0 +1,43 @@
+http://web.archive.org/web/20141010174208id_/http://www.dailymail.co.uk/sciencetech/article-2757728/Is-YOUR-Amazon-account-risk-Security-expert-finds-flaw-Kindle-library-expose-personal-details.html
+
+next time you log into @entity2 to manage your @entity3 and e-books , you could be putting your personal details at risk			1
+a @entity8 security researcher has spotted a vulnerability in the retail giant 's website that hackers could exploit to gain full access to users ' accounts			2
+the flaw , which can be exploited when a user downloads a malicious e-book , has been active since at least july this year , despite being reported to @entity2 ’s security team			1
+however , when @entity2 redesigned its @entity23 , earlier this year , the flaw was reintroduced			1
+the vulnerability is exposed if a user downloads a malicious e-book it was originally discovered by @entity8 security expert @entity22 in october , and was subsequently fixed in december			1
+everyone who uses @entity2 's @entity29 to store e-books or to deliver them to a @entity3 , is potentially at risk , said mr @entity22			1
+@entity32 is also known as @entity32 and is one of the most common web application vulnerabilities			0
+it lets hackers add and run their own scripts into web pages viewed by other users			0
+in a typical attack , a hacker ' inject ' malicious code into a legitimate website			0
+when a user visits the site , through a malicious link , the code is ' executed ' , which means it carries out whatever task the hacker has set it			0
+this can be used to steal login details , access accounts or added viruses to devices			0
+however , he stressed that the users most likely to fall victim to this vulnerability are those who obtain e-books from untrustworthy sources , such as pirate e-book sellers			2
+however , when @entity2 redesigned its @entity23 , earlier this year , the flaw was reintroduced			1
+‘ @entity2 's @entity29 , also known as @entity65 , and manage your @entity3 , is , at the time of writing , vulnerable to @entity32 ( @entity32 ) attacks , ’ explained mr @entity22			2
+‘ malicious code can be injected via e-book metadata			0
+' mr @entity22 continued that once an attacker manages to add a malicious e-book to a victim 's library , the code is executed as soon as the victim opens the @entity79 web page			1
+‘ as a result , @entity2 account cookies can be accessed by , and transferred to , the attacker and the victim 's @entity2 account can be compromised , ’ added mr @entity22			1
+the attack is known as @entity32 , or @entity32			0
+once an attacker manages to add the malicious e-book to a victim 's library , the code is executed as soon when they open the @entity79 web page			2
+@entity2 account cookies can then be accessed by the attacker and the victim 's @entity2 account can be compromised this could potentially expose personal addresses , payment details and order history			1
+everyone who uses @entity2 's @entity29 to store e-books or to deliver them to a @entity3 , is at risk , said mr @entity22			2
+‘ from the supplier 's point of view , vulnerabilities like this present an opportunity to gain access to active @entity2 accounts , ’ said mr @entity22			0
+‘ users who stick to e-books sold and delivered by @entity2 should be safe			0
+’ @entity2 has not yet responded to @entity110 ’s request for comment .			0
+
+flaw was originally discovered in october last year , and fixed in december
+when @entity2 redesigned its @entity3 , the flaw was reintroduced
+the vulnerability is exposed if a user downloads a malicious e-book
+hackers are then able to access the @entity2 account of the victim
+this potentially exposes addresses , payment details and order histories
+
+@entity3:Manage Your Kindle
+@entity2:Amazon
+@entity8:German
+@entity23:Manage Your Kindle page
+@entity29:Kindle Library
+@entity22:Mussler
+@entity32:XSS
+@entity79:Kindle Library
+@entity110:MailOnline
+@entity65:Manage Your Content and Devices

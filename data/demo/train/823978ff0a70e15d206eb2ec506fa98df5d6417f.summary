@@ -1,0 +1,71 @@
+http://web.archive.org/web/20140528141707id_/http://www.cnn.com:80/2013/02/03/opinion/sankar-human-computer-cooperation
+
+-- in 1997 , @entity1 was defeated by @entity4 's @entity3 supercomputer			0
+it seemed like a watershed moment , recalling the rise of the machines long prophesied in science fiction			0
+yet in 2005 , a freestyle chess tournament featured teams of humans partnering with computers in various combinations			1
+shockingly , two amateurs using three fairly weak laptops emerged victorious , beating grand masters and supercomputers in turn			0
+this contrast is fittingly emblematic of two great visionaries of computer science , @entity23 and @entity24			2
+@entity23 wrote canonical theories of self - replicating artificial intelligence and co-founded @entity29 's @entity28 lab. @entity24 proposed an alternate vision in his landmark paper , " @entity31 "			1
+in @entity24 's view , human intelligence should be complemented by machines , not replaced : " men will set the goals , formulate the hypotheses , determine the criteria and perform the evaluations			1
+computing machines will do the routinizable work that must be done to prepare the way for insights and decisions			0
+... " watch @entity46 's @entity45 technology is too often viewed through a utopian or alarmist lens , and it 's worth noting that @entity24 's work spanned the sublime and sobering alike			1
+he presaged much of the @entity53 revolution , and his research led to such breakthroughs as the modern graphical user interface			0
+he also worked on a computer - aided missile defense system designed to collect and present data to a human operator , who would choose the appropriate response			1
+it 's easy to argue that life and death decisions should never be left to machines , but @entity24 's vision was much broader , recognizing technology as an enabler for many human capacities			2
+since @entity1 and @entity3 squared off , we have seen numerous examples of man - computer symbiosis , while @entity28 relying solely on computers as @entity23 theorized it remains tantalizing , yet distant			1
+@entity45 : robots that fly ... and cooperate in terms of catalyzing human potential , the triumph of the chess amateurs in 2005 was just one glimpse of the future			2
+@entity83 , an online video game , allows nontechnical , nonbiologist players to visually " fold " protein structures , while computers calculate the chemical interactions corresponding to each arrangement			2
+in 2011 , @entity83 players needed only 10 days to produce an accurate @entity92 model of the @entity94 monkey virus , a protease whose structure had stumped scientists for 15 years			0
+it was an astonishing triumph of human visual - spatial reasoning , and one of the first major scientific advances to come from playing a video game ( though plenty of software engineers i know would argue that video games activate much more creativity than we care to acknowledge )			2
+the tension between the @entity23 and @entity24 visions has certainly been amplified in the age of so - called big data			1
+now , consider that most of what we think of as " big data " is created by deliberate human action : phone calls , web logs , credit card transactions , etc. when we hear about big data " solutions , " they tend to focus on computational approaches -- storage , search and processing -- with human intuition largely absent			1
+yet the unraveling of big data into meaningful insight may depend just as heavily on the human side of the equation			1
+why is this ? " pattern recognition " is a frequent @entity28 refrain , but computers ca n't learn to spot patterns they 've never seen			1
+the high - value targets in big data are invariably human : highly adaptive adversaries such as terrorists and cybercriminals whose ingenuity frustrates even the most advanced algorithms			1
+@entity45 : my seven species of robot yet even the nimblest fugitives leave clues , even patterns -- they 're just buried in an expanding universe of data , a challenge that intensifies as we seek still more data , hoping it will yield more insight			1
+adaptive adversaries require adaptive responses , and this begins with asking questions rooted in human intuition			2
+while technology can certainly be a force multiplier for good or evil , it 's difficult to imagine a pure @entity28 approach reverse - engineering the machinations of a terrorist mastermind			2
+when @entity169 intelligence tracked down @entity170 , it was a function of brilliant , resourceful people asking questions and testing hypotheses using a variety of technologies			1
+cybercriminals , as explored in my first @entity45 talk , tend to target the allegedly weakest links in the network : people			0
+yet how weak is something that can learn in ways even the most robust automated systems ca n't ? @entity45 : all it takes is 10 mindful minutes cyber security might always be an uphill , defensive struggle as techniques and technologies raise the stakes on both sides			1
+remember , though , that cyberwarfare is ultimately a human endeavor			0
+bot - nets , scripts and other automated tools play key roles , but they do n't exist in a vacuum			0
+this cuts both ways : sooner or later , everyone makes mistakes , even evil genius types			0
+that said , the enemy may well be two amateurs with a few weak laptops			0
+aspiring good guys must be absolutely relentless in refining the intersection of brainpower and computing power , each of which is vulnerable in isolation			0
+sometimes , the right combination of humans and technology can reshape the data landscape itself			1
+in the aftermath of @entity222 , my company partnered with veterans ' organization @entity223 to coordinate relief efforts in the @entity226			0
+it began with identifying the hardest - hit areas and greatest needs			0
+soon , as help poured in , the focus shifted to tracking projects , allocating manpower , and coordinating more than 10,000 volunteers in real time			0
+through rapid iteration , a group of determined people using low - friction technology had created a vast , self - regulating system			0
+each discrete data point was simple enough -- the status of a project , levels of need , locations of assets -- but in aggregate , the effect was transformative			0
+while experience teaches that each approach has its caveats , we have every reason to be excited about the possibilities of human - computer symbiosis			1
+almost 50 years since the identification of @entity259 , and 10 years since the human genome was first sequenced , humans and machines are beginning a new arc of re-imagining and discovery -- together			2
+the opinions expressed in this commentary are solely those of @entity46 .			2
+
+@entity46 : some say computers could attain artificial intelligence superior to humans
+a more realistic approach is to envision computers aided by human intelligence , he says
+computers can spot patterns from the past but ca n't anticipate as people can , he says
+@entity46 : human thought , aided by computer power , can make sense of " big data "
+
+@entity3:Deep Blue
+@entity23:Minsky
+@entity1:Kasparov
+@entity0:CNN
+@entity24:Licklider
+@entity4:IBM
+@entity28:A.I.
+@entity29:MIT
+@entity223:Team Rubicon
+@entity169:U.S.
+@entity53:Internet
+@entity45:TED.com
+@entity46:Sankar
+@entity83:Foldit
+@entity226:Rockaways
+@entity170:Osama bin Laden
+@entity259:Moore 's Law
+@entity94:Mason-Pfizer
+@entity222:Superstorm Sandy
+@entity31:Man-Computer Symbiosis
+@entity92:3-D

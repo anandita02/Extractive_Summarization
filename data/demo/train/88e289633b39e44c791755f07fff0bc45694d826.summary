@@ -1,0 +1,35 @@
+http://web.archive.org/web/20140311065833id_/http://www.cnn.com/2013/11/12/health/trevor-bayne-multiple-sclerosis/
+
+-- @entity2 driver @entity1 has been diagnosed with multiple sclerosis , according to his racing team			1
+multiple sclerosis is a chronic disease that affects the central nervous system , often causing pain , numbness in the limbs and a loss of vision			1
+symptoms vary by patient and can disappear for months at a time , making it difficult to diagnose early on			0
+doctors have cleared @entity1 , 22 , to compete , said a statement by @entity18			1
+" i am in the best shape i 've ever been in , and i feel good , " @entity1 said			2
+" there are currently no symptoms and i 'm committed to continuing to take the best care of my body as possible			0
+" @entity1 was the youngest driver in @entity2 history to win the @entity26 in 2011			2
+he said he plans to race in the @entity27 in 2014			0
+@entity26 fast facts scientists do not know what causes multiple sclerosis , according to the @entity32 , although a person 's risk increases if a family member has the disease			1
+women are more likely than men to develop the disease , and it affects @entity40 more than other ethnic groups			0
+more than 2.3 million people worldwide have been diagnosed , according to the @entity43			0
+with @entity46 , the body 's immune system destroys a fatty substance called myelin that protects nerve fibers in the brain and spinal cord			1
+this causes communication problems between the brain and body , according to the @entity32 , and may damage the nerves permanently			0
+there is currently no cure for @entity46 doctors focus treatment on managing the patient 's symptoms and slowing the progression of the disease with medication , physical therapy and an overall healthy lifestyle , such as getting plenty of sleep and eating right			1
+stress can trigger @entity46 symptoms , so patients often do yoga or meditate to relieve anxiety			1
+as the disease progresses , patients may experience extreme fatigue , balance problems and muscle weakness			0
+occasionally @entity46 will lead to partial or full paralysis			0
+it is not normally fatal ; most patients with @entity46 have " a normal or near - normal life expectancy , " the @entity43 says .			2
+
+multiple sclerosis is a chronic disease that affects the central nervous system
+doctors have cleared @entity1 , 22 , to compete , his racing team says
+there is no cure for @entity46 , but patients can manage symptoms with medication , healthy lifestyle
+
+@entity2:NASCAR
+@entity1:Trevor Bayne
+@entity0:CNN
+@entity26:Daytona 500
+@entity27:NASCAR Nationwide Series Championship
+@entity18:Roush Fenway Racing
+@entity46:MS
+@entity32:Mayo Clinic
+@entity40:Caucasians
+@entity43:National MS Society

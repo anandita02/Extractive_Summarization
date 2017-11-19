@@ -1,0 +1,53 @@
+http://web.archive.org/web/20140812110022id_/http://edition.cnn.com/2011/11/08/tech/mobile/apple-ios-bug-apps/index.html
+
+-- a bug in @entity3 's mobile operating system allows hackers to take control of @entity7 and @entity8 apps , using them to steal people 's photos , contacts and even send text messages without the device 's user knowing about it , according to a notable computer security researcher			1
+@entity17 , a researcher at @entity18 and one of the world 's best - known @entity3 hackers , said tuesday that the bug proves the @entity22 is n't as safe as advertised			1
+" until now , you could just blindly trust and download as many apps as you wanted and not worry about it , " @entity17 said in an interview with @entity0			2
+" but until they fix this , you really should think twice about any apps you 're downloading , because they could be malicious			0
+" @entity17 said he alerted @entity3 to the bug three weeks ago and the company told him a fix was in the works			1
+@entity3 did not respond to @entity0 's request for comment on the apparent security flaw , which @entity17 explains in detail on @entity39			1
+he plans to show people how the bug works at an upcoming computer security conference in @entity42 , called @entity43			2
+to date , he has not released details that would allow hackers to take advantage of the apparent security flaw , and he said he has no evidence that hackers have used the hole to manipulate iphones and @entity8			1
+@entity17 says he has exposed the bug to prevent a hacker with bad intentions from taking advantage of @entity7 and @entity8 owners			1
+as thanks for that work , he said , @entity3 banned him from the ios developer program for a year			2
+" i think it 's pretty rude , " he said			0
+" if you think about what i 'm doing -- i 'm pointing out a flaw that would affect everybody and that the bad guys could use to install malware ( malicious software )			0
+and they 're not paying me , i 'm just doing it to be nice			0
+" he did upload an app , called @entity69 , which was armed with this capability , he said			0
+that app only was capable of hurting his own devices , he said , and was uploaded to the @entity22 to test the bug			2
+" it 's not evil or bad or anything , " he said			0
+" it never even downloads code and runs it unless i run it			0
+" it since has been removed from the @entity22			2
+if hackers found the security flaw , he said , any @entity79 app could be compromised in a way that malicious code could be installed through the app and onto the device			1
+" it could grab your address book and ship it off to the bad guy , " he said			0
+" it could grab all your photos and ship them off to a bad guy			0
+" that 's a big deal for @entity3 's @entity22 , he said , since until now , that online marketplace for @entity7 and @entity8 programs had been free of malicious software			1
+@entity3 checks each app before it 's approved for sale at the @entity22 , which allows the company to keep bugs out			1
+this hack could take advantage of a flaw in that checking system to compromise any app , @entity17 said			2
+he said that essentially reduces the @entity22 's security to that of the @entity107 , since @entity108 does n't screen apps in the way @entity3 does			1
+but overall , the @entity22 is still safer than the @entity107 , @entity17 said			1
+" it 's totally just a blip , " he said of the security hole			1
+" i 'm very happy with the way ( @entity3 has ) designed the system to prevent malware			0
+it 's really the ideal situation			0
+" he added : " it 's a very safe environment except for this			0
+it just shows that you 've never completely safe			0
+
+researcher : @entity79 flaw raises questions about @entity22 's security
+the security hole could let hackers steal photos , contacts and send texts , he says
+@entity17 , the researcher , is one of the most prominent @entity3 hackers
+@entity17 says he alerted @entity3 to the bug three weeks ago
+
+@entity3:Apple
+@entity17:Miller
+@entity0:CNN
+@entity7:iPhone
+@entity39:YouTube
+@entity43:SyScan
+@entity8:iPad
+@entity22:App Store
+@entity18:Accuvant
+@entity69:Instastock
+@entity42:Taiwan
+@entity107:Android Market
+@entity108:Google
+@entity79:iOS

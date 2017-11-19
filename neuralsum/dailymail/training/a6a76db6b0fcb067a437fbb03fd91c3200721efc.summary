@@ -1,0 +1,51 @@
+http://web.archive.org/web/20150530202830id_/http://www.dailymail.co.uk/sciencetech/article-2823311/Apple-devices-malware-attack-iphones-iPads-Macs-hit-WireLurker-virus-steals-personal-information.html
+
+@entity1 devices are at risk of a virus described by researchers as ' the biggest scale ' malware they have ever seen			1
+dubbed @entity7 , the malware targets both @entity10 computers as well as phones and tablets running @entity13 when connected using a usb cable			1
+after it has infected the @entity10 , when a mobile device is connected to the infected computer the virus spreads and installs malicious apps			1
+dubbed @entity7 , the malware targets both @entity10 computers and laptops ( pictured ) as well as phones and tablets running @entity13			1
+it was discovered by experts at @entity26 who detailed their findings in a research paper it was discovered by experts at @entity26 who detailed their findings in a research paper			2
+' we believe that this malware heralds a new era in attacking @entity1 's desktop and mobile platforms , ' explained lead researcher @entity36			0
+@entity7 monitors @entity13 devices , including ipods , iphones and @entity40 , connected to a @entity10 via usb			2
+the virus begins by infecting the @entity44 software , through malicious files or links			0
+when a device is connected to this infected @entity10 , the malware automatically installs malicious apps onto the phone or tablet			1
+the researchers said this malware combines a number of techniques to successfully ' realise a new brand of threat to all @entity13 devices '			0
+the experts suggest @entity13 and @entity10 owners only download apps from the official @entity1 app store , and that they make sure to keep their software up to date			1
+' it is only the second known malware that attacks @entity13 devices through @entity67 via @entity68 [ and ] is the first malware to automate generation of malicious ios applications , through binary file replacement			2
+' @entity7 monitors @entity13 devices , including ipods , iphones and @entity40 , connected to a @entity10 via usb			2
+the virus begins by infecting the @entity44 software , through malicious files or links			0
+when a device is connected to this infected @entity10 , the malware automatically installs malicious apps onto the phone or tablet			1
+the researchers said this malware combines a number of techniques to successfully ' realise a new brand of threat to all @entity13 devices '			0
+@entity7 is then capable of stealing information from the devices it infects			0
+this malware is under active development and its creator 's ultimate goal is not yet clear , added mr @entity36			0
+@entity26 said that the attacks have been concentrated in @entity98 , and only currently affect @entity98 users because the malware originated from a @entity98 third - party apps store called @entity102			1
+@entity1 said it had clocked the offended apps , and urged people to only download apps from its official store			0
+' we are aware of malicious software available from a download site aimed at users in @entity98 , and we 've blocked the identified apps to prevent them from launching , ' @entity1 said			1
+@entity7 monitors @entity13 devices , including ipods , @entity74 ( pictured ) and @entity40 , connected to a @entity10 via usb			2
+the virus begins by infecting the @entity44 software , through malicious files or links			0
+when a device is connected to this infected @entity10 , the malware automatically installs malicious apps onto the phone or tablet @entity26 said that the attacks have been concentrated in @entity98 , and only currently affect @entity98 users because the malware originated from a @entity98 third - party apps store called @entity102 ( pictured )			1
+however , they warned it has the potential to spread to other regions however , it has the potential to spread to other regions , and other stores			0
+according to the company , more than 460 infected apps had been downloaded over 356,000 times so far			0
+the experts suggest @entity13 and @entity10 owners only download apps from the official @entity1 app store and that they make sure to keep their software up to date			1
+they also advise people to install antivirus and security software , and never connect a device to an unknown , or unsafe computer .			0
+
+*wirelurker* malware targets @entity67 as well as the mobile @entity13 software
+when a mobile is connected to an infected @entity10 , the virus spreads
+it installs malicious apps on the device , and uses these to steal information
+malware was discovered by experts at @entity26 in @entity160
+it is currently only affecting @entity1 product owners in @entity98 - but has the potential to spread elsewhere
+
+@entity67:OS X
+@entity1:Apple
+@entity26:Palo Alto Networks
+@entity7:WireLurker
+@entity10:Mac
+@entity36:Xiao
+@entity160:California
+@entity44:Mac OS
+@entity102:Maiyadi
+@entity40:iPads
+@entity74:iPhones
+@entity68:USB
+@entity98:China
+@entity13:iOS

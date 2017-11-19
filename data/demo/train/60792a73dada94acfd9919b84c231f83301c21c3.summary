@@ -1,0 +1,94 @@
+http://web.archive.org/web/20130707020238id_/http://www.cnn.com:80/2012/02/20/tech/innovation/apple-siri-osx-mountain-lion
+
+-- @entity3 's latest @entity2 update , @entity1 , adds a slate of new features , nearly all derived from @entity6			1
+there 's one big omission , however : @entity9 , @entity3 's voice - controlled virtual assistant , does not make the migration from mobile to desktop			1
+now , technically , @entity9 is n't a part of @entity6			1
+it 's marketed as the most game - changing feature of the @entity18 ( which runs @entity19 5 ) , and @entity3 has remained mum on whether @entity9 will ever be ported to other devices — this to the pique of independent developers who 've hacked the feature to run on everything from the @entity27 to thermostats			1
+clearly , @entity9 is @entity3 's most celebrated user feature			1
+and , clearly , there 's interest to see it appear on other @entity3 devices			1
+indeed , companies throughout the consumer tech industry are exploring novel new user interface models , including voice - control and gesture - control			0
+but porting @entity9 to @entity1 desktops would pose several challenges			1
+@entity3 was smart to leave it out of the latest desktop update , and here 's why			2
+microphone logistics microphone positioning on macbooks and @entity46 would present technical challenges for any @entity9 desktop port			1
+the @entity18 is designed to be held up to your face , and has a built - in mic that includes advanced noise reduction technology to ensure your voice is heard loud and clear , while street noise and the nearby guy shouting into his phone are n't picked up			2
+in part , this is accomplished by using two microphones : one near your mouth to pick up your voice , and another near the headphone jack to identify and cancel out background noise			0
+yes , your @entity63 has an omnidirectional microphone built - in			0
+it 's very convenient for using @entity66 in conjunction with the notebook 's camera , or for the speech recognition function built into @entity71 for os control			2
+the omnidirectional mic , however , does n't offer the same voice - processing sensitivity of the @entity76 ′ s dual - mic arrangement			2
+@entity77 told , @entity9 voice analysis would be far more challenging on a @entity71 computer , particularly when other voices or noises are in the room			1
+granted , using an external mic , or even the mic on your throwaway @entity86 earbuds , could provide a solution			0
+but even though @entity9 is still considered a beta product , @entity3 would n't resort to such an inelegant hack just to put @entity9 on @entity71			1
+" @entity3 has been reluctant to put in features that require something like that , " @entity92 analyst @entity91 told @entity0			2
+" it 's too fussy for what they like to do			0
+current speech - recognition products work pretty well if you wear a special high - quality microphone			0
+what 's very clear is they need the mic on your face , right by your lips			0
+" location detection @entity9 is all about location - awareness			2
+she wants to give you directions , provide local weather reports , and locate the closest sources of exotic cuisine			0
+but desktop computers do n't include native gps			1
+" i think the main challenge [ in bringing @entity9 to @entity1 ] would be the lack of an accurate location being available , " said @entity117 - @entity116 , ceo of @entity118 , which has developed a @entity9 clone called @entity118			1
+what 's more , as @entity124 points out , desktop computers are relatively stationary devices , so a @entity71 version of @entity9 may not even need location - awareness , as a large portion of @entity9 's talents would never be engaged			1
+all of which begs the question , if a good portion of @entity9 's functionality is n't even germane to the desktop experience , why even deliver a port ? while macbooks do n't currently include gps services , various web services ( like @entity140 ) can figure out your location by using either ip geolocation , or by triangulating your position based on @entity146 networks around you			1
+these strategies , however , deliver location accuracy limited to about 150 feet , whereas @entity115 can peg you within 10 feet of your precise position on the @entity151			0
+future @entity137 could easily include gps chip built - in for more exact positioning , but for now , laptop and desktop geolocation capabilities are n't accurate — or even that necessary			1
+hands - free voice control is n't needed people tend to use @entity9 because their hands are tied , like when driving			1
+thus , " siri , where 's the nearest gas station ? " with @entity9 , you can find the answer quickly , and relatively safely , while keeping your eyes on the road			2
+but these basic use cases just do n't transfer to the desktop			2
+" i think it is fair to say that the advantages that a voice - powered assistant give are stronger on a small mobile device , " @entity116 said			0
+" pcs typically have a much larger screen and a keyboard and mouse			0
+" or , in @entity3 's case , a trackpad or @entity177 instead of a mouse , depending if you 're on a laptop or desktop			2
+either way , hand - driven data entry is a familiar — and generally effective — method for using today 's computers			0
+what 's more , as @entity116 points out , " pcs are also often used in environments where the use of voice would be awkward , " such as inside an open floor plan office			0
+granted , if you 're disabled or injured , you could certainly make use of a hands - free feature			0
+but in these cases , you would probably want a tool more robust than @entity9			0
+which brings us to our next point : limited use cases with @entity9 , you can do things like schedule reminders , look up restaurant and business information on @entity206 , get information from @entity208 alpha , and ask general search engine - style queries			0
+that 's not a large number of functions , and they 're not specifically suited to the desktop environment			0
+indeed , why would you have @entity9 look up something when you can more quickly run your own @entity140 search ? " on the @entity18 , people want to do short things , like quick dictation and sending a quick text message , " @entity219 says			0
+the use cases would be different on a @entity71 , and not necessarily centered around short phrases			0
+@entity9 's capabilities would need to expand in order to handle these different functions			0
+always - on data lastly , @entity9 needs a constant data connection in order to interface with @entity3 's servers			1
+until macbooks include a built - in @entity235 , or more likely , 4g data connection , @entity146 alone wo n't cut it for consistent , high - quality network availability , @entity91 says			0
+@entity91 also believes @entity9 ties into unique hardware features that make chatter between one 's device and @entity3 's data center more streamlined			1
+" there seems to be special silicon within a special chip that has capabilities for voice recognition that a @entity71 would n't have , " he said			1
+@entity91 notes that @entity9 is sometimes able to analyze a query and provide a response extremely quickly , while other times , it takes 10 to 15 seconds of processing			0
+" i think the chip does some pre-analysis , shrinks stuff it has to send , @entity3 's data center gets a crunched answer , and @entity9 displays it on screen , " @entity91 said			1
+" @entity3 may be working on siri - enabling features [ for @entity71 ] in the future , but there will be some hardware enhancements to go with it , " @entity91 said			1
+" and they 'll think long and hard about the use case before they implement a voice feature in the @entity71 " subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity269 .			2
+
+@entity3 has remained mum on whether @entity9 will ever be ported to other devices
+putting @entity9 to @entity1 desktops would pose several challenges
+@entity9 voice analysis would be far more challenging on a @entity71 computer
+@entity9 is all about location services and desktop computers do n't include native gps
+
+@entity27:iPod touch
+@entity117:William Tunstall
+@entity116:Tunstall-Pedoe
+@entity115:GPS
+@entity86:iDevice
+@entity151:Earth
+@entity137:MacBooks
+@entity118:Evi
+@entity3:Apple
+@entity2:OS X
+@entity1:Mountain Lion
+@entity0:WIRED magazine
+@entity6:iOS 5
+@entity177:Magic Trackpad
+@entity235:3G
+@entity9:Siri
+@entity219:Gillette
+@entity92:Forrester
+@entity77:All
+@entity76:iPhone 4
+@entity71:Mac
+@entity19:iOS
+@entity18:iPhone
+@entity208:Wolfram
+@entity269:Wired.com
+@entity124:Tunstall-Pedoe
+@entity206:Yelp
+@entity91:Gillett
+@entity146:WiFi
+@entity140:Google
+@entity46:iMacs
+@entity66:FaceTime
+@entity63:MacBook Pro

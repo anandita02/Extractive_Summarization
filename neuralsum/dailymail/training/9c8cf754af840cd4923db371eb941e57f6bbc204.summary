@@ -1,0 +1,82 @@
+http://web.archive.org/web/20150319085120id_/http://www.dailymail.co.uk/news/article-2717307/Russian-hackers-steal-1-2B-passwords.html
+
+@entity1 hackers have stolen 1.2 billion user names and passwords in a series of @entity6 heists affecting 420,000 websites , according to a report published tuesday			1
+the thievery was uncovered by @entity10 , a @entity11 firm that specializes in exposing security breaches			2
+the identities of the websites that were broken into have n't been revealed yet			1
+concerns : besides filching 1.2 billion online passwords , the hackers also have amassed 500 million email addresses that could help them engineer other crimes the breaches were reported by @entity22 , which said nondisclosure agreements required @entity10 to keep some information confidential			2
+the reported break - ins are the latest incidents to raise doubts about the security measures that both big and small companies use to protect people 's information online			1
+security experts believe hackers will continue breaking into computer networks unless companies become more vigilant			2
+' companies that rely on usernames and passwords have to develop a sense of urgency about changing this , ' @entity36 , a security analyst at the research firm @entity37 told the @entity22			2
+retailer @entity44 is still struggling to win back its shoppers ' trust after hackers believed to be attacking from @entity48 stole 40 million credit card numbers and 70 million addresses , phone numbers and other personal information last winter			2
+@entity53 , the founder and chief information security officer of @entity10 , told the @entity22 that most of the sites hit by the @entity1 hackers are still vulnerable to further break - ins			1
+besides filching 1.2 billion online passwords , the hackers also have amassed 500 million email addresses that could help them engineer other crimes , according to hold security			2
+so far little of the information stolen in the wave of attacks appears to have been sold to other online crooks , according to the @entity22			1
+instead , the information is being used to send marketing pitches , schemes and other junk messages on social networks on @entity72 , the newspaper said			1
+the breadth of these break - ins should serve as a chilling reminder of the skullduggery that has been going undetected on the internet for years , said @entity78 , ceo of another security firm , @entity79			1
+' this issue reminds me of an iceberg , where 90 percent of it is actually underwater , ' @entity78 said in an emailed statement			2
+' that 's what is going on here ... so many cyber breaches today are not actually reported , often times because companies are losing information and they are not even aware of it			2
+' @entity91 , principal threat researcher from @entity92 , said that despite the huge volume of data stolen by the @entity1 , there 's no cause for panic			1
+he told @entity98 : ' there 's no need to run around and panic			0
+it 's not the first or last data breach - just a very large one			1
+plus , there 's still speculation about just how old this data is			1
+' mr @entity91 explained that using robust passwords is the key to keeping personal details safe from intruders			0
+he said : ' use strong passwords , it 's a no brainer			0
+we 've been teaching that for 10 to 20 years - and some people still use ' 12345 ' as a password			1
+having said that , it does n't have to be really cryptic			1
+for example , you could go for ' ireadthedailymailonceaday '			0
+and make sure you use different passwords for every service , so that losing one password does n't compromise too many accounts			1
+it 's fine to use the same one if it 's not linked to something sensitive			0
+' if you ca n't remember your passwords , use an app like ' password manager '			1
+this means you just need to remember one master password that unlocks all of them			0
+' @entity133 , senior systems engineering manager for @entity135 , said : ' it is worth noting that these hackers , unless they are specifically interested in a specific company for espionage , will move onto a new target if their chosen one is too difficult to compromise			0
+so in terms of protecting yourself , you only have to make your apps more difficult to compromise than your neighbours and you will be in a better position than you are today			0
+' he added : ' as we have seen in the news , especially with the @entity150 , these types of attacks and the market for this information is growing and is almost becoming legitimised in some circles			0
+' the news follows claims by a @entity159 - based hacker that he 's found a way to infiltrate communication systems on planes through @entity164 and inflight entertainment systems			1
+@entity166 , a consultant with cyber security firm @entity168 , is scheduled to explain his method at this week 's @entity170 hacking conference in @entity172			0
+exposing threats : cybersecurity researcher @entity166 says he has figured out how to hack the satellite communications equipment on passenger jets through their @entity164 and inflight entertainment systems details are still sketchy about how the plane hack was done			0
+mr @entity166 , however , has revealed that one vulnerability in equipment from all five manufacturers was the use of ' hardcoded ' log - in credentials			1
+these are designed to let service technicians access any piece of equipment with the same login and password			0
+the problem is that hackers can retrieve those passwords by hacking into the firmware , then use the credentials to access sensitive systems , mr @entity166 said			0
+if his claim is confirmed , it could prompt a serious review of aircraft security			0
+' these devices are wide open			0
+the goal of this talk is to help change that situation , ' mr @entity166 , 32 , told @entity204			0
+the researcher said he discovered the vulnerabilities by ' reverse engineering ' - or decoding - highly specialised software known as firmware , used to operate communications equipment			1
+this equipment is made by companies including @entity213 , @entity214 , @entity216 's @entity215 , @entity217 and @entity218 in theory , a hacker could use a plane 's onboard @entity164 signal or inflight entertainment system to hack into its avionics equipment , potentially disrupting or modifying satellite communications			0
+this could interfere with the aircraft 's navigation and safety systems , mr @entity166 said .			0
+
+the identities of the websites that were broken into have n't been identified
+most of the sites hit ' are still vulnerable to further break - ins ' , says expert
+the stolen data is being used to send scams and junk mail on @entity72 - so far
+
+@entity22:Times
+@entity159:Berlin
+@entity11:Milwaukee
+@entity135:F5 Networks
+@entity150:European Central Bank Hacking
+@entity133:Gary Newe
+@entity214:Harris Corp
+@entity170:Black Hat
+@entity1:Russians
+@entity172:Las Vegas
+@entity6:Internet
+@entity213:Cobham Plc
+@entity36:Avivah Litan
+@entity218:Japan Radio Co Ltd.
+@entity53:Alex Holden
+@entity79:Triumfant
+@entity78:Prisco
+@entity72:Twitter
+@entity37:Gartner
+@entity10:Hold Security
+@entity216:EchoStar Corp
+@entity217:Iridium Communications Inc
+@entity98:MailOnline
+@entity92:Symantec Security Response
+@entity91:Wueest
+@entity204:Reuters
+@entity166:Santamarta
+@entity164:Wi-Fi
+@entity168:IOActive
+@entity44:Target Corp.
+@entity215:Hughes Network Systems
+@entity48:Eastern Europe

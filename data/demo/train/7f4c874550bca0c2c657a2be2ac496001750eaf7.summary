@@ -1,0 +1,20 @@
+http://web.archive.org/web/20140608102441id_/http://www.cnn.com/2014/06/07/world/africa/south-africa-zuma-hospitalized/
+
+-- @entity4 president @entity3 has been admitted to the hospital for tests , his spokesman @entity1 said in a statement saturday			1
+" yesterday president @entity3 was advised to rest following a demanding election and transition programme to the new administration , " @entity1 said			1
+" doctors are satisfied with his condition , " the statement read			0
+@entity3 was re-elected to a second term last month despite economic woes , deadly mining protests and corruption allegations			2
+his party , the @entity19 , won the general election with 62 % of the vote , which was lower than the previous election			0
+after a turbulent first term , @entity3 said during his inaugural address that his government will perform better this time around and take responsibility for any shortcomings			2
+" we will ... ensure much tighter accountability , with firm consequences where there is a failure to deliver services to our people , " he promised .			0
+
+@entity4 president @entity3 went to the hospital for tests , spokesman says
+doctors advised rest following his re-election , statement says
+@entity3 won a second term and was inaugurated last month
+he promised to do better during his second term
+
+@entity3:Zuma
+@entity1:Maharaj
+@entity0:CNN
+@entity19:African National Congress
+@entity4:South African

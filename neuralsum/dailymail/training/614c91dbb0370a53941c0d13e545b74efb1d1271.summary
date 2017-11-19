@@ -1,0 +1,33 @@
+http://web.archive.org/web/20150108043801id_/http://www.dailymail.co.uk/sciencetech/article-2568466/The-computer-virus-spreads-like-COLD-Researchers-warn-wifi-networks-infected-like-human-virus.html
+
+a virus that spreads through wifi networks as effectively as a human cold moves through densely populated areas has been revealed			1
+the experimental virus , called chameleon , was able to spread quickly between homes and businesses			1
+it could avoid detection and identify the points at which @entity12 access is least protected by encryption and passwords			1
+the researchers say their virus could spread through cities as effectively as the common cold virus the chameleon virus can travel between @entity12 networks via @entity21 ( @entity22 ) that connect households and businesses to @entity12 networks			2
+it was able to avoid detection and identify the points at which @entity12 access is least protected by encryption and passwords , using them to hop between networks			1
+chameleon was able to avoid detection as current virus detection systems look for viruses that are present on the internet or computers , but @entity31 is only ever present in the @entity12 network the @entity39 team simulated an attack on @entity41 and @entity42 in a laboratory setting , and found that @entity31 behaved like an airborne virus , travelling across the @entity12 network via @entity21 ( @entity22 ) that connect households and businesses to @entity12 networks			1
+the team say major cities are at risk of attacks from similar systems created by hackers			1
+areas that are more densely populated have more wifi access points in closer proximity to each other , which meant that the virus propagated more quickly , particularly across networks connectable within a 10 - 50 metre radius			2
+@entity59 , professor of @entity60 at the @entity39 , said : ' when chameleon attacked an @entity22 it did n’t affect how it worked , but was able to collect and report the credentials of all other @entity12 users who connected to it			0
+' the virus then sought out other @entity66 that it could connect to and infect			0
+' chameleon was able to avoid detection as current virus detection systems look for viruses that are present on the internet or computers , but chameleon is only ever present in the @entity12 network			2
+whilst many @entity22 are sufficiently encrypted and password protected , the virus simply moved on to find those which were n’t strongly protected including open access @entity12 points common in locations such as coffee shops and airports			0
+although the virus is currently experimental , researchers warn it could be used by hackers to collect and report the passwords of users who connect to infected networks			0
+professor @entity59 continued said : ' @entity12 connections are increasingly a target for computer hackers because of well - documented security vulnerabilities , which make it difficult to detect and defend against a virus			0
+' it was assumed , however , that it was n’t possible to develop a virus that could attack @entity12 networks but we demonstrated that this is possible and that it can spread quickly			0
+' we are now able to use the data generated from this study to develop a new technique to identify when an attack is likely			0
+
+@entity39 team *designed* experimental virus to spread through areas with lots of wifi networks
+say it could be used to attack major cities
+was able to avoid detection and identify the points with *weakest* security
+
+@entity22:APs
+@entity31:Chameleon
+@entity21:Access Points
+@entity12:WiFi
+@entity39:Liverpool
+@entity41:Belfast
+@entity42:London
+@entity66:WiFi APs
+@entity59:Marshall
+@entity60:Network Security

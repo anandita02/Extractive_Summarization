@@ -1,0 +1,75 @@
+http://web.archive.org/web/20150606035915id_/http://www.dailymail.co.uk/news/article-2123214/New-York-City-taxi-firm-parking-garage-massive-credit-card-data-theft-affected-10MILLION-people.html
+
+credit behemoths @entity0 and @entity2 were scrambling yesterday to track down the third party processor that stole credit card data from as many as ten million customers			1
+the stolen data has now been linked to a @entity9 taxicab or parking - garage company , which has access to millions of credit card numbers			1
+experts are now imploring anyone who has ridden in a @entity9 taxi or parked in a garage within the metropolitan area to check their credit card statements or contact their financial institution			1
+according to @entity21 , a security analyst at @entity23 , thieves have been stockpiling the information for months			2
+ripe for the taking : analysts believe credit card data was collected from a @entity9 taxi firm pay day : every @entity9 taxi comes equipped with a credit card machine ; many riders find it easier to pay with credit than dealing with cash ' from what i hear , the breach involves a taxi and parking garage company in the @entity9 area , so if you ’ve paid a @entity9 cab in the last few months with your credit or debit card — be sure to check your card statements for possible fraud , ’ she said yesterday			1
+' those transactions are aggregated ' and sent to a server , ms @entity49 said			0
+' it has a lot of hops along the way ' before the card information reaches a processor			0
+she believes the data is already being used on the street by identity thieves			0
+she wrote on her blog : ' i ’ve spoken with folks in the card business who are seeing signs of this breach mushroom			0
+looks like the hackers have started using the stolen card data more recently			0
+she also said that unverified reports point to a ' @entity72 gang that broke into the company 's system by answering the application 's knowledge - based authentication questions correctly			2
+' looks like the hackers took over an administrative account that was not protected sufficiently			0
+’ investigation : @entity2 and @entity0 are said to have notified all of their customers of the security breach according to blog @entity84 , which first reported the embarrassing security breach , the stolen data can be used to create duplicate cards			1
+the @entity88 is now investigating a major cyber intrusion at an @entity91 - based payment processor that could expose millions of @entity2 , @entity0 , @entity92 and @entity94 cardholders to fraudulent charges			1
+@entity96 said on friday it had found ' unauthorized access ' into its system early in march and notified law enforcement and financial institutions			0
+payment network operators @entity2 , @entity0 , @entity92 and @entity101 confirmed they were affected , along with banks and other franchises that issue cards bearing their logos			1
+' if you 've paid a @entity9 cab in the last few months with your credit or debit card , be sure to check your card statements for possible fraud			1
+' - @entity21 a spokesman for the @entity88 said the agency is leading investigations into the case but declined to give any details			0
+the companies notified @entity120 banks of a potential security breach , and they are now going through the process of pinpointing the affected accounts before contacting customers involved			1
+customers are urged to check their accounts online or contact their financial institution regarding any concerns they have			1
+@entity0 have already provided the issuing banks with the affected account numbers and assured customers they would not be responsible for fraudulent purchases			2
+the companies , which are the two largest global credit card processors , said the issue stemmed from a third - party vendor , reportedly @entity139 , and not their own internal systems			1
+@entity91 - based company @entity139 are being named as the third party processor where the breach occurred			1
+following the news , shares of the company were halted after dropping more than 9.1 per cent			0
+global payments said it had ' identified and self - reported unauthorized access into a portion of its processing system ' and had determined in early march that the intruders might have gained access to credit - card data			2
+theft : @entity2 confirmed they are currently investigating a potential account data compromise event of a @entity120 - based entity though millions of @entity120 cardholders could be affected , it does not necessarily mean their cards were used fraudulently but that the cardholder 's information was accessed			1
+@entity2 said in a statement : ' @entity2 is concerned whenever there is any possibility that cardholders could be inconvenienced and we continue to both monitor this event and take steps to safeguard account information			2
+' if cardholders have any concerns about their individual accounts , they should contact their issuing financial institution			0
+' @entity0 also released a statement saying their customers were victims of data theft , but said its own systems were not hacked			2
+' @entity0 is aware of a potential data compromise incident at a third party entity affecting card account information from all major card brands			2
+' @entity0 has provided payment card issuers with the affected account numbers so they can take steps to protect consumers through independent fraud monitoring and , if needed , reissuing cards			2
+' @entity84 , left , reported that @entity2 and @entity0 were contacting their customers about the breach and @entity21 , right , security analyst at @entity23 , said there are signs the data is already being used by thieves once a person swipes their credit card to pay , the transaction then is sent through a chain of processing			1
+first they are aggregated and sent to a server before the card information reaches a processor for authorization			0
+the processor then sends the authorization request to the bank who check the details ( if it is a legitimate account and if there is enough money to cover charge ) and then confirm the authorization back to the processor			2
+the current breach is believed to have occurred at the central aggregation point where card information is calculated			0
+the companies ' statements came after the blog @entity84 reported that @entity2 and @entity0 have been alerting banks across the @entity120 about a ' massive ' breach that may affect more than ten million cardholders			1
+he told @entity230 : ' law enforcement asked everyone to keep it quiet so as not to disturb investigations			0
+' i 'm hearing now from two sources that investigators suspect @entity238 street gangs may be involved and that the fraud is focusing mostly on commercial credit and debit card accounts			0
+' thousands of @entity120 banks that issue credit and debit cards receive daily alerts regarding breaches through a system referred to as @entity248 , said @entity249 , an analyst with @entity250			0
+once a person swipes a card to pay , the transaction then is sent through a chain of processing			0
+the @entity0 - @entity2 breach is the first major instance this year of consumer information put at risk by technological flaws or hacking			1
+for more details on your card visit : http://www.mastercard.us @entity265			0
+
+@entity0 and @entity2 in process of contacting *effected* customers
+@entity271 blamed on third - party processor
+@entity275 likely collected from @entity9 taxi company
+security experts believe data is already being used
+customers urged to check their online statements
+
+@entity23:Gartner Research
+@entity21:Avivah Litan
+@entity238:Dominican
+@entity250:Janney Capital Markets
+@entity84:Krebs on Security
+@entity88:Secret Service
+@entity275:Data
+@entity271:Breach
+@entity2:Mastercard
+@entity230:Technology Live
+@entity0:Visa
+@entity9:New York
+@entity91:Atlanta
+@entity72:Central American
+@entity101:Discover Financial Services
+@entity265:http://usa.visa.com
+@entity96:Processor Global Payments Inc
+@entity94:Discover
+@entity92:American Express Co
+@entity249:Thomas McCrohan
+@entity248:CAMS
+@entity120:U.S.
+@entity139:Global Payments
+@entity49:Litan

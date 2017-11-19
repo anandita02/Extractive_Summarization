@@ -1,0 +1,23 @@
+http://web.archive.org/web/20120331122427id_/http://edition.cnn.com:80/2012/03/16/world/asia/afghanistan-helicopter-crash/
+
+@entity0 , @entity1 -- a @entity5 - led @entity3 helicopter crashed friday in @entity1 's capital city of @entity0 , killing 12 people , @entity3 said in a statement			1
+@entity3 confirmed the helicopter " went down " but said the cause of the accident was unknown			0
+" there was no report of insurgent activity in the area , " said capt. @entity11 , an @entity3 spokesman			0
+@entity3 did not immediately identify the nationality of the those killed in the crash , though the @entity0 police chief said earlier that five bodies pulled from the wreckage and they were identified as @entity22 citizens			1
+@entity1 police and fire crews were on the scene of the crash in @entity0 's eastern district of @entity28 , said gen. @entity29 , the police chief			2
+there were no immediate reports of civilian casualties .			0
+
+new : twelve @entity3 *service* *members* died in the crash , @entity3 says
+the helicopter crashed in eastern @entity0 , a police chief says
+the casualties have been identified as @entity22 citizens
+there are no reports of civilian casualties , the police chief says
+
+@entity3:ISAF
+@entity2:CNN
+@entity1:Afghan
+@entity0:Kabul
+@entity5:NATO
+@entity11:David Yaryar
+@entity28:Bagrami
+@entity29:Ayob Salangi
+@entity22:Turkish

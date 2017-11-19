@@ -1,0 +1,85 @@
+http://web.archive.org/web/20150726035235id_/http://www.dailymail.co.uk/sciencetech/article-3052005/Is-Samsung-s-Galaxy-S5-leaking-fingerprints-Flaw-means-hackers-intercept-steal-biometric-data.html
+
+security researchers have discovered a way to intercept a person 's fingerprints on a @entity4 running @entity5 4.4 and older fingerprint scanners are often touted as the future of security and an alternative to the notoriously flawed password			1
+but experts have discovered they may not be as secure as first thought after a number of @entity5 devices , including @entity15 's @entity4 , were said to be potentially ' leaking ' fingerprints			1
+the security researchers have found a way to intercept a person 's biometric data after it is captured by a built - in scanner , but before it becomes encrypted			1
+@entity22 and @entity23 from security firm @entity24 are expected to discuss their findings at this week 's @entity27 conference in @entity28			0
+the pair told @entity30 from @entity31 that the flaw lies in older versions of the @entity5 operating system , up to and including @entity5 4.4			1
+subsequently , anyone running @entity5 5.0 or above are not at risk and the security experts are advising people on older models to update as soon as possible			1
+the vulnerability means that a hacker can access the kernel , or core , of the @entity5 operating system			1
+once inside they can monitor all data sent to and from the phone , as well as data recorded by the handset 's built - in sensors , including the fingerprint scanner			1
+typically , when a fingerprint is scanned it is encrypted and separated from the rest of the device in a secure folder			1
+hackers ca n't get access to this folder even with access to the kernel , but they can collect scans immediately from the fingerprint sensor before they reach this folder			1
+in addition to using these fingerprints to access the phone , for example , they can be used to make payments with @entity68			1
+when a fingerprint is scanned it is encrypted			1
+hackers typically ca n't access this encrypted file , but the flaw allows them to collect scans from the sensor before being encrypted during tests , mr @entity22 and mr @entity23 confirmed the flaw was present on @entity4			1
+they have not yet tested it on other @entity5 smartphones with built - in fingerprint scanners , including the @entity90 , @entity91 and @entity92 7			1
+however , they believe the problem to be ' more widespread ' than the @entity4 and are planning to put this to the test			1
+@entity24 's research is n't the first time the @entity4 's scanner has been exposed as vulnerable			1
+in april last year a group of @entity102 hackers managed to spoof the scanner using a dummy print			1
+@entity106 's @entity105 is n't without flaws either			0
+it took hackers just two days and a small collection of everyday household items to bypass the fingerprint sensor on an @entity113 following its launch in 2013			1
+@entity115 , based in @entity116 , took a high - resolution photograph of a fingerprint from the side of a glass			2
+they then scanned it , before laser printing it onto a transparent sheet and covering it in woodglue			0
+once the glue had dried , they peeled off the print copy and pressed it on the scanner			2
+mr @entity22 and mr @entity23 said they have alerted @entity15 to the issue but not received an update			0
+@entity15 told @entity136 ' it takes consumer privacy and data security very seriously ' and is currently investigating @entity24 ’s claims			2
+security expert @entity141 said : ' it 's worth remembering that fingerprints are not secrets			0
+' relying on your fingerprints to secure a device may be okay for casual security - but you should n't depend upon it if you have sensitive data you wish to protect			2
+' this is n't the first time @entity15 's @entity4 scanner has been exposed as vulnerable			1
+in april last year a group of @entity102 hackers managed to spoof the scanner using a dummy print			2
+this situation is made worse by the fact that once a password has been initially used to access @entity68 and @entity15 phones , the fingerprint can be continually used for access without re-entering the password - even if the phone is rebooted			1
+alternatively , on @entity106 phones a password is required following every reboot			0
+that does n't mean that @entity106 's @entity105 scanner is without flaws			2
+it took hackers just two days and a small collection of everyday household items to bypass the fingerprint sensor on an @entity113 following its launch in 2013			2
+@entity106 's @entity105 is n't without flaws either			0
+it took hackers just two days and a small collection of everyday household items to bypass the fingerprint sensor ( shown ) on an @entity113 following its launch in 2013 @entity115 , based in @entity116 , took a high - resolution photograph of a fingerprint from the side of a glass			2
+they then scanned it , before laser printing it onto a transparent sheet and covering it in woodglue			0
+once the glue had dried , they peeled off the print copy and pressed it on the scanner			2
+@entity196 , global director of gadget insurer @entity197 told @entity136 : ' this underpins the importance of security research			0
+' there ’s no room for flaws in fingerprint id systems now that mobile payments are becoming commonplace			0
+in a survey we carried out , almost a third ( 31 per cent ) of @entity209 mobile users told us they want to wait until mobile payment technology is more advanced before trying it themselves and , with a step back like this , it may take even more time to assuage consumer fears over security and fraud			0
+' @entity219 , senior manager in @entity221 's cyber security practice added : ' replacing passwords with biometric alternatives such as fingerprints provides better security , however it does n't completely eliminate the risk posed by cyber criminals			0
+' the largest hurdle with biometrics going forward will be the establishment of consumer trust			0
+a fingerprint was photographed using 2400 dpi resolution			0
+the image was inverted and laser printed onto a transparent sheet with a thick toner setting			0
+hackers then poured woodglue onto the print pattern , pictured top			0
+after it dried , the sheet was lifted and pressed onto the sensor , pictured bottom , to unlock the phone ' trying to convince the average person to implant a piece of technology to increase security of their perceived already secure account is a battle unlikely to be won			0
+' and @entity254 , co-founder and technical director at @entity256 said : ' biometric authentication is not yet near the level it needs to be for the majority of consumer facing organisations to implement it in their products			0
+' fingerprint scanning , eyeball scanning , voice and face recognition are all at least a decade away from being reliable enough to use as authentication methods			0
+' the technology simply is n't sophisticated enough .			0
+
+experts have discovered a flaw in older versions of the @entity5 system
+once a hacker has access to a phone they can monitor data from sensors
+from this , they can potentially intercept a fingerprint from the scanner
+vulnerability has been tested and confirmed on the @entity4
+
+@entity22:Wei
+@entity23:Zhang
+@entity27:RSA
+@entity24:FireEye
+@entity28:San Francisco
+@entity116:Berlin
+@entity115:Chaos Computer Club
+@entity113:Apple iPhone 5S
+@entity256:SecurEnvoy
+@entity136:MailOnline
+@entity5:Android
+@entity4:Samsung Galaxy S5
+@entity197:Protect Your Bubble
+@entity196:Stephen Ebbett
+@entity219:Matt White
+@entity31:Forbes
+@entity30:Thomas Fox-Brewster
+@entity15:Samsung
+@entity102:German
+@entity105:TouchID
+@entity106:Apple
+@entity92:Huawei Ascend Mate
+@entity91:Note Edge
+@entity90:Galaxy Note 4
+@entity221:KPMG
+@entity141:Graham Cluely
+@entity209:UK
+@entity68:PayPal
+@entity254:Andy Kemshall

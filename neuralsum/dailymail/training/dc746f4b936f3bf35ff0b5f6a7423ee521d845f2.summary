@@ -1,0 +1,41 @@
+http://web.archive.org/web/20141220140024id_/http://www.dailymail.co.uk/news/article-2817781/Hi-tech-bracelet-use-electrocardiograms-unique-fingerprint.html
+
+heartbeat recognition could soon be used to unlock doors , start cars and even pay for your shopping thanks to new , wearable software currently under development			0
+the @entity7 is a lightweight , wearable wristband which authenticates a user ’s identity through their electrocardiogram ( @entity12 ) - or heartbeat rhythm			1
+@entity15 company @entity14 , the creator of @entity17 , say the technology is more unique and harder to forge than a fingerprint			1
+the @entity7 works through an electronics module that incorporates an @entity12 sensor with two electrodes the @entity7 ’s @entity12 recognition algorithms observe the shape of the wearer 's heartbeat , extracting unique and consistent features			1
+the hi - tech bracelet works by reading the wearer 's @entity12 ' wave pattern ' and finding its unique identifiers to use as an alternative to asking for a pin number or password			2
+the technology is currently being tested out with £ 9 million in funding from financial companies including @entity38			1
+the @entity7 is a wristband which authenticates a user ’s identity through their @entity12 - or heartbeat rhythm the hi - tech bracelet works by reading the wearer 's @entity12 ' wave pattern ' and finding its unique identifiers it 's creators say the @entity7 is robust against a wide variety of health issues , and even if the rhythm of the wearer 's heartbeat varies - for instance , during exercise - the shape of the unique @entity12 wave pattern is still recognisable and the device will still work			1
+during authentication the system is able to ignore low frequency anomalies and will still correctly identify its owner , while a medical condition such as cardiac arrhythmia or the use of pacemakers will not impact the @entity7 ’s performance because every heartbeat , even an irregular one , has a unique signature			2
+founded in 2011 , @entity14 is based in @entity66 and the project is currently being privately - funded by @entity68 , @entity69 , @entity38 and @entity70			2
+the @entity71 is its first product , which it bills as a ' wearable technology device that delivers persistent identity experiences by using the wearer 's unique electric cardiac signature as a biometric			2
+' its creators say even if the rhythm of the wearer 's heartbeat varies - for instance , during exercise - the shape of the unique @entity12 wave pattern is still recognisable and the device will still work when the @entity7 is activated , it communicates a secure , digitally signed identity credential via @entity86 ( @entity86 ) to smart devices - everything from a smartphone , to a vehicle , to a locked door			1
+unlike an iris scan or fingerprint sensor , the device can take a reading without the wearer interacting with it			0
+@entity97 , a director at @entity14 , said : ' anywhere you go the bracelet will identify you to other devices , which could be the payments wallet on your smartphone , or in future , cash machines , cars and computers			0
+' it is also mugger - proof because the bracelet forms a circular electrical circuit that wipes the device when disconnected - that is , taken off			0
+' the wristband has an electronics module which incorporates an @entity12 sensor with two electrodes – located on the top and bottom of the module			0
+one electrode touches the wrist , and one is exposed on the other side			0
+@entity12 data is captured when the user touches the top ‐ side electrode with the opposite hand			0
+the wearer is authenticated when they first put on the wristband , which enables continuous access to services and devices via wireless communication			0
+as soon as it is removed from the wearer ’s body , it becomes deactivated .			1
+
+the @entity7 authenticates user ’s identity through the rhythm of their heartbeat
+the wristband could *replace* pin numbers , passwords , bank cards and keys
+as soon as it is removed from the wearer ’s body , it becomes deactivated
+@entity14 say electrocardiogram is harder to forge than fingerprint
+the technology is currently being tested out with £ 9 million in funding
+
+@entity17:Nymi
+@entity15:Canadian
+@entity14:Company Bionym
+@entity7:Nymi
+@entity12:ECG
+@entity38:Mastercard
+@entity68:Ignition Partners
+@entity66:Toronto
+@entity86:BLE
+@entity69:Relay Ventures
+@entity97:Balaji Gopalan
+@entity71:Nymi Band
+@entity70:Salesforce Ventures

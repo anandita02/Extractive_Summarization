@@ -1,0 +1,66 @@
+http://web.archive.org/web/20150513070157id_/http://www.dailymail.co.uk/sciencetech/article-2636160/Beware-online-banking-Security-expert-reveals-ANYONE-hack-banks-app-using-free-internet-tools.html
+
+mobile security experts set up a dummy banking app , pictured , to demonstrate how the technology can be hacked using reverse engineering more than two thirds of us now use smartphones to make payments and check bank balances online			1
+many banking apps have a number of security measures in place - from two - step authentication to passwords and @entity15 - but they may not be as secure as first thought			2
+a mobile security expert has revealed to @entity18 how these apps can be hijacked using free tools available online - and the hackers do n’t need any of the user 's login details			1
+@entity24 is technical manager at mobile security firm @entity25			1
+to highlight the risks , he developed a dummy banking app before engineering it to connect it to an external server that could be run by a hacker			1
+during a demonstration , as he signed into the app , the password was automatically revealed on the hacker ’s server			1
+during another demo , he sent money via the app. the server was able to piggyback onto the payment and even transfer money to the hacker ’s account at the same time			1
+although this was a dummy demonstration , @entity24 explained it is the same process hackers are using to access official banking apps on mobile devices			1
+the hacking technique used is called reverse engineering			1
+the process involves taking an object apart to see how it works , either to replicate or improve it			0
+as part of the engineering , expert @entity24 connected the app to an external server that could be run by a hacker , pictured			1
+during one demonstration , as he signed into the app on his @entity64 , the password was automatically revealed on this pretend hacker 's server on a laptop , pictured during another demonstration , @entity24 sent money to a person called @entity73 , via the app. the server was able to piggyback onto the payment and send money to the hacker 's account , pictured here as @entity80			1
+although this was a dummy demonstration , @entity24 said it is the same process hackers use to access official banking apps reverse engineering is the process of taking an object apart to see how it works , either to replicate or improve the object			1
+it is not just used for hacking purposes , and is often used by programmers to find mistakes or errors in code in order to fix them			0
+in the case of apps , software reverse engineering involves translating a program 's binary code back into the source code that it was written in			1
+this source code reveals to the hackers how the app works , the steps it takes to complete certain tasks and details about the app ’s structure			2
+a reverse engineer can use a various tools to disassemble a program			2
+one example is called a hexadecimal dumper , which prints or displays the binary numbers of a program in hexadecimal format , making it easier to read than binary			0
+another tool is a disassembler			0
+this reads the binary code and displays each instruction in text form			0
+reverse engineering is not just used for hacking purposes , and is often a technique programmers use to find mistakes or errors in code in order to fix them			1
+in the case of apps , software reverse engineering involves translating the program 's binary code back into the source code it was originally written in			2
+this source code reveals to the hackers how the app works , the steps it takes to complete certain tasks , and details about the app ’s structure			2
+hackers are able to manipulate this source code by adding in lines that connect the app to an external server , for example , or code that tells the app to reveal the password each time it ’s entered			1
+more complicated code is used to create a rule , for example , that means every time a payment is sent , the same amount is sent to the hackers account			2
+accomplished hackers can also edit the code to hide these changes from the program , so the software assumes everything is working as it should			0
+once the changes are made , the edited code is uploaded back onto the company ’s server			2
+and , as @entity24 explained , all of these steps can be carried out using tools freely available online			2
+there are even online video tutorials that show programmers , as well as a hackers , how to access the source code of software			2
+he did point out that @entity185 apps and software are more secure and closely monitored than @entity186 , for example - except on jailbroken devices			0
+' @entity189 ' is the process of removing certain restrictions @entity191 places on apps and downloads , for example , and makes it easier for developers to adjust settings			0
+reverse engineering is the process of taking an object apart to see how it works			1
+it is not just used for hacking purposes , and is often used by programmers to find mistakes or errors in code			0
+software reverse engineering involves translating a program 's binary code , stock image , back into the source code it was written in many apps are now using additional software , including those developed by @entity25 to prevent hackers from reverse engineering their products			1
+however , firms do not reveal if they are protected by such services so users are advised to only download apps from official app stores			0
+people should keep an eye on bank statements and report any irregularities			0
+they should also check in the phone 's settings for any unusual looking processes running in the background			0
+if any look suspicious , users can search online for the names of processes to see what they do			0
+experts also suggest installing antivirus apps on mobile devices			0
+in many of the cases where banking apps are hacked , @entity24 continued the attack only works when a user downloads a separate , malicious app. the demonstration was created after an @entity249 study found hackers attacked 78 per cent of the top 100 paid @entity186 and @entity185 apps last year			1
+it revealed there were hacked versions of 100 per cent of the top 100 paid apps for @entity186 , and 56 per cent of the top 100 paid apps for @entity185			0
+last year , @entity249 found attackers modified 80 per cent of free @entity186 apps , and this year , this was down to 73 per cent in the same category			0
+on @entity185 devices , 40 per cent were hacked last year , compared to 53 per cent this year			0
+the research unveiled cracked versions of popular financial apps to be at 53 per cent for @entity186 , and 23 per cent were @entity185 hacked variants .			0
+
+mobile security expert has demonstrated how a banking app can be hacked
+he built a dummy app and used reverse engineering to connect to a server
+when sending money , the server was able to obtain the user ’s password
+it was then programmed to piggyback onto the payment and transfer money to the hacker ’s account
+@entity249 ’s @entity24 said reverse engineering can be used on any app
+there are also tools and online tutorials to teach hackers the process
+
+@entity189:Jailbreaking
+@entity15:PINs
+@entity24:Winston Bond
+@entity25:Arxan Technologies
+@entity73:Mark
+@entity185:Apple iOS
+@entity186:Android
+@entity18:MailOnline
+@entity80:A.Crook
+@entity191:Apple
+@entity64:iPad
+@entity249:Arxan

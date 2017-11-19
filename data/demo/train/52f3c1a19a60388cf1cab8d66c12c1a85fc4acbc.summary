@@ -1,0 +1,16 @@
+http://web.archive.org/web/20140818025423id_/http://www.cnn.com/2014/02/07/politics/white-house-fence-jumper/
+
+@entity0 -- a man tried to jump the @entity5 fence on friday , causing a brief lockdown while he was apprehended , law enforcement officials said			2
+police declared the incident over after checking a briefcase and taking the man into custody			0
+president @entity13 was not at the @entity5 at the time			1
+he was in @entity14 for a speech and the signing of the farm bill .			0
+
+new : a man is in custody ; all clear *issue* after briefcase checked
+the incident caused a brief lockdown at the @entity5
+president @entity13 was away for the day
+
+@entity1:CNN
+@entity0:Washington
+@entity13:Obama
+@entity14:Michigan
+@entity5:White House

@@ -1,0 +1,98 @@
+http://web.archive.org/web/20130126020514id_/http://www.cnn.com/2009/TECH/04/01/tech.viruses/
+
+-- an @entity2 computer worm was launched on wednesday but so far has not caused problems for the millions of computers that are believed to be infected			1
+this piece of computer code tells the worm to activate on april 1 , researchers found			2
+" i think joke 's on us a little bit , which you would have expected with having an april 1 date , " said @entity9 , threat response manager for @entity12 's @entity11 , a computer security service			0
+however , that does n't mean the much - talked - about worm , called @entity22 , is a joke , computer security experts told @entity0 on wednesday			1
+" by no means do i think we 're in the clear , " said @entity24 , a forensics and security analyst for @entity26 , based in @entity27 , @entity28			0
+on wednesday , a master computer gained control of an estimated 5 million " zombie " pcs infected with the worm , experts said			1
+security experts fear the author of the malicious computer program essentially could do anything with those @entity42 - based machines			2
+no attempts by the author to upload anything had been noted as of 8 p.m. et wednesday , according to @entity46 , program director at nonprofit research institute @entity47			0
+@entity49 's motive is probably financial , security experts said			1
+the worm 's author could steal financial information , shut down web pages , track keystrokes or send spam from infected computers			1
+" they have full administrative - level rights to run anything they want on all of the infected machines , " said @entity58 , chief research officer for @entity59 , an internet security company			2
+experts who spoke to @entity0 on wednesday said it 's unlikely the program 's author will launch any sort of attack wednesday or thursday			2
+but they said some sort of issue is likely to arise in coming weeks or months			0
+ireport.com : what do you think of the @entity2 worm ? experts urged computer users not to panic			1
+the easiest way for computer users to see if they 're infected is to try to access @entity42 updates from @entity82			2
+if you can reach the site and if your system updates are working , it is unlikely your computer is infected , experts said			1
+further computer patches and information can be found at the @entity93 's web site			0
+the worm does not affect @entity96 computers			1
+a core group of about 40 computer analysts , researchers and policy experts is working to dismantle the worm , said @entity102 , manager of security research at @entity105 , and a member of the group , which some call the @entity109			1
+@entity102 said the group 's unprecedented efforts may be one reason an attack has n't happened			0
+he said the april 1 launch date for the virus may have been a ploy by the program 's author to get attention from the news media			0
+or it could be a twisted joke			0
+" either way , it suggests an interesting sense of humor , i guess , " he said			0
+the worm allows a master computer to communicate with the infected machines through web sites the worm generates			1
+that function became active april 1 , experts said , and allows @entity49 's author or authors to seize control of millions of computers around the world			1
+infected machines are generating 50,000 urls per day , which allows the master to talk with them			2
+a previous version of @entity49 created only 250 domain names per day			1
+" what happened now , today , is that the machines started pulling 50,000 domain names in 116 countries around the world -- so that 's the change , " said @entity58 , another member of the @entity109			1
+" the @entity49 gang realized we could shut down 250 domain names a day , so they upped the ante , " he said			1
+computer experts will continue to try to shut down the @entity155 addresses that let @entity49 's author communicate with infected machines , he said			1
+members of the @entity93 have contacted security officials in all 116 affected countries and have shut down many active domain names , @entity58 said			1
+@entity162 , of @entity12 , said the sophistication of the worm is unprecedented			2
+the situation has played out in the news media as an @entity2 joke			1
+on a technology blog , the @entity168 mocked the hype about @entity49			1
+" @entity172 woke up to find the iconic clock tower @entity174 stopped at precisely one minute till midnight , " @entity171 wrote			0
+" the @entity176 tabloids blared that the giant timepiece had been felled by the @entity49 worm			1
+" the post ends with this statement : " in case you have n't guessed it yet , @entity2 ! ! ! " some have compared the situation to @entity186 in 2000 , when many feared the world 's computers would crash but few problems were seen			1
+@entity24 said that comparison does n't fit			0
+" @entity192 was a one - time event , " he said			0
+" the update for @entity49 has basically prepped it for its future			2
+it now has the ability to gather marching orders in a way that , to date , we have n't found a way to block			0
+" little is know about @entity49 's author			2
+a piece of code in a version of the computer worm prevents the program from harming machines in @entity209 , leading some to believe that 's where the program 's author lives			2
+others say that could be a ploy			0
+many authors of previous computer viruses have come from @entity220 outside the jurisdiction of the @entity222 , experts said			0
+@entity223 , senior director of a research team at @entity225 , a computer security company , said the author may try to split up pieces of the infected computer network -- called a botnet -- and sell them to bidders			0
+the many unknowns about @entity49 are what make it particularly concerning , said @entity235 , senior vice president of technology for @entity236			2
+" [ an attack ] could happen today , it could happen april 15 , it could happen two months from now , " he said			0
+@entity24 says an attack will happen sooner or later			0
+" they 'll wait for the hype to subside , " he said			0
+" they 'll wait for everyone to stop watching , and they 'll take it for a test run			0
+they 've put together one hell of a botnet here , and they 're going to want to exercise it			0
+
+@entity22 worm active in computers , but so far causes no harm
+experts are working with 116 countries to combat the worm
+@entity168 blog mocks @entity49 situation in @entity2 blog
+@entity22 is thought to have infected up to 10 million computers
+
+@entity22:Conficker.c
+@entity26:Lumension Security
+@entity27:Phoenix
+@entity24:Henry
+@entity28:Arizona
+@entity82:microsoft.com
+@entity109:Conficker Cabal
+@entity155:Web
+@entity171:Brian Krebs
+@entity2:April Fool 's Day
+@entity0:CNN
+@entity236:Enigma Software
+@entity174:Big Ben
+@entity176:British
+@entity9:Holly Stewart
+@entity192:Y2K
+@entity59:F-Secure
+@entity58:Hypponen
+@entity12:IBM
+@entity11:X-Force
+@entity102:Nazario
+@entity172:Londoners
+@entity105:Arbor Networks
+@entity96:Mac
+@entity93:Conficker Working Group
+@entity162:Stewart
+@entity220:Eastern Europe
+@entity223:Matt Watchinski
+@entity222:European Union
+@entity225:Sourcefire
+@entity168:Washington Post
+@entity235:Patrick Morganelli
+@entity209:Ukraine
+@entity186:New Year 's Day
+@entity46:Phil Porras
+@entity47:SRI International
+@entity42:Windows
+@entity49:Conficker

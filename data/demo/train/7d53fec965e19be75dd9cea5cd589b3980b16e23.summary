@@ -1,0 +1,33 @@
+http://web.archive.org/web/20150320011257id_/http://www.cnn.com/2014/10/04/us/texas-meat-recall/
+
+@entity2 of @entity3 , @entity4 , has recalled 90,987 pounds of ground beef products after consumers complained about finding pieces of metal inside the meat , the @entity1 @entity0 said saturday			1
+the @entity0 said four consumers complained , with one person reporting a chipped tooth			0
+the pieces of metal were reported to be about 3mm , a @entity0 press release said			2
+@entity16 , general manager for the company , said all the products were shipped to @entity4 retail outlets			1
+" it was not a food safety issue , " he said			0
+" it was a foreign object and the foreign object was very small			0
+" the press release said these products are subject to recall : -- 3 - pound packages of " @entity28 , " bearing the establishment number " 337 , " a production date of " 09/12/14 " and a use by date of " 10/02/14			1
+" -- 5 - pound packages of " @entity34 , " " 73 % @entity39 27 % fat , " bearing the establishment number " 337 , " a production date of " 09/15/14 " and a use by date of " 10/05/14			1
+" -- 10 - pound packages of " @entity34 , " " 73 % @entity39 27 % fat , " bearing the establishment number " 337 , " a production date of " 09/18/14 " and a use by date of " 10/08/14			2
+" -- 10 - pound clear film packages of formed patties made from @entity45 " @entity46 , " bearing the establishment number " 337 , " a production date of " 9/09/14 " and a use by date of " 9/29/14			2
+" the @entity0 said the products bear the establishment number " 337 " inside the @entity0 mark of inspection			1
+the press release said this is a @entity54 recall , meaning " there is a remote probability of adverse health consequences from the use of the product			0
+" the company website says @entity2 was founded in 1949			0
+a group of @entity4 ranchers and cattlemen purchased the company in 2013 , the website said .			0
+
+four consumers reported finding piece of metal in the beef , @entity0 says
+beef products were shipped to @entity4 retail outlets
+products bear the establishment number " 337 " inside the @entity0 mark of inspection
+
+@entity3:Corpus Christi
+@entity2:Sam Kane Beef
+@entity1:U.S.
+@entity0:USDA
+@entity34:HEB Ground Beef
+@entity16:Alfred Bausch
+@entity39:LEAN
+@entity28:HEB Ground Chuck
+@entity4:Texas
+@entity45:Sam Kane Beef Processors
+@entity46:Ground Chuck
+@entity54:Class II

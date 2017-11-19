@@ -1,0 +1,33 @@
+http://web.archive.org/web/20150714195440id_/http://www.cnn.com/2014/01/01/tech/social-media/snapchat-hack/
+
+hackers appear to have posted account info for 4.6 million users of quickie social - sharing app @entity3 , making usernames and at least partial phone numbers available for download			1
+the data were posted to the website @entity10			0
+by late wednesday morning , that site had been suspended			0
+the hack was seemingly intended to urge @entity3 to tighten its security measures			1
+the anonymous hackers said they used an exploit created by recent changes to the app , which lets users share photos or short videos that disappear after a few seconds			1
+" our motivation behind the release was to raise the public awareness around the issue , and also put public pressure on @entity3 to get this exploit fixed			2
+it is understandable that tech startups have limited resources but security and privacy should not be a secondary goal			0
+security matters as much as user experience does , " the hackers said in a statement to technology blog @entity35			0
+in the statement , the hackers said they blurred the last two digits of the phone numbers they posted but were still considering whether to post more with the full number visible			1
+by wednesday afternoon , developers had used the data to set up a website letting @entity3 users find out whether their accounts had been compromised			1
+@entity3 did not immediately respond to a message seeking comment			2
+last week , @entity50 -- a group of " white hat " hackers , meaning they do n't exploit the security gaps they find -- published what they said was code that would enable such a hack			2
+the @entity58 group said @entity3 implemented " very minor obstacles " after that			1
+" we know nothing about @entity58 , but it was a matter of time til something like that happened , " @entity50 wrote wednesday on its @entity62 account			0
+" also the exploit works still with minor fixes			0
+" in a blog post friday , @entity3 appeared to minimize the potential damage from such a hack , claiming that it would require a " huge set of phone numbers , like every number in an area code , " to match usernames to numbers			1
+" over the past year we 've implemented various safeguards to make it more difficult to do			0
+we recently added additional counter-measures and continue to make improvements to combat spam and abuse , " the post read			0
+
+a hacker group says it *accessed* info for 4.6 million @entity3 users
+the group , @entity58 , urged the app to tighten security
+they said the last two digits in phone numbers were blurred
+@entity3 lets users share photos and videos
+
+@entity3:Snapchat
+@entity35:TechCrunch
+@entity10:SnapchatDB.info
+@entity50:Gibson Security
+@entity86:Happy Snapping
+@entity58:SnapchatDB
+@entity62:Twitter

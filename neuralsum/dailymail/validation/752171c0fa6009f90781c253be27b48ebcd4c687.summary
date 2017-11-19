@@ -1,0 +1,41 @@
+http://web.archive.org/web/20150720135447id_/http://www.dailymail.co.uk/sciencetech/article-3020026/Is-iPhone-passcode-useless-Hack-reveals-cybercriminals-bypass-four-digit-code-handset.html
+
+a team of experts has found a way to bypass the @entity4 lock screen using a @entity6 hacking kit @entity8 phones are designed to ward off hackers by locking the phone after too many incorrect attempts at entering a passcode			1
+but a team of experts has found a way to bypass this security feature using a diy hacking kit made from parts bought online			1
+the gadget plugs into a phone and simulates the pin entry over usb meaning it can bruteforce every possible combination until it finds the correct one			1
+importantly , by connecting directly to the phone 's power source , it can override the ' erase data after 10 attempts ' setting			1
+the hack and device was devised by experts from @entity34 - based @entity33 , authors of @entity37 's @entity36			1
+it takes advantage of a flaw in @entity41 that creates a tiny delay between the pin code being entered and the phone unlocking			0
+@entity33 's device cuts the power source immediately after each failed attempt but before the attempt has been synchronised with the phone 's flash memory			2
+' we recently became aware of a device known as an @entity53 that was being used in the phone repair markets to bruteforce the @entity55 , ' said the researchers			0
+' this obviously has huge security implications and naturally it was something we wanted to investigate and validate			0
+' although we ’re still analysing the device it appears to be relatively simple in that it simulates the pin entry over the usb connection and sequentially bruteforces every possible pin combination			1
+' that in itself is not unsurprising and has been known for some time			0
+the hack and device was devised by experts from @entity34 - based @entity33			1
+its gadget uses an ip box used by some phone repairmen to bruteforce @entity75 on handsets			0
+it takes advantage of a flaw in @entity41 that creates a tiny delay between the pin code being entered and the phone unlocking ' what is surprising is that this still works even with the “ erase data after 10 attempts ” configuration setting enabled			2
+' @entity33 's total setup cost around £ 200 ( $ 297 ) , and the researchers explained that because each pin entry takes approximately 40 seconds - including the phone shutting down - it can take more than four days to bruteforce a four - digit code			1
+the hack also only works if a criminal has stolen or found the phone , and it only applies to phones running @entity41 8.1 or older			2
+@entity8 has reportedly fixed the bug in 8.1.1 and people running older versions of the software are advised to update to the latest version			0
+by connecting directly to the phone 's power source it can override the ' erase data after 10 attempts ' setting			2
+it cuts the power source to the phone immediately after each failed attempt but before the attempt has been synchronised with the phone 's flash memory			0
+@entity8 has reportedly fixed the bug in 8.1.1			0
+
+the hack was discovered by @entity34 - based security experts at @entity117
+they built a device capable of simulating a person 's pin entry over usb
+this gadget then tries every combination until the correct one is found
+@entity129 is even able to bypass @entity8 's built - in fail safe that locks the device after 10 incorrect attempts are made
+
+@entity53:IP Box
+@entity33:MDSec
+@entity34:London
+@entity37:The Mobile Application Hacker
+@entity4:iPhone
+@entity8:Apple
+@entity36:Handbook
+@entity117:MDSec
+@entity41:iOS
+@entity55:iOS screenlock
+@entity129:Hack
+@entity75:iOS screenlocks
+@entity6:DIY

@@ -1,0 +1,85 @@
+http://web.archive.org/web/20130503012140id_/http://www.cnn.com/2013/01/23/tech/mobile/apple-nude-photo-app
+
+-- the removal of 500px from @entity3 's @entity2 raises questions over review equity , fairness and @entity8 functionality			1
+when @entity10 started the day , he was n't expecting to end up spending so much time fielding calls from the media			0
+@entity14 is the coo and co-founder of 500px , a popular photo site and community for professional and amateur photographers			1
+yet that 's exactly what happened after @entity3 removed the 500px app from the @entity2			1
+after more than 16 months in the @entity2 and over 1 million downloads , a routine app update had unintended consequences			1
+on monday night , @entity10 tells @entity26 that he received a call from @entity3			1
+there was a problem with 500px			0
+like many other apps with photo communities , including @entity32 and @entity33 , some of the photographers who use 500px use it to take photographs that contain nudity â € ” not pornographic images , but nudity nonetheless			1
+according to @entity10 , @entity3 reps told him that it was too easy for users to find nude photos using the app. as a result , the app was in violation of @entity3 's content policy and would be removed from the @entity2			1
+@entity10 offered to make the necessary changes to the app to comply with @entity3 's rules , but it was too late			1
+as of tuesday morning , 500px was gone from the @entity2			0
+a few hours later , @entity54 reported on the story			0
+other outlets followed , including @entity57 , @entity58 and @entity59			0
+soon , the story was viral			0
+the general reaction from both 500px employees and app users was disbelief			2
+for one thing , 500px actually makes it difficult for new users to browse or search for nude photos			0
+a user who signs up using the app ca n't see those types of photos ; instead , he or she must log in through their desktop , and turn off a safe - search setting			1
+for another , 500px is hardly the only app that could potentially expose users to nude images			1
+web browsers â € ” including @entity81 â € ” can display nude photos of all types			0
+plus , the aforementioned @entity32 and @entity33 apps are much easier to use to track down nudes			0
+to add insult to injury , while 500px is gone , a dozen apps that use 500px 's api and replicate the functionality of the official app are still available			2
+then , @entity3 released its own statement on the matter			1
+it said : " the app was removed from the @entity2 for featuring pornographic images and material , a clear violation of our guidelines			1
+we also received customer complaints about possible child pornography			0
+we 've asked the developer to put safeguards in place to prevent pornographic images and material in their app. " this statement was confusing to @entity14 and other 500px execs because it was the first any of them had heard about complaints regarding " possible child pornography			2
+" @entity3 never mentioned that to the company before pulling the app , @entity10 said			1
+he added that 500px has made the necessary changes to its app , and re-submitted to the @entity2			2
+with any luck , the app will be back in the store very soon			2
+normally , this is where the news story would end			0
+but what the 500px incident showcases , however , is that although more than four years have passed since the @entity2 opened , @entity3 's app - review process is still occasionally hampered by incongruities and unclear policies			1
+@entity129 my initial guess was that 500px was removed for not having the correct content rating			0
+@entity3 assigns content ratings to apps to give users an idea of who the app is suitable for			1
+a rating of 4 + means that there is no objectionable content in the app ; a 9 + means there might be cartoon violence ; a 12 + means there may be infrequent or mild sexual content / nudity and mild violence ; and a 17 + means the app may contain heavy violence and mature themes			2
+these content ratings can be arbitrary at best			0
+@entity32 has a rating of 4 + despite the fact that it 's very easy to find hardcore pornographic images using the tag search function within the app. third - party web browsers such as @entity160 and @entity161 have 17 + ratings because they can be used to access any site on the @entity164 ( assuming it does n't use @entity166 )			1
+before monday 's incident , 500px had a content rating of 4 +			0
+@entity10 told me that the copy of the app in the submission queue has a rating of 12 +			2
+based on feedback he 's heard from other developers , @entity10 's theory is that @entity3 's review team ( a team that is notoriously overworked ) does n't always check to ensure that apps have the proper content rating			1
+instead , it takes a series of complaints or a particularly conscientious review - team member to force an app to change its rating			1
+this makes sense to me			0
+still , i 'm utterly unsure how @entity32 , of all apps , has managed to avoid even a 12 + rating			0
+what about apis ? another issue raised with the 500px case is the role of an api within the app - review process			1
+@entity3 initially said it was going to pull @entity199 ' @entity198 app from the @entity2			1
+@entity200 acquired @entity201 ( and @entity198 , by extension ) last month			1
+as of this writing , @entity198 is still in the @entity2 , and does n't appear to have been pulled			0
+it was n't clear why @entity198 was going to be removed , but some pundits worried that it was because the app uses 500px 's api			2
+the @entity8 allows read - access to the site and search , including , presumably , access to nude photos			2
+this opens up an interesting question when it comes to third - party apps that use 500px 's @entity8 , such as @entity215			2
+@entity215 can do virtually everything the official 500px and the @entity198 apps can do ( at least , as far as displaying content ) , so would it be at risk ? right now , that seems unlikely , but it does raise some interesting questions that few of us have considered over the years : is an app that plugs into another app 's @entity8 going to be rated based on the functionality of that api ? it 's unclear			0
+waiting for a resolution at the time of this writing , 500px is still missing from the @entity2			0
+while i fully expect the app to appear within the next day or two , i ca n't help but feel empathy for the startup caught in the middle of this			0
+what do you think of the latest @entity2 hijinx ? let us know in the comments below			0
+this post represents the opinions of the author and not necessarily those of @entity26 as a publication			0
+
+@entity3 *banned* photo app that it says delivers porn
+@entity200 is a photo - *sharing* app that features all *kinds* of images
+officer says porn is not allowed on the app
+@entity200 has *resubmitted* the app , hopes to be *reinstated*
+
+@entity26:MASHABLE.com
+@entity81:Apple 's Safari
+@entity14:Tchebotarev
+@entity3:Apple
+@entity2:App Store
+@entity0:CNN
+@entity199:Pulpfingers
+@entity198:ISO500
+@entity8:API
+@entity57:CNET
+@entity54:TechCrunch
+@entity59:The Verge
+@entity58:MacRumors
+@entity33:Flickr
+@entity32:Tumblr
+@entity10:Tchebotarev
+@entity129:App Rating Fairness
+@entity201:Pulpfingers
+@entity200:500px
+@entity160:Chrome
+@entity161:iCab
+@entity166:Flash
+@entity164:Internet
+@entity215:Flipboard

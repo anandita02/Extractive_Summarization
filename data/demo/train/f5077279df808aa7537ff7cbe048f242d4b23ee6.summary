@@ -1,0 +1,23 @@
+http://web.archive.org/web/20140223112746id_/http://www.cnn.com:80/2013/12/11/world/asia/afghanistan-explosion
+
+@entity0 , @entity1 -- an explosion took place on a road close to @entity0 's international airport wednesday morning , the @entity4 - led @entity3 said			1
+there were no @entity3 casualties			2
+initial information indicated that the blast may have been the work of a suicide bomber , @entity3 said			1
+the @entity1 interior ministry said the blast took place on @entity18 , which is situated to the north of @entity20			0
+militants have targeted the airport previously			0
+in june , @entity24 fighters armed with guns and explosives were killed by security forces after taking over a building near the airport			0
+the @entity24 said the attack was intended to target @entity33 in the international airport , one part of which is used by military forces and another by civilians .			2
+
+the explosion may have been caused by a suicide bomber , @entity3 says
+@entity3 says it did *n't* suffer any casualties in the blast
+militants have targeted the international airport in the past
+
+@entity3:ISAF
+@entity2:CNN
+@entity1:Afghan
+@entity0:Kabul
+@entity24:Taliban
+@entity4:NATO
+@entity20:Kabul International Airport
+@entity18:Qasabah Road
+@entity33:Americans

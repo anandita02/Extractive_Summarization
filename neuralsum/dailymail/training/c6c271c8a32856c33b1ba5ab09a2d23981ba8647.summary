@@ -1,0 +1,48 @@
+http://web.archive.org/web/20150601015722id_/http://www.dailymail.co.uk/sciencetech/article-2829011/Apple-iOS-bug-makes-devices-vulnerable-attack-researchers.html
+
+cybersecurity researchers have warned that a bug in @entity4 's @entity3 operating system makes most iphones and @entity6 vulnerable to cyberattacks			2
+cybersecurity firm @entity8 says the bug enables hackers to access their devices by persuading users toinstall malicious applications with tainted text messages , emails and web links			1
+the malicious application can then be used to replace genuine , trusted apps that were installed through @entity4 's @entity18 , including email and banking programs , with malicious software through a technique that @entity8 has dubbed ' @entity23			1
+' attacks can be used to steal banking and email login credentials or other sensitive data , according to @entity8 @entity8 says there are three rules to follow : do n't install apps from third - party sources other than @entity4 's official @entity18 or the user 's own organization do n't click ' install ' on a pop - up from a third - party web page , no matter what the pop - up says about the app. when opening an app , if @entity3 shows an alert with ' @entity42 ' , as shown in @entity43 , click on ' @entity44 ' and uninstall the app immediately these attacks can be used to steal banking and email login credentials or other sensitive data , according to @entity8 , which is well - regarded in cybersecurity circles for its research			1
+' it is a very powerful vulnerability and it is easy to exploit , ' @entity8 senior staff research scientist @entity51 said in an interview			2
+officials with @entity4 could not be reached for comment			2
+@entity51 said that @entity8 disclosed the vulnerability to @entity4 in july and that representatives with the company have said they were working to fix the bug			2
+news of the vulnerability began to leak out in october on specialized web forums where security experts and hackers alike discuss information on @entity4 bugs , @entity51 said			0
+@entity51 said that @entity8 decided to go public with its findings after @entity70 last week uncovered the first campaign to exploit the vulnerability , a new family of malicious software known as @entity75 that infects both @entity77 computers and @entity3			1
+@entity8 does not know of other attacks that exploit the bug , @entity51 said			0
+' currently @entity75 is the only one , but we will see more , ' he said			0
+@entity8 advises @entity3 users to refrain from install apps from sources other than @entity4 's official @entity18 and to not click ' install ' on a pop - up from a third - party web page			1
+the security firm said it verified this vulnerability on @entity90 , 7.1.2 , 8.0 , 8.1 and 8.1.1 beta , for both jailbroken and non-jailbroken devices			0
+the firm used the explouit to replace @entity97 's @entity96 app with a rogue version			1
+' in one of our experiments , we used an in - house app with a bundle identifier ' @entity104 ' with a title ' @entity106 '			0
+' we signed this app using an enterprise certificate			0
+' when we installed this app from a website , it replaced the original @entity96 app on the phone			0
+' last week researchers warned of a major threat called @entity75			0
+@entity75 monitors @entity3 devices , including ipods , iphones and @entity6 , connected to a @entity77 via usb			0
+the virus begins by infecting the @entity122 software , through malicious files or links			1
+when a device is connected to this infected @entity77 , the malware automatically installs malicious apps onto the phone or tablet			1
+the researchers said this malware combines a number of techniques to successfully ' realise a new brand of threat to all @entity3 devices '			0
+the experts suggest @entity3 and @entity77 owners only download apps from the official @entity4 app store , and that they make sure to keep their software up to date .			1
+
+' *masque* attack ' can replace real apps with malicious version that *siphon* off data
+can only be loaded if users *choose* to install from outside @entity18
+
+@entity3:iOS
+@entity23:Masque Attack
+@entity6:iPads
+@entity4:Apple
+@entity75:WireLurker
+@entity8:FireEye
+@entity18:Apple App Store
+@entity44:Do n't Trust
+@entity42:Untrusted App Developer
+@entity51:Wei
+@entity104:com.google.Gmail
+@entity106:New Flappy Bird
+@entity43:Figure 3
+@entity97:Google
+@entity96:Gmail
+@entity77:Mac
+@entity122:Mac OS
+@entity70:Palo Alto Networks Inc
+@entity90:iOS 7.1.1

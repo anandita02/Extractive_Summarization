@@ -1,0 +1,41 @@
+http://web.archive.org/web/20140518204439id_/http://www.cnn.com:80/2013/08/01/tech/mobile/sim-card-hack
+
+@entity0 -- major wireless carriers have fixed a bug that could have allowed criminals to hack into hundreds of millions of cell phones , says a security expert who exposed the flaw			1
+@entity9 @entity8 of @entity10 in @entity11 says he discovered the bug after spending three years figuring out how to hack sim cards , those tiny removable plastic cards found in cell phones and other mobile devices			1
+@entity8 accessed the sim cards by exploiting flaws in the encryption keys and sending a hidden @entity21 text message			1
+sim cards can identify the phone 's owner and store some sensitive personal data , such as payment information			1
+@entity8 's findings sent ripples through the wireless industry when they were first revealed july 21			2
+while phones are known to be susceptible to a range of security issues and attacks , the old dependable sim card was considered safe			2
+@entity8 was scheduled to demonstrate his sim card hack wednesday at @entity36 , a computer - security conference in @entity0			1
+instead , he announced that five wireless carriers had rushed to push out updates that patched the problem			2
+because of the fix , he was only able to demonstrate parts of the hack			2
+@entity8 declined to name the carriers involved			0
+physically replacing millions of compromised sim cards around the world would have been a huge and costly undertaking for carriers -- and a security concern for phone owners			1
+instead , the companies came up with a more creative solution : they took advantage of the same @entity56 vulnerability @entity8 found and used it to hack into their own cards and rewrite parts of their operating systems			0
+@entity8 praised the carriers ' quick action			0
+" they 're adopting hacking methods to make it more secure , " he said at a press conference ahead of his talk			0
+" abusing the @entity56 vulnerabilities to update the card is the neatest outcome of this			0
+" with access to a phone 's sim card , criminals could carry out a range of attacks			1
+they could run up charges on a phone bill , intercept phone calls , remotely control phones , track the location of devices and even access financial information			0
+the bug could be especially damaging in places such as @entity89 , where many people use their phones not just for communication but as mobile banking systems			0
+a quick fix from a company is the ideal outcome for so - called " white hat " hackers such as @entity8 , who spend their time finding possible weaknesses in computer systems before criminals can exploit them			1
+every year at @entity36 , researchers present their latest findings and hacks			0
+the hackers typically receive varying reactions from companies after exposing their vulnerabilities			0
+while some companies do acknowledge issues and respond with a quick fix , others wait until criminals exploit a flaw before taking action			0
+@entity8 said wednesday that companies still have not fixed most of his other computer - bug findings from the past four years .			1
+
+expert : wireless carriers fix a bug that could have allowed criminals to hack into cell phones
+a @entity11 *cryptographer* who hacked into sim cards says he discovered the bug
+sim cards can identify a phone 's owner and store some sensitive personal data
+the " white hat " hacker presented his findings at a computer - security conference
+
+@entity1:CNN
+@entity0:Las Vegas
+@entity11:German
+@entity10:Security Research Labs
+@entity9:Cryptographer
+@entity8:Nohl
+@entity36:Black Hat
+@entity21:SMS
+@entity56:Java
+@entity89:Africa

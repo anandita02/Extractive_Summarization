@@ -1,0 +1,22 @@
+http://web.archive.org/web/20080523133337id_/http://www.cnn.com:80/2008/WORLD/asiapcf/03/31/south.korea.salary/index.html?iref=topnews
+
+-- @entity2 's new president has pledged to donate his salary to the underprivileged			1
+@entity2 leader @entity5 says he would donate his salary to help the underprivileged			1
+@entity5 made the pledge during an unscheduled meeting with reporters sunday in the press room of his presidential office , the state news agency reported			0
+the president said he would donate his salary during his entire five - year term			0
+@entity5 is a former ceo of an engineering and construction company with a vast personal fortune			1
+as mayor of @entity20 from 2002 to 2004 , @entity5 donated his salary to the children of street cleaners and firefighters			1
+" i promised to spend my whole salary earned as a public official on public welfare , " @entity5 told reporters			2
+" my plan to donate the presidential salary to the underprivileged is an extension of that promise			0
+" the news agency did not say how much the president earns in a year			0
+during the election campaign , @entity5 , 66 , vowed to donate his entire personal fortune of more than 30 billion won ( $ 30.2 million ) to the poor			2
+he said at the time he would keep only a retirement house in @entity20			0
+
+@entity2 leader @entity5 says he will donate his salary to help the poor
+while mayor of @entity20 , he donated salary to children of street cleaners and firefighters
+@entity5 is a former ceo of an engineering and construction company
+
+@entity2:South Korean
+@entity20:Seoul
+@entity0:CNN
+@entity5:Lee

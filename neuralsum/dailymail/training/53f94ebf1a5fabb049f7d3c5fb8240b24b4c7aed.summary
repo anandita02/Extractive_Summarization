@@ -1,0 +1,68 @@
+http://web.archive.org/web/20150511231458id_/http://www.dailymail.co.uk/sciencetech/article-2960608/Are-threat-Superfish-attack-Lenovo-PCs-adware-horrifically-dangerous-security-flaw.html
+
+@entity0 has come under fire for selling laptops that come pre-installed with a ' horrifically dangerous ' software named @entity4			1
+the @entity6 computer manufacturer says @entity7 helps users find products online by analysing images and presenting similar , cheaper products			0
+but security analysts claim that what @entity4 actually does is serve intrusive ads , as well as compromise private information such as bank details and passwords			1
+the @entity4 software appears to affect @entity18 and @entity19 on the @entity0 laptops sold between september 2014 and january 2015 the @entity4 software appears to affect @entity18 and @entity19 on the @entity0 laptops sold between september 2014 and january 2015			1
+and users have been raising concerns about @entity4 since september the biggest concern is that @entity4 makes people vulnerable to something known as a ' man in the middle ' attack			1
+' the way the @entity4 functionality appears to work means that they must be intercepting traffic in order to insert the ads , ' said @entity35 , a researcher at @entity36			1
+' this amounts to a wiretap			0
+@entity40 adware breaks @entity41 – or encrypted - connections to serve up product information			0
+pictured is an example found by @entity46			0
+this inadvertently opens up a back door to hackers the software allows hackers to impersonate the security certificates of encrypted websites , allowing them to potentially see and steal private data			1
+this is possible because the @entity40 adware breaks @entity41 – or encrypted - connections to serve up product information			0
+this inadvertently opens up a back door to hackers			0
+the @entity4 software appears to affect @entity18 and @entity19 on the @entity0 laptops sold between september 2014 and january 2015			1
+users can find out if they are affected by looking at @entity65 ' list of trusted certificates by opening up the @entity67 and searching for ' certificates '			0
+if @entity4 is one of them , the computer may be vulnerable to attack			2
+rather than simply uninstalling the programme , users are advised to back everything up on their systems and install a new operating system			0
+while the site visited appears secure , when its certificate is analysed it 's shown to belong to @entity4 , rather than the site visited			2
+anyone with the password that unlocks that certificate would be able to bypass the computer 's web encryption			0
+this morning , researchers found and published the password , meaning the software can now be used as a channel for attack ' this means that hackers at your local cafe @entity94 , or the @entity96 eavesdropping on the internet , can use that private - key to likewise intercept all @entity102 [ encrypted ] connections from @entity4 users , ' @entity98 of @entity99 told @entity104			1
+he added this amounted to ' an egregious security failure … its intent is so that @entity4 can ' hack ' you , and it opens the system up to hacks by others			1
+' users can find out if they are affected by looking at @entity65 ' list of trusted certificates by opening up the @entity67 and searching for ' certificates '			0
+if @entity4 is one of them , the computer may be vulnerable to attack			2
+in a statement earlier today , @entity0 said the company had ' thoroughly investigated this technology and [ does ] not find any evidence to substantiate security concerns ' rather than simply uninstalling the programme , users are advised to back everything up on their systems and install a new operating system			1
+a @entity0 community administrator , @entity130 , wrote in january that the software would be temporarily removed from current systems			2
+writing for the @entity134 , @entity133 says the software is ' horrifically dangerous '			0
+he added : ' @entity0 has not just injected ads in a wildly inappropriate manner , but engineered a massive security catastrophe for its users			2
+' in a statement earlier today , @entity0 said the company had ' thoroughly investigated this technology and [ does ] not find any evidence to substantiate security concerns			1
+' however , @entity4 will no longer be pre-installed and has been disabled on all products in the market since january , when @entity0 also stopped pre-installing the software			1
+@entity0 has not yet responded to @entity148 for comment			0
+concerns about cybersecurity have dogged @entity6 firms , including telecoms equipment maker @entity153 over ties to @entity6 's government and smartphone maker @entity156 over data privacy			0
+@entity0 commanded one - fifth of the global pc market in the third quarter of 2014 , according to data research firm @entity160			2
+a @entity0 community administrator , @entity130 , wrote in january that the software would be temporarily removed from current systems			2
+
+@entity4 is *designed* to place adverts into @entity167 search *results*
+it affects @entity18 and @entity19 in *recent* @entity0 *pcs*
+it also allows hackers to impersonate certificates of encrypted sites
+this means they can steal data such as bank details and passwords
+@entity0 claims the software does not ' substantiate security concerns '
+
+@entity153:Huawei Technologies Ltd
+@entity134:Electronic Frontier Foundation
+@entity156:Xiaomi Inc
+@entity133:Joseph Bonneau
+@entity0:Lenovo
+@entity7:Superfish
+@entity6:China
+@entity4:Superfish
+@entity130:Mark Hopkins
+@entity35:Eric Rand
+@entity36:Brown Hat Security
+@entity19:Google Chrome
+@entity18:Internet Explorer
+@entity102:SSL
+@entity104:Forbes
+@entity99:Errata Security
+@entity98:Robert Graham
+@entity96:NSA
+@entity94:Wi-Fi hotspot
+@entity160:IDC
+@entity167:Google
+@entity148:DailyMail.com
+@entity46:Twitter User Kenn White
+@entity40:Superfish
+@entity41:HTTPS
+@entity67:Control Panel
+@entity65:Windows

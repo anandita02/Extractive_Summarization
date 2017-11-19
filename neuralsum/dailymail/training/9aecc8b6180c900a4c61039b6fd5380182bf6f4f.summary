@@ -1,0 +1,44 @@
+http://web.archive.org/web/20140825055554id_/http://www.dailymail.co.uk/sciencetech/article-2601707/Poor-battery-life-Blame-FACEBOOK-App-running-background-waste-energy-money.html
+
+by @entity0 a quickly draining battery can be a pain for many @entity4 users			1
+but it turns out one of the most popular apps might be to blame			0
+a former @entity8 has unearthed evidence that the @entity11 app is eating away at your phone ’s juice			1
+is @entity11 draining your battery ? a former @entity8 employee has discovered that the popular third - party app runs processes in the battery that can decrease your phone 's juice according to @entity23 from @entity24 : ' i just got the @entity25 about two weeks ago , and thought my battery was draining a little too quickly			1
+‘ being the nerd that i am , i decided to run the app @entity29 from @entity30 , @entity8 ’s developer tool , in order to see what the problem was			1
+‘ during this testing , @entity11 kept jumping up on the process list even thought i was n’t using it			1
+‘ so i tried disabling @entity38 for @entity39			0
+' doing this , @entity23 noticed that his battery percentage increased from 12 % to 17 %			2
+@entity42 for apps other than @entity11			2
+stop push notifications from apps you do n't use frequently			1
+turn on airplane mode when you have n't got a signal anyway			0
+stop closing apps , as your phone uses more battery each time it opens them again			2
+‘ i have confirmed this behaviour on multiple iphones with the same result , ’ continues @entity23			0
+‘ bad , @entity11 , bad			2
+’ fortunately , as @entity23 points out , there is an easy fix			0
+navigating to @entity61 will enable you to turn off location services for @entity11			0
+then go to @entity64 to turn that functionality off for @entity11			0
+one of the reasons for this might be that @entity11 is introducing more features as it bids to become your number one communications service			0
+this is n’t the first time @entity11 has been caught causing phone users trouble , though previously in january @entity73 reported that the app was reading your texts , which the company claims is required for security reasons			1
+you can turn off location services for @entity11 within the @entity80 menu to save battery life heading into your settings will also allow you to turn off ' @entity38 ' for @entity11 , saving more battery life but at the expense of not getting constant updates			1
+
+a former @entity8 employee found that @entity11 was draining battery
+background processes on @entity4 run by the app eat up as much as 5 %
+this keeps the app updated and gives you push notifications
+but turning it off is a good way to *prolong* your phone 's life
+
+@entity23:Loveless
+@entity0:Jonathan O'Callaghan
+@entity11:Facebook
+@entity24:Overthought.org
+@entity4:iPhones
+@entity39:Facbook
+@entity38:Background App Refresh
+@entity25:iPhone 5s
+@entity80:iOS Settings
+@entity42:Disable Background App Refresh
+@entity29:Instruments
+@entity30:Xcode
+@entity61:Settings > Privacy > Location Services
+@entity8:Apple
+@entity73:MailOnline
+@entity64:Settings > General > Background App Refresh

@@ -1,0 +1,64 @@
+http://web.archive.org/web/20140714063952id_/http://www.dailymail.co.uk/sciencetech/article-2672192/What-LOO-tion-Video-reveals-cleanest-public-toilet-festival-using-mathematical-formulas.html
+
+by @entity0 if you 've ever queued for a public toilet at a festival or event , you 'll know how difficult it is to find the cleanest option , quickly			1
+with that in mind , a mathematician has devised a system of determining how many toilets must be rejected automatically to guarantee the best possible option			1
+when faced with a row of 100 , her conclusion is that the first 37 should be avoided , and then each should be opened in order to make the correct choice			1
+she claims that out of 100 toilets , people should discard the first 37 and then pick the next best toilet based on the 37 they 've already observed , to get the cleanest experience in the video , dr @entity24 draws three toilets on a piece of paper , and numbers them one to three - one being the most hygienic , and three being the dirtiest			1
+the order of these doors is then randomly mixed up			0
+there are six permutations of this problem , making it three factorial			0
+the chances of the first toilet being clean is slim , especially at large numbers so dr @entity50 suggests rejecting the first toilet in each permutation , and selecting the next best			0
+using the first permutation , dr @entity24 ca n't pick the first , but the second is n't as clean as the first , so that leaves the third as her only option			2
+she then continues to go through the system in the other five permutations , and by rejecting the first each time , picks the cleanest toilet on three occasions			1
+this results in a three out of six , or 50 per cent , chance , of picking the best toilet overall			2
+when this number raises to 100 , she applies the same principle and discovers that the best way to get the cleanest possible toilet is to reject the first 37			1
+this particular mathematical problem is similar to the ‘ secretary problem ’			1
+this famous conundrum asks how , out of 100 candidates , an interviewer would pick the best person for a job			1
+the same principle can also be used to select the best toilet at a festival , apparently			2
+‘ if you ever go to a music festival , especially a music festival in the @entity81 , you might come across the problem that there ’s always lots of toilets for you to choose from , ’ said dr @entity24 from the @entity76 in the video for @entity27 channel @entity25			1
+she explains that ' the problem with these toilets is they ’re not always that well looked after			1
+’ so , in this particular problem , there can be considered three types of toilet : one that is deemed disgusting , one that is adequate , and one that it spotless			2
+‘ ideally i ’m looking for the best toilet , the most hygienic , the cleanest toilet , one with plenty of toilet paper in there and hand sanitiser and has been looked after , ' she said			1
+when searching for the best toilet she imagines a row of many , in this case 100 , and in the problem a festival - goer works through the toilets one - by - one			1
+but the second constraint is that you ca n’t go back to a previous rejected toilet as ‘ there are people queieing behind you			2
+' after some painstaking maths , which you can watch in the videos below , dr @entity24 ultimately comes to her conclusion			0
+@entity117 is famed for its rather unsanitary toilets			0
+here festival - goers are seen using the newly installed long drop toilets in the rain at the festival at @entity123 in @entity124 on 26 june 2014			2
+perhaps with this new mathematical method , though , people wo n't need to seek these new toilets out ‘ if we were in @entity117 and there were 100 toilets , what we should do is reject the first 37 toilets that we see , ’ explained dr @entity24			1
+she clarified that you need to look in each of those toilets			0
+after that , you should then pick the next best toilet that you see as compared to the previous 37 , which will get you the optimum standard of toilet			1
+this will prevent you from running out of toilets before finding one suitable , but it also makes sure you will find the best available toilet as quickly as possible			1
+and after the 37th toilet , you then also have a 37 per cent chance that a toilet you pick is actually the best category of toilet ( lots of toilet paper and soap ) in the remaining 67 per cent			1
+this method was also famously suggested to be used in the dating world to find the best partner - although perhaps lining up 100 men or women as prospective partners would n't go down so well			2
+if you ’re in the mood for more mathematical brain teasers you might also enjoy the famous @entity161 problem , a paradox named after the host of the @entity165 tv game show @entity166			2
+in the problem a contestant is presented with three doors : behind two is a goat and one has a new car - the latter of which they obviously want to win ( contestants who would rather win one of the two goats are not considered here )			0
+the contestant is then asked to pick one of the three doors but , before they are allowed to open it , the gameshow host ( who knows the location of the car ) opens one of the other doors , revealing a goat			0
+the contestant is then given the choice to switch			0
+should they switch , or should they stick with their door ? does it even matter ? it ’s intuitive to think that it does n’t matter as , with two doors , there is a 50:50 chance the contestant will pick the car			0
+but a bit of maths shows that switching is actually much more successful			0
+in fact , the car will be chosen 2/3 times if the contestant switches , compared to just 1/3 if they do n’t			0
+the reason is explained in the image below			0
+in each it is assumed the contestant chooses door 1 each time , although it does n’t matter which they actually pick - this is just an example			0
+as can be seen , when they make their initial selection they have just a 1/3 chance of being correct			0
+but after the host has revealed a goat , switching then gives them a 2/3 chance of getting the car .			0
+
+@entity225 *professor* reveals how to pick the best toilet at a festival
+in a video for @entity25 she explains how to choose out of 100
+the rather complex solution is based on the famous ' secretary problem '
+she claims the first 37 toilets in a row of 100 should be rejected
+toilets should then be compared to find the best option *relative*
+this gives the mathematical best chance of finding the cleanest toilet
+
+@entity0:Jonathan O'Callaghan
+@entity166:Let ’s Make a Deal
+@entity27:YouTube
+@entity24:Symonds
+@entity165:American
+@entity25:Numberphile
+@entity117:Glastonbury
+@entity81:UK
+@entity50:Symnods
+@entity225:Nottingham
+@entity124:Somerset
+@entity76:University of Nottingham
+@entity123:Worthy Farm
+@entity161:Monty Hall

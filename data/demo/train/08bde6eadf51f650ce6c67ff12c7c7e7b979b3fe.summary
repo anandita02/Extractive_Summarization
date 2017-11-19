@@ -1,0 +1,101 @@
+http://web.archive.org/web/20140413034513id_/http://www.cnn.com/2009/TECH/10/05/computers.bootup.speed/
+
+-- in the time it takes your computer to boot up , you can probably make some toast or a cup of tea before the thing is ready to use			1
+in the near future , you might only have enough time to take a sip of that tea or check your watch			0
+do you get impatient waiting for your computer to start up ? manufacturers say they 're working on that			1
+mindful of how frustrating the wait is , makers of @entity19 ' basic input / output systems ( @entity20 ) are working on bringing instant - on computing closer to reality with promises of significantly faster boot time			1
+" people want pcs to be like their toaster			0
+push a button and it is ready , " says @entity29 , vice-president and chief scientist of core systems at @entity32 , one of the biggest bios makers			1
+the bios is the first piece of code that a computer runs when it is powered on			1
+before @entity40 or @entity41 can start , the bios identifies , tests and gets system devices such as the video display card , the hard disk and other hardware up and running			1
+but running the tests every time the machine powers on can be time consuming			0
+at @entity50 's developer conference last month , @entity32 announced that the latest version of its bios could boot in just about a second by cutting out redundant checks and creating a smarter version of the firmware			1
+of course , that still leaves the time that it takes @entity40 to start up , but @entity58 has been working on that , too , and claims that @entity60 starts up in about 20 seconds , compared to the 50 seconds or so for @entity61			2
+the faster boot time will help users , says @entity64 , a research fellow at market research and consulting company @entity67			1
+but even with @entity58 's improvements , he says , it is still nearly a minute before the user is completely up and running			0
+" every software application today wants to go out there and check for the latest version on boot up , which just gets in the way of what you really want to do			1
+and that is check e-mail , " he says			0
+shrinking this digital annoyance is the new quest for pc makers			2
+for most people , computers today have become as much a consumer electronics product as tvs , cellphones and dvd players			2
+that means , consumers expect the same kind of instant response from their computers are they get from other electronics devices			1
+" if you pick up a phone , you expect to instantly hear a tone , " says @entity29			2
+" that 's the future for computers , too			0
+" @entity29 says the ' i am ready for use ' signaling is an important psychological factor for consumers			2
+" @entity106 worked hard on this			0
+they figured if you pick up the phone and did n't hear something within 250 milliseconds , then you would be pretty uncomfortable with the device , " he says			0
+on pcs , that signaling time has been much longer			0
+boot - up on pcs is split into two chunks : the bios boot up , which is the time taken from pressing the power on button to the time bios finishes booting , also known as pre-boot , and the time taken for the operating system to load			1
+today , this can take anywhere from a minute to nearly three minutes			0
+and that can feel like eternity for users			0
+" lots of users today just press the power button and then grab a cup of coffee , " says @entity64			0
+" if the line at @entity136 is n't too long , the system will be ready by the time they 're back			0
+" the bios has been part of pcs since the first @entity142 pc in 1981			2
+the firmware initializes every computer to a point where an operating system can come along and with no knowledge of the machine start running			2
+" the bios is doing a lot more than waking up the machine and handing it a cup of coffee in the morning , " says @entity149 , senior technical marketing engineer , for @entity150 , a major bios maker			1
+" it provides a layer so you can buy a pc , take it home , wipe the configuration clean , change it and do it 100 times a day and your @entity40 will still start up			2
+" running the hardware checks takes time			0
+about 15 years ago , the bios firmware in pcs would take up to two minutes to boot			1
+finding that customers were becoming impatient with the boot times , pc makers started pressing for pcs to be more like appliances with their ability to be switched on instantly			1
+" electronics are not supposed to warm up anymore , " says @entity149			2
+" so we have been trying to shrink the time it takes to get the machine ready			0
+" bios boot times can vary depending on configuration of the pc : more memory and more cards mean it will take longer			1
+increasingly , operating systems , such as @entity58 's @entity40 , run initial checkups on boot to verify system details and ensure the most updated versions of the software is loaded			1
+in other words , the os is doing some of the work that the bios traditionally has done			2
+" effectively what bios makers are saying is that if the @entity40 is not going to believe us anyway , why bother ? " says @entity64			1
+that 's why pc makers are pinning their hopes on a new standard called @entity194			2
+@entity194 hopes to improve the intelligence of the bios so it does n't have to perform all checks every time the computer is powered on			1
+ultimately , the idea is to run fewer initializations as the computer boots			0
+@entity32 and @entity150 say there are some machines already whose bios is based on the @entity194 standard for quicker boot but it will be late next year before a majority of pcs have it			1
+and unlike the bios , which is tied to @entity50 's x86 processor architecture , @entity194 will not be specific to any processor architecture			0
+@entity58 's upcoming @entity60 operating system has also laid out some criteria for pc manufacturers to get hardware aligned in a way that they can meet the company 's standards			0
+@entity58 has set a criteria of five seconds for bios boot time and 20 seconds for the operating system to boot			1
+that 's still nowhere near the instant - on computing dream and promises of faster bios risks setting unrealistic expectations among consumers , says @entity64			1
+there 's a way to get instant - on			1
+it 's called the sleep mode			0
+" people assume they get instant - on with their cellphones but no one reboots their cellphone everyday , " says @entity149			1
+" so one form of instant - on is never to turn it off			1
+" another route to quick boot is to do what @entity244 has done with its latest notebook			1
+@entity244 's newly launched @entity247 offers instant boot to check e-mail , calendar , contacts and the web as part of a mode called ' @entity255			2
+' in it the @entity19 boots from a special chipset running an arm processor , the same kind of cpu that powers most cellphones , and a slimmed down version of the @entity41 operating system			1
+the @entity255 mode comes with its own power on / off button			0
+users can click on an adjacent power button to switch to @entity40 os. that gives consumers options , says @entity273 , product manager for @entity247 at @entity244			0
+" when you directly go to the latitude on mode , you never bring up the main operating system , " he says " and when you turn it off , it goes into the suspend mode , which is not like that of @entity61 or @entity279 but more like what you see in cellphones			0
+" at $ 2000 , the @entity247 laptop is a pricey answer to the problem of a two - minute boot up time for pcs. and it does n't give users access to all features and programs that run on @entity40 such as @entity295 or @entity296			2
+that 's why , @entity299 advocates just staying away from the power off button as much as you can			0
+" most systems today have the ability to go to sleep as opposed to being turned off , " says @entity64			0
+" too many users do n't understand that			0
+" subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2009 @entity311 .			0
+
+computer makers are working on bringing instant - on computing closer to reality
+makers of @entity19 ' basic input / output systems ( @entity20 ) promise much faster boot times
+one maker says its latest version of bios can boot in just about a second
+consumers now expect instant response from many of their electronics devices
+
+@entity20:BIOS
+@entity150:AMI
+@entity29:Jones
+@entity255:Latitude On
+@entity279:XP
+@entity136:Starbucks
+@entity273:Robert Thomson
+@entity311:Wired.com
+@entity0:WIRED magazine
+@entity194:UEFI
+@entity50:Intel
+@entity299:Brookwood
+@entity295:Microsoft Word
+@entity296:Power Point
+@entity58:Microsoft
+@entity32:Phoenix
+@entity19:PCs
+@entity247:Latitude Z
+@entity244:Dell
+@entity106:Bell Labs
+@entity142:IBM
+@entity149:Richardson
+@entity40:Windows OS
+@entity41:Linux
+@entity67:Insight 64
+@entity64:Brookwood
+@entity60:Windows 7
+@entity61:Vista

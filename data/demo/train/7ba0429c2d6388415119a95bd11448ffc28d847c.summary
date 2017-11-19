@@ -1,0 +1,34 @@
+http://web.archive.org/web/20141208123709id_/http://www.cnn.com/2014/09/25/politics/fbi-apple-google-privacy/
+
+@entity0 -- @entity2 and @entity3 have won praise from privacy proponents for efforts to encrypt their latest smartphones in a way that would prevent law enforcement from accessing certain private data			1
+the @entity11 , not so much			2
+@entity11 director @entity12 told reporters thursday that the agency is talking to both companies to raise concerns that their privacy efforts could hinder criminal investigations			1
+@entity2 last week touted that with release of its latest operating system @entity20 , it no longer could bypass the smartphone user passwords			0
+" so it 's not technically feasible for us to respond to government warrants for the extraction of this data from devices in their possession running @entity30 8 , " @entity2 said in a blog post			0
+@entity3 quickly followed suit , saying it already had such technology in phones running its android operating system , but that " as part of our next @entity34 release , encryption will be enabled by default out of the box , so you wo n't even have to think about turning it on			1
+" @entity12 said that he was " very concerned " that the companies were " marketing something expressly to allow people to place themselves above the law			2
+" revelations by former @entity50 contractor @entity48 of government mass surveillance programs has posed problems for @entity54 tech companies , which are required by federal law to cooperate with surveillance program requests			1
+concerned that the revelations will damage their businesses , particularly in foreign markets , the companies have taken a more public role in pushing back on the surveillance programs			0
+@entity62 , which fought a losing court battle against some surveillance requests , recently won a fight to make public secret court documents detailing that battle			0
+the company used the information to tout its efforts to protect the privacy of its customers			2
+the @entity11 director said he understood the privacy concerns in the wake of @entity48			1
+but he noted that the @entity11 sometimes has an urgent need to access data , such as in cases of kidnappings or terrorism			0
+@entity12 said he supports the idea that the @entity11 should have a warrant from a judge to take a look into someone 's closet , or smartphone , but added he could n't support " the notion someone would market a closet that would never be open			0
+
+@entity2 and @entity3 *announce* encryption programs *designed* to protect customers ' privacy
+@entity11 director worries this will " allow people to place themselves above the law "
+privacy issues have been at the *forefront* since the @entity48 leaks
+
+@entity3:Google
+@entity2:Apple
+@entity1:CNN
+@entity0:Washington
+@entity12:Comey
+@entity11:FBI
+@entity30:iOS
+@entity48:Edward Snowden
+@entity20:iOS8
+@entity50:National Security Agency
+@entity54:U.S.
+@entity62:Yahoo
+@entity34:Android

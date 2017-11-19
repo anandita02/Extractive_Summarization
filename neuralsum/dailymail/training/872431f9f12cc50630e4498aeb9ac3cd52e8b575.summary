@@ -1,0 +1,85 @@
+http://web.archive.org/web/20140311024416id_/http://www.dailymail.co.uk/sciencetech/article-2573101/Could-NHS-COMPUTER-virus-Outdated-software-putting-official-sites-risk-attack.html
+
+by @entity0 , @entity1 published : 19:02 est , 4 march 2014 updated : 11:02 est , 5 march 2014 hundreds of @entity4 websites have huge security flaws that could see them taken over or defaced by hackers			1
+during investigations , more than 2,000 vulnerabilities have been found , with experts warning criminals could use these flaws to easily infect people ’s computers and steal their personal information			1
+there are said to be around 5,000 @entity4 domains - covering everything from @entity20 ' surgeries to sites that help people give up smoking or offer advice on breastfeeding			1
+however , because there ’s no central body responsible for the security and maintenance of these sites , many are abandoned , making them easy prey for hackers			1
+read the full story in @entity1 magazine , out now more than 2,000 vulnerabilities have been found during a @entity1 investigation into @entity4 websites			1
+there are around 5,000 @entity4 domains , but because there 's no central body responsible for the security and maintenance of these sites , many are abandoned making them easy prey for hackers the majority of these flaws are caused by outdated versions of @entity48			1
+nhs.uk ’ websites run @entity48 - a popular website - building tool - but fewer than 50 of these use the latest , most secure version			1
+five @entity4 websites run a version of @entity48 that was last updated in 2008			1
+the investigation was carried out by a security researcher and @entity1 magazine , pictured , on sale now outdated versions of @entity48 are constantly targeted by hackers			1
+in september 2013 , security experts estimated 70 per cent of all websites running @entity48 were vulnerable			2
+in addition to old versions of @entity48 , many of the @entity4 sites run outdated plug - ins			1
+the vast majority of these websites also use unsecured administrator login pages			1
+this means that when a website administrator logs in , their username and password are sent without encryption , making them vulnerable to interception by a hacker , who could gain complete control of the site			0
+@entity83 , an independent security researcher uncovered the flaws and has informed the @entity4			2
+he likened the situation to someone ' walking past a house and seeing a wide open window			0
+' an attacker could use the site to host viruses - or automatically redirect users to convincing - looking fake sites			0
+an attacker could also change the site to look like the @entity4 is endorsing and selling dodgy pills and potions , ' @entity83 explained			0
+@entity83 said that bugs on old versions of @entity48 could also let criminals steal passwords and other personal information , which in turn could compromise the integrity of the @entity4			1
+' if people are not able to trust the information present on their local hospital ’s website , they are less likely to trust the @entity4			2
+' is visiting @entity4 sites going to infect my computer ? any website could be compromised by hackers , but poorly coded websites running outdated and vulnerable code are easy targets			1
+at the moment hackers are n’t targeting these @entity4 websites - but the security flaws uncovered show that they would be alarmingly easy to attack			1
+is it dangerous for me to visit any @entity48 site ? absolutely not			2
+in the same way you ’d keep software on your pc updated , a website ’s security also needs to be kept up to scratch to protect it against attack			0
+@entity48 is a popular tool for building attractive and easy - to - use websites , with nearly 76 million sites using it			2
+why are old versions of @entity48 so vulnerable ? just as you keep software on your computer up to date , websites also need regular updates to keep them safe			2
+this is where some @entity4 websites have failed			1
+of the 5,000 or so websites using the ‘			0
+nhs.uk ’ domain about 400 of them run @entity48			0
+what ’s worrying is that fewer than 50 are running the latest version , @entity48 3.8.1			0
+even more alarmingly , some sites – such as a stop smoking advice website for @entity4 – are running versions of wordpress that were released in august 2008			1
+you would n’t run a computer that was last updated five years ago - the same applies to websites			0
+what is ‘ cross-site scripting ’ and why is it dangerous ? also known as @entity160 , cross-site scripting allows a hacker to exploit the ‘ user input ’ part of a website , such as a search box , to run malicious code			0
+this vulnerability means anyone with the right know - how can make images , links , text or video appear on a website			0
+by doing this a hacker could add anything they wanted to an @entity4 website			0
+most websites block this code from running , but poorly designed websites do n’t			0
+one @entity4 website , which offers advice on breastfeeding , contains a cross-site scripting vulnerability that lets anyone add their own images , videos , text and links to pages			2
+to demonstrate this , @entity193 added a video of a bear fishing for salmon to this @entity4 webpage			0
+in the hands of a criminal this could easily be a pornographic video or link to a malicious website that steals your personal information and infects your computer			2
+since @entity193 hacked this site , @entity210 city council ’s public health department , which has responsibility for it , has fixed the issue and said it is ' satisfied the site is now secure			0
+' in another example , @entity193 showed that a website about improving the quality of @entity4 leadership and patient care could easily be altered to contain links to websites selling fake sexual aids			2
+the majority of the flaws are caused by outdated versions of @entity48			1
+@entity227 ' websites run @entity48 but fewer than 50 of these use the latest , most secure version			1
+five @entity4 websites , including this stop smoking service from @entity4 , run a version of @entity48 last updated in 2008 the @entity234 ( @entity234 ) , which processes applications for ‘			1
+nhs.uk ’ domain names , said that responsibility for upkeep lay ' with the organisation running each website or service			0
+' after being made aware of the security flaws @entity234 said it was ' drafting some additional guidance ' that will be issued to anyone using an @entity4 domain			2
+despite this , nearly all the flaws highlighted are still present and exploitable			0
+in most cases , @entity249 surgeries and local @entity4 bodies outsource the development of their websites to specialist private companies , with many seemingly never updated			2
+@entity256 , head of applications at the @entity258 and @entity259 , explained that while the main @entity262 website is maintained by a central it team , local websites merely had to follow ' some general guidelines			0
+' to demonstrate the flaw , security researcher @entity83 added a video of a bear fishing for salmon to an @entity4 webpage , pictured			0
+@entity210 city council 's public health department has now fixed the issue on this site and said it is ' satisfied the site is secure ' one software company , responsible for the development of ' many hundreds ' of @entity4 websites for @entity249 surgeries , added that once a website had been developed it was the surgery ’s responsibility to keep it updated			1
+@entity1 also found a number of security flaws in many of the company ’s @entity4 websites that left them vulnerable to a cross-site scripting attack via @entity290 injection			1
+this can make it easy for hackers to change how a site looks by adding their own images , videos , text and links			0
+this flaw has now been fixed			0
+@entity300 , head of @entity302 said that because people are more likely to trust @entity4 websites , they were a very attractive target for criminals			1
+' the old advice about avoiding pornographic websites , cracked software and other dubious parts of the internet still holds , but threats are not limited to these places , ' he warned			0
+' when we test security software it ’s common to find that the malicious software is stored and downloaded from innocent websites that have been hacked			0
+
+security researchers found more than 2,000 vulnerabilities in @entity4 websites
+there are 5,000 @entity4 domains but no central body is responsible for security and maintenance
+the majority of flaws are caused by outdated versions of @entity48
+five @entity4 websites run a version of @entity48 last updated in 2008
+many of these websites also use unsecured administrator login pages
+criminals could hack these trusted sites , add malicious links , steal personal information or even *advertise* dangerous drugs
+
+@entity302:Dennis Technology Labs
+@entity160:XSS
+@entity0:James Temperton
+@entity210:Liverpool
+@entity227:nhs.uk
+@entity234:HSCIC
+@entity4:NHS
+@entity48:Wordpress
+@entity20:GPs
+@entity193:Eden
+@entity1:Computer Active
+@entity83:Terence Eden
+@entity300:Simon Edwards
+@entity256:Bill Douglas
+@entity258:Cheshire
+@entity259:Merseyside Commissioning Support Unit
+@entity290:HTML
+@entity249:GP
+@entity262:NHS Choices

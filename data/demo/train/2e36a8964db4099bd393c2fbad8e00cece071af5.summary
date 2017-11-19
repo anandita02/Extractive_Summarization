@@ -1,0 +1,83 @@
+http://web.archive.org/web/20140624232506id_/http://www.cnn.com:80/2010/OPINION/04/27/wolfram.computing.knowledge/index.html
+
+-- at the age of 12 , @entity1 was reading college physics textbooks and toying around with a computer roughly " the size of a large desk			1
+with @entity7 of 18 - bit words of core memory			1
+and programmed with paper tape			1
+" by the age of 20 , he had gotten his ph.d. and was on his way to inventing his own computational system			1
+but last year , at the age of 50 , @entity1 launched what may be his most ambitious effort -- @entity1 @entity19 , a knowledge engine that answers users ' questions on the web by computing answers in real time with the help of a vast collection of databases			1
+in a talk at the @entity31 conference in february , @entity1 outlined the potential of the @entity19 engine and talked more broadly about using computing to understand physics and model the universe			1
+learn more about @entity1 at @entity37 he talked in greater detail about the development of @entity40 alpha by videoconference at the 50 years of @entity43 at the @entity45 conference at @entity45 on april 15			1
+here are excerpts from that talk : ( a complete version is available here			1
+) " a year ago , we launched @entity40 alpha			1
+" it was quite tense			1
+the culmination of about five years of work and 25 more years of previous development			1
+an absurdly ambitious project that i had n't been sure was going to be possible at all			1
+" our long - term goal was -- and is -- to make all the world 's systematic knowledge computable			1
+to take all the data , and models , and methods that our civilization has accumulated -- and set it up so that it can immediately be used to compute answers to whatever questions people ask			1
+" there 's a long , long history to this basic idea			1
+[ @entity73 mathematician @entity72 ] @entity71 was talking about a version of it 300 years ago			2
+and 50 years ago , when computers were young , it seemed like it would n't be long before it was possible			2
+" but people mostly thought that it 'd happen by computers managing to emulate brains -- and pulling in knowledge and processing like we humans do			1
+well , i myself am right now 50 years old ... and , as perhaps i 'll show you later , i 'd actually been thinking about globally systematizing knowledge since i was a kid			1
+" it was about 30 years ago when i first started thinking about making knowledge broadly computable			1
+and at the time i concluded it 'd require solving the whole problem of artificial intelligence -- and was way out of reach			2
+but then i spent the next 25 years doing things that , as i 'll explain , finally made me think : maybe , just maybe this computable knowledge idea is n't so out of reach			1
+" i must say that at first i still did n't know if it was only not out of reach in the 50 - year - type time frame			2
+or the 20 - year			2
+or the five - year			2
+but i decided that we should give it a try			2
+" it had all started with some abstract intellectual ideas			2
+and now , in the end , it had turned into millions of lines of code , terabytes of data -- and 10,000 servers that we 'd just been finishing assembling			2
+" some news had come out about our project , so there was a lot of anticipation			2
+and we knew there 'd be a big spike in people wanting to try out what we 'd done			2
+" we 'd obviously done lots of testing			2
+but we really did n't have any idea what would happen when millions of people actually started accessing our system			2
+" but we thought : let 's let as many people as possible share the experience of finding out			1
+" so we decided to do a live webcast of the moment when we actually made our system live to the world			1
+" well , actually , the day of the event i was thinking : this is going to be such boring tv			0
+all that 's going to happen is that at some moment we 'll push a virtual button , and everything will go live			1
+" well , needless to say , it did n't stay boring long			0
+" early in the day , we had finally finished assembling all our servers -- and were able to switch them all on			0
+and ... oh my gosh ... lots of stuff did n't work			0
+" well , at the appointed time we started the live webcast			0
+and still things were n't working			0
+there was a horrible networking and load - balancing problem			0
+" we 'd advertised 9 p.m. as our go - live time			0
+we figured at that time on friday evening most people would n't be thinking about us ... so we 'd have a comparatively soft launch			0
+" well , with perhaps 15 minutes to go , we 'd finally solved the main technical problem			0
+" you know , some people had said when you look at other peoples ' control rooms they often have television weather and news playing			0
+perhaps we should have that too			0
+" i said bah , we wo n't need that			0
+this is just a computer thing			0
+we do n't care if it 's raining			1
+" well , fortunately we did actually have good weather and news feeds			0
+because this was may in the @entity175			0
+and as it turned out , with perhaps 30 minutes to go , there was another problem			0
+here , we can actually look at live @entity40 @entity19 to find out about it			0
+[ by typing in " weather champaign may 15 2009 , " a chart was generated of wind speed in @entity45 , @entity182 , for that date			0
+] " see that giant spike in wind speed just before 8pm ? that was a tornado			0
+well , we had backup generators -- and of course we had several remote co-location sites for our servers			0
+" but still , we had a tornado coming straight for us			0
+" well , fortunately , at the last minute , it turned away			0
+and the power did n't even go out			0
+so at 9:33:50 p.m. central time on may 15 , 2009 , i pressed the button , and @entity1 @entity19 went live			1
+" and our giant project was launched -- out of the starting gate			0
+
+*scientist* @entity1 seeking to make world 's knowledge computable
+he developed a web site that provides instant computation *relying* on *massive* databases
+@entity1 is seeking to answer fundamental questions about the universe through computing
+
+@entity31:TED2010
+@entity1:Wolfram
+@entity0:CNN
+@entity7:8K
+@entity37:TED.com
+@entity182:Illinois
+@entity19:Alpha
+@entity45:Champaign
+@entity40:Wolfram
+@entity43:Public Computing
+@entity175:Midwest
+@entity71:Leibniz
+@entity73:German
+@entity72:Gottfried

@@ -1,0 +1,40 @@
+http://web.archive.org/web/20140625060258id_/http://www.dailymail.co.uk/sciencetech/article-2664100/Researchers-reveal-massive-security-hole-Google-s-app-store-puts-millions-risk-secret-keys-discovered.html
+
+by @entity0 a major security flaw in @entity3 's @entity2 that could expose user 's private data has been revealed by researchers			1
+the bug , which the team has worked with @entity3 , @entity10 and other app makers to fix before revealing it , put millions of users at risk , the researchers said			1
+the bug would allow hackers to steal user data from @entity10 , @entity18 and others using ' secret ' keys the team uncovered			1
+the @entity20 found thousands of secret keys in android apps ( shown by red arrows ) that could be used to steal user data the researchers created an app called @entity26 , which used various hacking techniques to circumvent @entity3 security to successfully download @entity30 apps and recover their sources			1
+they were then able to decompile the apps to see their code			0
+they then found developers often store their secret keys in their apps software , similar to usernames / passwords info , and these can be then used by anyone to maliciously steal user data or resources from service providers such as @entity18 and @entity10			1
+the research was revealed in a a paper presented — and awarded the prestigious @entity46 — at the @entity48 conference			0
+@entity49 , professor of computer science at @entity20 , and phd candidate @entity52 said they were stunned by the scale of their find			0
+' @entity30 has more than one million apps and over 50 billion app downloads , but no one reviews what gets put into @entity30 — anyone can get a $ 25 account and upload whatever they want			0
+very little is known about what ’s there at an aggregate level , ' says @entity49 ' given the huge popularity of @entity30 and the potential risks to millions of users , we thought it was important to take a close look at @entity30 content			2
+' @entity49 and @entity76 ’s paper is the first to make a large - scale measurement of the huge @entity30 marketplace			0
+the researchers created an app called @entity26 , which used various hacking techniques to circumvent @entity3 security to successfully download @entity30 apps and recover their sources			2
+@entity26 scales by simply adding more servers and is fast enough to crawl @entity30 on a daily basis , downloading more than 1.1 million @entity88 apps and decompiling over 880,000 free applications			0
+@entity30 , the @entity88 app store , has more than one million apps and over 50 billion app downloads @entity49 and @entity76 discovered all kinds of new information about the content in @entity30 , including a critical security problem : developers often store their secret keys in their apps software , similar to usernames / passwords info , and these can be then used by anyone to maliciously steal user data or resources from service providers such as @entity18 and @entity10			2
+these vulnerabilities can affect users even if they are not actively running the @entity88 apps			0
+@entity49 claims that even “ @entity110 , ” designated by the @entity30 team as the best developers on @entity30 , included these vulnerabilities in their apps			0
+' we ’ve been working closely with @entity3 , @entity18 , @entity10 , and other service providers to identify and notify customers at risk , and make the @entity3 play store a safer place , ' says @entity52			1
+' @entity3 is now using our techniques to proactively scan apps for these problems to prevent this from happening again in the future			2
+' in fact , @entity49 adds , developers are already receiving notifications from @entity3 to fix their apps and remove the secret keys .			1
+
+bug put millions of users at risk
+team worked with @entity3 , @entity10 and others to fix before revealing their work
+
+@entity3:Google
+@entity2:Play Store
+@entity20:Columbia Engineering
+@entity0:Mark Prigg
+@entity26:PlayDrone
+@entity10:Facebook
+@entity18:Amazon
+@entity52:Viennot
+@entity46:Ken Sevcik Outstanding Student Paper Award
+@entity110:Top Developers
+@entity88:Android
+@entity30:Google Play
+@entity76:Viennot
+@entity48:ACM SIGMETRICS
+@entity49:Nieh

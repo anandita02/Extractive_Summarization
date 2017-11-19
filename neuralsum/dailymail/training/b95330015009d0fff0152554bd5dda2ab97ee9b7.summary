@@ -1,0 +1,66 @@
+http://web.archive.org/web/20140528145401id_/http://www.dailymail.co.uk/sciencetech/article-2621407/Could-soon-surf-QUANTUM-web-Breakthrough-tech-using-single-atoms-create-unimaginably-secure-Internet.html
+
+by @entity0 @entity2 researchers have succeeded in creating quantum switches that can be turned on and off using a single photon			1
+this technological achievement could pave the way for creating highly secure quantum networks			1
+built from single atoms , the first - of - their - kind switches could one day be networked via fiber - optic cables to form the backbone of a ' quantum internet ' that allows for perfectly secure communications			1
+@entity15 switches that can be turned on and off using a single photon have been created by researchers at @entity2 , paving the way towards a ' quantum internet ' professor of physics @entity19 , together with professor @entity21 of @entity22 , led a team consisting of graduate students @entity25 and @entity26 and postdoctoral fellows @entity28 and @entity29 to construct the new system			1
+' from a technical standpoint , it ’s a remarkable accomplishment , ' @entity19 said of the research			0
+' conceptually , the idea is very simple : push the conventional light switch to its ultimate limit			0
+' what we ’ve done here is to use a single atom as a switch that , depending on its state , can open or close the flow of photons - and it can be turned on and off using a single photon			1
+' though the switches could be used to build a quantum computer , @entity19 said it ’s unlikely the technology will show up in the average desktop computer			1
+where it will be used , he said , is in creating fiber - optical networks that use quantum cryptography , a method for encrypting communications using the laws of quantum mechanics to allow for perfectly secure information exchanges			1
+' @entity15 ' is defined as the minimum amount of a physical entity			0
+a photon is a quantum , for example , as it is the smallest divisible unit of light : a single light particle			1
+quantum mechanics , also known as quantum physics , describes the behaviour of small particles , including photons , as well as atoms , ions and electrons			2
+the behaviour of these particles can seem counter-intuitive and often goes against the rules of classical physical systems			0
+one of the fundamental principles of quantum systems is that they can behave like both particles and waves			2
+light is commonly referred to as , and treated like , a wave , but it consists of particles : photons			0
+this type of behaviour , known as wave - particle duality , gives rise to the strange properties that make the prospect of future quantum technologies exciting in areas such as communication , timing , navigation and information security and storage			1
+in theory , quantum computing could allow for huge amounts of data to be processed , which is even beyond today 's supercomputers , as well as entirely new types of computation			2
+such systems make it impossible to intercept and read messages sent over a network , because the very act of measuring a quantum object changes it , leaving behind telltale signs of the spying			2
+' it ’s unlikely everyone would need this type of technology , ' he said			0
+' but there are some realistic applications that could someday have transformative impact on our society			0
+' at present , we are limited to using quantum cryptography over relatively short distances - tens of kilometers			1
+' based on the new advance , we may eventually be able to extend the range of quantum cryptography to thousands of kilometers			2
+' importantly , their system is highly scalable , and could one day allow for the fabrication of thousands of such switches in a single device			1
+' what we ’ve really done is take ideas that people have been exploring , and still are exploring , in macroscopic systems where the light bounces back and forth on two centimeter - size mirrors to interact with an atom			1
+we ’ve taken that and shrunk it down , ' said @entity25			0
+' for two decades , researchers have been working on coupling two or three of these macroscopic systems and [ creating ] a simple network			2
+' but it ’s very easy for us to create three or four , or 10,000 of these optical circuits			0
+' what the present paper shows is , at least technologically , the way forward			0
+' the researchers say that their system is highly scalable , which could one day allow for the fabrication of thousands of such ' quantum switches ' into a single device like a computer to make it more secure though fabricated in a way similar to how traditional computer chips are made , the integrated circuits built by @entity25 and @entity28 do n’t run on electricity , but on light			1
+the chips use nanophotonic technology - essentially the ability to create ' wiring ' that can channel and control the pathway of light - to build optical circuits that can then be connected to fiber optic cables			2
+after placing the optical circuits in a vacuum chamber , researchers used ' optical tweezers ' - precisely focused lasers - to capture a single atom and cool it to a fraction above absolute zero			1
+they then move the atom to within a few hundred nanometers of the chip			2
+simply bringing the two parts together , however , is n’t enough			0
+to create quantum switches that one day may be at the heart of quantum networks , the researchers bombard the atom with microwaves and lasers , causing it to enter a quantum superposition state , meaning it can occupy multiple quantum states , corresponding to on and off states of the switch , at once			1
+' for this to work , the atom switch must be prepared in this special superposition state , ' @entity19 explained			2
+' this superposition state is extremely fragile - so fragile that when a single photon hits it , it actually changes its phase			1
+that change of phase is what allows it to act like a valve , and be turned on or off			0
+' that is one way @entity19 believes , for quantum systems to make the same transition that conventional computers made decades ago			2
+' conventional computers were initially built using vacuum tubes , and people eventually developed integrated circuits used in modern computers , ' he said			0
+' where quantum systems stand today , the best systems are still analogous to vacuum tubes			0
+' they typically use vacuum chambers to isolate and hold single atoms using electromagnetic fields			0
+' but it ’s very clear , if we want to scale these systems up , we have to think about using integrated circuits , ' he continued			0
+' what @entity25 and @entity28 have done is create a hybrid system			0
+' we take atoms in vacuum chambers and combine them with integrated circuits			0
+' while it ’s unlikely the switches will become standard equipment for personal computers , @entity19 said , they could appear in prototype quantum networks in as little as a decade			1
+' there are other systems that are more sophisticated in terms of building a quantum computer , ' @entity25 said			0
+' but the key advantage to what ’s demonstrated in this paper is the single - atom switch is very tightly coupled to light , and specifically to light in optical fibers			1
+
+researchers at @entity2 have made ' quantum switches '
+the tiny atom - sized devices can be turned on and off using a single photon
+they could one day be used as the backbone of a quantum internet
+this would pave the way for 100 per cent secure communications
+prototype quantum networks could appear as soon as the next decade
+
+@entity22:MIT
+@entity2:Harvard University
+@entity15:Quantum
+@entity21:Vladan Vuletic
+@entity26:Lee Liu
+@entity25:Thompson
+@entity28:Tobias
+@entity29:Nathalie de Leon
+@entity19:Lukin
+@entity0:Jonathan O'Callaghan

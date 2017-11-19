@@ -1,0 +1,48 @@
+http://web.archive.org/web/20141226153851id_/http://www.dailymail.co.uk/sciencetech/article-2811299/The-touchscreen-AIR-Ultrasound-creates-interactive-holograms-pressed-mid-air.html
+
+in what could spell the end of smudges and marks on touchscreens , experts have created a display that shows icons in mid-air			0
+but while traditional holograms are typically inanimate , these images are interactive , meaning they can be touched , pressed and moved - all while floating above the ground			0
+called @entity13 , the system uses an imaging plate to transform an original image into a floating one , while infrared sensors tracks the position of fingers and an ultrasound machine creates tactile feedback			1
+it is so advanced , people can enter multiple numbers on a keypad ( left ) or play a virtual piano ( right ) the system was developed by @entity34 and his team at the @entity36 , @entity37			2
+an lcd display generates an original image , which is then beamed onto an @entity40 ( @entity40 )			1
+an lcd display generates an original image , which is then beamed onto an @entity40 ( @entity40 )			1
+this plate reflects the original image into a floating one			1
+any object or image placed behind this plate appears at the symmetric position in mid-air			2
+to track the finger movements , the system is surrounded by an infrared touch sensor frame that monitors the positions of each digit , and the hand			2
+when a person ‘ touches ’ the floating image , an @entity60 creates the feeling of tactile feedback on the user ’s finger			1
+this plate reflects the original image into a floating one			1
+any object or image placed behind this plate appears at the symmetric position in mid-air			2
+to track the finger movements , the system is surrounded by an infrared touch sensor frame that monitors the positions of each digit , and the hand			2
+when a person ‘ touches ’ the floating image , an @entity60 creates the feeling of tactile feedback on the user ’s finger			1
+this transducer produces a so - called ‘ reconfigurable ultrasound focus ’ , which exerts a force remotely			0
+and this force can be redirected by ultrasonic reflection to be merged with floating images to change the pressure or sensation			0
+the system can also recognise multiple touches , meaning people can play a virtual piano , for example			0
+it could be used to stop the spread of bacteria and germs on touchscreens , to enter @entity97 on @entity98 , for example , or browse the web with wet hands			0
+an lcd display generates an original image , which is then beamed onto an @entity40 ( @entity40 )			1
+to track fingers , the system is surrounded by an infrared touch sensor frame			1
+when a person ‘ touches ’ the floating image , an @entity60 creates the feeling of tactile feedback on the user ’s finger the technology was presented at the @entity114 ( @entity114 ) in @entity115			1
+‘ the dream of interacting with mid-air projected 3d images has fascinated people and driven a variety of relevant research , ’ explained the researchers			0
+‘ although its practical implementation is still challenging , a breakthrough of @entity125 mid-air projection has been attained recently by the invention of a transmissive mirror			0
+the technology was presented at the @entity114 ( @entity114 ) in @entity115			0
+it could be used to stop the spread of bacteria and germs on touchscreens , to enter @entity97 on @entity98 , for example , or browse the web with wet hands ‘ it allows us to observe a screen floating in front of the mirror which is actually placed behind the mirror			0
+‘ since all the visual effects such as binocular parallax and motion parallax are inherited to the floating screen , we can not distinguish it from a real screen until we touch it			0
+‘ combined with a sensor that detects our finger motion , [ @entity13 ] can be used as a virtual touch screen			2
+
+@entity13 *consists* of an @entity155 , an @entity40 , infrared touch frame and an @entity60
+the plate turns an original image into a floating one within the frame
+this frame tracks the position and movement of a user ’s fingers
+when a user presses an image , the transducer creates the feeling of touch
+it was developed by the @entity36 , @entity37
+
+@entity13:HaptoMime
+@entity34:Yasuaki Monnai
+@entity37:University of Tokyo
+@entity36:Shinoda-Makino Lab
+@entity115:Hawaii
+@entity114:UIST
+@entity40:Aerial Imaging Plate
+@entity60:Ultrasound Phased Array Transducer
+@entity98:ATMs
+@entity97:PINs
+@entity125:2D
+@entity155:LCD

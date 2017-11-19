@@ -1,0 +1,37 @@
+http://web.archive.org/web/20101202052350id_/http://www.cnn.com/2010/TECH/innovation/07/23/drones.sense.planes.wired/index.html
+
+-- unmanned aircraft , for all their utility , are fairly simple beasts			0
+they 're good at taking direction , but they 're not so good at processing information on their own			1
+now the @entity10 figures it 's time for drones to get a lot smarter , especially as they take off or land			1
+as anyone who 's ever flown knows , the runway is a crowded place			0
+planes on the runway queue up to get airborne			0
+planes in the air have to coordinate with @entity22 for the order in which they can safely land , taking precautions not to get in anyone 's way until it 's their turn			0
+there 's a fair amount of information to rapidly process in order to avoid collisions and other accidents			1
+pilots can handle that information load			2
+it 's one of the big reasons why the @entity41 has been so reluctant to allow unmanned aircraft to fly over the @entity43 even robotic flights over relatively unpopulated areas along the southern border have been canceled when there 's the most routine technical hiccups			2
+on tuesday , the @entity49 at @entity51 's @entity50 said it 'll soon solicit engineers to design an algorithm to allow drones to " integrate seamlessly " with piloted planes for takeoff and landing			1
+in the algorithm - driven future that the labs want to build , drones will be equipped a database of terminal procedures ; link up with @entity22 ; and " recognize the intent of other aircraft			1
+" for instance : aircraft landing on parallel runways can appear to be on a collision course before they turn and land			0
+right now , a drone would simply perceive that a plane 's trajectory is going to remain unchanged , making it a threat for collision			0
+but a capable algorithm would let the drone process @entity22 information like basic airfield maps to know that there 's no actual danger from the oncoming piloted plane			1
+" the developed algorithm ( s ) , optimally , would require no more a priori information than a human pilot , " the labs instruct			2
+" intent analysis should be accurate , reliable and real - time , enabling quick and appropriate decisions that are necessary in this time critical environment			2
+" there 's a clear commercial application here			0
+as @entity0 mentioned on wednesday , @entity95 is starting to think about an airfleet of linked - up drones that can fly in formation at the direction of a piloted aircraft			1
+building algorithms that can let drones process complex information in congested airspace sounds like a useful step toward that futuristic cargo fleet			1
+subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2010 @entity109 .			0
+
+drones that process complex information in congested airspace could be useful
+@entity49 will find engineers to *create* drones that " integrate seamlessly "
+@entity95 is thinking about an airfleet of linked - up drones that can fly in formation
+
+@entity22:Air Traffic Control
+@entity0:WIRED magazine
+@entity10:Air Force
+@entity51:Ohio
+@entity50:Wright-Patterson Air Force Base
+@entity41:Federal Aviation Administration
+@entity43:U.S.
+@entity109:Wired.com
+@entity95:FedEx
+@entity49:Air Force Research Laboratory

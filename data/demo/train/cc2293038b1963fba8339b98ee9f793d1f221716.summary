@@ -1,0 +1,48 @@
+http://web.archive.org/web/20090428065400id_/http://edition.cnn.com:80/2009/TECH/ptech/01/16/virus.downadup/?
+
+@entity1 , @entity0 -- a new sleeper virus that could allow hackers to steal financial and personal information has now spread to more than eight million computers in what industry analysts say is one of the most serious infections they have ever seen			1
+experts say a single infected laptop could expose an entire network to the worm			1
+the @entity16 or @entity16 worm exploits a bug in @entity18 to infect mainly corporate networks , where -- although it has yet to cause any harm -- it potentially exposes infected pcs to hijack			1
+@entity22 , chief research officer at anti-virus firm @entity23 , says while the purpose of the worm is unclear , its unique " phone home " design , linking back to its point of origin , means it can receive further orders to wreak havoc			1
+he said his company had reverse - engineered its program , which they suspected of originating in @entity36 , and is using the call - back mechanism to monitor an exponential infection rate , despite @entity40 's issuing of a patch to fix the bug			1
+" on tuesday there were 2.5 million , on wednesday 3.5 million and today [ friday ] , eight million , " he told @entity2			1
+" it 's getting worse , not better			2
+" @entity22 explained to @entity2 the dangers that @entity16 poses , who is most at risk and what can be done to stop its spread			2
+how serious is it ? it is the most serious large scale worm outbreak we have seen in recent years because of how widespread it is , but it is not very serious in terms of what it does			2
+so far it does n't try to steal personal information or credit card details			0
+who is affected ? we have large infections in @entity63 , the @entity64 and in @entity65			2
+it is a @entity18 worm and almost all the cases are corporate networks			1
+there are very few reports of independent home computers affected			2
+what does it do ? it is a complicated worm most likely engineered by a group of people who have spent time making it very complicated to analyze and remove			0
+the real reason why they have created it is hard to say right now , but we do know how it replicates			0
+how does it spread ? the worm does not spread over email or the @entity87			1
+however if an infected laptop is connected to your corporate network , it will immediately scan the network looking for machines to infect			0
+these will be machines that have not installed a patch from @entity40 known as @entity97			1
+the worm will also scan company networks trying to guess your password , trying hundreds and hundreds of common words			1
+if it gets in , even if you are not at your machine , it will infect and begin spreading to other servers			0
+a third method of spreading is via usb data sticks			0
+how can i prevent it infecting my machine ? the best way is to get the patch and install it company - wide			0
+the second way is password security			0
+use long , difficult passwords -- particularly for administrators who can not afford to be locked out of the machines they will have to fix			0
+what can i do if it has already infected ? machines can be disinfected			0
+the problem is for companies with thousands of infected machines , which can become re-infected from just one computer even as they are being cleared .			0
+
+a new sleeper virus has now spread to more than eight million computers
+industry analysts say is one of the most serious infections they have ever seen
+the worm exploits a bug in @entity40 's *ubiquitous* @entity18 *software*
+virus could allow its creators to hijack entire networks
+
+@entity22:Hypponen
+@entity2:CNN
+@entity1:LONDON
+@entity0:England
+@entity36:Ukraine
+@entity23:F-Secure
+@entity18:Windows
+@entity40:Microsoft
+@entity87:Web
+@entity97:MS08-067
+@entity64:United States
+@entity65:Asia
+@entity63:Europe
+@entity16:Downadup

@@ -1,0 +1,39 @@
+http://web.archive.org/web/20110521073728id_/http://www.cnn.com:80/2010/TECH/05/20/cnet.google.fonts/
+
+-- in an attempt to move beyond drab typography on the @entity3 , @entity4 on wednesday released 18 freely usable fonts and an open - source tool designed to smooth over browser issues in displaying downloaded fonts			1
+a number of web designers -- if not all readers -- are excited that newer browsers support downloadable fonts so sites can use more than the handful that it 's safe to assume are installed already on people 's computers			1
+for every eyeball - searing grunge font and blood - pressure - raising instance of @entity22 , there 's a tasteful use of an artful logo or distinctive text			0
+but font licensing rules mean a web designer ca n't necessarily upload any old font for a site			0
+this is where @entity4 's move , announced at its @entity33 conference , comes in			0
+the company released 18 fonts and also announced an interface that lets web sites use them			0
+" @entity4 has been working with a number of talented font designers to produce a varied collection of high quality open source fonts for the @entity50 , " said @entity40 and @entity41 of the @entity43 team in a blog post			1
+" with the @entity43 , using these fonts on your web page is almost as easy as using the standard set of so - called " web - safe " fonts that come installed on most computers			2
+" the way to web fonts was paved with the @entity59 ( @entity59 ) formatting standard and more recently the @entity62 technology that helped encourage web typography support from traditional font licensing companies			2
+but even with those foundations , there are copyright concerns that might put off web developers			0
+@entity4 's fonts are free of copyright restrictions , though			2
+" since all the fonts are open source , you can use them any way you like			0
+we also have a separate project hosted on @entity77 for downloading the original font files			0
+since they 're open source , they can be used for just about any purpose , including for print , " the @entity4 font team members said			1
+in addition , @entity4 announced an open - source project called @entity87 to supply web developers with code to deal with differences in how browsers handle downloaded web fonts			1
+the software , a collaboration with @entity97 's @entity96 project , includes javascript code to control how web pages display types for a uniform experience across different browsers , @entity4 said .			1
+
+newer browsers support downloadable fonts so sites can use more
+@entity4 worked with a number of talented font designers to produce a varied collection
+@entity4 announces an open - source project called @entity113
+
+@entity3:Web
+@entity22:Comic Sans
+@entity33:Google I / O
+@entity0:CNET
+@entity4:Google
+@entity43:Google Font API
+@entity50:Google Font Directory
+@entity113:WebFont Loader
+@entity41:David Kuettel
+@entity87:WebFont Loader
+@entity97:Small Batch
+@entity40:Raph Levien
+@entity59:CSS
+@entity62:Web Open Font Format
+@entity77:Google Code
+@entity96:TypeKit

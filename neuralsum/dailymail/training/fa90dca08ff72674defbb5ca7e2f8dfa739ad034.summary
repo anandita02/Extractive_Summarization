@@ -1,0 +1,54 @@
+http://web.archive.org/web/20141221054614id_/http://www.dailymail.co.uk/sciencetech/article-2822607/How-secure-messages-Study-reveals-scorecard-Facebook-iMessage-says-Apple-s-security-best-big-players.html
+
+in the wake of @entity4 's revelations , a @entity1 privay group has revealed that all of the major messaging apps have fundamental flaws			1
+the @entity8 ( @entity8 ) released its @entity9 today , evaluating dozens of messaging technologies on a range of security best practices			1
+the scorecard includes more than three dozen tools , including chat clients , text messaging apps , email applications , and technologies for voice and video calls - and found all of the major players were left wanting			1
+not of the big players , all shown here , scored aperfectly			2
+the @entity8 looked at the following when assessing the security of various tools : 1			1
+is your communication encrypted in transit ? 2			2
+is your communication encrypted with a key the provider does n't have access to ? 3			2
+can you independently verify your correspondent 's identity ? 4			0
+are past communications secure if your keys are stolen ? 5			0
+is the code open to independent review ? 6			0
+is the crypto design well - documented ? 7			0
+has there been an independent security audit ? ' the revelations from @entity4 confirm that governments are spying on our digital lives , devouring all communications that are n't protected by encryption , ' said @entity56 director @entity55			0
+' many new tools claim to protect you , but do n't include critical features like end - to - end encryption or secure deletion			0
+' this scorecard gives you the facts you need to choose the right technology to send your message			0
+' the scorecard includes more than three dozen tools , including chat clients , text messaging apps , email applications , and technologies for voice and video calls			2
+@entity8 examined them on seven factors , like whether the message is encrypted both in - transit and at the provider level , and if the code is audited and open to independent review			1
+six of these tools scored all seven stars , including @entity84 , @entity85 , @entity86 , @entity87 , and @entity88			1
+@entity92 's @entity90 and @entity91 products stood out as the best of the mass - market options , although neither currently provides complete protection against sophisticated , targeted forms of surveillance			2
+the tool was launched in the wake of revelations from @entity4 many options — including @entity102 , @entity103 , and @entity92 's email products , @entity106 's web and mobile chat , @entity108 , and @entity109 — lack the end - to - end encryption that is necessary to protect against disclosure by the service provider			1
+several major messaging platforms , like @entity114 , @entity115 , and the desktop version of @entity117 , have no encryption at all			0
+both @entity109 and @entity103 messenger scored poorly in the tests ' we 're focused on improving the tools that everyday users need to communicate with friends , family members , and colleagues , ' said @entity8 staff attorney @entity127			1
+' we hope the @entity128 will start a race - to - the - top , spurring innovation in stronger and more usable cryptography			0
+
+@entity8 *created* scorecard for messaging *systems*
+just six tools scored top marks - @entity84 , @entity85 , @entity86 , @entity86 , @entity87 , and @entity88
+examined seven factors , from whether the message is encrypted both in - transit and at the provider level to if code is audited *#*
+@entity92 scored best among major players
+
+@entity128:Secure Messaging Scorecard
+@entity117:Yahoo Messenger
+@entity115:Mxit
+@entity114:QQ
+@entity84:ChatSecure
+@entity85:CryptoCat
+@entity86:Silent Phone
+@entity87:Silent Text
+@entity88:TextSecure
+@entity1:San Franciso
+@entity4:Edward Snowden
+@entity9:Secure Messaging Scorecard
+@entity8:Electronic Frontier Foundation
+@entity56:EFF Technology Projects
+@entity55:Peter Eckersley
+@entity102:Google
+@entity103:Facebook
+@entity106:Yahoo
+@entity108:Secret
+@entity109:WhatsApp
+@entity127:Nate Cardozo
+@entity92:Apple
+@entity91:FaceTime
+@entity90:iMessage

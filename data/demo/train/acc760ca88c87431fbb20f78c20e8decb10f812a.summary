@@ -1,0 +1,99 @@
+http://web.archive.org/web/20110830180247id_/http://www.cnn.com:80/2011/TECH/web/04/18/google.chrome.wired/
+
+-- and then there was @entity2			1
+@entity3 made it clear this week that the next version of its @entity5 -- which will ship with the upcoming version of @entity8 -- will include the ability for users to tell websites not to track them , by using what 's known as the ' @entity14 ' header , according to @entity15			1
+it 's a technically simple change that @entity17 ( the maker of @entity19 ) and @entity20 ( the maker of @entity22 ) have already included in their newest browsers			1
+those companies included the change despite the fact that no one has actually defined what tracking is			0
+so far only two ad networks , @entity30 and @entity31 , have pledged to obey the flag			0
+that leaves @entity2 , the browser created by the online - advertising giant @entity34 , alone in not supporting the nascent feature			1
+and according to @entity34 , it has no plans to do so anytime soon			2
+" the idea of ' @entity14 ' is interesting , but there does n't seem to be wide consensus on what ' tracking ' really means , nor on how new proposals could be implemented in a way that respects people 's current privacy controls , " a @entity34 spokeswoman told @entity39 by e-mail			1
+" we 're encouraged that standards bodies are working on these issues , and we will continue to be involved closely			0
+" instead of " @entity14 , " @entity34 says it offers a plug - in for @entity2 called " keep my opt - outs , " which prevents users from deleting opt - out cookies from advertising networks when they delete their cookies			1
+third - party ad networks , including @entity34 's @entity61 network , use cookies on the sites they advertise on to watch what users do across the net , in order to make guesses about their interests			1
+they then can sell ad space at a premium to advertisers , offering them the opportunity to show ads for trucks only to young men interested in sports , for instance			0
+currently , none of those networks pays any heed to users who choose to turn on the " @entity14 " flag , but do pledge to respect opt - out cookies that can be set in bulk on the @entity90 opt - out page			2
+@entity34 says it will have a version of the cookie - retaining plug - in for @entity22 and @entity19 soon			1
+the plug - in @entity34 built mimics the functionality of one built by @entity96 security researcher @entity95 in 2009 , drawing on @entity34 's own open source code			1
+ironically , @entity95 was also the first to suggest the idea of a @entity14 header , rather than a centralized list , and helped build the first prototype last summer			0
+@entity95 says @entity34 's current lack of support from its ad side is " pretty shocking , " given that the company just got slapped by the @entity106 over privacy			1
+" even more shocking is the lack of support from the @entity2 team , " @entity95 says , pointing out that @entity2 routinely supports tech specs that have n't been standardized by the @entity109 or @entity109			2
+still , @entity34 has a point about the ambiguity of " @entity14			2
+" in fact , @entity3 has many of the same concerns			2
+in a new paper about online privacy (			0
+pdf ) submitted to the @entity121 standards - setting body , @entity3 questioned what " tracking " means online			1
+it argued that sending a " @entity14 " signal to a website would only work for sites that decide to obey it , calling it " akin to hanging a ' privacy , please ' door hanger on an unlocked door -- most will respect it , but the persistent will simply walk in			0
+" there is , therefore , an urgent need to document what , fairly exactly , it means			0
+what stops working ? if nothing stops working , from the user 's point of view , there is a risk that it will be turned on all the time			0
+can i login ? buy something ? what constitutes ' track ' ? if someone buys something , i can obviously record the purchase , and pretty clearly the affect [ sic ] on my inventory			0
+am i allowed to record statistical data ( e.g. the type of goods bought at different times of day ) ? at what point does this ' personally derived data ' turn into ' tracking ' ? even though the @entity106 and the @entity161 are behind the new technology , both companies are correct that it 's not clear what counts as tracking			0
+for instance , if you are signed into your @entity167 or @entity34 account , can those sites catalog what you do , even if you have the flag on ? what about companies that provide analysis of what users do in bulk on a website -- such as telling you how many people visited a given page and how many pages on average a visitor looks at ? and what about so - called " a / b " testing tools that let sites experiment by showing one logo to one set of visitors and another to a different set of users , to see which logo is more likely to convince people to sign up for the service ? but @entity95 argues that both @entity34 's ad program and its analytics program already let users opt out , so why not simply adopt the " @entity14 " flag as another signal to opt out			1
+answering his own question , he says it 's about money that @entity34 stands to lose if users of its browser get an easy way to opt out of its advertising tracking			1
+" the opt - out cookies and their plug - in are not aimed at consumers , " @entity95 says			1
+" they are aimed at policy makers			0
+their purpose is to give them something to talk about when they get called in front of @entity218			0
+no one is using this plug - in and they do n't expect anyone to use it			1
+" of all the major browser makers , @entity34 would have the most to lose if many people starting setting the flag and companies were forced , by public opinion or law , to obey it			2
+while @entity34 's largest source of ad money -- search ads related to search terms -- does n't rely on behavioral tracking , its growing business of display advertising ( on other websites and in @entity233 ) does			1
+ironically , the @entity14 header is likely not to affect @entity167 , the net 's single largest display advertiser and the one company @entity34 seems to fear			1
+although the social networking site knows every page you visit that has a " like " button or @entity167 widget ( at least while you are signed into @entity167 ) , the company says it does n't keep that data for long and does n't use it to create a profile			0
+instead , it targets the ads inside @entity167 relying on the data its users put in its profile -- which is not likely to count as " tracking " if a spec is finalized			0
+in that process , @entity34 's concerns are being ironed out , according to @entity95			2
+a first pass by a @entity17 engineer and two @entity263 researchers at defining the problem for the @entity109 suggests that sites that get opt - in consent from users can ignore the flag			1
+so , for example , if @entity167 asked users if they would mind having @entity167 know what sites they visit around the web with " like " buttons , @entity167 can make use of that data , even if a user has the " @entity14 " setting			0
+tracking users around your own site would be fine , as would be analytics software , including those run by third parties , so long as the data is n't shared with other companies			0
+even if @entity34 adopts it , right now the tool is in some ways toothless			2
+in absence of legislation , the " @entity14 " header does n't mean anything legally -- unless a company promises to obey it , but then does n't			0
+that 's a situation the @entity106 or state attorneys general could look into under current law			0
+but otherwise , an ad network can simply ignore it , with no legal consequences			0
+privacy legislation introduced this week by sens. @entity299 ( @entity300 ) and @entity301 ( @entity302 ) tightens information - sharing rules , and could include a mandate requiring @entity306 companies to follow the @entity14 flag			2
+and finally , @entity3 and @entity20 's decision to include the " @entity14 " header in their browsers ( and @entity34 's not to ) brings up the question of how such a rule would apply on mobile devices and whether there should be a " @entity14 " flag for mobile apps			1
+right now , there 's no way to get a " @entity14 " -- capable browser on the @entity323 , and @entity325 users need to switch to @entity320 to get the flag			2
+mobile apps have come under scrutiny from the press and even the @entity329 for allegedly mining users ' data in secret			0
+but to have a " @entity14 " setting for apps would require the app platform makers -- @entity34 , @entity3 , @entity335 and @entity20 -- to bake it into their oses , which is a trickier situation businesswise , because the two dominant platform makers , @entity34 and @entity3 , are battling over supremacy in the growing market for in - app ads. which is a long way of saying that the " @entity14 " header is a simple technical change that is likely to have profound effects on the online world and the politics that surround it			1
+@entity2 did n't have to be last to the antitracking party , which shows no sign of ending soon , because @entity34 was in on the first call when the idea was proposed , according to @entity95			1
+" @entity34 could have been first , but instead they will be last , " @entity95 said			2
+subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2010 @entity39 .			0
+
+@entity3 's next version of @entity5 will include the ability for users to tell websites not to track them
+@entity17 and @entity20 have already included in their newest browsers
+@entity34 says it offers a plug - in for @entity2 called " @entity366 "
+
+@entity22:IE
+@entity17:Mozilla
+@entity20:Microsoft
+@entity106:FTC
+@entity109:IETF
+@entity335:RIM
+@entity3:Apple
+@entity2:Chrome
+@entity0:WIRED magazine
+@entity5:Safari
+@entity8:Mac OS
+@entity218:Congress
+@entity299:John Kerry
+@entity121:W3C
+@entity31:Chitika
+@entity30:Blue Kai
+@entity15:The Wall Street Journal
+@entity14:Do Not Track
+@entity34:Google
+@entity233:YouTube
+@entity39:Wired.com
+@entity19:Firefox
+@entity161:Commerce Department
+@entity366:Keep My Opt-Outs
+@entity96:Indiana University
+@entity95:Soghoian
+@entity263:Stanford
+@entity90:Network Advertising Initiative
+@entity302:R-Arizona
+@entity325:Android
+@entity300:D-Massachusetts
+@entity301:John McCain
+@entity320:Firefox Mobile
+@entity167:Facebook
+@entity323:iPhone
+@entity329:Justice Department
+@entity306:U.S.
+@entity61:Display Ad

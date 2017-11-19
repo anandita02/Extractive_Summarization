@@ -1,0 +1,28 @@
+http://web.archive.org/web/20150414002833id_/http://www.dailymail.co.uk/sciencetech/article-2832157/Unicorn-bug-Microsoft-s-Windows-1985.html
+
+it could be one of the oldest bugs in the computer world			0
+@entity3 today issued a patch for a major security hole in its @entity7 software that it admitted has been there for 19 years			1
+experts at @entity11 spotted the bug - and found it was even present in the code for @entity15			1
+@entity16 in 1995 during rehearsals for the august 24 launch of @entity15			0
+researchers have found a serious security flaw in the software remained in @entity7 systems until this week , when the firm finally patched it			0
+the bug , which is present in every version of @entity7 from @entity15 onward , allows an attacker to remotely take over and control a computer			1
+typically , attackers use remote code execution to install malware , which may have any number of malicious actions , such as keylogging , screen - grabbing and remote access			0
+@entity11 's cybersecurity research team discovered the bug in may , describing it as a ' significant vulnerability ' in the operating system			2
+' the buggy code is at least 19 years old and has been remotely exploitable for the past 18 years , ' @entity11 x-force research team said in its blog on tuesday			1
+the bug , which is present in every version of @entity7 from @entity15 onward , allows an attacker to remotely take over and control a computer			1
+' we reported this issue with a working proof - of - concept exploit back in may 2014 , and today , @entity3 is patching it , ' they said			2
+' it can be exploited remotely since @entity51 ( @entity51 ) 3.0			0
+' this complex vulnerability is a rare , ' unicorn - like ' bug found in code that @entity51 relies on but does n't necessarily belong to it			2
+@entity3 finally fixed the flaw this week with a security patch it urged all users to download ' the bug can be used by an attacker for drive - by attacks to reliably run code remotely and take over the user 's machine ' looking at the original release code of @entity15 , the problem is present			1
+' typically , attackers use remote code execution to install malware , which may have any number of malicious actions , such as keylogging , screen - grabbing and remote access , the researchers say .			0
+
+@entity11 spotted the bug - and found it was even present in @entity15
+@entity3 finally issued patch fixing it on tuesday
+allows an attacker to remotely take over and control a computer
+
+@entity3:Microsoft
+@entity16:Bill Gates
+@entity15:Windows 95
+@entity7:Microsoft Windows
+@entity11:IBM
+@entity51:IE

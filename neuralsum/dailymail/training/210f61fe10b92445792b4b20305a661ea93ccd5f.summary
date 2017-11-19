@@ -1,0 +1,44 @@
+http://web.archive.org/web/20150714001503id_/http://www.dailymail.co.uk/sciencetech/article-2911468/Google-s-latest-patent-automatically-switches-private-browsing.html
+
+if you want to keep your browsing history a secret , or you ’re paranoid about being tracked , you can enable private mode			2
+but , doing so usually means having to manually enable the mode from the start			0
+@entity6 is hoping to automate this process with its latest patent , which aims to switch to private browsing every time a new session starts , or when a website asks for particular information			1
+@entity6 's patent ( pictured ) describes a system that could automatically open private browsing windows , or a user could ask that certain sites are always only opened in @entity18			1
+alternatively , if @entity6 detects that a site is asking for credit card details , it could switch to private browsing by default the patent was originally filed in 2011 , but was only awarded this week			1
+a web browser tracks a user by storing information as the user browses web pages			0
+in november , @entity30 launched a @entity32 button			2
+the button can be added to the browser and will automatically delete browsing history			1
+users can ask @entity30 to automatically delete information from the past five minutes , two hours or 24 hours			1
+this means that all cookies , history , tabs and windows are deleted - and ca n't be recovered			0
+this includes browsing history , images , videos , text , and other data on these pages , as well as any files that are downloaded			2
+as a result , browsers offer a privacy mode so the user can browse without being tracked			0
+on @entity6 ’s @entity56 , this is called @entity18 , while on @entity30 it ’s known as private browsing			1
+@entity6 ’s patent describes a system that could either automatically open a private browsing window each time , or a user can ask that certain websites are always only opened in @entity18			1
+alternatively , if @entity6 detects that a website is asking for credit card details , or other personal information , it will switch to private browsing by default			1
+a web browser tracks a user by storing information as the user browses web pages			0
+this includes history , images , videos , text and other data on these pages			2
+as a result , browsers offer a privacy mode so the user can browse without being tracked			0
+on @entity6 ’s @entity56 , this is called @entity18 ( pictured ) in november , @entity30 launched a @entity84 button can be added to the browser and will automatically delete browsing history ( pictured ) as the files explained : ‘ [ @entity87 ] relates to equipping a web browser with the ability to automatically open web pages in a privacy mode based on content of the web pages so that a user is not required to manually activate the privacy mode			1
+‘ the web browser is able to identify characteristics of the content provided by the web pages by analysing the web pages for content that increases the likelihood that the user may require that the web page be opened in the privacy mode			0
+’ the news follows the launch of a forget button for the firefox browser			2
+to add the @entity32 button , click menu and select customise at the bottom of the menu panel			0
+drag the @entity32 button from the @entity115 panel to the toolbar			0
+users can then ask it to automatically delete browsing history from the past five minutes , two hours or 24 hours			1
+or , they can hit the @entity32 button manually each time they want to wipe the history			0
+this means that all cookies , history , tabs and windows are permanently deleted .			0
+
+the patent was originally filed in 2011 , but was only awarded this week
+@entity56 could be *configured* to automatically open private sessions
+or a user could ask that certain sites are always opened in @entity18
+alternatively , if @entity6 detects a site is asking for credit card details , or other personal data , it could switch to private browsing by default
+it follows the launch of a forget button for the @entity30 in november
+users can ask it to delete history from the past five minutes up to 24 hours
+
+@entity30:Firefox browser
+@entity32:Forget
+@entity6:Google
+@entity18:Incognito Mode
+@entity115:Additional Tools and Features
+@entity84:Forget button.The
+@entity56:Chrome
+@entity87:Patent

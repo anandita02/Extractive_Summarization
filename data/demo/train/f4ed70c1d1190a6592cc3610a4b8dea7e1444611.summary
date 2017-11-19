@@ -1,0 +1,102 @@
+http://web.archive.org/web/20130503023648id_/http://www.cnn.com/2012/11/03/tech/innovation/electronic-vote-security
+
+-- in an era when shadowy hackers can snatch secret government files and humble big businesses with seeming ease , it 's an unavoidable question as @entity7 approaches : when we go to the polls , could our very votes be at risk ? according to voting - security experts , the answer can be boiled down to a bit of campaign - speak : there are reasons for concern and there is work to be done but , by and large , we 're better off now than we were four years ago			1
+" in general terms , the nation as a whole is moving toward more resilient , more recountable , evidence - based voting systems and that 's a good thing , " said @entity22 , president of the @entity23			1
+" we 're better off than we were a couple of election cycles ago by a long shot and we 're better off than we were in the last election , too			0
+" we 're seeing improvement , but we 're still seeing immense challenges			0
+" since there have been elections , there has been tampering with votes			0
+archaeologists digging in a well discovered a dumped stash of 190 broken pottery shards that appear to have been used by ancient @entity42 for a vote in 471 b.c. but in 2012 , election - security advocates are most worried about the bits and bytes of data stored on the electronic voting machines that millions of @entity49 will use to cast their ballot			1
+more than 45 million @entity49 voters , or one out of every four who go to the polls , will cast a ballot on a machine that stores votes electronically , but does n't create a paper ballot , according to @entity23			1
+six states -- @entity59 , @entity60 , @entity61 , @entity62 , @entity63 and @entity64 -- use those machines exclusively and they 're used by a " heavy majority " of voters in another five -- including presidential battleground states @entity68 and @entity69			0
+some of these paperless machines are also used in the key states of @entity72 , @entity73 and @entity74 , where the presidential race is expected to be close			0
+@entity76 the vote : internet systems remain insecure paper trails here 's the problem , advocates say			2
+when there 's no physical ballot , it becomes next to impossible to determine whether there has been tampering , or some other kind of irregularity , in a close election			1
+" if the election is predicted to be a landslide , and then it is , really the problems we 're concerned about are n't that big a deal , because everyone knows the election went the way it was supposed to , " said @entity90 , a professor of computer science at @entity92 who specializes in computer security			2
+but in cases like 2000 's razor - thin @entity109 - @entity108 race , " a lot of the @entity104 supporters felt like the election was stolen from them			1
+that 's a situation you can end up with in a very , very close election , so it 's even more important to have confidence in the election machinery			2
+" that appears to be the case again in 2012			0
+most national polls place president @entity119 and @entity121 challenger @entity120 in a dead heat			0
+ironically , the electronic machines that experts now worry about began showing up in polling places as a reaction to @entity73 's messy 2000 vote count , with its butterfly ballots and dimpled chads			1
+in a nightmare for election officials , that race ended in controversy , with the @entity49 @entity135 halting a manual recount and awarding the state , and the presidency , to @entity109			1
+in the wake of that election , federal and state money flowed to update voting systems			1
+election officials acted quickly -- too quickly , some experts say , to see potential problems			1
+@entity146 has election officials scrambling machine error as cumbersome and unsightly as @entity73 's recount was , at least it was a recount			1
+with electronic voting , analysts say that if there 's a question about vote totals , there is little to do other than press " enter " again and let the same computer system that counted the votes the first time count them again			1
+" spending money on a problem works best for well - understood problems , such as building roads or fixing bridges ... , " reads a recent report from the @entity162 / @entity161 , created by the two schools in the wake of the 2000 election			1
+" @entity172 gave funds to the states immediately , so the states bought large numbers of voting systems that were then available , before new standards were developed and adopted ; it 's a good example of the maxim denoting precipitous action , ' @entity170 , fire , aim ! ' " analysts like @entity22 and @entity90 agree that the first concern with these systems is mechanical failure or human error			2
+they cite cases like a 2006 @entity73 election , in which electronic machines in one county recorded no vote in a congressional race on 18,000 ballots , even though it was the most high - profile contest on the ticket			1
+or the 2004 election in @entity196 when an overloaded machine lost 4,500 votes , affecting a race for state agriculture commissioner that was decided by fewer votes than that			2
+" imagine how nervous you would be if the only copy of your term paper was on one disc somewhere , " @entity90 said			0
+" now , we 're talking about a whole bunch of votes sitting on a cartridge somewhere			0
+even before we worry about tampering , we have to worry about accidental loss			0
+" vote hacking while there have been no documented cases of foul play , experts say the potential for malicious hacking is very real			0
+" it would be a simple , high - school level programming project to do something like this , " @entity90 said			1
+" i 've seen the code			0
+a lot of the code has already been seen on the @entity227			0
+you could see exactly how to encode a ballot			0
+someone with a proficient high - school level programming capability would be able to do it			1
+definitely any experienced programmer could do it			0
+" he said a standard , touchscreen voting machine could have its data changed with $ 20 worth of hardware and a paper clip , a fact that gets more troubling now that expanded early voting has put votes on machines stored in schools , churches and other polling places for weeks before @entity7			2
+as early as 2003 , a team of researchers commissioned by the state of @entity62 reported that machines from vendor @entity251 were poorly engineered and showed a " high risk of compromise			0
+" their findings , as noted by the @entity162 / @entity161 report , included the fact that every one of the company 's voting systems used the exact same " secret " encryption key			2
+after a wave of negative press , including a 2006 @entity263 documentary called " @entity264 " that explored the vulnerability of its electronic voting machines , @entity251 removed its name from its voting systems in 2007 and was later bought by another company			2
+thankfully , critics say , such issues are now being minimized on multiple fronts			0
+however , there are still some concerns in hotly contested states like @entity72			0
+while all machines in @entity72 are equipped with printers that create paper ballots , about half the counties in the state use the sort of touchscreen electronic machines that concern observers like @entity22			1
+those machines have been retrofitted with printers , but tampering risks still exist and comparing electronic ballots with separately created paper ones can be confusing , analysts say			2
+more secure ? in the short term , observers like @entity162 political science professor @entity290 say elections officials are almost universally aware of the security risks that electronic voting presents			1
+" there are security issues associated with both the electronic voting machines that are used in polling places , as well as the ballot reading devices			1
+... in many cases , those kinds of security vulnerabilities are relatively well known at this point , " said @entity290 , whose research includes voting technology			0
+" many of them have been studied , although certainly new ones may arise , " he said			0
+" over the last four to six years , elections officials throughout the country have tested and really tried to work to better secure those voting systems			2
+" with an eye to the future , elections officials throughout the @entity49 have stopped purchasing machines that do n't create a paper trail , with a return to optical - or digital - scanner machines using paper ballots being the preferred alternative			1
+some states are retrofitting electronic voting machines with hardware that creates a paper ballot as well			1
+@entity22 said it has been about seven years since the last significant purchase of electronic - only voting machines in the @entity49			1
+" it 's not always the newest , shiniest thing that 's the best thing and , in voting , that tends to be particularly true , " she said			0
+in the meantime , she 's got a simple piece of advice for anyone worried about the security of their ballot			2
+" the most important thing for voters to keep in mind is that one way to make sure your vote wo n't count is to not show up , " she said			0
+" whatever system is presented to you , avail yourself of it			0
+
+experts say voting security in the @entity49 is improving , but there 's work to do
+about 45 million @entity49 will cast an electronic ballot with no paper trail
+" high - school level " coding skills are all that 's needed to hack a machine
+election officials are moving back to paper ballots , but money is a concern
+
+@entity22:Smith
+@entity23:Verified Voting
+@entity251:Diebold
+@entity109:George W. Bush
+@entity135:Supreme Court
+@entity119:Barack Obama
+@entity170:Ready
+@entity0:CNN
+@entity7:Election Day
+@entity196:North Carolina
+@entity120:Mitt Romney
+@entity74:Colorado
+@entity59:Delaware
+@entity76:Hacking
+@entity290:Alvarez
+@entity73:Florida
+@entity72:Ohio
+@entity68:Pennsylvania
+@entity172:Congress
+@entity104:Democratic
+@entity108:Gore
+@entity264:Hacking Democracy
+@entity92:Johns Hopkins University
+@entity263:HBO
+@entity121:Republican
+@entity162:California Institute of Technology
+@entity146:Sandy
+@entity161:MIT
+@entity227:Internet
+@entity63:New Jersey
+@entity90:Rubin
+@entity42:Athenians
+@entity69:Virginia
+@entity64:South Carolina
+@entity62:Maryland
+@entity49:Americans
+@entity60:Georgia
+@entity61:Louisiana

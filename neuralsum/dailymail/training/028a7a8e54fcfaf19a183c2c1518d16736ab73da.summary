@@ -1,0 +1,63 @@
+http://web.archive.org/web/20141110113038id_/http://www.dailymail.co.uk/news/article-2805993/The-travel-tipping-habits-rich-famous-revealed-deciphered-taxicab-dataset.html
+
+you can follow anyone home in a @entity4 taxi - virtually at least			0
+on october 4 , 2013 , at 1:21pm , @entity5 took a cab from @entity8 's @entity7 and got out near @entity9 at 1:40pm			1
+the trip cost $ 14.50 and she left a $ 3.62 tip. by contrast , on may 21 , @entity12 and fiance @entity13 got into a taxi on @entity16 and got dropped off about a mile east			1
+the @entity35 compiles data from every ride taken during the year — there were 173million in 2013 alone — recording fare , tip , pickup and dropoff locations and more			2
+though the city tried to make it difficult to track individual taxis , a handful of determined data scientists cracked the code and made it possible to search for any ride by knowing the time , location and medallion number			1
+thanks to @entity56 , who wrote about the dataset at his internship with analytics firm @entity59 , we now know it 's possible to know where celebrities were headed when they hopped in a yellow cab			0
+by using photos from paparazzi and gossip blogs from 2013 where celebrities were seen getting in and out of cars , @entity56 took the medallion numbers that were visible and ided taxis in the dataset using the time of the pickup or dropoff			1
+from there , the rest of the route information could be gleaned , and the data could be compared against another set outlining fare and tip information to give a full picture of the celeb 's ride			0
+for instance , on july 8 , 2013 , @entity87 was photographed getting into a cab along the west side of @entity8 at 7:34pm			2
+using the dataset , @entity56 found he headed from there to the @entity93 and got dropped off near posh eatery @entity94 , a 10 - minute ride that cost $ 10.50			0
+village : @entity98 took a taxi from 78 crosby street to 580 @entity100 from 3:29 to 3:38pm on january 6 , 2013 , a $ 7.50 fare that she left a $ 2 tip on west : @entity104 got into a taxi on april 11 , 2013 at 229 w 28th street at 5:43pm and got off at 271 w 47th street at 6:02pm			1
+she paid the $ 13 fare in cash and the tip was not recorded village : on june 21 , 2013 , from 11:28 to 11:35am , @entity110 rode with @entity111 north in the @entity93 to one @entity112 , and the pair paid a $ 7 fare with a $ 2.10 tip crosstown : @entity117 trekked across the island from 225 varick street to 325 @entity119 at 11:20am on july 8 , 2013 , paying a $ 6 fare in cash , with the tip not recorded west - sider : @entity87 heads out from 376 @entity124 before getting out at 13 @entity125 near eatery @entity94 on july 8 , 2013 , paying his $ 10.50 fare in cash , with the tip not recorded the data also revealed what celebrities tipped when they paid for their rides with a card			1
+though @entity12 and @entity136 may have been towards the stingy side , most celebrities chipped in close to 20 percent or more			0
+when people paid with cash , the tip was often not recorded so there 's no way to know if the celebs threw in a generous bonus or stiffed their drivers completely			0
+the news that people can hack the 2013 dataset fairly easily knowing only a taxicab 's medallion number has unsettled some , in spite of the data being a year old			1
+the other option , take an @entity155			0
+but according to @entity158 , the @entity157 ridesharing startup was revealed to have its own problem keeping data under wraps , after venture capitalist @entity162 found his ride use being watched by guests at a company party for their amusement			0
+@entity167 to @entity22 : @entity168 took a cab from @entity119 at 2:52pm to 8 e 23rd street at 3:07pm on may 6 , 2013 , and recorded a $ 11.50 fare , with the tip amount unknown west side : model @entity173 took a cab on june 26 , 2013 , from 112 @entity100 to 624 w 26th street from 11:23 to 11:32pm , paying a $ 10 fare and a $ 2 tip splurge : @entity12 and fiance @entity13 took a ride from 875 @entity16 at 2:46pm to 533 e 84th street at 2:53pm on may 21 , 2013 , with a $ 6.50 fare , though they only tipped $ 1			2
+
+the routes of @entity5 , @entity87 , @entity23 , @entity98 , @entity12 and more could be found by using taxi medallion numbers from paparazzi photos
+a dataset of 2013 taxi rides was *released* that was *deciphered* by a handful of data scientists , *raising* *privacy* issues
+
+@entity22:Midtown
+@entity23:Kourtney Kardashian
+@entity20:Madison Square Garden
+@entity27:Gawker
+@entity24:Scott Disick
+@entity25:Spring Street
+@entity110:Judd Apatow
+@entity117:Olivia Munn
+@entity158:Valleywag
+@entity112:Abingdon Square
+@entity111:Leslie Mann
+@entity87:Bradley Cooper
+@entity35:Taxi and Limousine Commission
+@entity136:Evans
+@entity157:Silicon Valley
+@entity119:342 Bowery
+@entity173:Karolina Kurkova
+@entity94:Melibea
+@entity7:West Side
+@entity5:Katherine Heigl
+@entity4:New York
+@entity9:Penn Station
+@entity8:Manhattan
+@entity56:Tockar
+@entity59:Neustar
+@entity16:Park Ave
+@entity13:Evan Peters
+@entity12:Emma Roberts
+@entity19:Moore Street
+@entity100:Hudson Street
+@entity104:Amanda Bynes
+@entity98:Ashlee Simpson
+@entity124:Greenwich Avenue
+@entity125:Bank Street
+@entity93:West Village
+@entity155:Uber
+@entity162:Peter Sims
+@entity167:NoHo
+@entity168:Jessica Biel

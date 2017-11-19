@@ -1,0 +1,75 @@
+http://web.archive.org/web/20130311164349id_/http://www.dailymail.co.uk/sciencetech/article-2264415/Mona-Lisa-sent-moon-NASA-using-lasers-world-space-technology.html
+
+by @entity1 reporter published : 05:59 est , 18 january 2013 updated : 07:58 est , 18 january 2013 @entity2 has managed to send an iconic image into space using lasers			1
+the @entity7 space agency beamed @entity9 ’s iconic painting , the @entity10 from its @entity11 in @entity12 , to the @entity13 ( @entity13 ) at the moon			2
+the image travelled 240,000 miles by piggybacking on laser pulses that are already fired at the spacecraft and are used by the @entity13 to track the moon 's surface			1
+scroll down to video a digital version of the @entity10 has been beamed to space using lasers			1
+the picture was then sent back to @entity25 using radio waves			1
+transmission errors distorted the picture but @entity2 scientists were able to restore it using coding @entity2 laser beamed pixels from a digital version of the @entity10 240,000 miles to the @entity35 currently flying round the moon for the first time ever ‘ this is the first time anyone has achieved one - way laser communication at planetary distances , ’ says principal investigator , @entity38 of the @entity39			1
+to send the picture , @entity44 , a @entity46 ( @entity47 ) scientist at @entity11 , and his colleagues divided the @entity10 image into 30,400 pixels			2
+each pixel was then turned into a shade of grey , represented by a number between zero and 4,095			0
+the laser that beamed the @entity10 to the moon was sent from the @entity58 station at @entity2 's @entity11 in @entity12			1
+the laser is already used to measure the moon 's terrain individual pixels were sent using laser pulses fired at @entity47 on the @entity13 , orbiting around the moon			1
+the pixels were sent in order from top left to bottom right			0
+and the complete image was sent at a rate of 300 bits per second			0
+once the laser pulses were received by the @entity47 instrument , it reconstructed the image based on the order each pixel was fired in from @entity25			1
+@entity2 timed the pulses to make sure the experiment would n’t interfere with the @entity13 's current mission of recording the moon 's terrain			1
+to test the transmission , the image was then returned to @entity25 using the spacecraft ’s radio telemetry system			0
+when @entity44 and his team got the image back , they realised that turbulence in the @entity25 ’s atmosphere had caused transmission errors			0
+the picture came back in worse quality than it was sent			2
+to correct the image , @entity44 used @entity94 - the same type of error - correction code used to fix @entity97 and dvd qualities			0
+these errors did turn out to be useful , though , because the team could get statistics and learn more about signal fluctuations caused by the @entity25 's atmosphere			0
+a digital version of the @entity10 was divided into 30,400 pixels			0
+each pixel was sent at different time intervals using laser pulses fired at the @entity46 ( @entity47 ) , on the @entity35 ( @entity13 ) – a spacecraft that orbits the moon and tracks its terrain and elevation			1
+@entity47 reconstructed the image in the order the pixels were fired			1
+the image was then sent back to @entity25 using radio waves			1
+because of transmission errors caused by the @entity25 ’s atmosphere , the picture came back distorted			2
+scientists used @entity94 coding - technology designed to fix cd and @entity121 qualities - to restore the image back to its original quality			0
+laser technology is already used to send data from cds , for example			0
+@entity2 said it can now use lasers to speed up delivery of data sent from space			1
+' because lro is already set up to receive laser signals through the @entity47 instrument , we had a unique opportunity to demonstrate one - way laser communication with a distant satellite , ' says @entity139 @entity13 stands for @entity13			0
+it ’s a robotic spacecraft that is orbiting the moon , taking pictures and gathering information about the moon 's surface			0
+it launched in june 2009			0
+@entity2 is using @entity13 to create maps of the entire lunar surface , including searching for water ice that could be used for rocket fuel			2
+one instrument @entity2 is using to create 3d maps of the moon is called the @entity46 ( @entity47 ) @entity47 uses lasers to find high and low points on the moon , as well as shadows where ice may be hiding			1
+this 3d information will show places where it is safe for spacecraft to land			0
+@entity2 hopes this experiment will pave the way for lasers to be used as a backup to the current communication technology			1
+@entity38 of the @entity39 says , ' in the near future , this type of simple laser communication might serve as a backup for the radio communication that satellites use			2
+in the more distant future , it may allow communication at higher data rates than present radio links can provide			0
+" @entity2 also plans to develop this technology for getting live , high - definition video feeds from other worlds within the solar system , including @entity182			1
+' this achievement sets the stage for the @entity185 ( @entity185 )			0
+this is a high data rate , laser - communication demonstration that will be central to @entity2 's next moon mission ' says @entity190 's @entity189 , the @entity13 deputy project @entity192 next step after @entity185 is the @entity194 ( @entity195 )			2
+this would be @entity2 's first , long - duration optical communications mission			2
+@entity195 will help develop deep - space communication technologies .			0
+
+thousands of pixels fired by laser pulses from @entity2 into space
+lasers reconstructed the picture and sent it back using radio waves
+experiment paves way for using lasers to get *hd* video from @entity182
+
+@entity25:Earth
+@entity139:Xiaoli Sun.
+@entity35:Lunar Reconnaisance Orbiter
+@entity2:Nasa
+@entity1:Daily Mail
+@entity7:US
+@entity9:Leonardo Da Vinci
+@entity194:Laser Communications Relay Demonstration
+@entity192:scientist.The
+@entity190:Goddard
+@entity58:Next Generation Satellite Laser Ranging
+@entity13:LRO
+@entity12:Maryland
+@entity11:Goddard Space Flight Center
+@entity10:Mona Lisa
+@entity39:Massachusetts Institute of Technology
+@entity38:David Smith
+@entity97:CD
+@entity94:Reed-Solomon
+@entity121:DVD
+@entity189:Richard Vondrak
+@entity182:Jupiter
+@entity185:LLCD
+@entity44:Sun
+@entity46:Lunar Orbiter Laser Altimeter
+@entity47:LOLA
+@entity195:LCRD

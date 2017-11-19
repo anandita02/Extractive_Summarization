@@ -1,0 +1,40 @@
+http://web.archive.org/web/20150712030425id_/http://www.dailymail.co.uk/news/article-2895584/Now-S-kitchen-gadget-Robot-learn-cook-just-like-human-watching-YouTube-videos.html
+
+we like to think of ourselves as the superior species			2
+but robots are learning to cook like humans - by watching @entity5 videos			1
+in a sign of the times , researchers have found a way to teach robots how to use cooking tools			1
+their work is part of an impressive use of artificial intelligence called ' deep learning			1
+' deep learning involves researchers using training systems called artificial neural networks on lots of information derived from audio , images , and other inputs			1
+in order to train the robots , researchers selected data from 88 @entity5 videos of people cooking , according to @entity58			1
+a ' special ' robot chef cuts noodles in a restaurant 's kitchen in @entity63 , @entity64 , the sight of a robot cooking a meal could soon become a common occurence from there , the researchers generated commands that a robot could then execute			1
+the researchers employed ' convolutional neural networks ' which are now in use at @entity74 , among other companies			1
+they used these networks to identify the way a hand is grasping an item , and to recognize specific objects			2
+their system was also able to anticipate the action involving an object and a hand			0
+according to technology experts , they presented the systems with new information and received inferences about it in response			0
+the results from the study will be revealed later this month at the 29th annual conference of the @entity95			0
+ultimately , researchers hope their results may signal the start of a training program which will allow robots to be able to seek their own sources of information			1
+a spokesman for the researchers said : ' we believe this preliminary integrated system raises hope towards a fully intelligent robot for manipulation tasks that can automatically enrich its own knowledge resource by ' watching ' recordings from the @entity111			2
+' @entity112 neural networks were introduced in a 1980 paper by @entity114			0
+the design of convolutional neural networks follows the discovery of visual mechanisms in living organisms			0
+in our brain , the visual cortex contains lots of cells and it is these cells which are responsible for detecting light in small , overlapping sub-regions of the visual field , called receptive fields			2
+these cells act as local filters over the input space and the more complex cells have larger receptive fields			0
+a convolution operator is created to mimic and perform the same function by all of these cells			0
+the networks were inspired by biological processes and are widely used models for image and video recognition , being a power tool for different vision problems .			0
+
+research was carried out by the @entity34 and @entity35
+it used an impressive type of artificial intelligence called ' deep learning '
+researchers selected data from 88 @entity5 videos to train the robots
+
+@entity22:Laura
+@entity35:NICTA
+@entity34:University of Maryland
+@entity5:YouTube
+@entity36:Australian
+@entity63:Jilin
+@entity114:Kunihiko Fukushima
+@entity112:Convolutional
+@entity111:World Wide Web
+@entity74:Facebook
+@entity64:China
+@entity58:Venture Beat
+@entity95:Association for the Advancement of Artificial Intelligence

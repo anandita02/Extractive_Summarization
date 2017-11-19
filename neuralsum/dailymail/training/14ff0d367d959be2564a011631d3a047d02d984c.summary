@@ -1,0 +1,47 @@
+http://web.archive.org/web/20150522101431id_/http://www.dailymail.co.uk/sciencetech/article-2725761/Selling-Tesco-Hudl-Beware-Processor-flaw-means-private-data-remains-device-factory-reset.html
+
+a bug in the processor that powers the popular @entity4 tablet could be leaving private data at risk			1
+investigations carried out by security researchers and the @entity9 discovered that they could retrieve ‘ deleted ’ data from second - hand models of the device			1
+experts typically advise carrying out a factory reset to remove data from any gadget , but the investigation has revealed this technique may not always work on the supermarket ’s tablet			1
+investigations carried out security researchers and the @entity9 discovered that they could retrieve ‘ deleted ’ data from second - hand models of @entity4 's @entity4 tablet ( pictured )			1
+using free software , a security expert obtained unlock codes , @entity27 and site passwords , and browsing history the investigations involved second - hand gadgets bought on auction sites , including @entity33 , and included 10 @entity34			1
+earlier this year , researchers from @entity36 found they were able to pull tens of thousands of photos , emails , text messages and more from used phones being on @entity33 that previous owners had thought they had ' wiped ' clean			2
+aside from 40,000 photos and 250 ‘ compromising ’ selfies of men , the company was even able to discover the identity of several sellers , and one person ’s completed loan application			0
+only one phone had third - party security software installed , and it actually gave up the most personal information of all			0
+in response to the findings , @entity55 said : ' this research looks to be based on old devices and versions ( pre-android 3.0 ) and does not reflect the security protections in @entity63 versions that are used by the vast majority of users			0
+' if you sell or dispose of your device , we recommend you enable encryption on your device and apply a factory reset beforehand ; this has been available on @entity63 for over three years			2
+' the @entity9 , with help from @entity74 , security expert at @entity75 , said the @entity76 was vulnerable because of a bug in its @entity80 processor ’s firmware			1
+using free software , mr @entity74 discovered that the flaw in the firmware meant he could read data stored on it , as well as write to it			1
+he uncovered data including unlock codes , @entity27 and site passwords and browsing history			0
+@entity4 said that devices returned to the stores have personal data wiped , and advised customers to use data wiping software , as well as carrying out a factory reset , to make sure the information is removed			1
+@entity100 , vice president of global marketing and client solutions at computer firm @entity103 told @entity104 : ‘ to say it 's worrying to find tablet devices are being sold with data still on them is an understatement			0
+‘ this is not the first instance , we ’re constantly seeing this kind of story in the news			0
+‘ it ’s not good enough to delete the personal data to only a ‘ basic standard ’ or worse still , not at all as there is an obligation to comply with data protection laws			0
+’ earlier this year , researchers from @entity36 found they were able to pull tens of thousands of photos , emails , text messages and more from used phones being on @entity33 that previous owners had thought they had ' wiped ' clean			2
+experts typically advise carrying out a factory reset ( stock image pictured ) to remove data from any device , but the @entity9 investigation has revealed this technique may not always work on the supermarket ’s gadget			1
+the vulnerability is caused by a bug in the tablet 's @entity80 processor ’s firmware aside from 40,000 photos and 250 ‘ compromising ’ selfies of men , the company was even able to discover the identity of several sellers , and one person ’s completed loan application			2
+only one phone had third - party security software installed , and it actually gave up the most personal information of all			0
+in response to the findings , @entity55 said : ' this research looks to be based on old devices and versions ( pre-android 3.0 ) and does not reflect the security protections in @entity63 versions that are used by the vast majority of users			0
+' if you sell or dispose of your device , we recommend you enable encryption on your device and apply a factory reset beforehand ; this has been available on @entity63 for over three years			0
+
+investigations were carried out by security researchers and the @entity9
+they bought second - hand devices from auction sites including @entity33
+experts advise carrying out a factory reset to remove data from devices
+however , @entity4 ’s @entity76 was found to have a flaw that meant this data could be easily retrieved using free software
+this vulnerability is caused by a bug in the popular tablet ’s processor
+
+@entity80:Rockchip
+@entity33:eBay
+@entity34:Hudls
+@entity4:Tesco
+@entity9:BBC
+@entity36:Avast
+@entity100:Sven Boddington
+@entity103:Teleplan
+@entity104:MailOnline
+@entity55:Google
+@entity75:Pen Test Partners
+@entity74:Munro
+@entity76:Hudl
+@entity63:Android
+@entity27:Wi-Fi

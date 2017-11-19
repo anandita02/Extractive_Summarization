@@ -1,0 +1,33 @@
+http://web.archive.org/web/20140322074722id_/http://www.dailymail.co.uk/news/article-2586593/Tracking-140-characters-Researchers-develop-formula-reveal-home-location-based-tweets.html
+
+by @entity1 reporter social media really is the end of privacy , if a new algorithm developed by @entity6 is anything to go by			2
+the tech giant announced on friday that they have come up with a formula that can track the home city of any @entity12 user based on the metadata contained in their last 200 tweets			1
+according to @entity16 , the formula has an almost 70 percent rate of accuracy			0
+it 's the latest research finding to highlight the possible danger to privacy and security presented by metadata collection and analysis			0
+be careful what you tweet : @entity6 researchers have developed an algorithm that predicts your home location using your last 200 tweets researchers say that advertisers looking for specific areas to market and journalists covering major news events have the most to gain from the algorithm			1
+research head @entity37 said @entity6 began the process by seeing whether they could predict the location of a @entity12 account by analyzing tweets and matching the content against their geotagged metadata			2
+one of twitter 's options features allows for location tagging			0
+the team started by tracking geotagged tweets from the 100 largest cities in @entity51 between july and august 2011 , and isolated 100 users out of each location			1
+researchers then examined the last 200 tweets from each user , discounting private tweets from the mix , and were left with 1.5 million geotagged tweets from almost 10,000 users			1
+ten percent of the data was then set aside to test against later , while the bulk 90 percent was analyzed layer upon layer to create the location - estimating formula			0
+the new formula has again raised questions about social media and privacy , especially for those who would rather their home location remained private key to the formula is the additional information users are including in their tweets – 100,000 pulled from the team ’s data collection were submitted by users linking their @entity12 accounts to the popular @entity81 location - based social networking platform , and in 300,000 other cases , users included the names of cities from the @entity86 in tweets			1
+the team also found the national distribution of tweets was more or less constant on a daily basis , which allowed them to isolate user ’s time zones based on their tweet pattern			2
+even the specifically - worded content of posts themselves aided tracking when users would type in things like the name of a sports team , for example			0
+with their algorithm established , the team then used it on the 10 percent of data set aside before analysis , and found that in less than one second for each individual it was able to correctly identify a user ’s home city 68 percent of the time , home state 70 percent , and time zone 80 percent .			0
+
+@entity6 researchers went through @entity12 to find 100 different users in the 100 biggest cities in the @entity51
+they *downloaded* the last 200 tweets posted by each user , giving them 1.5 million tweets
+100,000 of those were *generated* by @entity81 , giving an exact location
+almost 300,000 tweets contained the name of cities listed in the @entity134 *gazetteer*
+other tweets contained clues to their location like phrases such as ' @entity140 '
+
+@entity16:The Daily Caller
+@entity1:Daily Mail
+@entity140:Let ’s Go Red Sox
+@entity6:IBM
+@entity37:Jalal Mahmud
+@entity81:Foursquare
+@entity51:US
+@entity86:U.S. Geological Service gazetteer
+@entity134:US Geological Service
+@entity12:Twitter

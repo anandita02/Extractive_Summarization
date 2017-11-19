@@ -1,0 +1,25 @@
+http://web.archive.org/web/20120914235840id_/http://www.cnn.com:80/2012/09/05/world/americas/bermuda-hurricane-leslie/
+
+-- @entity1 was hundreds of miles away from @entity2 wednesday , but forecasters said the slow - moving storm could pack powerful winds as it nears the @entity7 territory			1
+officials said plans were in place for the storm , but advised residents to prepare for the worst			0
+" @entity1 could be a historic storm for @entity2 as it is very large and forecast to intensify rapidly as it approaches , " @entity2 's @entity13 said in a statement			1
+" the island could experience hurricane force winds for a sustained period of time , possibly up to two days			0
+" the category 1 storm was about 460 miles ( 740 kilometers ) south - southeast of @entity2 , moving north at 2 mph ( 4 kph ) wednesday evening , according to the @entity22 in @entity23			1
+the storm had maximum sustained winds of 75 mph ( 120 kph ) , the hurricane center said			0
+it could become a category 2 hurricane , packing winds of more than 96 mph , by friday , the hurricane center said			2
+forecasters predict it could affect @entity2 this weekend			0
+the latest forecast track predicts that the storm could be within 20 miles of the island by @entity36 , officials in @entity2 said .			2
+
+new : the slow - moving storm is *churning* 460 miles south - southeast of @entity2
+new : *emergency* officials in @entity2 say @entity1 could be a " historic storm "
+the storm could affect the @entity7 territory this weekend
+it could become a category 2 hurricane by friday
+
+@entity22:National Hurricane Center
+@entity2:Bermuda
+@entity1:Leslie
+@entity0:CNN
+@entity13:Emergency Measures Organization
+@entity23:Miami
+@entity36:Sunday morning
+@entity7:British

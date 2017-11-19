@@ -1,0 +1,14 @@
+http://web.archive.org/web/20110430195132id_/http://edition.cnn.com:80/2011/US/03/15/hawaii.tsunami.damage/index.html
+
+-- @entity2 's governor @entity1 said the tsunami has caused tens of millions of dollars in damage and he plans to visit some of the damaged areas tuesday			1
+the tsunami that devastated @entity7 brought powerful waves to the @entity2 islands last week			0
+@entity1 has signed a " state of disaster proclamation " because of the damage			0
+the proclamation will allow the state to get federal funds .			2
+
+@entity2 's governor says he will tour damaged areas
+governor is *seeking* federal funds to help *rebuild*
+
+@entity2:Hawaii
+@entity1:Abercrombie
+@entity0:CNN
+@entity7:Japan

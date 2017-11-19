@@ -1,0 +1,24 @@
+http://web.archive.org/web/20100812031848id_/http://www.cnn.com:80/2009/WORLD/asiapcf/08/18/taiwan.typhoon.president.apology/index.html
+
+-- @entity2 's president @entity1 apologized again today for the slow response to @entity4 and said he plans sweeping changes to the country 's rescue agencies and may punish some government officials			1
+@entity2 president @entity1 speaking at a press conference in @entity10			1
+" we will try our best to do a better job in the rescue work that has been criticized for being too slow , " said @entity1			0
+" there are things that we have to correct and we also will be responsible for whatever mistakes or neglect that government officials have made			2
+" @entity4 hit the island august 8 , dropping 102 inches of rain			0
+the storm killed at least 123 people in @entity2 before it roared on to mainland @entity23 the next day			0
+but more than 300 people could be dead as rescuers have struggled to locate many who were missing in remote mountainous areas of southern @entity2			1
+@entity1 said he will evaluate the rescue process and may punish some government officials by early september			1
+@entity1 apologized last week for the rescue effort as he traveled around the typhoon - battered island			2
+he said heavy rain grounded rescue helicopters in the first few days after the storm hit , delaying relief efforts			0
+he said tuesday that he will make changes to @entity2 's fire departments and army to emphasize rescue and recovery training .			0
+
+@entity2 president @entity1 apologized again for response to @entity4
+@entity1 is planning sweeping changes and may punish some government officials
+more than 300 people *feared* dead as rescuers struggle to find missing *persons*
+
+@entity2:Taiwan
+@entity1:Ma
+@entity0:CNN
+@entity4:Typhoon Morakot
+@entity23:China
+@entity10:Taipei

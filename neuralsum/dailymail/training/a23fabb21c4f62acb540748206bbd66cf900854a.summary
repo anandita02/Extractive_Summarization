@@ -1,0 +1,35 @@
+http://web.archive.org/web/20130726170741id_/http://www.dailymail.co.uk/sciencetech/article-2286664/Major-malfunction-Mars-Curiosity-rover-develops-problem-sleep-problem-fixed.html
+
+published : 12:22 est , 1 march 2013 updated : 12:23 est , 1 march 2013 @entity1 's curiosity rover has developed a major computer problem on @entity3			1
+engineers have been forced to suspend the rover 's work while they attempt to restore a corrupted computer			1
+the team said the rover had been placed in a ' safe mode ' to protect it			1
+help ! the last self portrait the rover sent back before it developed a major computer fault the intentional swap put the rover , as anticipated , into what what engineers said was a minimal - activity precautionary status called ' safe mode			1
+' the team is shifting the rover from safe mode to operational status over the next few days and is troubleshooting the condition that affected operations yesterday , @entity1 said			1
+the condition is related to a glitch in flash memory linked to the other , now - inactive , computer			0
+' we switched computers to get to a standard state from which to begin restoring routine operations , ' said @entity35 of @entity1 's @entity36 , project manager for the @entity38 , which built and operates @entity39			1
+a @entity41 - like self portrait of @entity1 's curiosity rover was taken by its @entity44 cameras , located on the now - upright mast			1
+curiosity carries a pair of redundant main computers in order to have a backup available if one fails			2
+each of the computers , a-side and b - side , also has other redundant subsystems linked to just that computer			0
+curiosity is now operating on its b - side , as it did during part of the flight from @entity61 to @entity3			0
+it operated on its a-side from before the august 2012 landing through wednesday			0
+' while we are resuming operations on the b - side , we are also working to determine the best way to restore the a-side as a viable backup , ' said @entity36 engineer @entity70 , leader of the mission 's anomaly resolution team			2
+the spacecraft remained in communications at all scheduled communication windows on wednesday , but it did not send recorded data , only current status information			0
+the status information revealed that the computer had not switched to the usual daily ' sleep ' mode when planned			0
+diagnostic work in a testing simulation at @entity36 indicates the situation involved corrupted memory at an a-side memory location used for addressing memory files			0
+scientific investigations by the rover have been suspended			2
+resumption of science investigations is anticipated within several days , ' said @entity1			2
+earlier this week , laboratory instruments inside the rover have been analyzing portions of the first sample of rock powder ever collected from the interior of a rock on @entity3 .			0
+
+one of the rover 's two *onboard* computers has become corrupted
+@entity1 has suspended the rover 's operations while the problem is fixed , placing it in a ' safe mode '
+
+@entity3:Mars
+@entity1:Nasa
+@entity35:Richard Cook
+@entity36:JPL
+@entity39:Curiosity
+@entity38:Mars Science Laboratory Project
+@entity44:Navigation
+@entity41:Picasso
+@entity70:Magdy Bareh
+@entity61:Earth

@@ -1,0 +1,48 @@
+http://web.archive.org/web/20130627010243id_/http://www.dailymail.co.uk/sciencetech/article-2348846/Planet-apes-Monkey-robots-soon-sent-explore-MOON.html
+
+by @entity0 published : 10:01 est , 26 june 2013 updated : 12:39 est , 26 june 2013 the moon could soon become a robot colony of mechanical apes exploring the lunar landscape , thanks to a monkey robot designed in @entity7			1
+engineers from the @entity9 ( @entity9 ) and the @entity10 have developed a space robot designed to walk and climb like an ape over rocky ground , such as the terrain of the @entity15			1
+the @entity16 has mechanical arms , legs and a spine that mimic the way primates behave - and could replace the wheeled rovers currently used in lunar missions			1
+the researchers plan to send the mechanical chimp to the moon to explore the lunar landscape because it is more agile and versatile than current wheeled rovers and explorers the @entity16 , pictured , weighs 18 kg. it has an articulated spinal column connecting the torso and pelvis to foot and ankle structures			1
+these ' joints ' are each fitted with sensors which react and respond to the ground below the @entity42 demonstrator has : 43 individual force - sensing resistor ( @entity44 ) sensors			1
+six additional @entity44 sensors on exposed parts used for collision detection			2
+a 6 - axis force / torque - sensor			1
+a distance sensor in heel to anticipate heel strike			2
+a digital 3 - axis accelerometer to perceive the orientation of the foot			1
+two temperature sensors to compensate for temperature changes in the electronics			2
+digital magnetic angular encoders to monitor every moving axes of the foot and ankle structure			0
+the engineering team have already built the robo - ape and have now begun testing it in the centre 's mock lunar landscape			1
+according to researchers at the @entity9 , a primate 's body is better suited to the lunar terrain because its four - legged stance is stable when climbing over obstacles or hills			1
+the robot can also right itself if it falls over			0
+it can additionally stand on its hind legs and use its arms to pick up samples and move obstacles using its robotic hands			2
+the @entity16 weighs 18kg and measures 66x43x75 cm. it has an articulated spinal column connecting the torso and pelvis to foot and ankle structures			0
+these ' joints ' are each fitted with sensors that react and respond to the ground below			0
+it also has 26 degrees of freedom thanks to various electric motors			0
+the @entity16 is similar to the @entity94 robot developed for the @entity95			0
+the @entity97 's ' legs ' and ' joints ' have been engineered to mimic those of a primate			0
+this makes the robot more capable of climbing , walking and collecting samples from the rocky @entity15 terrain however , the @entity42 's articulated spine , which works as a 6 - axes force - torque sensor , is unique to this robot and helps it move on all fours			1
+the sensors in the foot and ankle also allow it to maintain its balance on sloped terrain			0
+a study from the research centre said : ' the aim of the @entity42 project is the development of a robotic system which effectively improves the locomotion and mobility characteristics , if applied to the robotic system			1
+' the main focus in this project is the development of intelligent structures for application in mobile robots to increase the efficiency of a complex walking machine by the purposeful use of intelligent structures			0
+' a high number of sensors is needed to allow a precise perception of the environment ; hence there will be large data sets which have to be locally pre-processed and evaluated			0
+' in order to meet the high requirements of the intelligent structures , sensors and actuators have to be selected or developed with regard to both their functionality and their integration capability within the intelligent structures			0
+' in 2009 , project leader @entity150 worked on a similar robot called the @entity152 capable of simple quadrupedal walking			0
+his current project is due to be completed by august .			2
+
+the @entity42 demonstrator has been designed to move and behave like real - life primates
+it is being tested on mock lunar landscapes in the hope it will soon be able to explore the @entity15
+@entity7 engineers are looking at more agile *alternatives* to the wheeled rovers used in current space missions
+
+@entity16:iStruct Demonstrator
+@entity15:Moon
+@entity0:Victoria Woollaston
+@entity7:German
+@entity10:University of Bremen
+@entity9:DFKI
+@entity44:FSR
+@entity42:iStruct
+@entity97:iStruct Demonstrator
+@entity152:Little Ape
+@entity95:DARPA Robotics Challenge
+@entity94:CHIMP
+@entity150:Daniel Kühn

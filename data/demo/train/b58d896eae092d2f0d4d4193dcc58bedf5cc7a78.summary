@@ -1,0 +1,65 @@
+http://web.archive.org/web/20141209073713id_/http://www.cnn.com:80/2013/06/18/tech/web/how-to-encrypt-email
+
+-- let 's face it : most of us do n't e-mail , tweet , text or post anything worthy of clandestine scrutiny			1
+but having concerns about @entity11 cybersnooping does n't mean we must surrender all privacy -- what 's left of it -- in our day - to - day online activities			1
+it 's easy to forget that we 're volunteering basic information about ourselves in return for free e-mail , social networking and other digital services			1
+and let 's remember that third parties -- from government agencies to cybercriminals -- can get their hands on even more personal stuff if they 're actively trying			2
+so , whether it 's due to a vague fear of @entity31 or a more specific desire to keep your bank information out of the hands of thieves , you might be considering ways to keep your communication more secure			0
+" so much that 's geo - political , so much cybercrime , so many struggles of various types are being played out in terms of information security today , " said @entity38 , a senior security analyst at @entity39			1
+" it 's not just that people decided to get interested in encryption all of a sudden			1
+" @entity50 : how to hide from the @entity11 specifically , encryption has come up a lot in recent days			1
+for one , @entity11 whistleblower ( some would say " traitor " ) @entity53 said monday in an online question - and - answer session that e-mail encryption is an effective way of foiling government surveillance			1
+" encryption works , " he wrote			0
+" properly implemented strong crypto systems are one of the few things that you can rely on			0
+unfortunately , endpoint security is so terrifically weak that @entity11 can frequently find ways around it			1
+" encryption is a method of securing your files , including e-mail , by encoding it so that the intended recipient can read it , but anyone who may intercept the message along the way can not			1
+an encryption tool turns your original message ( called " plaintext " ) into a garbled mess ( or " ciphertext " ) while it 's flying from @entity82 to point @entity83 the system gives the approved recipient a decryption tool which makes the text readable once it arrives at its destination			1
+with all of the renewed interest in online privacy , we talked with @entity38 about ways to help keep your data secure -- before , during and after sending it			0
+there are ways to make your contact with every website you visit more secure			0
+a " secure sockets layer " ( @entity108 ) provides a layer of security during everything from web browsing to text messaging			1
+many major websites offer the option of using a secure connection all the time			0
+@entity38 and other security experts suggest doing this when given the option			0
+if not -- sometimes it can be as easy as tweaking " http " to " https " in your browser 's address bar			1
+" by and large , you can just throw an 's ' into the url and go to town , " @entity38 said			1
+there are also tools like @entity127 , a free extension for @entity130 and @entity131 browsers , that encrypt your connection with most major websites			0
+@entity135 : i 'm no @entity137 during most major e-mail services , like @entity139 and @entity140 , offer some form of encryption			1
+check your e-mail 's security settings for options			1
+but for people who are really worried about their e-mails being intercepted -- and that 's always just an unsecured network and an eager hacker away -- @entity38 suggests buying encryption software			1
+( note : his company focuses on network security and does not sell encryption software to individuals )			2
+with many of the systems , customers will get digital " certificates " for themselves called private keys			0
+everyone with whom they want to share encrypted messages will receive public keys			0
+using such a system , only someone with a private certificate could descramble a message 's content			0
+after so , your data may be secure while it 's hurtling through cyberspace			2
+but what if somebody breaks into your car , where you stupidly left your laptop , and makes off with it ? that 's where disk encryption comes in			2
+there 's some free disk encryption software floating around in the open - source community , but for most folks this , too , will cost some cash			2
+in effect , disk encryption scrambles everything stored to your computer , requiring a password or other approved recovery tool to decode it			2
+so , if your computer falls into the wrong hands , all wo n't be lost			0
+to summarize , there are lots of encryption and other security options out there			2
+some are quick , easy and free			0
+others are going to cost money for specialized software , hardware or both			0
+to find a level of security you 're comfortable with , start by poking around with security settings on your browser , e-mail client and favorite websites			2
+then consider whether you want professional help to get to the next level			0
+do you have other favorite security tricks ? share them in the comments .			0
+
+with reports of @entity11 snooping , web security has become a focus for many
+@entity11 whistleblower says encryption is an effective tool for *protecting* data
+many browsers , e-mail clients offer encrypted *versions* of messaging
+sometimes , it 's as easy as adding an " s " in your url *box*
+
+@entity31:Big Brother
+@entity0:CNN
+@entity140:Gmail
+@entity83:B.
+@entity11:NSA
+@entity39:Palo Alto Networks
+@entity38:Williamson
+@entity53:Edward Snowden
+@entity108:SSL
+@entity82:Point A
+@entity50:CNNMoney
+@entity139:Outlook
+@entity135:Obama
+@entity127:HTTPS Everywhere
+@entity137:Dick Cheney
+@entity131:Firefox
+@entity130:Chrome

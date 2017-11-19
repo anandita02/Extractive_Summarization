@@ -1,0 +1,23 @@
+http://web.archive.org/web/20131013030607id_/http://www.cnn.com:80/2013/10/05/world/americas/argentina-president-health/?
+
+-- @entity2 president @entity1 was told to take a month off work after doctors diagnosed her with a subdural hematoma			1
+the diagnosis and the doctor 's recommendation mean @entity9 will be out of commission during the critical campaign season for congressional elections on october 27			0
+spokesman @entity13 said saturday the president will suspend all her activities			2
+a subdural hematoma is a blood clot on the brain 's surface beneath its outer covering , called the dura			1
+often , in people over 60 , a brain trauma can cause the blood vessels in the brain to tear , and blood to clot			1
+in august , @entity9 , 60 , suffered a cranial trauma , for which doctors conducted a brain scan and found normal results with no symptoms at the time , @entity13 said			1
+doctors at a @entity35 hospital discovered the hematoma on saturday after a neurological evaluation , he said			0
+according to @entity2 's constitution , the vice president would assume the presidency temporarily in the president 's absence , but officials have not said if that will occur in this situation			2
+@entity9 's health made headlines when she underwent surgery in january 2012 to remove her thyroid , after doctors said they detected cancer in the gland			0
+a few days later , a spokesman for @entity9 said she did not actually have cancer and that doctors had discarded their original diagnosis .			0
+
+@entity1 has a blood clot on the surface of her brain
+a month of rest is recommended
+spokesman : the president suffered cranial trauma in august
+
+@entity2:Argentina
+@entity1:Cristina Fernandez de Kirchner
+@entity0:CNN
+@entity13:Scoccimarro
+@entity9:Fernandez
+@entity35:Buenos Aires

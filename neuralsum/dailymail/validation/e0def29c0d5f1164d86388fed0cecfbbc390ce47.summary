@@ -1,0 +1,80 @@
+http://web.archive.org/web/20150723023140id_/http://www.dailymail.co.uk/sciencetech/article-3003053/Google-claims-FaceNet-perfected-recognising-human-faces-accurate-99-96-time.html
+
+it is the battle for your face			0
+@entity3 and @entity4 have been involved in an algorithm war to come up with the perfect facial detection system			1
+now @entity4 has claimed the latest victory , saying its new @entity9 system is practically perfect - getting the right person 99.96 % of the time			1
+@entity4 's new @entity9 system is practically perfect - getting the right person 99.96 % of the time - here , it shows the variety of lighting condition it can overcome @entity4 researchers call their system the most - accurate technology available for recognizing human faces			1
+in the paper , titled ' @entity9 : a @entity20 for @entity21 and clustering ' , @entity4 claims the system achieved nearly 100 - percent accuracy rate on the facial recognition dataset @entity26			1
+the dataset uses more than 13,000 face images from the @entity29 to measure how accurate the algorithms are at verifying whether two images are of the same individual ' our method uses a deep convolutional network trained to directly optimize the embedding itself , rather than an intermediate bottleneck layer as in previous deep learning approaches , ' the researchers say			2
+' to train , we use triplets of roughly aligned matching / non-matching face patches generated using a novel online triplet mining method			2
+' the benefit of our approach is much greater representational efficiency : we achieve state - of - the - art face recognition performance using only 128 - bytes per face			2
+' on the widely used @entity26 in the @entity52 ( @entity26 ) dataset , our system achieves a new record accuracy of 99.63 %			2
+' on @entity55 it achieves 95.12 %			0
+our system cuts the error rate in comparison to the best published result by 30 % on both datasets			2
+@entity9 was trained on an enormous 260 - million - image dataset and performed at an 86 percent and higher accuracy rate			2
+last year , a team of @entity64 researchers claimed to have achieved better than 99 percent accuracy			0
+in the june 2014 paper , @entity3 researchers said that humans analyzing images in the @entity26 dataset are only able to achieve 97.5 percent accuracy			2
+however , @entity4 researchers went beyond simply verifying whether two faces are identical by also attaching a name to a face			1
+@entity4 's system first clusters photos into a collection of similar faces taking a classic facial recognition approach , the researchers went as far as organizing the images into groups of faces that look the most similar or the most distinct			1
+when @entity4 's @entity9 and @entity3 's ' @entity86 ' are eventually integrated into their company 's web platforms , it is believed they will automate the process of tagging photos and searching for people and will also make it easier for web companies to analyze their users ' social networks and to assess global trends			1
+@entity9 was trained on an enormous 260 - million - image dataset and performed at an 86 percent and higher accuracy rate			0
+these were the only images it did not get right			0
+@entity3 's technology - called @entity86 - was first showcased last march , but the site has now started rolling out the automatic tagging tool to select users			1
+@entity86 uses technology designed by an @entity107 startup called face.com			1
+@entity3 bought the startup in 2013 and developed the facial recognition tool with support from face.com 's @entity110 at its @entity113 lab. the researchers used the software to build a 3d model of a face from a photo that can be rotated into the best position for an algorithm to begin searching for a match			1
+after creating a model , the team used a neural network that had been trained on a database of faces to try and match the face with one in a test database of more than 4 million images , containing more than 4,000 separate identities , each one labelled by humans			0
+its creators said @entity133 finds a match with 97.25 per cent accuracy			1
+@entity3 's @entity86 technology uses a 3d model to virtually rotate faces so that are facing the camera			1
+image ( a ) shows the original image , and ( g ) shows the final , corrected version which the software then attempts to recognise @entity86 uses technology designed by an @entity107 startup called face.com			1
+@entity3 bought the startup in 2013 and developed the facial recognition tool with support from face.com 's @entity110 at its @entity113 lab. the researchers used the software to build a 3d model of a face from a photo that can be rotated into the best position for an algorithm to begin searching for a match			1
+after creating a model , the team used a neural network that had been trained on a database of faces to try and match the face with one in a test database of more than 4 million images , containing more than 4,000 separate identities , each one labelled by humans			0
+its creators said @entity133 finds a match with 97.25 per cent accuracy			1
+the tagging option has now started appearing in the privacy settings of accounts globally - although in many cases it says the feature is ' unavailable ' - but a number of users have reportedly been given the tool			0
+@entity178 at @entity179 , for example , said that she recently tested the feature using an album of 15 photos			0
+none of the images had been shared previously , and @entity3 identified and automatically tagged faces in eight of the photos			2
+only one tag was incorrect , and the images it did n't offer suggestions for were ' taken in dark rooms ' or were blurry			0
+a test using real people recruited on @entity195 's @entity194 crowdsourcing site achieved 97.5 per cent accuracy			0
+security researcher @entity196 said : ' the social network plans to use the system to identify its users in new photos as they are uploaded			0
+security researcher @entity196 said : ' the social network plans to use the system to identify its users in new photos as they are uploaded			0
+if your visage appears in one of the 400 million pictures added to the network each day you 'll receive an email from @entity3 alerting you ' its creators said @entity133 finds a match with 97.25 per cent accuracy ' if your visage appears in one of the 400 million pictures added to the network each day you 'll receive an email from @entity3 alerting you			1
+' tagging photos in this way is restricted in the @entity214 following a report by @entity217 's @entity216 ( @entity218 ) that advised removing it in 2012			0
+this means it is not available in @entity222			0
+elsewhere , people who do have the feature but want to disable it can go to their @entity227 menu and open the @entity229 menu			0
+under ' how can i manage tags people add and tagging suggestions there will be an option labelled who sees tag suggestions when photos that look like you are uploaded ? ' , change the option to ' @entity241			0
+' @entity3 said it does not have an official comment about the technology or rollout plans .			2
+
+@entity3 's rival @entity86 uses technology from @entity107 firm @entity248
+@entity133 finds a matching face with 97.25 % accuracy
+@entity4 researchers call their system the most - accurate technology
+system could be used to automatically recognise photos on @entity259
+
+@entity20:Unified Embedding
+@entity21:Face Recognition
+@entity26:Labeled Faces
+@entity29:Internet
+@entity113:Artificial Intelligence
+@entity86:DeepFace
+@entity110:Yaniv Taigman
+@entity259:Google+
+@entity133:DeepFace
+@entity3:Facebook
+@entity216:Data Protection Authority
+@entity217:Ireland
+@entity4:Google
+@entity179:The Daily Dot
+@entity196:Lee Munson
+@entity9:FaceNet
+@entity194:Mechanical Turk
+@entity218:DPA
+@entity52:Wild
+@entity55:YouTube Faces DB
+@entity214:EU
+@entity241:No One
+@entity107:Israeli
+@entity248:face.com
+@entity222:Europe
+@entity227:Facebook Settings
+@entity229:Privacy
+@entity178:Taylor Hatmaker
+@entity64:Chinese
+@entity195:Amazon

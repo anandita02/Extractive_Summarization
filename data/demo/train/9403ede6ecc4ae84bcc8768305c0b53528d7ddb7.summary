@@ -1,0 +1,50 @@
+http://web.archive.org/web/20150320223822id_/http://www.cnn.com/2014/05/27/tech/mobile/hackers-iphones/
+
+a large number of people , mostly located in @entity2 , are reporting they have come under an unexplained attack that holds their iphones and @entity6 hostage and demands they pay a $ 100 ransom			1
+the attack appears to work by compromising @entity11 accounts associated with the disabled devices , according to an @entity14 support forum discussion that started sunday morning and quickly accumulated several hundred posts			1
+commandeered devices typically emit a loud tone that 's associated with a feature that helps users locate lost or stolen devices			2
+iphones and @entity6 also display the message : " device hacked by @entity24			1
+for unlock device , you need send voucher code by 100 usd / eur ( @entity30 / @entity29 / @entity28 ) to email : lock404@hotmail.com for unlock			2
+" in some cases — specifically , when a user has n't assigned a strong passcode to a locked device — it can only be unlocked by performing a factory reset , which completely wipes all previously stored data and apps			0
+the mass compromise is a variation on so - called ransomware scams , which initially targeted @entity44 pc users and earlier this month were found targeting smartphone users running @entity48 's @entity47 os. the forum accounts provide strong evidence that victims ' @entity51 and passwords have been compromised so that attackers can remotely lock connected devices using @entity14 's @entity57 service			1
+but so far it remains unclear exactly how the attackers are compromising the @entity11 accounts			1
+while it 's possible the hijackers used phishing attacks or hacked password databases to obtain the credentials , those explanations are undermined by the observation that the vast majority of victims were located in @entity2 and reported using a variety of e-mail providers			1
+typically , phishing campaigns and database compromises involving multiple providers affect users from more geographic regions			0
+@entity78 poisoning ? one participant in the online discussion theorized the mass compromise may have been the result of hacking domain name system ( @entity78 ) servers used by @entity2 service providers to translate human readable addresses such as @entity14 into the ip addresses @entity89 routers rely on			2
+such an attack , which has yet to be confirmed in this case , works by " poisoning " the lookup tables of @entity78 servers so they secretly direct people to impostor sites			0
+assuming this technique was at play in the @entity57 and @entity6 locking , affected users who entered a password on what appeared to be @entity14 's site could have unknowingly provided it to the people behind the attack			1
+@entity14 officials have yet to comment on the report			0
+there is no indication the hijackings are the result of any compromise on @entity14 servers , so that leaves end users to figure out for themselves how to secure their own devices			0
+readers are once again advised to use long , randomly generated passwords that are unique to their @entity11 account			2
+they should also enable two - factor authentication and assign a separate , randomly generated passcode to each @entity57 and @entity6 they own			2
+readers are reminded they can be permanently locked out of their @entity127 accounts , and possibly their @entity57 or @entity6 when running @entity128 7 with @entity57 turned on , if they are compromised before two - factor authentication is enabled			1
+two - factor authentication wo n't automatically prevent an attacker from compromising an @entity11 account , but it will prevent the attacker from changing security questions and other crucial settings in the event of a breach			1
+the identities of the people behind the attack are unknown			0
+there 's no indication they have any connection to anyone named @entity24			0
+people with a locked device should immediately try changing the credentials for their @entity14 id and ensure two - factor authentication is set up			0
+in the event their locked device did n't have a passcode associated with it , they can perform a factory reset by using a cable to plug the device into their computer while @entity158 is open			0
+more instructions are here .			0
+
+a large number of users are reporting attacks that hold their iphones , @entity6 hostage
+the hackers demand they pay a $ 100 ransom
+most of the victims are located in @entity2
+attacks appear to work by compromising @entity11 accounts
+
+@entity2:Australia
+@entity14:Apple
+@entity6:iPads
+@entity24:Oleg Pliss
+@entity30:Moneypack
+@entity28:PaySafeCard
+@entity29:Ukash
+@entity44:Windows
+@entity51:Apple IDs
+@entity158:iTunes
+@entity11:iCloud
+@entity78:DNS
+@entity128:iOS
+@entity47:Android
+@entity89:Internet
+@entity127:Apple ID
+@entity48:Google
+@entity57:Find My iPhone

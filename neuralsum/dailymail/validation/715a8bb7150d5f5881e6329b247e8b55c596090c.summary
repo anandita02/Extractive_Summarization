@@ -1,0 +1,84 @@
+http://web.archive.org/web/20150722013059id_/http://www.dailymail.co.uk/sciencetech/article-2987851/CIA-sought-hack-Apple-iPhones-earliest-days-The-Intercept.html
+
+@entity1 researchers have been involved in a ' sustained effort ' for nearly a decade to crack the security protecting @entity4 and @entity5			2
+this is according to investigative news site , @entity7 , who today cited documents obtained from @entity11 whistleblower @entity10			0
+the report says top - secret documents reveal @entity15 government researchers had created a version of @entity17 , @entity19 's software application development tool , to create surveillance backdoors			1
+@entity1 researchers have been involved in a ' sustained effort ' for nearly a decade to crack the security protecting @entity4 and tablets			2
+this is according to , investigative news site , @entity7 , who claims to have access to top secret files detailing the spying activity these backdoors would have allowed them access into programs distributed on @entity19 's @entity31			1
+the intercept has in the past published a number of reports from documents released by whistleblower @entity10			0
+the site 's editors include @entity40 , who won a @entity41 for his work in reporting on @entity10 's revelations , and by @entity46 - winning documentary maker @entity44			2
+it said the latest documents , which covered a period from 2006 to 2013 , stop short of proving whether @entity15 intelligence researchers had succeeded in breaking @entity19 's encryption coding , which secures user data and communications			1
+efforts to break into @entity19 products by government security researchers started as early as 2006 , a year before @entity19 introduced its first @entity57 and continued through the launch of the @entity5 in 2010 and beyond , @entity7 said			1
+the intercept today cited documents obtained from @entity11 whistleblower @entity10 ( pictured )			0
+it said the latest documents , which covered a period from2006 to 2013 , stop short of proving whether @entity15 intelligenc eresearchers had succeeded in breaking @entity19 's encryption coding breaching @entity19 security was part of a top - secret programme by the @entity15 government , aided by @entity69 intelligence researchers , to hack ' secure communications products , both foreign and domestic ' including @entity72 phones , it added			1
+@entity74 technology companies have in recent months sought to restore trust among consumers around the world that their products have not become tools for widespread government surveillance of citizens			0
+last september , @entity19 strengthened encryption methods for data stored on @entity57			1
+it claimed the changes meant the company no longer had any way to extract customer data on the devices , even if a government ordered it to with a search warrant			2
+@entity74 rival @entity91 said shortly afterward that it also planned to increase the use of stronger encryption tools			0
+what is a ' backdoor ' ? a backdoor is a hidden remote access from an outside source to the device that enables the hacker to have almost full access with little detection			0
+should you be worried if you use an @entity19 device ? backdoors are not the type of thing an average hacker can easily exploit			0
+so far there has been no evidence that they 've been used for identity theft or a criminal attack how would could the government potentially make use of these backdoors ? backdoors can provide access to unencrypted information even if users have chosen to encrypt the data they back up			1
+data can include the user 's address book , stored photos , the voicemail database and any accounts configured on the device			0
+what are the main concerns ? earlier this year , security expert @entity131 focused on three particular services known by the technical names com.apple.pcapd , com.apple.mobile.file_relay and com.apple.mobile.house_arrest that are a cause for concern			0
+how do these hidden files work ? the pcapd service starts a ' packet sniffer ' on an @entity139 device which records all data traffic to and from your @entity57			1
+it 's installed by default on all @entity139 devices and gives the user no warning when it 's activated			0
+the file_relay service exists to sweep up large volumes of raw data from particular sources on an @entity57 , and then release it in unencrypted form			2
+these include the address book , accounts , gps logs , photos , notes , calendar files , call history , voicemail and other records			0
+the third service , house_arrest , originally allowed @entity164 to copy documents to third - party apps			0
+now , as reported in @entity168 , house_arrest has access to wider app - related data , including photos , databases , screenshots and temporary ' cached ' information			1
+more information about @entity19 's diagnostic capabilities is available from the firm 's support pages			1
+both companies said the moves were aimed at protecting the privacy of users of their products and that this was partly a response to wide - scale @entity15 government spying on internet users revealed by @entity10 in 2013			1
+an @entity19 spokesman pointed to public statements by chief executive @entity190 on privacy , but declined to comment further			2
+' i want to be absolutely clear that we have never worked with any government agency from any country to create a backdoor in any of our products or services , ' @entity190 wrote in a statement on privacy and security published last year			0
+' we have also never allowed access to our servers			1
+' leaders including @entity15 president @entity205 and @entity69 prime minister @entity206 have expressed concern that turning such privacy - enhancing tools into mass market features could prevent governments from tracking militants planning attacks			2
+the @entity1 did not immediately reply to a request for comment			2
+@entity74 technology companies have in recent months sought to restore trust among consumers around the world that their products have not become tools for widespread government surveillance of citizens last year , a security expert warned @entity19 ’s @entity139 software contains potentially sinister tools that could be used by governments to spy on @entity57 and @entity5 users			1
+speaking at the ' @entity230 ' conference in @entity231 , @entity131 said that most users are unaware of the lack of protection for @entity57 data			1
+he added files found hidden within the firm 's software contain a file - relay service that can be used to access the user 's address book , photos , voicemail and any accounts configured on the device			1
+the conclusion was based on an analysis of 600 million @entity139 devices , with handsets running the most recent versions of the software at particular risk			0
+mr @entity131 said there is a file dubbed ‘ com.apple.pcapd ’ on the device that fires up without notifying the @entity139 device 's owner			0
+he explained this can record network traffic and @entity261 request / response data from the device and could be targeted via @entity263			0
+‘ this software is n't some legacy code left on the device by @entity19 engineers for testing - it has been actively updated and expanded in various @entity139 revisions , ’ @entity264 claimed			2
+backdoors are not the type of thing an average hacker can easily exploit , and so far there has been no evidence they 've been used for identity theft or a criminal attack @entity19 responded by saying the services identified by mr @entity131 are not deliberately provided for government agencies to exploit			1
+the company added they are for ' diagnostic ' purposes , and to allow it workers to manage their company ’s devices .			0
+
+this is according to intercept which claims to have seen top secret files
+it says spies had created a version of @entity17 - an app development tool
+this would have allowed them access to programs on @entity19 's @entity31
+intercept does not know if they succeeded breaking @entity19 's encryption
+in september , @entity19 *improved* encryption methods for data on @entity57
+this was partly a response to @entity15 government spying on internet users
+it is *unknown* whether this is *ongoing* and @entity1 has not provided comment
+
+@entity17:XCode
+@entity139:iOS
+@entity131:Zdziarski
+@entity1:CIA
+@entity231:New York
+@entity7:The Intercept
+@entity5:iPad
+@entity4:Apple iPhones
+@entity190:Cook
+@entity57:iPhones
+@entity205:Barack Obama
+@entity74:Silicon Valley
+@entity72:Google Android
+@entity31:App Store
+@entity15:U.S.
+@entity11:NSA
+@entity10:Snowden
+@entity230:Hackers on planet Earth
+@entity19:Apple
+@entity91:Google
+@entity264:The Register
+@entity261:HTTP
+@entity206:David Cameron
+@entity263:Wi-Fi
+@entity164:iTunes
+@entity168:ReadWrite
+@entity44:Laura Poitras
+@entity46:Oscar
+@entity40:Glenn Greenwald
+@entity41:Pulitzer Prize
+@entity69:British

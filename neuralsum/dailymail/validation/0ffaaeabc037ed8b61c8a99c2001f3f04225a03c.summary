@@ -1,0 +1,65 @@
+http://web.archive.org/web/20150721051650id_/http://www.dailymail.co.uk/sciencetech/article-3013164/Do-know-smartphone-sharing-personal-data-Results-experiment-shock-public.html
+
+some apps for @entity2 smartphones are tracking people 's movements every three minutes			1
+this is according to a @entity7 study that found apps can collect a device 's gps coordinates on average of 6,200 times over two weeks			1
+the study also revealed that most smartphone users have no idea how closely they are being tracked , and many were surprised by the results			1
+scientists asked 23 users of @entity2 's version 4.3 to install software that logged app requests			1
+they found that even when an app provided a location based service , some attempted to collect more data than was needed			1
+@entity26 , for instance , requested one participant 's coordinates 1,062 times in two weeks scientists at @entity31 asked 23 users of @entity2 's version 4.3 to install software that logged app requests , according to a report by @entity35 in the @entity36			1
+they found that even when an app provided a location based service , some attempted to collect more data than was needed			1
+@entity26 , for instance , requested one participant 's coordinates 1,062 times in two weeks			1
+meanwhile , the @entity44 's app requested device location an average 2,000 times , or every 10 minutes			1
+the main focus of the study , however , was on how users reacted to how often their data was being shared			1
+they received a daily message , or ' privacy nudge , ' telling them how many times information such as location , contact lists or phone call logs had been shared			1
+one notable example : ' your location has been shared 5,398 times with @entity64 , @entity26 , @entity65 and seven other apps in the last 14 days			1
+' when the participants were given access to @entity70 , they collectively reviewed their app permissions 51 times and restricted 272 permissions on 76 distinct apps ' 4,182 ( times ) – are you kidding me ? ' one participant asked			2
+' it felt like i 'm being followed by my own phone			0
+that number is too high			0
+' another participant said : ' the number ( 356 times ) was huge , unexpected			2
+' ' the vast majority of people have no clue about what 's going on , ' said @entity90 , a professor in the @entity92 's @entity91			0
+' most smartphone users , in fact , have no way of obtaining this data about app behaviour			1
+but the study shows that when they do , they tend to act rapidly to change their privacy settings			0
+' millions of people are being spied on by free apps they have installed on their mobile phones , security experts have warned			2
+many flashlight apps which allow a device to be used as a torch also secretly record the most sensitive personal information			2
+this may include the location of the phone , details of its owner and their contacts , and even the content of text messages			0
+the data is then transmitted to market research companies and advertising agencies to track user ’s shopping habits , experts claim			0
+but it is also suspected that criminal gangs , hackers and identity thieves have developed torch apps of their own to obtain personal data about consumers which could give them access to their bank accounts			2
+the most popular flashlight apps for @entity2 smartphones have been downloaded tens of millions of times			1
+they include the @entity140 , the @entity141 and the @entity142 + led			0
+but few customers realise that many programs have capabilities far beyond switching on the phone ’s light , according to @entity7 cyber-security firm @entity149 , whose founder @entity150 has advised the @entity7 government			0
+the study used a permission manager for @entity2 4.3 called @entity70			2
+during the first week of the study , app behaviour data was collected for 23 people as they used their own @entity2 mobile devices			1
+in the second week , they were given access to @entity70 , and in the third and final phase they received the daily privacy nudges detailing the frequency at which their sensitive information was accessed by their apps			0
+the researchers found that app permission managers were helpful			0
+when the participants were given access to @entity70 , they collectively reviewed their app permissions 51 times and restricted 272 permissions on 76 distinct apps			2
+only one participant failed to review permissions			0
+but once the participants had set their preferences over the first few days , they stopped making changes			0
+when they began getting the privacy nudges , however , they went back to their privacy settings and further restricted many of them			0
+during this phase , which spanned eight days , users collectively reviewed permissions 69 times , blocking 122 additional permissions on 47 apps			1
+' app permission managers are better than nothing , but by themselves they are n't sufficient , ' @entity90 said			0
+' the fact that users respond to privacy nudges indicate that they really care about privacy , but were just unaware of how much information was being collected about them			0
+' the @entity70 software was discontinued on later versions of @entity2			2
+while iphones do have a privacy manager , it does not tell users how often their information is used or for what purpose .			0
+
+some apps for @entity2 are tracking movements every three minute
+this means they collect location data roughly 6,200 times over two weeks
+most smartphone users have no idea how closely they are being tracked
+
+@entity31:Carnegie Mellon University
+@entity2:Android
+@entity65:GO Launcher EX
+@entity140:Super-Bright LED Flashlight
+@entity141:Brightest Flashlight Free
+@entity26:Groupon
+@entity36:Wall Street Journal
+@entity7:US
+@entity149:SnoopWall
+@entity70:AppOps
+@entity92:School of Computer Science
+@entity44:Weather Channel
+@entity35:Elizabeth Dwoskin
+@entity64:Facebook
+@entity150:Gary Miliefsky
+@entity142:Tiny Flashlight
+@entity91:Institute for Software Research
+@entity90:Sadeh

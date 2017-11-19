@@ -1,0 +1,75 @@
+http://web.archive.org/web/20131201115802id_/http://www.cnn.com:80/2012/07/24/tech/web/skype-surveillance
+
+-- the video calling service @entity3 recently made a change to how it routes calls			1
+yawn , right ? but here 's where it get a little juicier : hackers and bloggers are saying the changes , which push some of the video calling process onto @entity3 's own computers instead of onto random machines on the @entity17 , could help the app spy on users ' calls , presumably at the request of a court or government			1
+" reportedly , @entity27 is re-engineering these supernodes to make it easier for law enforcement to monitor calls by allowing the supernodes to not only make the introduction but to actually route the voice data of the calls as well , " @entity24 , from the website @entity25 , wrote last week			1
+( @entity37 are third - party computers that act as a sort of directory service for routing calls			1
+) " in this way , the actual voice data would pass through the monitored servers and the call is no longer secure			0
+it is essentially a man - in - the - middle attack , and it is made all the easier because @entity27 -- who owns @entity3 and knows the keys used for the service 's encryption -- is helping			1
+" other news outlets , including @entity53 and @entity54 , picked up on the discussion			0
+@entity53 says there is " tremendous buzz " in the hacker community on this topic			0
+the problem ? it 's unclear what exactly changed , and a @entity3 spokesman contacted by @entity0 for clarification would not release more than a pre-written statement			2
+@entity66 , the spokesman , would not say , for instance , if the update actually enabled the company to tap into and record @entity3 calls			1
+he also would not answer questions about when the update took place or whether wiretapping was a motive			0
+" as part of our ongoing commitment to continually improve the @entity3 user experience , we developed supernodes , which can be located on dedicated servers within secure datacenters , " the statement from @entity3 says			2
+" this has not changed the underlying nature of @entity3 's peer - to - peer ( @entity87 ) architecture , in which supernodes simply allow users to find one another ( calls do not pass through supernodes )			1
+" we believe this approach has immediate performance , scalability and availability benefits for the hundreds of millions of users that make up the @entity3 community			2
+" @entity3 , which grew out of the peer - to - peer downloading network @entity101 and how has 254 million " connected " users per month , has a long reputation for guarding the privacy of its callers			1
+skype calls usually are routed from one caller to another , rather than through a middleman			2
+" historically , @entity3 has been a major barrier to law enforcement agencies , " writes @entity111 at @entity54			2
+" using strong encryption and complex peer - to - peer network connections , @entity3 was considered by most to be virtually impossible to intercept			1
+" for technical reasons , this meant that @entity3 actually could not comply with an order to wiretap a particular @entity3 user 's conversations , a spokeswoman told the tech news site @entity123 in 2008			1
+" we have not received any subpoenas or court orders asking us to perform a live interception or wiretap of @entity3 - to - @entity3 communications , " the spokeswoman said			1
+" in any event , because of @entity3 's peer - to - peer architecture and encryption techniques , @entity3 would not be able to comply with such a request			2
+" but after the recent change , some insiders are speculating that such digital eavesdropping may indeed be possible			0
+the difference involves the third - party " supernode " computers			0
+until recently , those supernodes were other @entity3 users who had fast internet connections and could handle the work			0
+now , according to @entity3 's statement , those supernodes have moved onto computers owned by @entity3 , which is owned by @entity27			1
+that has some people concerned			0
+@entity66 , @entity3 's spokesman , wrote that " it is also important to note that @entity3 calls do not ( emphasis his ) pass through supernodes -- they act in a directory function only			1
+" he added : " as was true before the @entity27 acquisition , @entity3 cooperates with law enforcement agencies as is legally required and technically feasible			1
+" this seems to mean that @entity3 ca n't intercept calls just because it owns the supernodes now			2
+the spokesman , however , declined to answer follow - up questions on this point			0
+others are unsure what it means			0
+" i 'm a little bit surprised and slightly skeptical about that statement " about how calls " do not pass through supernodes , " said @entity170 , technology projects director for the @entity171			0
+maybe in most cases calls would not actually pass through a supernode in a way that they could be tracked , @entity170 said , but , for technical reasons , some types of computer connections may require a call to route though a supernode			0
+if you are really truly geek fluent , @entity170 's question for @entity3 may interest you : " if two @entity3 users are firewalled so that they can only make outbound tcp connections and can not make @entity190 connections , how do you route a call between those two users ? " @entity170 said he ca n't think of an answer , aside from pushing a call through a supernode , which now would be on a @entity3 - or @entity27 - owned computer			1
+in any event , @entity170 said , this update may not be all that significant in the big picture			0
+his group already does not recommend that people who live in authoritarian regimes use @entity3 , because of the relative likelihood that communications could be tapped			2
+in dangerous places like @entity206 and @entity207 , using a service like @entity209 is safer , he said			0
+" as of 2012 we do n't believe the @entity3 architecture is secure , " he said			0
+" there are a lot of people out there , a lot of governments out there , that have the means to break @entity3 , and this remains true regardless of whatever @entity27 just changed			1
+" more from @entity218 : @entity219 honors young scientists @entity221 working on ' want ' button ? @entity223 bans @entity225 tablet from sale in @entity227 @entity228 wants commenters to use real names			0
+
+@entity3 has made technical changes to the way calls are placed
+the calls now are routed by @entity27 - or @entity3 - owned computers
+*previously* , other computers on the network served in this directory function
+the change makes some people worry the company could " wiretap " video calls
+
+@entity27:Microsoft
+@entity24:Tim Verry
+@entity25:ExtremeTech
+@entity111:Ryan Gallagher
+@entity87:P2P
+@entity3:Skype
+@entity170:Eckersley
+@entity0:CNN
+@entity218:CNN Tech
+@entity219:Google
+@entity190:UDP
+@entity53:Forbes
+@entity54:Slate
+@entity17:Internet
+@entity171:Electronic Frontier Foundation
+@entity37:Supernodes
+@entity101:Kazaa
+@entity209:Gmail
+@entity123:CNET
+@entity207:Syria
+@entity206:Iran
+@entity221:Facebook
+@entity223:Court
+@entity225:Samsung
+@entity227:Europe
+@entity228:YouTube
+@entity66:Haas

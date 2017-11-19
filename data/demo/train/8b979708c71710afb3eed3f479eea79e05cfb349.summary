@@ -1,0 +1,36 @@
+http://web.archive.org/web/20110422093616id_/http://edition.cnn.com/2010/TECH/social.media/12/14/facebook.relationships.mashable/index.html
+
+-- this is what the world looks like , according to the @entity5 social graph			1
+@entity5 intern @entity6 was interested in the locations of friendships , so he decided to create a visualization of @entity5 connections around the globe			1
+how local are our friends ? where are the highest concentration of friendships ? how do political and geological boundaries affect them ? @entity6 started by using a sample of 10 million friend pairs , correlated them with their current cities and then mapped that data using the longitude and latitude of each city			1
+that was the easy part			2
+creating the right effect to show connecting relationships between thousands of cities proved to be a challenge			1
+@entity6 wrote a fascinating @entity5 note explaining some of the challenges he faced creating his visualization : " i began exploring it in @entity37 , an open - source statistics environment			1
+as a sanity check , i plotted points at some of the latitude and longitude coordinates			2
+to my relief , what i saw was roughly an outline of the world			0
+next i erased the dots and plotted lines between the points			0
+after a few minutes of rendering , a big white blob appeared in the center of the map			0
+some of the outer edges of the blob vaguely resembled the continents , but it was clear that i had too much data to get interesting results just by drawing lines			0
+i thought that making the lines semi-transparent would do the trick , but i quickly realized that my graphing environment could n't handle enough shades of color for it to work the way i wanted			0
+instead i found a way to simulate the effect i wanted			0
+i defined weights for each pair of cities as a function of the euclidean distance between them and the number of friends between them			1
+then i plotted lines between the pairs by weight , so that pairs of cities with the most friendships between them were drawn on top of the others			1
+i used a color ramp from black to blue to white , with each line 's color depending on its weight			0
+i also transformed some of the lines to wrap around the image , rather than spanning more than halfway around the world			0
+" with a few more tweaks , he eventually came up with the amazing visualization you see here			2
+at first glance , it provides some expected data -- the @entity105 has the highest concentration of @entity5 friendships , and @entity108 has the lowest concentration			1
+while most of @entity112 and @entity113 are nowhere to be found , the rest of the world is easily identifiable			0
+what do you think of the visualization ? does anything about it surprise you ? let us know in the comments			2
+
+a @entity5 intern created a visualization of @entity5 connections around the globe
+using a sample of 10 million friend pairs , he correlated them with their current cities
+the @entity105 has the highest concentration of @entity5 friendships while @entity108 has the lowest
+
+@entity0:MASHABLE.com
+@entity6:Butler
+@entity37:R
+@entity5:Facebook
+@entity113:Antarctica
+@entity105:U.S.
+@entity108:Africa
+@entity112:Russia

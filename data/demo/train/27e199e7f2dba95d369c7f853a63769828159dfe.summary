@@ -1,0 +1,53 @@
+http://web.archive.org/web/20140313052659id_/http://www.cnn.com:80/2010/TECH/mobile/08/24/jailbreak.iphone.password.gahran/
+
+-- since the @entity4 declared last month that it 's legal to jailbreak your @entity3 , lots of @entity3 users have been doing just that -- nearly 9 percent of them as of late july			1
+but jailbreaking your @entity3 -- tweaking it to run applications not approved by @entity8 -- is serious business			1
+that 's not just because jailbreaking can void your @entity8 warranty , but because it can put you at risk of data theft , malware or other significant problems			0
+in november , @entity17 reported that a @entity19 hacker proved this point by using port scanning -- using software to probe a network host for open ports -- to find jailbroken phones			0
+from there , he sent unsuspecting users a message that read , ' your @entity3 's been hacked because it 's really insecure ! right now , i can access all your files			1
+' " he then directed his victims to @entity34 and requested € 5 ( about $ 10 ) in exchange for instructions to remove his hack			0
+at least he let his victims know they 'd been hacked			0
+your @entity3 wo n't notify you about that on its own			1
+if you jailbreak your @entity3 , one crucial way to protect yourself is to change the phone 's default passwords			1
+but be forewarned : it 's not a simple process			0
+in the latest episode of the @entity46 , hosts @entity47 and @entity48 discussed this concern			0
+recently both of them jailbroke their iphone 4s			0
+" i 've got ta say , this was not a compelling experience			0
+it was complicated as heck to figure out how to jailbreak the phone and then change the default passwords , " said @entity47 , a longtime tech expert			1
+" once you jailbreak your phone , it 's accessible via laptops			1
+someone can log into your phone and monkey with it			2
+the process for changing the passwords is really quite a production			2
+like a lot of the open - source technology i 've used in past 30 years , this is not something you want to get involved with unless you 're willing to spend the time to learn how to do this safely			0
+" a " root password " is a fundamental part of the geeky @entity81 back - end of the @entity3 's slick operating system			1
+it 's something that non-jailbroken users never have to worry about because @entity8 's walled - garden @entity3 experience prevents this particular kind of incursion			2
+@entity48 explained , " @entity89 on the planet has a root account , and the default password for that account is the same on every iphone on the planet ( ' alpine ' )			1
+" when you jailbreak your phone , sometimes one of the requirements for an app is secure shell ( @entity104 )			2
+that 's the only way you 're opening yourself up to this particular vulnerability			0
+so you do n't absolutely have to change your root password if you do n't install @entity104 protocols -- but it 's a good idea anyway			2
+" @entity47 added : " not only is the default root password the same on every @entity3 , but the default mobile user account password also is the same on every @entity3 ( ' dottie ' )			1
+so you should change them both			0
+" if you venture beyond @entity8 's @entity3 garden walls , you can follow these instructions to change your default passwords from the @entity116			1
+alternatively , @entity117 offers instructions on using the @entity120 mobile site to simplify the jailbreaking process			0
+they note that as of early august , some jailbroken @entity3 users running @entity124 reported problems with the terminal ( a command - line interface that lets you access system - level functions ) , and pointed to a @entity117 discussion forum for instructions on fixing that problem .			2
+
+if you jailbreak your @entity3 , it is more *susceptible* to hackers
+changing the default password on your @entity3 is complicated , but worth the security
+the default root and default mobile user account passwords are the same on every phone
+
+@entity3:iPhone
+@entity17:TUAW
+@entity0:CNN
+@entity34:PayPal
+@entity4:U.S. Copyright Office
+@entity8:Apple
+@entity19:Dutch
+@entity117:TiPb
+@entity116:Just Another iPhone Blog
+@entity46:Boulder Open Podcast
+@entity47:Taylor
+@entity104:SSH
+@entity81:Unix
+@entity89:Every Unix system
+@entity124:iOS4
+@entity48:Sitarzewski
+@entity120:JailbreakMe

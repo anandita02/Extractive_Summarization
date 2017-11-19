@@ -1,0 +1,65 @@
+http://web.archive.org/web/20150530083638id_/http://www.dailymail.co.uk/sciencetech/article-2832990/The-texting-app-land-lot-trouble-Messenger-lets-person-types-hit-send.html
+
+if you are someone who types a furious text message , only to reconsider and edit it before hitting ‘ send , ’ you may be in trouble			0
+the @entity5 app shows everything another person is typing in a text message as they type it			1
+this means that if your friend has the app , they could see the keys you press , including corrections and everything you choose not to send			1
+the words , and any corrections , appear in the message window before they are sent , meaning users can interject mid-conversation , or plan a reply			1
+an @entity30 app is ' coming soon ' the @entity32 firm behind the free @entity19 app claim it is ‘ a first of its kind true real - time communications app ’ that more closely mimics the way people to chat in person			1
+for example , it lets people interject or comment in real - time , without having to wait for the other person to hit send			1
+and , if the recipient already knows a story that the sender is typing , they can tell them so they do n’t waste time finishing the text			1
+elsewhere , the app also means people can have conversations without ever hitting send , making them secure because no data is ever transferred and stored on a network			1
+on the web , sites can determine that a post is being typed by tracking code in the html form element of the post			0
+this form element is made up of html code that controls the boxes users type in to			2
+each time characters are entered into one of these boxes , the app can track the changes in the html code			2
+@entity73 uses this technology , for example , but the social network has stressed it ca n’t see the exact keys pressed , and it does n’t monitor keystrokes			0
+this means the code does n’t reveal what is being typed			0
+however , @entity73 can track when characters and words are typed , how many are typed , and if the typed characters are deleted or abandoned			0
+@entity5 uses @entity85 from @entity19 that monitors html elements in a similar way			2
+for every sentence , @entity88 also has an error checking mechanism to ensure the readability of the sentence			0
+@entity88 's boss @entity93 told @entity94 the app does not monitor any messages that are being sent by the users			1
+only messages that ever go up in database are those that can not be currently delivered , thus waiting for the client device to reconnect , and then it 's delivered and wiped			2
+the app is currently working on the encryption part of the error checking , among other things , to ensure no information will be leaked if it 's intercepted by a third party			1
+@entity5 uses @entity85 from @entity19 that monitors html elements behind the scenes , as users type			1
+for every sentence , @entity88 also has an error checking mechanism to ensure the readability of the sentence			0
+@entity88 's boss @entity93 told @entity94 the app does not monitor any messages that are being sent by the users			1
+only messages that ever go up in database are those that can not be currently delivered , thus waiting for the client device to reconnect , and then it 's delivered and wiped			2
+the app is currently working on the encryption part of the error checking , among other things , to ensure no information will be leaked if it 's intercepted by a third party			1
+the @entity128 - based developers added there is no delay between typing and seeing the words appear in the message window			1
+it calls this ‘ beaming in ’ , and said it gives users the ability to ‘ interrupt , interject , comment , and the like ’			2
+‘ while you are texting inside a bubble , without breaking , you are allowed to backtrack and jump forward at will			0
+‘ also you may delete the whole text altogether , gone from both devices in true real time fashion			1
+’ an @entity30 app is ' coming soon			0
+' a similar app , launched earlier this year called @entity147 , lets users delete messages from other people ’s phones			1
+@entity147 works in a similar way to @entity153 , by automatically deleting messages , photos and videos seconds after they ’ve been viewed			0
+however , unlike @entity153 , @entity147 lets users also delete messages remotely , before they get a chance to read it			2
+@entity73 research in december found that 70 per cent of users regularly write a comment or status , before deciding not to post it			0
+the study found that men are more likely to ' self - censor ' their social network posts , compared to women , and this is especially the case if they have a lot of male friends			2
+the app ( pictured ) also means people can have conversations without ever hitting send , making them secure because no data is transferred and stored on a network			1
+but , it is not known how the app itself tracks what is typed , and how much it stores on its own servers			0
+@entity94 has contacted the firm for more information data scientists , including those at @entity73 , can determine that a status or comment has been typed by tracking code in the html form element of each page			1
+this form element is made up of html code that controls the boxes @entity73 users type in to , including the status update box			0
+each time characters are entered into one of these boxes , scientists can track the changes in the html code			0
+the researchers were also able to track typing in the comment box on statuses , photos and other posts			0
+to be clear , @entity73 ca n’t track the exact keys pressed , and it does n’t monitor keystrokes			0
+this means the code does n’t reveal what is being typed			0
+however , @entity73 can track when characters and words are typed , how many are typed , and if the typed characters are deleted or abandoned .			0
+
+@entity5 shows users what their friends are typing in real time
+the words , and any corrections , appear in the window before they are sent
+this means users can interject mid-conversation , or plan a reply
+in theory , messages never need to be actually sent - only *previewed*
+using the app in this way means no data is sent , *potentially* making messages secure
+@entity94 has contacted the app 's makers to find out more information
+
+@entity30:iOS
+@entity147:Ansa
+@entity5:Beam Messenger
+@entity19:Android
+@entity88:Beam
+@entity32:Californian
+@entity85:Text Watcher
+@entity128:Toronto
+@entity153:Snapchat
+@entity94:MailOnline
+@entity93:Alec Gordon
+@entity73:Facebook

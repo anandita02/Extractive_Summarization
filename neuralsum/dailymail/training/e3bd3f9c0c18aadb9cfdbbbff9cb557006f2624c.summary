@@ -1,0 +1,61 @@
+http://web.archive.org/web/20130521044336id_/http://www.dailymail.co.uk/sciencetech/article-2161063/SpyEye-Zeus-viruses-siphon-10-500-bank-account-sleep.html
+
+by @entity0 published : 07:26 est , 18 june 2012 updated : 08:05 est , 18 june 2012 @entity1 away : the two viruses - @entity3 and @entity4 - are able to take up to £ 10,500 at a time from a bank account two new viruses can steal money from bank accounts and can do so automatically - without any hacker 's supervision , researchers said			1
+the latest variants of the widespread @entity3 and @entity4 programs have already stolen as much as @entity14 ( around £ 10,500 ) at a time from a single account and are in the early stages of deployment , according to investigators at @entity19 , a @entity20 - based security company that has many banks as customers			1
+@entity19 vice president @entity23 said his company 's researchers had seen the new attacks on a dozen financial institutions in @entity28 , the @entity29 and @entity30			2
+@entity32 banks generally have greater technology defenses than those in the @entity35 , and @entity23 said it is ' inevitable ' that the variants will cross the @entity37			1
+the new code has the potential to dramatically escalate the amount being stolen from accounts and a years - old arms race between the banks and criminal groups that are often based in @entity45			1
+@entity23 said : ' this has tremendous implications			0
+this attack toolkit ushers in a new era of bank heists			0
+' like other security companies , @entity19 profits by selling software and services to institutions and consumers worried about online spying and account takeovers			1
+though written and controlled by different groups , @entity3 and @entity4 share the ability to be installed on computers that visit malicious websites or legitimate pages that have been compromised by hackers			1
+both programs are sold in the burgeoning underground hacking economy , where they can be customised or improved with additional modules like those just discovered			2
+the programs already have used a technique called ' web injection ' to generate new entry fields when victims log on to any number of banks or other sensitive websites			2
+instead of seeing a bank ask for an account number and password , for example , a victimised user sees requests for both of those and an atm card number			0
+everything typed in then gets whisked off to the hacker , who later signs in and transfers money to an accomplice 's account			2
+those transfers can be time - consuming , and the hacker has to think about how much can be sent out at once without drawing attention			0
+@entity96 , smaller transfers are preferable but take more time			0
+for the past year or more , some variants have also captured one - time passwords sent from the banks by text messages to client cell phones as an added security measure			1
+but in those cases , a hacker had to be online within 30 or 60 seconds in order to use the one - time password			0
+@entity23 said the new software costs between $ 300 and $ 4,000 on top of basic thieving tools the new software allows the criminal to siphon money out while he sleeps			1
+it could significantly increase the number of hacked accounts and the speed with which they are drained			0
+@entity119 , a senior security researcher with @entity121 unit @entity120 , said thieves ' will be able to extract more money ' with automation			2
+but he also said the landscape might not be transformed by the development , because the main limiting factor for crime groups is the number of accomplices , known as money mules , that they can hire to accept transfers from victim accounts			0
+automation will not lessen the need for mules , @entity119 said			0
+@entity19 spoke online with sellers of the automated transfer modules who were based in @entity140 , @entity141 and @entity142 , where arrests and prosecutions are rare			0
+@entity23 said the new software costs between $ 300 and $ 4,000 on top of the basic thieving tools , with customized jobs costing still more			1
+so far , the company has seen it run only on top of @entity153 's @entity152 operating system , which is by far the most common for personal computers			0
+banks generally make individuals whole for such losses if they are detected quickly			0
+but recent versions of @entity3 and @entity4 can present fake account balances to individual bank customers , so they might not realize their savings are being drained until too late			1
+@entity23 recommended that banks move more toward ' out - of - band ' authentication , such as direct phone calls to confirm online transfers			2
+in the @entity35 , financial regulators last june also called for such checks and urged banks to explore newer technologies to combat @entity172 fraudsters .			1
+
+' @entity3 ' and ' @entity4 ' can transfer money automatically without supervision
+security firm says a dozen @entity32 banks have been hit - and @entity35 is next
+software trades on hacking website for as little as $ 300
+
+@entity23:Kellerman
+@entity20:Japan
+@entity28:Germany
+@entity29:United Kingdom
+@entity14:13,000EU
+@entity153:Microsoft Corp
+@entity152:Windows
+@entity119:Stone-Gross
+@entity3:SpyEye
+@entity1:Hacking
+@entity172:Internet
+@entity4:Zeus
+@entity30:Italy
+@entity32:European
+@entity35:America
+@entity37:Atlantic
+@entity19:Trend Micro
+@entity0:Eddie Wrenn
+@entity96:Multiple
+@entity120:Dell SecureWorks
+@entity121:Dell Inc
+@entity140:Russia
+@entity141:Ukraine
+@entity142:Romania
+@entity45:Eastern Europe

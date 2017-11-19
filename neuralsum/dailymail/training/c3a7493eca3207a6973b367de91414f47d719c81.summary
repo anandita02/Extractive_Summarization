@@ -1,0 +1,66 @@
+http://web.archive.org/web/20150719035054id_/http://www.dailymail.co.uk/sciencetech/article-2961434/Android-malware-makes-calls-sends-messages-phone-switched-OFF.html
+
+many people turn their phone off overnight or when charging , but a new malware could be taking advantage of this power - saving technique			2
+security researchers have spotted a virus that kicks in when the power button on @entity9 phones and tablets is pressed			1
+it makes the phone appear to be switched off but instead the malware is running in the background making calls , sending messages and accessing other files and apps			1
+the malware is installed when the user downloads infected apps			1
+when the power button is pressed , the malware shows a fake dialogue pop - up designed to look like the @entity9 power off menu ( pictured )			1
+the phone then appears to shut down and the malware can make calls , send messages and access other files in theory , once installed and enabled , the app has control of the phone and can perform any task the hacker wants it to			1
+a blog post from the @entity35 - based antivirus firm explained that the malware is installed when the user downloads an infected app from an app store			1
+@entity39 has n’t revealed which apps are carrying the malware and @entity41 has contacted the firm for more information			0
+it ’s likely the apps are installed from third - party app stores rather than @entity48 , due to @entity50 ’s strict policy on malware			2
+the malware is installed when the user downloads infected apps			1
+when the power button is pressed , the malware makes the phone appear to shut down			1
+the malware can then make calls , send messages and access other files and apps			1
+experts said the the only way to know a phone is actually turned off is to remove the battery			0
+the app runs in the background , so is n’t immediately noticeable and wo n’t appear as a rogue app or icon on the homescreen			2
+but , running a scan using an antivirus app will detect and remove the files			2
+however , the @entity72 has featured infected apps in the past , so users are advised to download all apps with caution , and to check reviews and developer details if they are unsure			0
+‘ this malware hijacks the shutting down process of your mobile , so when the user turns the power off button to shut down their mobile , it does n’t really shut down , ’ said the researchers			1
+‘ after pressing the power button , you will see the real shutdown animation , and the phone appears off			1
+although the screen is black , it is still on			0
+‘ while the phone is in this state , the malware can make outgoing calls , take pictures and perform many other tasks without notifying the user			2
+’ the malware does this by hijacking a line of code in the shutting down process and asking for root permission			0
+this gives the hacker permission to access and modify any files , apps and software on the device			0
+once permission is granted , the malware shows a fake dialogue pop - up when the power button is pressed			1
+the malware works by hijacking a line of code in the shutting down process and asking for root permission			0
+this gives the hacker permission to access and modify any files ( pictured ) , apps and software on the device			0
+but , running a scan using an antivirus app will detect and remove the files this is designed to look like the standard @entity9 menu and when the ‘ power off ’ option is selected , the fake animation is shown and the screen goes black			1
+it will continue to make calls and send messages until the phone is switched on and @entity39 said the the only way to know a phone is actually turned off is to remove the battery			1
+the app runs in the background , so is n’t immediately noticeable and wo n’t appear as a rogue app or icon on the homescreen			2
+but , running a scan using an antivirus app will detect and remove the files			2
+the outbreak is said to have originated in @entity149 and appears to only affect phones running older versions of @entity9 - before @entity9 @entity152			1
+@entity153 has come under fire for selling laptops that come pre-installed with a ' horrifically dangerous ' software named @entity157			0
+the @entity157 software appears to affect @entity159 and @entity160 on the @entity153 laptops sold between september 2014 and january 2015 @entity153 has come under fire for selling laptops that come pre-installed with a ' horrifically dangerous ' software named @entity157			0
+the @entity149 computer manufacturer says @entity165 helps users find products online by analysing images and presenting similar , cheaper products			0
+but security analysts claim that what @entity157 actually does is serve intrusive ads , as well as compromise private information such as bank details and passwords			0
+the @entity157 software appears to affect @entity159 and @entity160 on the @entity153 laptops sold between september 2014 and january 2015			0
+users can find out if they are affected by looking at @entity177 ' list of trusted certificates by opening up the @entity179 and searching for ' certificates '			0
+if @entity157 is one of them , the computer may be vulnerable to attack			0
+rather than simply uninstalling the programme , users are advised to back everything up on their systems and install a new operating system .			0
+
+the malware is installed when the user downloads infected @entity9 apps
+when the power button is pressed it makes the phone appear to shut down
+malware shows a ‘ @entity200 ’ message and even a shutdown animation
+it can then take control of the phone to make calls and send messages
+app works in the background , so will not be immediately noticeable
+running an antivirus app will spot and remove the malware
+experts have not revealed which apps the malware is on but said it affects phones and tablets running older versions of @entity9 - before @entity152
+
+@entity160:Google Chrome
+@entity35:Amsterdam
+@entity177:Windows
+@entity165:Superfish
+@entity39:AVG
+@entity48:Google Play
+@entity9:Android
+@entity149:Chinese
+@entity179:Control Panel
+@entity159:Internet Explorer
+@entity50:Google
+@entity41:MailOnline
+@entity153:Lenovo
+@entity152:KitKat
+@entity200:Power Off
+@entity157:Superfish Inc
+@entity72:Play Store

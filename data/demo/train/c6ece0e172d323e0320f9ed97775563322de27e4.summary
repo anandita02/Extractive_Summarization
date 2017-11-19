@@ -1,0 +1,58 @@
+http://web.archive.org/web/20150605003815id_/http://www.cnn.com/2011/11/08/tech/iran-stuxnet/
+
+a report expected this week from the @entity1 has @entity2 abuzz with talk of the potential for a pre-emptive strike on @entity7 's nuclear facilities			1
+@entity9 diplomats have told @entity10 that the report says @entity7 has mastered the critical steps necessary to design and build a nuclear weapon			1
+missiles are not , of course , the only way to launch an attack			0
+@entity7 's nuclear facilities are under siege from cyber attacks			1
+and one , the @entity23 virus , was able to penetrate @entity7 's @entity25 nuclear facility , researchers say			1
+how did it work ? @entity23 was stealthy			1
+the @entity25 computer network is a closed system , separated from any other network or internet access			2
+so , @entity23 infected a third party first , likely a trusted contractor to the @entity25 facility			1
+that contractor may then have unknowingly passed on the virus by plugging in an infected removable drive into the computers inside the @entity25 facility			1
+more importantly , @entity23 was smart			2
+it knew exactly what it was looking for : a specific software called @entity39 used specifically to run the @entity41 controllers operating at @entity25			2
+@entity23 spread through the network undetected			2
+if it did n't find the step 7 software , it left things alone			0
+but once it found its target , @entity23 set to work			2
+first , it effectively hijacked the @entity25 control system , speeding up or slowing down the centrifuges , wearing them out prematurely			2
+as the centrifuges destroyed themselves , @entity23 sent back signals that everything was fine and running smoothly			0
+so , the operators may not have known this was happening until it was too late			0
+so , just how effective was @entity23 ? according to the @entity54 , @entity1 records show that between the end of 2009 and early 2010 about 1,000 centrifuges at @entity25 had to be replaced			1
+@entity23 is the suspected culprit			0
+still , that 's only about one out of every nine centrifuges and , despite a minor dip in production , uranium enrichment continued apace			0
+who created @entity23 is still a mystery			0
+many computer security researchers believe the virus is so complex and sophisticated that it would have needed the resources of a nation state -- or a combination of states -- to produce it			0
+researchers at internet security firm @entity72 say they have identified a new virus called @entity74 that they believe is a successor to @entity23 , although not all security experts agree			1
+" this is not a copycat , " insists @entity77 of @entity72			0
+" whoever created this had access to the same source code as @entity23			0
+" @entity77 says @entity74 is , at this stage , a malware designed simply to spy and collect information from @entity7 's computer systems , but she suspects it may be ultimately intended for sabotage			1
+" it could be that @entity23 did n't entirely achieve what was wanted the first time around , " @entity77 told @entity10			0
+@entity74 was released as late as august 2010 , just after the @entity23 virus had done its damage , stunning many researchers who had not expected to see another virus of the same complexity released so quickly			1
+@entity97 , the @entity98 computer security specialist credited with discovering @entity23 , says it does n't matter who created @entity74			0
+the problem , he says , is that @entity23 , in its bid to stop nuclear proliferation , may have sparked its own arms race			1
+" the first cyberwar weapon is comparable to the first nuclear weapon , " he wrote in a blog post recently			1
+" to build the first nuclear bomb , it took a genius like @entity110 and the resources of the @entity113 project			0
+to copy the design , it requires just a bunch of engineers -- no genius needed .			0
+
+@entity2 abuzz with talk of potential for pre-emptive strike on @entity7 's nuclear facilities
+@entity9 diplomats say @entity1 report says @entity7 able to design and build nuclear weapon
+@entity7 's nuclear facilities have also come under attack from cyber attacks
+one such attack by @entity23 virus able to penetrate @entity7 's @entity25 nuclear facility
+
+@entity2:Israel
+@entity1:IAEA
+@entity7:Iran
+@entity23:Stuxnet
+@entity39:Step 7
+@entity9:Western
+@entity25:Natanz
+@entity110:Oppenheimer
+@entity10:CNN
+@entity113:Manhattan
+@entity41:Siemens
+@entity98:German
+@entity97:Ralph Langner
+@entity74:Duqu
+@entity77:Cox
+@entity54:Institute for Science and International Security
+@entity72:Symantec

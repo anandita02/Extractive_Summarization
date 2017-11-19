@@ -1,0 +1,76 @@
+http://web.archive.org/web/20130420100925id_/http://www.dailymail.co.uk/sciencetech/article-2281775/The-mosh-pit-simulator-heavy-metal-fans-random-movement-molecules-2D-gas-common.html
+
+by @entity0 published : 12:39 est , 20 february 2013 updated : 13:12 est , 20 february 2013 the collective behaviour of moshers at heavy metal rock concerts is similar to the way particles move in a disordered @entity8 gas , new research reveals			1
+physicists at @entity10 in @entity11 , @entity12 , who studied the movements of concert - goers caught up in chaotic - looking mosh pits found they actually follow a certain logic			1
+they say their insights could help to predict how crowds behave in emergencies , and could lead to more effective evacuation strategies			1
+like molecules in a disordered @entity8 gas : revellers clash in the mosh pit as @entity28 heavy metal group @entity26 performs at the @entity30 rock festival in @entity31 in 2009 the @entity10 team 's mosh pit simulator : play around			1
+the buttons above set up interesting initial conditions while the sliders allow you to control the parameters of the model			0
+the keys @entity40 allow you to apply external forces to active moshers			0
+the graphs , as listed from the left , are a time average of the angular momentum , the current angular momentum , and the speed distribution			0
+( source : http://mattbierbaum.github.com/moshpits.js / ) ' the goal of the project was to figure out how humans behave in extreme social conditions , like those found during riots and protests , ' said @entity59 , study co-author , in a blog for the @entity61			1
+' over the years , experiments and computer simulations have helped scientists work out the basic rules of pedestrian traffic moving down the street			0
+' however , we do n't know much about the collective behaviour that emerges from panicked crowds - it 's not exactly ethical to start a riot for the sake of science			1
+' crowds at heavy metal concerts often firm circles called mosh pits where they violently lunge and bounce off one and other with their arms flaying and their legs kicking			1
+' often resulting in injuries , the collective mood is influenced by the combination of loud , fast music ( 130 @entity86 , 350 beats per minute ) , synchronised with bright , flashing lights , and frequent intoxication , ' the study notes			2
+however , while the movements appear to be chaotic and random , mr @entity92 and his colleagues claim that there is actually a logic which enables them to statistically predict the ways in which moshers move			2
+upended at @entity99 : physicists at @entity10 , @entity12 , who studied the movements of concert - goers caught up in mosh pits found they actually follow a certain logic it is a feeling we have all experienced - an irritating song that just will not leave your head			1
+but despite the widely help opinion that only the most infuriating songs get buried in your head , research has suggested we might actually like the songs that push us close to migraines			0
+using songs by artists such as @entity120 , scientists proved that songs people know and like frequently become more intrusive than songs people dislike			0
+psychologists at @entity124 found that if a song continues to play in someone 's head immediately after listening , it is likely to come back as an intrusive thought in the next 24 hours			0
+their findings could explain why some pop songs and tv theme tunes go round in people 's heads , despite finding them annoying			2
+researchers also found songs are more likely to get stuck in your mind during challenging mental activities			2
+inspiration for the study came after mr @entity59 , a graduate student at @entity10 , took his girlfriend to her first heavy metal concert several years ago , where he had a chance to witness the movements of moshers from the outside			1
+' i did n't want to put her in harm 's way , so we stood off to the side , ' he told @entity155			0
+' i 'm usually in the mosh pit , but for the first time i was off to the side and watching			1
+i was amazed at what i saw			0
+' he told @entity160 that as the band played louder and the moshers got more inebriated , he realised there was a ripple - like pattern to the movements caused after one person bumped into another			0
+' the collision went from one side to the other , ' he said , adding it looked as if moshers were following the rules of collective motion			0
+' i had a hard time focusing on the music for the rest of the evening			0
+' to study the phenomenon , mr @entity59 and his colleagues collected their data from mosh pit videos on @entity181 featuring crowds of between 100 and 100,000 people			1
+they corrected for camera shake and distortions in perspective , then used particle image velicometry techniques to measure the collective motion of those involved , @entity184 reported			2
+after analysing their findings , they discovered that the speed distribution of moshing metalheads bears a remarkable resemblance to the movements of molecules in a @entity8 gas at equilibrium			1
+to deepen their understanding of the movements of moshpits , mr @entity92 enlisted the help of fellow grad student @entity205 to build a computer simulation of a mosh pit with a few basic rules			1
+their virtual moshers bounced off each other when they collided , they are able to move independently , and they can follow each other to varying degrees in a behaviour the researchers dubbed ' flocking '			2
+finally , the team added a variable amount of statistical noise to their model , which , mr @entity205 told @entity155 , is ' to mimic the effects of the inebriants that the participants typically use			0
+' they found that they could quite accurately reproduce the characteristics of a mosh pit when the self - propulsion and flocking variables were dominated by noise			1
+on the other hand , when they adjusted the flocking variable to dominate their computer generated moshers ' behaviour , they found their simulation mimicked another phenomenon seen at metal concerts known as a circle pit			2
+the researchers said that although moshers are self - propelled , and the collisions between them dissipative , they move in a similar way to a disordered gas			1
+' these ﬁndings offer strong support for the analogy between mosh pits and gases , ' they concluded in their paper , @entity252 of @entity253 at @entity254 , published on @entity10 's online open - access journal @entity256			1
+mr @entity92 elaborated in his @entity61 article : ' just like moshers bouncing around in a pit , it 's near impossible to tell where molecules of air in a room are going to be in the future			0
+' to deal with this problem , physicists started describing molecular gasses with statistical mechanics over a hundred years ago			0
+as the researchers discovered , mosh pits have the same statistical character , and hence the analogy			2
+' the team behind the research believe that it could have important implications for understanding how crowds behave when they are panicked			1
+' when you have earthquakes or buildings on fire , people tend to panic when they escape			0
+we do n't have a good way of experimentally seeing what 's going on , ' mr @entity59 told @entity155			0
+' by going to these heavy - metal concerts , we 're able to ethically and safely observe how humans behave in these unusual excited states			0
+
+behaviour of metalheads in a mosh pit closely resembles particle movement in a disordered @entity8 gas , study claims
+researchers from @entity10 develop ' mosh pit simulator ' to help them study the phenomena
+the say their findings could help to predict the ways that crowds behave in emergency *situations*
+
+@entity26:Anthrax
+@entity256:arXiv
+@entity28:U.S.
+@entity252:Collective Motion
+@entity253:Moshers
+@entity254:Heavy Metal Concerts
+@entity86:dB
+@entity155:New Scientist
+@entity0:Damien Gayle
+@entity8:2D
+@entity120:Lady Gaga
+@entity59:Silverberg
+@entity31:Knebworth
+@entity30:Sonisphere
+@entity12:New York
+@entity11:Ithaca
+@entity10:Cornell University
+@entity99:Coachella
+@entity124:Western Washington University
+@entity92:Silverman
+@entity205:Bierbaum
+@entity160:NBC News
+@entity181:YouTube
+@entity184:The Physics arXiv Blog
+@entity40:WASD
+@entity61:Huffington Post

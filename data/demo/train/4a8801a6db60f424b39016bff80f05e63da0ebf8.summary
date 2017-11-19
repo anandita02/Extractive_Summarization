@@ -1,0 +1,91 @@
+http://web.archive.org/web/20130618142358id_/http://www.cnn.com/2012/06/27/tech/web/web-app-colorado-fires
+
+-- " uh-oh , i smell smoke again , hang on ... " @entity3 , a 20 - year - old programmer based in @entity4 , @entity5 , walked away from our @entity7 video call to look at the billowing clouds of smoke outside			1
+when he returned : " yeah , it really smells like a bonfire out here now , " he said			2
+as of wednesday afternoon , the @entity15 wildfire has burned more than 15,000 acres in the mountains just outside @entity4			1
+it 's moving fast and doubled in size overnight			2
+several neighborhoods in the western part of the city , and part of the @entity23 , have been evacuated , and homes have been destroyed			2
+@entity3 lives about five miles east of the blaze			0
+an avid @entity27 user , he saw the flood of discussion about the fire there , and he decided to help make it easier to follow the action			0
+monster fire terrorizes a @entity5 city so in about 45 minutes of coding , @entity38 and fellow coder @entity36 built the @entity39			1
+this app collects all tweets containing # @entity42 ( the @entity27 " hashtag " denoting this event ) and displays them in a constantly updated stream			1
+at the top is a photo gallery showing all the photos posted to @entity27 with that hashtag			1
+" we wanted to help in some way , " he said			0
+" we figured we 'd use our tech skills to help , since not many people in @entity4 have the skills to do this quickly			1
+the pictures are the best part so far			0
+" @entity4 has a fairly small tech community , and most people there do n't use social media much , aside from @entity64 , @entity3 said			1
+his online tool is something can can give anyone with web access a window onto the public discourse about this emergency , whether or not they use @entity27			1
+most people think of " apps " as programs that you download and install on a mobile device or computer			0
+but this is a " web app , " delivered entirely through the web browser			1
+" the first time you check it out , be prepared : this fire is moving fast ! " @entity3 said			0
+to make it less overwhelming , he suggests making sure the " retweets enabled " checkbox near the top is unchecked to eliminate duplicate tweets that occur as people interested in the fire copy updates to share with their own @entity27 followers			1
+the information from @entity27 comes from all sorts of places : from official agencies such as the @entity95 to people in and near the city sharing what they 're witnessing with other people around the state and the nation			0
+" part of what makes this compelling is not so much reading every tweet but just getting a real - time sense of how fast this is moving , " he said			0
+@entity3 could add @entity108 photos to this app , since like @entity27 , @entity108 offers an open application programming interface			2
+but he has n't , because not many people in @entity4 appear to be using @entity108 much			1
+however , @entity108 photos bearing the # @entity42 hashtag and cross-posted to @entity27 are appearing in the app. help for wildfire evacuees and first responders " i ca n't add @entity64 posts , of course , because that 's a closed network , " he said			1
+while this web app can be viewed on a computer , it also works fairly well on smartphones and tablets			1
+@entity3 says he will continue to improve the mobile interface wednesday			0
+this project is n't just about @entity4			1
+people in other cities facing wildfires ( or any type of emergency ) can reuse @entity133 's code base , for free , to spin off their own iteration			1
+he 's posted this open source code to @entity137 , a popular resource for programmers who like to share what they create			2
+in fact , @entity133 plans to spin off a version of the web app to track other current wildfires in @entity5 , such as the @entity145 outside @entity146 , which has burned more than 87,000 acres , or the @entity147 burning just outside @entity148			1
+and he 'll explore adding more features , such as a map or integrating photos posted to @entity153			0
+@entity133 is part of the growing movement of " civic coders " : programmers who enjoy building free tools and services to help communities			2
+sometimes these are solo efforts , but often civic coders collaborate , either online through resources like @entity137 or in person at events called " hackathons " where coders self - organize into teams and compete to build software over the course of a day or a weekend			2
+the nonprofit @entity172 initiative is helping accelerate civic coding by fostering collaboration between coders , local or state governments , and community groups to solve problems			2
+some of this happens by deploying teams of coders to help government agencies , but @entity172 also supports civic hackathons around the nation			2
+similarly , last year the @entity185 for @entity186 ( a contest run jointly by the @entity188 and the @entity189 and @entity190 ) awarded more than $ 100,000 in prizes to coders who built apps to " make local public information more personalized , usable , and accessible for all @entity195			1
+" ( see the winners			0
+) @entity3 , who hails from the @entity197 , participated in @entity172 for @entity198 , a civic hackathon for @entity198 , @entity200 , now entering its second year			0
+and the company he works with , @entity202 , is building a platform to make it easier for nonprofits , government agencies and relief organizations to accept online and mobile donations			0
+" we 're currently reaching out to fire departments and other agencies helping to fight the @entity5 wildfires and provide relief services , " he said			0
+" they all are seeking donations right now			0
+" @entity133 also applauds local officials in @entity4 for doing an excellent job with communicating about the @entity218 via social media			1
+" they were on it right away			0
+the declared a hashtag and encouraged people to adopt it			2
+and they 're being responsive to questions on social media and very open with the community there			0
+that makes the content of the @entity231 so much more useful , " he said			0
+@entity232 share their harrowing views of the western wildfires the opinions expressed in this post are solely those of @entity237 .			0
+
+two @entity4 coders built a web app in response to the @entity15 wildfire
+the app collects and streams tweets containing the @entity42 hashtag
+coders have made their code base available to help others track natural *disasters*
+
+@entity23:Air Force Academy
+@entity27:Twitter
+@entity153:Flickr
+@entity137:GitHub
+@entity133:Trencheny
+@entity3:Trencheny
+@entity231:Waldo Canyon Fire Tracker
+@entity7:Skype
+@entity237:Amy Gahran
+@entity5:Colorado
+@entity4:Colorado Springs
+@entity197:San Francisco Bay Area
+@entity195:Americans
+@entity218:Waldo Canyon Fire
+@entity190:James L. Knight Foundation
+@entity232:iReporters
+@entity15:Waldo Canyon
+@entity36:Scott Siebold
+@entity39:Waldo Canyon Wildfire Tracker
+@entity38:Trencheny
+@entity172:Code
+@entity0:CNN
+@entity108:Instagram
+@entity202:Momentum
+@entity95:Colorado Springs Fire Department
+@entity200:California
+@entity145:High Park Fire
+@entity188:Federal Communications Commission
+@entity189:John S.
+@entity146:Fort Collins
+@entity147:Flagstaff Fire
+@entity198:Oakland
+@entity148:Boulder
+@entity185:Apps
+@entity186:Communities Challenge
+@entity42:# WaldoCanyonFire
+@entity64:Facebook

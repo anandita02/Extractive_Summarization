@@ -1,0 +1,48 @@
+http://web.archive.org/web/20150531211436id_/http://www.dailymail.co.uk/sciencetech/article-2742486/Groundbreaking-experiment-allows-brain-brain-communication-internet-people-5-000-miles-apart.html
+
+researchers have successfully carried out the first ' brain to brain ' conversation online - with participants who were 5,000 miles apart			0
+the team transmitted signals over the internet directly from brain sensors			1
+they were able to send the words ' hola ' and ' ciao ' from a location in @entity14 to a location in @entity16			1
+researchers were able to send the words ' hola ' and ' ciao ' from a location in @entity14 ( left ) to a location in @entity16 ( right ) using internet - linked electroencephalogram ( @entity24 ) and robot - assisted and image - guided transcranial magnetic stimulation ( @entity29 ) sensors			1
+in the first - of - its - kind study , an international team of neuroscientists and robotics engineers have demonstrated the viability of direct brain - to - brain communication in humans			2
+' we wanted to find out if one could communicate directly between two people by reading out the brain activity from one person and injecting brain activity into the second person , and do so across great physical distances by leveraging existing communication pathways , ' said @entity45 , of the @entity46 ( @entity46 ) and professor of neurology at @entity48			2
+' one such pathway is , of course , the internet , so our question became , could we develop an experiment that would bypass the talking or typing part of internet and establish direct brain - to - brain communication between subjects located far away from each other in @entity14 and @entity16 ? '' recently published in @entity60 the highly novel findings describe the successful transmission of information via the internet between the intact scalps of two human subjects – located 5,000 miles apart			1
+researchers using internet - linked electroencephalogram ( @entity24 ) and robot - assisted and image - guided transcranial magnetic stimulation ( @entity29 ) technologies			0
+four healthy participants , aged 28 to 50 , participated in the study			0
+one of the four subjects was assigned to the brain - computer interface ( @entity78 ) branch and was the sender of the words ; the other three were assigned to the computer - brain interface ( @entity84 ) branch of the experiments and received the messages and had to understand them			1
+using @entity24 , the research team first translated the greetings ' hola ' and ' ciao ' into binary code and then emailed the results from @entity14 to @entity16			1
+there a computer - brain interface transmitted the message to the receiver 's brain through noninvasive brain stimulation			2
+the subjects experienced this as phosphenes , flashes of light in their peripheral vision			1
+the light appeared in numerical sequences that enabled the receiver to decode the information in the message , and while the subjects did not report feeling anything , they did correctly receive the greetings			0
+' by using advanced precision neuro - technologies including wireless eeg and robotized @entity29 , we were able to directly and noninvasively transmit a thought from one person to another , without them having to speak or write , ' says @entity45			0
+' this in itself is a remarkable step in human communication , but being able to do so across a distance of thousands of miles is a critically important proof - of - principle for the development of brain - to - brain communications			1
+we believe these experiments represent an important first step in exploring the feasibility of complementing or bypassing traditional language - based or motor - based communication			0
+' previous studies on @entity24 - based brain - computer interaction ( @entity78 ) have typically made use of communication between a human brain and computer			2
+in these studies , electrodes attached to a person 's scalp record electrical currents in the brain as a person realizes an action - thought , such as consciously thinking about moving the arm or leg			0
+the computer then interprets that signal and translates it to a control output , such as a robot or wheelchair			0
+the hotspot for brain communications : this image shows the area of the brain the researchers were targeting with to trigger phosphenes , flashes of light that appeared in subjects peripheral vision			1
+but , in this new study , the research team added a second human brain on the other end of the system			2
+four healthy participants , aged 28 to 50 , participated in the study			0
+one of the four subjects was assigned to the brain - computer interface ( @entity78 ) branch and was the sender of the words ; the other three were assigned to the computer - brain interface ( @entity84 ) branch of the experiments and received the messages and had to understand them			2
+using @entity24 , the research team first translated the greetings ' hola ' and ' ciao ' into binary code and then emailed the results from @entity14 to @entity16			1
+there a computer - brain interface transmitted the message to the receiver 's brain through noninvasive brain stimulation			0
+the subjects experienced this as phosphenes , flashes of light in their peripheral vision			1
+the light appeared in numerical sequences that enabled the receiver to decode the information in the message , and while the subjects did not report feeling anything , they did correctly receive the greetings			0
+a second similar experiment was conducted between individuals in @entity208 and @entity16 , with the end result a total error rate of just 15 percent , 11 percent on the decoding end and five percent on the initial coding side .			0
+
+team transmitted signals over the internet directly from brain sensors
+were able to send the words ' hola ' and ' ciao ' from @entity14 to @entity16
+subjects saw messages as flashes of light in their peripheral vision
+results described as ' remarkable step in human communication '
+
+@entity16:France
+@entity14:India
+@entity24:EEG
+@entity29:TMS
+@entity45:Pascual-Leone
+@entity46:BIDMC
+@entity208:Spain
+@entity84:CBI
+@entity78:BCI
+@entity48:Harvard Medical School
+@entity60:Plos One

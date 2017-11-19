@@ -1,0 +1,48 @@
+http://web.archive.org/web/20150724235920id_/http://www.dailymail.co.uk/sciencetech/article-3049060/Are-risk-Bug-apps-including-Uber-Microsoft-s-OneDrive-leaving-MILLIONS-users-vulnerable-hackers.html
+
+if you 're an @entity1 or @entity2 owner , your encrypted passwords , bank details and other private details may be at risk from hackers			1
+estimates suggest around 1,000 @entity10 apps are vulnerable to a flaw in connectivity software from @entity13			1
+this includes @entity15 , @entity16 's @entity17 by @entity18 and the flaw leaves any information , even if its sent over a seemingly secure @entity22 connection , potentially open to hackers			1
+search for apps below estimates from security researchers suggest around 1,000 @entity10 apps are vulnerable to a flaw in connectivity software from @entity13			1
+this includes @entity15 , @entity16 's @entity17 by @entity18			1
+use the tool above to see if your favourite apps are vulnerable to the flaw it was first reported at the end of last month by security researchers @entity37 and @entity38 and specifically applies to version 2.5.1 of @entity13			2
+the flaw was active between 24 january until it was flagged up on 25 march			0
+the day the flaw was announced , and subsequently patched , there were said to be 20,000 @entity10 apps using the @entity13 library and that were updated or released on the @entity46 after the flawed code was added			2
+not all apps and developers use @entity13 , and figures suggest the source code library features on around 100,000 apps in total			2
+the flaw was first reported at the end of last month by security researchers @entity37 and @entity38 and specifically applies to version 2.5.1 of @entity13			0
+the @entity15 app is shown left and its vulnerability report , taken from @entity58 's online tool is shown right the security researchers are asking readers to highlight any apps still at risk in the comments on its blog post			1
+at the time of writing , @entity16 's @entity17 ( vulnerability report is pictured ) is still at risk , as is @entity68 and @entity69 the flaw was first reported at the end of last month by security researchers @entity37 and @entity38 and specifically applies to version 2.5.1			1
+the flaw was active between 24 january until it was flagged up in 25 march			0
+the day the flaw was announced , and subsequently patched , there were said to be 20,000 @entity10 apps using the @entity13 library and that were updated or released on the @entity46 after the flawed code was added			2
+within the 20,000 potentially vulnerable apps , security experts at @entity58 found that 55 per cent were running version 2.5.0 older			2
+some 40 per cent were not using the section of the library that applied to secure connections , leaving 5 per cent , or around 1,000 apps , at risk			0
+within the 20,000 potentially vulnerable apps , security experts at @entity58 found that 55 per cent were running version 2.5.0 older			0
+some 40 per cent were not using the section of the library that applied to secure connections , leaving 5 per cent , or around 1,000 apps , at risk			0
+@entity58 has continued to monitor these apps and created a search tool to let developers - and phone users - check to see if their apps and devices are at risk			1
+the security researchers are asking readers to highlight any apps still at risk in the comments on its blog post			0
+at the time of writing , @entity16 's @entity17 is still at risk , as is @entity15 , @entity68 and @entity69			1
+' it amazes us that an open - source library that introduced a security flaw for only six weeks exposed millions of users to attack , ' said @entity58 in the post			0
+' as apps continue to be patched and released , we 'll keep you informed as to how quickly developers are addressing this major flaw			0
+' we 've already seen some good uptake of the fixed 2.5.2 version in the latest versions of vulnerable apps - kudos to @entity116 for quickest patch - but some are still in the @entity46 review queue			0
+
+estimates suggest around 1,000 @entity1 and @entity2 apps are vulnerable
+*examples* include @entity15 , @entity16 's @entity17 by @entity18
+the flaw is with software called @entity13 used by developers
+@entity58 has released a search tool to see if your phone is at risk
+
+@entity17:OneDrive and Movies
+@entity2:iPad
+@entity1:iPhone
+@entity13:AFNetworking
+@entity37:Simone Bovi
+@entity16:Microsoft
+@entity38:Mauro Gentile
+@entity10:iOS
+@entity15:Uber
+@entity22:Https
+@entity18:Flixster
+@entity116:Yahoo
+@entity46:App Store
+@entity68:Citrix OpenVoice Audio Conferencing
+@entity69:Alibaba.com
+@entity58:SourceDNA

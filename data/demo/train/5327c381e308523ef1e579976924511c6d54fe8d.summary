@@ -1,0 +1,81 @@
+http://web.archive.org/web/20140619205215id_/http://edition.cnn.com:80/2014/04/07/opinion/abend-flight-370-disappearing-aircraft/index.html?
+
+-- if the pings reported by the @entity3 and @entity4 turn out to be from @entity6 's data recorders , we may be on the road to finding the plane and solving the mystery of its disappearance			1
+but even if that is the case , we 'll need to resolve a larger issue : incomprehensible as it might seem to the flying public , it is almost equally perplexing to airline pilots that a 650,000 pound airplane can disappear with barely a trace			1
+considering that the 777 is one of the most sophisticated and highly regarded airliners in the world , it does n't make sense			0
+nor does it make sense that in this information overload world of cell phones , @entity30 , and @entity31 , that communication could break down to such a degree			1
+so , how does one explain this anomaly ? more importantly , how does one prevent a @entity6 mystery from happening again ? first , a basic understanding of airspace is required from the standpoint of radar and communication			1
+in most parts of the world , radar is available and operating to track both civilian and military airplanes			1
+primary radar sends a signal from a ground - based station using that big , screen - like rotating antenna that one sees at the local airport			1
+the signal bounces back from the airplane and back to the antenna , " painting " a dot on an air traffic controller 's screen			2
+with the use of an on - board transponder , the radar signal " interrogates " the airplane by use of a four - digit discrete code that gives it a specific identity			1
+the code is assigned by air traffic control			0
+in addition to the flight number , or tail number , an airspeed is displayed on the controller 's green scope			0
+all airline flights are issued a discrete code			0
+for the most part , a transponder code remains the same throughout an entire flight			0
+the code sometimes changes from airspace to airspace or country to country , but it has to be re-assigned by air traffic control and not by the discretion of a pilot , unless an emergency is declared			2
+communication with the air traffic control facility that is tracking the transponder code is normally required			1
+typically , communication is in the form of direct radio contact			1
+with some exceptions , radio contact with air traffic control is always available when a flight begins the landing phase of the trip			2
+but in remote parts of the world , especially over water , no ground - base radar facility exists			2
+radio communication also has distance limitations			1
+as an example , portions of @entity105 have no radar coverage			2
+portions of that continent have gaps and poor quality radio communication facilities , especially between countries or airspace			1
+this was mostly likely the situation in the corner of the world flown by @entity6			1
+it would be understood for pilots and controllers experienced with the route to be aware of such gaps in radar coverage and communication			1
+no alarm bells would be immediately sounded			0
+after a period of time when the flight failed to call at the expected point , the controller would attempt contact on the assigned frequency			0
+if that attempt failed , the controller would attempt contact on the emergency frequency monitored by all aircraft			0
+and if that contact was unsuccessful , the controller would use an airplane near the lost flight 's route as a " relay			2
+" this was alleged to have been done through a flight bound for @entity146 , @entity147			0
+the @entity146 airplane was approximately 30 minutes ahead of @entity6			1
+the pilots indicated that all they received was an unintelligible reply that they could n't attribute to @entity6			1
+the result would not have been untypical considering the distance between airplanes			0
+so , now what ? pilot : why @entity6 may never be found well , those of you who have been following the story have heard about the @entity159 , the automatic communication and reporting system , on board			1
+yes , the @entity159 should have functioned by using either a dedicated radio frequency or a satellite signal to automatically send position data , among other parameters			2
+the amount of parameters is dictated by the program subscribed to by the airline			0
+for whatever reason , the unit failed , only performing a " handshake " with the satellite			0
+but another system on board could have saved the day , or at least more accurately pinpointed the position for air traffic control			2
+what is the system ? it 's called , @entity182 , short for automatic dependent surveillance - broadcast			2
+in contrast to radar , the airplane sends its own signal to the satellite , which returns the signal to a ground base station , which transforms it to a target display on a controller 's screen			1
+this system is already in use , and will be completely mandated for all of the @entity198 tracks between @entity199 and @entity200			1
+even over the desolation of the @entity198 , an airplane can never be lost			1
+@entity182 will be required for all airplanes operating in the continental @entity204 by 2020			0
+the flaw is that each air traffic control facility has to be equipped with the ads - b system for it to function			2
+and the flaw in @entity159 is that the system will not report if it malfunctions			2
+to the best of my knowledge , the @entity159 system is not connected directly to the battery , which would maintain its operation during a major electrical failure			2
+what 's the difference between @entity159 and @entity182 ? simply stated , @entity182 is an air traffic control function			0
+@entity159 is an airline company function , offering a variety of optional downloadable data parameters for dispatch and maintenance purposes			0
+so , do we require these systems to prevent another airplane disappearance ? my view is yes			1
+although many countries are adapting an ads - b system , mandating it all over the globe would be a difficult process			0
+most airlines have an @entity159 system but it would require modifications to re-wire into an emergency ( electrical ) bus			1
+and it would require airlines to subscribe to the higher level of data downloading			0
+the technology for streaming aircraft data via a satellite has been discussed in the wake of this tragedy , but it appears bandwidth would have to be increased			0
+the issue of data security would also have to be addressed			0
+many folks have suggested modifications to the black boxes			0
+but the black boxes are after - the - fact technology			0
+let 's fix the problem before it happens			0
+the objective of a new regulation should be to prevent a similar situation from occurring again , not to find easier methods to pick up the pieces			0
+and in this circumstance , the objective is to never let an airplane disappear again .			1
+
+how can a 650,000 pound airplane disappear for weeks ?
+pilot @entity271 says there are gaps in radar , radio communication systems
+he says a new system will ensure tracking of planes across the @entity198
+@entity271 says that system , other modifications , needed to prevent repeat of @entity6 *mytery*
+
+@entity3:Chinese
+@entity30:Twitter
+@entity146:Narita
+@entity0:CNN
+@entity6:Flight 370
+@entity199:North America
+@entity4:Australians
+@entity182:ADS-B
+@entity198:Atlantic
+@entity204:United States
+@entity159:ACARS
+@entity147:Japan
+@entity105:South America
+@entity200:Europe
+@entity31:Facebook
+@entity271:Abend

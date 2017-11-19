@@ -1,0 +1,65 @@
+http://web.archive.org/web/20150421071346id_/http://www.dailymail.co.uk/sciencetech/article-2833691/US-government-issues-warning-Apple-users-iOS-bug-lead-rogue-apps-steal-user-data.html
+
+the @entity1 government has warned @entity3 and @entity4 users to be on the alert for hackers who may exploit a vulnerability in @entity9 that would enable them to steal sensitive data			1
+cybersecurity firm @entity12 says the bug enables hackers to access their devices by persuading users to install malicious applications with tainted text messages , emails and web links			1
+network security company , @entity12 disclosed the vulnerability behind the ' @entity54 ' earlier this week , saying it had been exploited to launch a campaign dubbed ' @entity61 ' and that more attacks could follow			0
+hackers could potentially steal login credentials , access sensitive data stored on @entity9 devices and remotely monitor activity on those devices , the government said			2
+such attacks could be avoided if @entity4 and @entity3 users only installed apps from @entity34 's @entity33 or from their own organizations , it said			1
+users should not click ' install ' from pop - ups when surfing the web			1
+if @entity9 flashes a warning that says ' @entity45 , ' users should click on ' @entity47 ' and immediately uninstall the app , the bulletin said			2
+if installed , the malicious application can then be used to replace genuine , trusted apps that were installed through @entity34 's @entity33 , including email and banking programs , with malicious software through a technique that @entity12 has dubbed ' @entity54			1
+' these attacks can be used to steal banking and email login credentials or other sensitive data , according to @entity12 , which is well - regarded in cybersecurity circles for its research			2
+' it is a very powerful vulnerability and it is easy to exploit , ' @entity12 senior staff research scientist @entity94 said in an interview			2
+@entity94 said that @entity12 disclosed the vulnerability to @entity34 in july and that representatives with the company have said they were working to fix the bug			1
+an @entity34 spokesman told @entity103 : ' we designed @entity105 and @entity9 with built - in security safeguards to help protect customers and warn them before installing potentially malicious software			1
+' we ’re not aware of any customers that have actually been affected by this attack			0
+' we encourage customers to only download from trusted sources like the @entity33 and to pay attention to any warnings as they download apps			1
+' enterprise users installing custom apps should install apps from their company ’s secure website			1
+' more information is available from the firm 's support page			0
+news of the vulnerability began to leak out in october on specialized web forums where security experts and hackers alike discuss information on @entity34 bugs , @entity94 said @entity94 said that @entity12 disclosed the vulnerability to @entity133 and that representatives with the company have said theywere working to fix the bug			2
+last week researchers warned of a major threat called @entity61			0
+@entity61 monitors @entity9 devices , including ipods , iphones and @entity4 , connected to a @entity141 via usb			0
+the virus begins by infecting the @entity145 software , through malicious files or links			0
+when a device is connected to this infected @entity141 , the malware automatically installs malicious apps onto the phone or tablet			2
+the researchers said this malware combines a number of techniques to successfully ' realise a new brand of threat to all @entity9 devices '			0
+the experts suggest @entity9 and @entity141 owners only download apps from the official @entity34 app store , and that they make sure to keep their software up to date			1
+@entity94 said that @entity12 decided to go public with its findings after @entity167 last week uncovered the first campaign to exploit the vulnerability , a new family of malicious software known as @entity61 that infects both @entity141 computers and @entity9			2
+@entity12 does not know of other attacks that exploit the bug , @entity94 said			0
+' currently @entity61 is the only one , but we will see more , ' he said			0
+@entity12 advises @entity9 users to refrain from install apps from sources other than @entity34 's official @entity33 and to not click ' install ' on a pop - up from a third - party web page			1
+the security firm said it verified this vulnerability on @entity185 , 7.1.2 , 8.0 , 8.1 and 8.1.1 beta , for both jailbroken and non-jailbroken devices			0
+the firm used the exploit to replace @entity191 's @entity190 app with a rogue version			1
+' in one of our experiments , we used an in - house app with a bundle identifier ' @entity198 ' with a title ' @entity200 '			0
+' we signed this app using an enterprise certificate			0
+when we installed this app from a website , it replaced the original @entity190 app on the phone			0
+
+' *masque* attack ' can replace real apps with malicious version that *siphon* off data
+can only be loaded if users *choose* to install from outside @entity33
+@entity34 says no users have been hit by exploit
+
+@entity133:Applein July
+@entity34:Apple
+@entity3:iPhone
+@entity1:U.S.
+@entity200:New Flappy Bird
+@entity4:iPads
+@entity9:iOS
+@entity191:Google
+@entity190:Gmail
+@entity57:Computer Emergency Readiness Teams
+@entity56:National Cybersecurity and Communications Integration Center
+@entity54:Masque Attack
+@entity33:Apple App Store
+@entity12:FireEye
+@entity103:MailOnline
+@entity105:OS X
+@entity94:Wei
+@entity167:Palo Alto Networks Inc
+@entity145:Mac OS
+@entity141:Mac
+@entity198:com.google.Gmail
+@entity185:iOS 7.1.1
+@entity45:Untrusted App Developer
+@entity46:Figure 3
+@entity47:Do n't Trust
+@entity61:WireLurker

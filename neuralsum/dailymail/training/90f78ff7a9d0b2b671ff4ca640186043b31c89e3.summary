@@ -1,0 +1,54 @@
+http://web.archive.org/web/20150719074627id_/http://www.dailymail.co.uk/sciencetech/article-2962390/Could-phone-s-BATTERY-let-spies-track-Changes-power-pinpoint-location-90-accuracy.html
+
+you might think twice before allowing a mobile app to have access to your location data			2
+but it ’s not just apps you need to worry about – hackers can now track your every move through your phone ’s power consumption			1
+unlike gps or @entity13 location tracking , power data is freely available to any installed app allowing anyone with the know - how ti track a phone location to 90 per cent accuracy			2
+many of us think twice before allowing a mobile app to have access to our location data.but it ’s not just apps we need to worry about – hackers can now track our every move through our phone ’s power consumption researchers at @entity29 and @entity31 's defence research group , @entity32 , have named their technique ' @entity33 ' , according to a report by @entity36			1
+the technique works because a phone 's transmission requires more power to connect with a cell tower that is farther away			1
+it also requires more power when obstacles such as block its signal			2
+this means that temporary power drains , such as a phone call , will help highlight the type of environment the mobile phone user is in			1
+it works because a phone 's transmission requires more power to connect with a cell tower that is farther away			1
+it also requires more power when obstacles such as block its signal			2
+this means that temporary power drains , such as a phone call , will help highlight the type of environment the mobile phone user is in			1
+' a sufficiently long power measurement ( several minutes ) enables the learning algorithm to ' see ' through the noise , ' the researchers write			2
+' we show that measuring the phone 's aggregate power consumption over time completely reveals the phone 's location and movement			1
+' the researchers collected power data from @entity75 phones as they drove around @entity77 's @entity76 and the @entity31 city of @entity79			1
+then they compared their data with the power consumption of an @entity83 handset as it repeatedly travelled through one of those routes			1
+they were able to guess which route it was nine out of ten times			0
+someday , scientists claim spies could use @entity33 to track targets , or apps could use its location tracking for advertising purposes the technique only works if the person being spied on has travelled that route before , and hackers have measured how power consumption changes along that route			1
+if they do n't know your routine , that accuracy of location drop from 90 per cent to about 60 per cent			0
+someday , the scientists claim spies could use @entity33 to track targets , or apps could use its location tracking for advertising purposes			1
+' you could install an application like @entity116 that communicates over the network but does n't ask for any location permissions , ' @entity113 , one of the @entity29 researchers told @entity36			0
+' it gathers information and sends it back to me to track you in real time , to understand what routes you 've taken when you drove your car or to know exactly where you are on the route			0
+' last year the same group found that they could use the gyroscope in a phone as a basic microphone			0
+the ' gyrophone ' could recognise spoken digits and distinguish between male and female voices			0
+millions of people are being spied on by free apps they have installed on their mobile phones , security experts have warned			2
+many ' flashlight apps ' which allow a device to be used as a torch also secretly record the most sensitive personal information			0
+this may include the location of the phone , details of its owner and their contacts , and even the content of text messages			0
+the data is then transmitted to market research companies and advertising agencies to track user 's shopping habits , experts claim			0
+but it is also suspected that criminal gangs , hackers and identity thieves have developed torch apps of their own to obtain personal data about consumers which could give them access to their bank accounts			0
+the most popular flashlight apps for @entity75 smartphones have been downloaded tens of millions of times			0
+they include the @entity172 , the @entity173 and the @entity174 + led .			0
+
+technique , *dubbed* @entity33 , was created by @entity178 and @entity31 scientists
+it works based on the fact that power changes when a cell tower is close
+calls can help highlight type of environment the mobile phone user is in
+it only works if a person being spied on has travelled route before , and hackers have measured how power consumption changes on that route
+
+@entity31:Israeli
+@entity33:PowerSpy
+@entity32:Rafael
+@entity13:Wi-Fi
+@entity174:Tiny Flashlight
+@entity36:Wired
+@entity178:US
+@entity29:Stanford
+@entity173:Brightest Flashlight Free
+@entity116:Angry Birds
+@entity83:LG Nexus 4
+@entity79:Haifa
+@entity75:Android
+@entity113:Yan Michalevski
+@entity77:California
+@entity76:Bay Area
+@entity172:Super-Bright LED Flashlight

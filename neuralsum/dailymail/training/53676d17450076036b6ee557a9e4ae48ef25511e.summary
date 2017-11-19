@@ -1,0 +1,72 @@
+http://web.archive.org/web/20140527000158id_/http://www.dailymail.co.uk/sciencetech/article-2635289/The-messenger-thats-UNHACKABLE-Engineers-create-worlds-secure-communication-app-broken-quantum-computer.html
+
+by @entity0 the privacy of instant messages has become a hot topic in recent months with the spotlight being shone on popular services like @entity6 , @entity7 and @entity8			1
+so it ’s timely that @entity10 has announced the launch of @entity12 - an app for @entity15 devices based on the company ’s own ‘ never - the - same ’ ( @entity18 ) encryption			1
+@entity12 is essentially an instant messenger with a twist - its encryption system has never been broken , and the company even claims future quantum computers will not be able to break it			1
+@entity10 has unveiled their @entity26 app , which they claim is the world ’s first ‘ quantum - proof ’ messenger			1
+users are in complete control of their messages and can apparently delete them remotely if necessary ( left ) , while only messages can only be read by approved contacts ( right ) designed to make communications between people and businesses as safe , secure and private as possible , @entity18 protects data using the @entity41 , the strongest currently known			1
+@entity42 is an encryption algorithm developed in 1978 by mathematician @entity42 that has never been broken - even using techniques designed for the new era of quantum computing			1
+@entity12 allows users to share and delete encrypted messages , voice , video and images as they desire , whilst the application itself holds no personal information on users			1
+as a result , @entity10 said users can have the utmost confidence that their private communications remain just that			1
+‘ the ongoing @entity63 revelations have brought home just how easily accessible our personal information is to the @entity67 or other groups , ’ said @entity60 , co-founder and ceo of @entity10			2
+‘ yet most people are still handing over information to data miners , spammers and criminals without understanding what they are doing			0
+’ ‘ people need to take back control of their data : even the smallest amount of personal information can compromise your privacy and security			0
+‘ modern communication tools simply are n’t built with this as a priority and so make compromises in order to allow communication			0
+‘ our aim with @entity12 is to place end - to - end security at the heart of the application			2
+’ minimal user information most communication tools require users to share a large amount of personal information			2
+@entity12 only stores a one - way encrypted value of the user ’s phone number , which can not be reconstructed , plus an encrypted user - supplied nickname and pseudo @entity104 image			2
+this makes the user ’s identity impossible to determine			0
+user - defined passwords @entity12 allows users to set their own master password to sign up to the service , as well as a five - digit alphanumeric pin			2
+@entity113 does not even store the master password in the app , meaning that users have complete control over their own security			2
+video and @entity120 authentication to ensure a message recipient is who they claim to be , @entity12 uses @entity10 ’s patented man at @entity125 ( mate ) authentication			1
+by providing a video and audio authentication message , users can be certain of each others ’ identity			0
+locker to guarantee important information is n’t lost , @entity12 includes a secure locker where users can store information that they want to guarantee is kept safe and private			1
+complete control over messages as well as sending , users can remotely delete messages , whether manually or after a particular length of time			1
+users can also be sent an acknowledgement , to provide a guarantee that crucial messages have been seen and read			2
+user controlled you can remote - delete your own messages and have full control over your own passwords , meaning nobody can share dodgy holiday snaps or drunk texts except you			1
+data mining - proof ' a quite frankly terrifying amount of information is out there on you for anyone who wants to grab it ; and apps like @entity8 and @entity7 do n’t help by hoovering up your contact details and passwords to store , ' said the design team			0
+' @entity12 stores nothing on you - not even your phone number , messages or password - meaning it could n’t share the details around even if it wanted to			1
+' secure ' instead of making compromises and taking shortcuts to make chatting that little bit easier , @entity12 has been designed the hard way to be totally secure from the ground up			2
+' its technology has been thoroughly tested and is future - proofed against upcoming methods that can break security wide open			0
+' current encryption tools are facing a major threat from the ongoing evolution of quantum computing , which will make breaking even highly sophisticated algorithms simple and immediate			0
+most of the existing encryption standards have already been broken in theory , with only the it horsepower needed to actually run these processes preventing widespread attacks			0
+quantum computing provides all the horsepower such techniques need , meaning that these standards will be wide open			0
+@entity12 is the first product to be based on @entity10 ’s own patented @entity18 encryption that they claim is invulnerable to quantum computing			1
+to avoid any possible attacker detecting patterns in a user ’s messages , @entity18 randomises messages ’ appearance			0
+regardless of content , every time a user encrypts the same message , the output will be completely different , making messages incomprehensible to everyone except the intended recipient			0
+as a result , @entity12 is claimed to be as future - proof as it ’s possible to be			0
+within the app users can set messages to ' self - destruct ' ( left ) so they delete themselves after a certain amount of time , while a variety of symbols ( right ) tell you the status of your message			1
+like other apps users can also embed videos , videos and voice ‘ even if an application or service claims to be secure , the data it holds still represents a risk , ’ continued @entity60			0
+‘ for example , if an application stores personal details then a security breach can put all users at risk			0
+‘ apart from having zero knowledge of any message contents , @entity10 vows not to obtain , store or share any personal details or password information from @entity26 users : it is our belief that ultimately your security should be in your hands , not ours			1
+‘ since @entity10 ’s business model is based around selling solutions to enterprises rather than data mining , there is no need for us to hold any of this information			0
+‘ quite simply , if we can not guarantee this trust between us and our users , then all of our claims about the security of @entity26 itself are worthless			0
+’ as well as consumers and workers using @entity265 to send secure , private messages , @entity10 said they can provide custom applications to suit specific enterprise needs			1
+for example the legal , healthcare and financial services industries all have a need to support confidential , secure messaging across and between businesses .			0
+
+@entity10 has launched an app with an advanced encryption algorithm
+the instant messenger known as @entity12 promises to be safe and private
+it uses the strongest *cryptosystem* currently known , called @entity284
+@entity12 holds no personal info and users can remotely delete messages
+this means ' nobody can share dodgy holiday snaps or drunk texts except you ' according to the company
+
+@entity15:iOS
+@entity0:Jonathan O'Callaghan
+@entity7:Snapchat
+@entity6:Facebook
+@entity26:PQChat
+@entity10:SRD Wireless
+@entity8:WhatsApp
+@entity60:Cheng
+@entity18:NTS
+@entity104:ID
+@entity41:McEliece cryptosystem
+@entity42:Robert McEliece
+@entity284:McEliece
+@entity265:PQChat
+@entity67:NSA
+@entity113:PQChat
+@entity125:The End
+@entity63:Snowden
+@entity120:Voice
+@entity12:PQChat

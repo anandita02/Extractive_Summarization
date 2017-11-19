@@ -1,0 +1,122 @@
+http://web.archive.org/web/20150421061631id_/http://www.cnn.com/2012/02/17/tech/web/computer-virus-syria/
+
+in @entity3 's cyberwar , the regime 's supporters have deployed a new weapon against opposition activists -- computer viruses that spy on them , according to an it specialist from a @entity3 opposition group and a former international aid worker whose computer was infected			1
+a @entity12 - based antivirus software maker , which analyzed one of the viruses at @entity16 's request , said that it was recently written for a specific cyberespionage campaign and that it passes information it robs from computers to a server at a government - owned telecommunications company in @entity3			1
+supporters of dictator @entity23 first steal the identities of opposition activists , then impersonate them in online chats , said software engineer @entity26			1
+they gain the trust of other users , pass out trojan horse viruses and encourage people to open them			1
+once on the victim 's computer , the malware sends information out to third parties			1
+inside @entity3 : @entity37 , supplies run low in bunker @entity26 is an it security " go - to - guy " for opposition activists			1
+he resides outside of @entity3 for his own safety			1
+since december , he has heard from dozens of opposition members who say their computers were infected			1
+two of them recently passed actual viruses to @entity26 and a colleague with whom he works			1
+" we have two malwares -- first one is really complex , " @entity26 said via @entity50 chat			2
+" it can hide itself more			2
+" the @entity12 analysis of one of the viruses -- the simpler one -- would appear to corroborate the time of its launch around the start of the year			1
+the virus has two parts , said @entity63 , principal security response manager at @entity64 , known to consumers for its @entity67 antivirus software			1
+he said one of them points to december 6 and the other to january 16			2
+@entity63 has dubbed the simpler virus " backdoor.breut			1
+" it was the more complex virus that the former aid worker unwittingly downloaded during a chat			2
+since she travels to @entity3 , she has requested that @entity16 not name her for security reasons and instead refer to her as " @entity77			1
+" in one @entity3 town , full - throated cries of defiance to get a picture of the humanitarian needs on the ground in @entity3 , " @entity77 " contacted opposition members via the @entity85			1
+in january , she received a call via @entity50 from someone she believed was a regime opponent			2
+it was an imposter and a regime supporter , she claims			1
+" they called me actually and pretended that it 's him -- this activist that i did n't know , because i 'd been talking to him only two times and only in writing			0
+" days later , other opposition members told @entity77 and @entity26 that the activist she thought she had spoken with was in detention			2
+activists accuse government forces of coercing him to reveal his user name and identity and of then going online to impersonate him			1
+@entity26 says additional activists , who say they were detained and released , tell of being forced to turn over their passwords to @entity3 authorities			1
+@entity16 can not independently confirm the accusations , because the @entity3 government strictly limits international media coverage within its borders			1
+calls for @entity3 government comment to a spokeswoman for @entity23 on friday were not answered or did not go through			1
+friday is the weekly special day of prayer in the @entity117 world			0
+the man chatting with @entity77 via @entity50 passed her a file			0
+she recalled what he said to her to coax her to open it : " this makes sure that when you 're talking to me , it 's really me talking to you and not somebody else			0
+" @entity128 reporter dies in @entity3 she clicked on the file			1
+" it actually did n't do anything , " she said in a baffled tone			0
+" i did n't notice any change at all			0
+" no graphics launched ; no pop - up opened to announce to the user that the virus was being downloaded			2
+the link appeared to be dead or defected , said @entity26			0
+the second virus , backdoor.breut , which was e-mailed to him by an activist inside @entity3 for analysis , launched the same way			1
+" download , open , then nothing , " @entity26 said			0
+it contains a fake @entity146 logo and was passed off in a chat room as a @entity146 security update , he said			0
+at @entity16 's request , @entity26 forwarded that virus to an it security expert in @entity152 for an independent analysis			2
+@entity26 removed the more complex malware on @entity77 's computer but made an image of the infected hard drive beforehand			0
+at more than 250 gb , it would have to be sent on an external hard drive by regular post -- snail mail -- for any independent scrutiny			0
+the @entity12 expert confirmed the invisible nature of the backdoor.breut trojan horse download			1
+@entity166 stage public protests on friday " nothing would actually show up , " said @entity63			0
+" the only thing that the @entity170 actually does -- it copies itself into one of the temporary locations , but that would not be visible to the regular user			0
+" the malware launches when the user reboots the computer			0
+the @entity3 cyberactivist and the @entity152 it security manager pointed out that the lack of fanfare during download helps to conceal the viruses from their victims			1
+" most of them will say ' it 's a damaged file , ' and they will forget about it , " @entity26 said			0
+she was not aware she had been hacked until she lost her @entity146 and e-mail accounts a few days after clicking on the file			0
+" i did n't click on any kind of new link or something , so they must have known about the password , " she said , referring to the loss of her @entity146 account			0
+she handed over her laptop to @entity26 and his colleague , who told her that the trojan horse had logged her key strokes , taken screen shots , rummaged through her folders			0
+it hid the ip address it sent its information to , @entity26 said			2
+@entity26 found a screen shot the trojan horse took of @entity77 's online banking home page			2
+he told her to change all her passwords , @entity77 said			0
+" you do n't want your money to be stolen by some of the @entity3 security guys , " she quipped			1
+the other virus -- backdoor.breut -- sends the information it pillages from infected computers to the ip address : 216.6.0.28 and does not hide this			1
+" we checked the ip address that our engineer referenced and can confirm that it belongs to the @entity226 ( @entity227 ) , " a @entity64 representative wrote to @entity16			0
+the @entity226 is the government telecommunications company			0
+this does not necessarily mean that someone at @entity226 is doing the hacking , @entity63 stresses			0
+" whether it 's a home user behind that or it 's actually a company or an organization , which has been allocated that ip address , we just have no insight from where we sit			0
+" but the @entity3 government has access to all activity through that server " absolutely without any doubt , " @entity63 said			1
+anyone not wanting the government to see what they are up to would not use that server			2
+skilled @entity3 opposition activists avoid government telecom servers when online			1
+the simple virus , backdoor.breut , acts like a bull in a china shop , @entity64 's @entity63 said			2
+" it did not look like it was written by any sophisticated hacker , " he said after examining it			0
+" it was just kind of put together -- slapstick functionality			0
+" simple malware is readily available for download on underground forums in the @entity85			0
+hackers can repurpose it and hand it out			0
+@entity26 believed the second software to be such an off - the - shelf product because of its amateurish construction , but the @entity152 expert disagrees			2
+" it 's not something that somebody just went out there , copied code from an internet website and just pasted it in			0
+it was definitely coded for its current purpose			0
+" the name " backdoor.breut " derives from the virus ' behavior			2
+" we sort of took the word ' brute ' just because of what it was actually doing and kind of changed a couple of characters to b - r - e - u - t , " @entity63 said			0
+" brute -- meaning that it is using brute force -- it 's just going in smash - and - grab -- i 'm going to try to get anything that i can and get the hell out of there			0
+" @entity292 attempts to give the hacker remote control of the victim 's computer , according to the analysis			0
+it steals passwords and system information , downloads new programs , guides internal processes , logs keystrokes and takes shots with the webcam			2
+it also turns off antivirus notification , but that does not completely conceal it from detection			2
+" some of the good software can detect it in the same day , " @entity63 said			2
+the nature of its use may make backdoor.breut and other new @entity3 malware hard to defend against			1
+antivirus makers need to know the virus to be able to assign it a signature and make the file detectible to block the download , according to @entity63			1
+the more widely a new virus spreads around the world , the more likely it is to land on an antivirus maker 's radar			1
+the smaller the region the virus is located in , the less likely virus vigilantes are to notice and combat it			2
+" looking at this @entity170 and the telemetry that we 've gathered the last five or six days since we did the analysis , this is not targeting people across the complete globe			0
+so , it could be days before some antiviruses actually create signatures for the file , " @entity63 said			0
+more complex antivirus software can detect malware that does not yet have a signature , because of how it behaves after infecting the computer , @entity63 said			1
+if the antivirus does not have this ' behavior ' component , it may not defend against a new virus " for a substantial amount of time			1
+" on a @entity146 page named " @entity355 , " @entity26 warns activists of the danger of downloading the virus and reminds users to keep their antivirus software updated			1
+@entity361 , @entity363 's software download website , offers antivirus software , some of which includes a " behavior " component and is free of charge			1
+but that is still no guarantee for not contracting a new @entity3 cyberbug , " @entity77 " reminds			1
+" it was up - to - date , " she said			0
+" the problem is that they sent me a ... file , and i was totally stupid -- like , it 's an @entity376 file -- and i opened it			0
+
+@entity12 antivirus experts say a virus is sending information to a server in @entity3
+activists : regime supporters are stealing oppositionists ' online identities '
+imposters use stolen identities to pass the viruses to activists , opposition claims
+antivirus software may not yet *optimally* protect against the new viruses
+
+@entity23:al-Assad
+@entity26:Othman
+@entity117:Muslim
+@entity376:EXE
+@entity85:Internet
+@entity355:Cyber Arabs
+@entity152:California
+@entity3:Syria
+@entity170:Trojan
+@entity50:Skype
+@entity77:Susan
+@entity292:Backdoor.breut
+@entity16:CNN
+@entity12:U.S.
+@entity37:Hope
+@entity361:Download.com
+@entity363:CNET
+@entity128:New York Times
+@entity146:Facebook
+@entity166:Thousand
+@entity227:Syrian Telecommunications Establishment
+@entity226:STE
+@entity67:Norton
+@entity64:Symantec
+@entity63:Thakur

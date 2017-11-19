@@ -1,0 +1,35 @@
+http://web.archive.org/web/20140805105336id_/http://www.cnn.com:80/2014/05/24/showbiz/cannes-winners
+
+-- the @entity1 culminated saturday night with the glittering award show for the festival 's top honors			2
+@entity6 director @entity5 accepted the coveted @entity7 for his film " @entity9 " at the international event on the @entity11			0
+@entity13 actress @entity12 won the best actress award for her portrayal of an aging film star in @entity19 's dark @entity18 parody , " @entity20			1
+" @entity22 actor @entity21 won the best actor honor for his turn in " mr. @entity25			1
+the @entity26 , the second - highest award at the prestigious movie competition , went to director @entity29 for the @entity31 drama " @entity32 " or " @entity32			0
+" director @entity33 nabbed the best director award for the movie " @entity36			0
+
+@entity39 's top prize goes to @entity6 film " @entity9 "
+@entity12 wins best actress for her part in " @entity20 "
+@entity21 takes best actor for his *performance* in " mr. @entity25 "
+
+@entity22:British
+@entity20:Maps to the Stars
+@entity21:Timothy Spall
+@entity26:Grand Prix
+@entity25:Turner
+@entity29:Alice Rohrwacher
+@entity1:Cannes Film Festival
+@entity0:CNN
+@entity7:Palme d'Or
+@entity6:Turkish
+@entity5:Nuri Bilge Ceylan
+@entity9:Winter Sleep
+@entity31:Italian
+@entity33:Bennett Miller
+@entity32:The Wonders
+@entity13:American
+@entity12:Julianne Moore
+@entity11:French Riveria
+@entity36:Foxcatcher
+@entity39:Cannnes Film Festival
+@entity19:David Cronenberg
+@entity18:Hollywood

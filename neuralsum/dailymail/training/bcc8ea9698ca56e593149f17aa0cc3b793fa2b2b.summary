@@ -1,0 +1,49 @@
+http://web.archive.org/web/20140915163047id_/http://www.dailymail.co.uk/sciencetech/article-2733753/Never-lose-car-Apple-patents-app-track-car-parked-underground-no-phone-signal.html
+
+by @entity0 for @entity1 most people have , at some point in their life , experienced the panic induced when they forget where their car is parked			2
+but @entity7 have planned a solution in the form of an app that reveals where your car is hiding			0
+and what ’s more , the app does n’t need an internet connection - so you ’ll be able to find your car even if it ’s lost in an underground car park			1
+@entity17 - based @entity7 is planning an app for @entity20 devices to locate parked cars			1
+it will track when a user exits a car and then direct them back later on			1
+in this image from the patent application , it shows how it can track when a user has exited a car and save its location the move was revealed in a series of patent applications from the @entity34 - based company by @entity35			1
+@entity36 now uses speed sensors in your phone to work out when you 're leaving a vehicle			2
+when it detects a change in motion , the app drops what is known as a ' parking card ' onto a map			0
+if the card gets it wrong the first time , the service will also offer alternative places that you can check			0
+the drawback is you may also see the card if you get out of a bus or another person ’s car			0
+published by the @entity57 , the filings show that the service - which would likely be integrated with @entity59 - can accurately locate a car			1
+and using device to car connectivity , an internet connection would not be needed			0
+it ’s believed the service will not be too dissimilar to that offered by @entity67			2
+the app will be able to tell when the user is driving in a car , and can then work out when they have stopped and exited the vehicle			1
+this lets it know that the user has parked , and it provides a ‘ pin ’ on a map so the car can easily be located accurately			2
+the pin can also be manually removed or moved as needed			0
+when the user then needs to return to their car , they load up the app and directions are shown for them on their @entity20 device			2
+when the user is ready to return to the car the app will show the user which way to walk and give directions , as outlined in this image from the patent application the app will also work without a network connection , instead using @entity92 for car to device connectivity			1
+this means that even if a car is parked underground ( stock image shown ) it could be found however , where it differs from @entity36 ’s service is that @entity7 would enable such location services without the need for a network connection or gps			1
+this could be done by connecting to the car via @entity92 , allowing the app to direct the user towards it			1
+in the absence of internet , @entity35 reports that the app will use a few tricks to locate the car			0
+for example , it can combine sporadic gps data with information from an @entity119 ’s accelerometer to deduce how far the user is from the car			0
+there 's no news yet on when the service will be rolled out , but it is just one of several innovations that @entity7 is planning as part of its ' @entity129 ' initiative			0
+it is planning to integrate other services like @entity132 into cars to make @entity20 and vehicles more connected than ever			0
+@entity36 already has its own version of the service integrated in @entity67 , but it 's believed @entity7 is now planning to roll out its own service for @entity20 devices ( stock image shown )			1
+
+@entity17 - based company is planning an app to locate parked cars
+it will track when a user exits a car and then direct them back later on
+the app will work without a network connection , instead using @entity92
+this means that even if a car is parked underground it could be found
+@entity36 already has its own version of the service integrated in @entity67
+
+@entity17:California
+@entity1:MailOnline
+@entity0:Jonathan O'Callaghan
+@entity7:Apple
+@entity34:Cupertino
+@entity36:Google
+@entity20:iOS
+@entity35:Apple Insider
+@entity57:US Patent and Trademark Office
+@entity129:Car Play
+@entity67:Google Now
+@entity59:Apple Maps
+@entity92:Bluetooth
+@entity119:iPhone
+@entity132:Siri

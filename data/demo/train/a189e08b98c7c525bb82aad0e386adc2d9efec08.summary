@@ -1,0 +1,43 @@
+http://web.archive.org/web/20141126013840id_/http://www.cnn.com:80/2013/06/03/tech/mobile/hack-iphone-charger/
+
+-- @entity2 devices , from @entity3 to @entity4 , have always been able to boast of advanced safety from viruses , spam and the like			2
+now , apparently , not even your phone charger is safe			0
+a team of researchers from @entity12 say they 've discovered , and can demonstrate , a way to to hack into an @entity4 or @entity14 in less than a minute using a " malicious charger			1
+" the team plans to demonstrate its findings at the @entity19 computer security conference , which begins july 27 in @entity20			1
+in a preview of its presentation , the team acknowledges @entity2 's " plethora of defense mechanisms in @entity26			1
+" historically , @entity3 users have been able to boast of being largely malware free , in part because spammers , scammers and hackers preferred to target the larger number of @entity34 computers in the world			0
+on its mobile @entity26 operating system , @entity2 has created a " closed garden " environment in which everything from apps to accessories has to be approved by @entity2 , as opposed to @entity43 's more wide - open @entity42 system			1
+but by attacking in a nontraditional way , the team of @entity46 , @entity47 and @entity48 say , those defenses can be bypassed			0
+" ( @entity53 ) e investigated the extent to which security threats were considered when performing everyday activities such as charging a device , " they wrote			0
+" the results were alarming : despite the plethora of defense mechanisms in @entity26 , we successfully injected arbitrary software into current - generation @entity2 devices running the latest operating system ( @entity26 ) software			1
+" all users are affected , as our approach requires neither a jailbroken device nor user interaction			0
+" the team says they have built a malicious charger named @entity72 , which they plan to demonstrate at @entity19			1
+@entity73 is the scientific name for the deadly black widow spider			0
+the preview does n't say whether the charger is a modified version of @entity2 's standard equipment or entirely new			2
+" while @entity72 was built with limited amount of time and a small budget , we also briefly consider what more motivated , well - funded adversaries could accomplish , " they wrote			0
+" finally , we recommend ways in which users can protect themselves and suggest security features @entity2 could implement to make the attacks we describe substantially more difficult to pull off			2
+" @entity2 did not immediately respond to a message seeking comment .			2
+
+researchers say they can hack @entity2 mobile devices through the charger
+@entity12 team will present findings at @entity19 security conference
+claim : malicious charger " @entity100 " can hack @entity26 in less than a minute
+
+@entity3:Mac
+@entity2:Apple
+@entity20:Las Vegas
+@entity14:iPad
+@entity26:iOS
+@entity12:Georgia Tech
+@entity4:iPhone
+@entity53:W
+@entity0:CNN
+@entity19:Black Hat
+@entity100:Mactans
+@entity46:Billy Lau
+@entity47:Yeongjin Jang
+@entity42:Android
+@entity43:Google
+@entity48:Chengyu Song
+@entity34:Windows
+@entity73:Latrodectus mactans
+@entity72:Mactans

@@ -1,0 +1,36 @@
+http://web.archive.org/web/20100502054445id_/http://www.cnn.com:80/2008/BUSINESS/07/07/christies.profile/index.html
+
+-- @entity1 's is the world 's leading art business with global auction sales in 2007 that totalled $ 6.3 billion , marking the highest total in company and in art auction history			1
+a @entity1 's employee holds the painting ' @entity10 ' at @entity1 's auction house in @entity12 on july 4 , 2008			2
+founded in 1766 by @entity13 , @entity1 's conducted the greatest auctions of the 18th , 19th and 20th centuries , and today remains a popular showcase for unique artworks as well as international glamour			1
+@entity1 's offers over 600 sales annually in over 80 categories , including all areas of fine and decorative arts , jewelry , photographs , collectibles , wine , cars and more			1
+prices range from $ 200 to over $ 80 million			0
+@entity1 's has 85 offices in 43 countries and 14 salerooms around the world including @entity12 , @entity34 , @entity35 , @entity36 , @entity37 , @entity38 , @entity39 , @entity40 , @entity41 and @entity42			0
+most recently , @entity1 has expanded initiatives in emerging markets such as @entity45 , @entity46 and the @entity47 , with successful sales and exhibitions in @entity50 , @entity41 , @entity51 and @entity52			0
+@entity1 's also offers its clients worldwide access to its sales through its real - time online bidding service @entity57 .			0
+
+@entity1 's global auction sales in 2007 totalled $ 6.3 billion
+@entity1 's was founded in 1766 by @entity13
+sales categories include fine arts , jewelry , photography , collectibles , wine , cars
+
+@entity1:Christie
+@entity0:CNN
+@entity13:James Christie
+@entity34:New York
+@entity37:Geneva
+@entity10:La Surprise
+@entity39:Amsterdam
+@entity38:Milan
+@entity36:Paris
+@entity46:India
+@entity45:China
+@entity51:Mumbai
+@entity50:Beijing
+@entity40:Tel Aviv
+@entity41:Dubai
+@entity42:Hong Kong
+@entity47:United Arab Emirates
+@entity35:Los Angeles
+@entity52:Russia
+@entity57:Christie 's LIVE
+@entity12:London

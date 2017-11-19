@@ -1,0 +1,31 @@
+http://web.archive.org/web/20140805205123id_/http://www.dailymail.co.uk/news/article-2534153/Millions-visitors-Yahoo-com-hit-huge-malware-attack.html
+
+by @entity0 visitors to @entity2 over the past week may have been affected by malware coming from the site 's ads. according to online security firm @entity9 based in the @entity10 , users who clicked on ads from the site were redirected to sites that exploited vulnerabilities in @entity13 and installed a host of different malware			1
+' clients visiting yahoo.com received advertisements served by @entity19 , ' the internet security firm posted on its blog			1
+' some of the advertisements are malicious			0
+' homepage : @entity2 users may have been affected by malware malicious intent : the malware affected tens of thousands of computers per hour @entity9 estimates tens of thousands of users were affected per hour			1
+' given a typical infection rate of 9 % , this would result in around 27,000 infections every hour , ' the company said			0
+' based on the same sample , the countries most affected by the exploit kit are @entity34 , @entity35 and @entity36			0
+at this time it 's unclear why those countries are most affected , it is likely due to the configuration of the malicious advertisements on @entity2			1
+' @entity2 has issued a statement about the security breach : ' at @entity2 , we take the safety and privacy of our users seriously , ' it said in a statement saturday night			1
+affected users : @entity9 created this graph to show which countries are most affected by the malware attack @entity9 it was unable to identify those responsible for the attack but says it was ' clearly financially motivated			1
+' the firm provides details on how to prevent the malware accessing your computer by blocking ip addresses of the malicious ads and the exploit kit			2
+computers connected to a network can spread the malware onto many more computers			2
+the malware may have begun spreading from december 30			0
+@entity2 says it is monitoring the problem			2
+' we recently identified an ad designed to spread malware to some of our users			0
+we immediately removed it and will continue to monitor and block any ads being used for this activity			0
+
+ads from @entity2 are redirecting users to sites that install a host of different malware
+it security firm @entity9 estimates that up to *29,000* computers per hour were affected
+@entity2 says it is *aware* of the problem and working to *fix* it
+
+@entity2:Yahoo
+@entity0:Alex Greig
+@entity13:Java
+@entity34:Romania
+@entity10:Netherlands
+@entity9:Fox IT
+@entity36:France
+@entity19:ads.yahoo.com
+@entity35:Great Britain

@@ -1,0 +1,74 @@
+http://web.archive.org/web/20141022020918id_/http://www.dailymail.co.uk/sciencetech/article-2655890/TweetDeck-crashed-Austrian-teen-love-heart-symbol.html
+
+@entity0 was hacked wednesday after an @entity2 programming teenager made a cute love heart symbol			1
+the teen , whose name is @entity6 , said he discovered early yesterday that ' & hearts ' made a heart symbol in @entity9 and in turn created an opening in @entity0 's software			1
+this allowed someone to inject computer program commands via a tweet , in other words a software bug			0
+' it was n't a hack			0
+it was some sort of accident , ' he told @entity24 , choosing to withhold his last name			0
+he tried it again , and again , until he made it create a pop - up on his own @entity0 dashboard			1
+he then announced ' vulnerability discovered in @entity0			1
+\ o / ' before informing @entity31 about the problem			0
+alert : the teen , who 's name is @entity6 , said he discovered that ' & hearts ' made a heart symbol in @entity9 and in turn created an opening in @entity0 's software			1
+it was then abused by @ @entity42 , pictured but it was too late			1
+a hacker with the handle @ @entity42 had already attacked the vulnerability causing more than 40,000 users to automatically , involuntarily , retweet a cryptic line of code			1
+that account belongs to a ' single , strange , arrogant ' @entity53 programmer and college student named @entity54			0
+@entity54 , according to the @entity55 , has been on @entity31 with the handle @ @entity42 since 2012 , a year after he began studying computer science at the @entity57 in @entity58 , @entity53			1
+he ’s contributed code to online gaming projects on @entity61 , and maintains a profile on the encrypted messaging site @entity64			0
+and @ @entity42 later wednesday tweeted that his message was a prank			1
+meanwhile , @entity6 , who goes by @entity67 , feels terrible about the whole thing			2
+' it 's horror that @entity0 made that mistake , ' he told @entity24			1
+' it 's horror that [ hackers ] are using this issue			0
+i 'm sad in a way			0
+' @entity31 was forced to shut down its popular application for several hours following the major security alert			2
+users of the @entity81 plugin were greeted with this message after hackers found a flaw in its code the vulnerability allows attackers to place computer code in a tweet			2
+once the tweet appears inside @entity0 , the code can run actions and be re-tweeted to other accounts , further propagating the problem			1
+users of the @entity97 version of the app reported getting random pop - up windows containing messages such as ' @entity101 ! ' or ' please close now @entity0 [ sic ] , it is not safe			1
+' he firm took to @entity31 to acknowledge the bug , first saying ' we 've temporarily taken @entity0 services down to assess today 's earlier security issue , ' it said			1
+' we 'll update when services are back up			0
+' earlier in the day , @entity31 pushed out a code fix that was supposed to close the security hole but did not			2
+at that point the company tweeted ' a security issue that affected tweetdeck wednesday morning has been fixed			0
+' please log out of @entity0 and log back in to fully apply the fix			1
+' however , it is believed the problem continued , until the firm later tweeted : ' we 've verified our security fix and have turned @entity0 services back on for all users			1
+' sorry for any inconvenience			0
+' experts say the flaw could have been used to steal data			2
+' @entity126 or @entity126 is a type of exploit that usually works in a website or a web application			0
+it allows the attacker to run a script on the users device , which makes @entity126 vulnerability so dangerous , ' said @entity135 , of security firm @entity136			0
+the firm took to @entity31 to acknowledge the bug following complaints from users ' the script is able to send any sensitive information accessible from within the browser back to the hacker , so a potential attacker can gains access to the user ’s private information – such as passwords , usernames and card numbers			2
+' he advised users to log out of the app and remove their saved passwords as a precaution			0
+' as @entity81 is a web app , signing out might help to contain the infection , as long as users devices are not already infected			0
+' because @entity126 steals the cookie sign - on information , users should get rid of all saved passwords , as well as sign - in again on a secure browser session and change their logins			0
+' it 's also best not to use @entity0 as long as it remains infected			1
+' @entity0 is a free download for desktop computers , iphones , @entity171 's @entity170 devices and the @entity97			2
+the software allows users to organize their @entity31 streams and offers a more user friendly view of @entity31 feeds			2
+@entity31 bought @entity0 in 2011 for about $ 40 million			2
+released in 2008 , it was the first third - party @entity31 application to catch on with @entity31 users .			0
+
+the teen , who 's name is @entity6 , said he discovered that ' & hearts ' made a heart symbol in @entity9 and in turn created an opening in @entity0 's software
+this was then abused by a hacker with the handle @ @entity42
+@ @entity42 caused more than 40,000 users to automatically , involuntarily , retweet a cryptic line of code
+the service was shut for for several hours while fix was issued
+experts warn data could have been *compromised* by attack
+
+@entity24:CNN
+@entity81:Tweetdeck
+@entity135:George Anderson
+@entity136:Webroot
+@entity171:Google
+@entity2:Austrian
+@entity0:TweetDeck
+@entity6:Florian
+@entity9:HTML
+@entity53:Germany
+@entity57:University of Applied Science
+@entity55:Washington Post
+@entity54:Perdana
+@entity58:Karlesruhe
+@entity126:XSS
+@entity31:Twitter
+@entity170:Android
+@entity101:Yo
+@entity97:Google Chrome browser
+@entity42:derGeruhn
+@entity67:Firo
+@entity64:Keybase
+@entity61:Github

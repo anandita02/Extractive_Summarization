@@ -1,0 +1,41 @@
+http://web.archive.org/web/20141209073551id_/http://www.cnn.com:80/2013/04/23/tech/innovation/udoo-android-linux-pc
+
+-- the @entity1 is all the rage for hobbyists in search of cheap , credit card - sized computers that can run a full @entity8 operating system			0
+arduino boards have been around nearly a decade , meanwhile , powering robots and all sorts of other creative electronics projects			0
+now , a project called @entity14 ( " you do " ) seeks to bring the best elements of @entity1 and @entity17 together into a single mini-pc that can run either @entity19 or @entity20			1
+" with @entity14 , we want to combine the winning characteristics of @entity17 and @entity1 in one single board			1
+the simplicity of @entity17 in managing sensors , combined with the flexibility of a microcomputer based on @entity34 are integrated in @entity14 , giving you a powerful prototyping board able to run @entity20 or @entity19 , " @entity14 project coordinator @entity24 , a @entity25 professor in electrical and computer engineering , said in a video on @entity14 's @entity29 page			1
+@entity14 - based projects demonstrated in the video included a camera - equipped toy car controlled remotely with a tablet , programming education for kids , and a video game involving players running on equipment reminiscent of the @entity46			0
+touchscreens and various other types of sensors can be connected to the @entity14			0
+" want to build an led light - controller , an @entity51 reader , or a creative game controller ? @entity14 allows you to create any kind of project and share it with the community , " the @entity29 page states			2
+" combining the flexibility of @entity17 with the power of @entity19 or @entity20 , you can create and update tons of stand - alone solutions without worrying about the linking between the two worlds and their wiring			1
+" @entity14 's designers claim the board will have " the power of four @entity67 , " apparently in reference to the quad - core chip ( the @entity1 uses a single - core )			1
+the @entity14 also has twice as much @entity71 ( @entity72 ) and @entity73 as opposed to the @entity74			0
+the @entity1 has the @entity14 beat on price , though , with models selling for $ 25 or $ 35			2
+the @entity14 was seeking $ 27,000 to jump start development of the computer			2
+it has already received over $ 250,000 with 46 days of funding still to go			0
+
+@entity14 seeks to combine the power of four @entity67 and @entity17 in a mini pc
+it is intended to be a powerful prototyping board for *software* development and design
+@entity14 will be able to run with either @entity19 or @entity20
+the project has received $ *95,000* in six days on @entity29
+
+@entity17:Arduino
+@entity1:Raspberry Pi
+@entity0:CNN
+@entity34:ARM
+@entity24:Bruno Sinopli
+@entity25:Carnegie Mellon
+@entity67:Raspberry Pis
+@entity8:PC
+@entity20:Linux
+@entity19:Android
+@entity80:ARSTECHNICA.COM
+@entity51:RFID
+@entity14:UDOO
+@entity74:Pi 's 100 Megabit Ethernet
+@entity29:Kickstarter
+@entity46:Wii Balance Board
+@entity71:RAM
+@entity73:Gigabit Ethernet
+@entity72:1GB

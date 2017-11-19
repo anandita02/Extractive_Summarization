@@ -1,0 +1,51 @@
+http://web.archive.org/web/20140508152753id_/http://www.dailymail.co.uk/sciencetech/article-2621419/Apple-iOS-7-bugs-leaves-email-attachments-vulnerable-hackers-data-protection-mode-switched-ON.html
+
+by @entity0 a bug that leaves email attachments vulnerable to attack has been spotted on @entity6 ’s @entity5 software			1
+the flaw was discovered by a security expert in @entity9 and it causes attachments to be sent unencrypted , even if the operating system ’s data protection feature is enabled			1
+@entity6 has acknowledged the bug and said it is working on a fix , but did not reveal how long the bug had been active or when the fix would be issued			2
+it causes attachments to be sent unencrypted via the @entity23 app on @entity5 devices , pictured			1
+it occurs even if @entity5 's @entity27 feature is enabled			1
+@entity6 has acknowledged the bug and said it is working on a fix data protection is available for devices that offer hardware encryption , including @entity33 and later , all @entity35 models , as well as the @entity36 from the 3rd generation			1
+the feature was designed to enhance the built - in hardware encryption by protecting the encryption keys with a user ’s passcode			0
+according to @entity6 , this provides an ' additional layer of protection for email messages attachments , and third - party applications '			2
+to enable data protection , go to @entity49 , @entity50 and @entity51			0
+once a passcode is set , the ' data protection is enabled ' becomes visible			0
+@entity54 , a researcher for @entity55 in @entity9 , announced the vulnerability on his blog last week			0
+he wrote : ‘ a few weeks ago , i noticed email attachments within the @entity5 @entity59 are not protected by @entity6 's data protection mechanisms			1
+' clearly , this is contrary to @entity6 's claims that data protection " provides an additional layer of protection for (			0
+. ) email messages attachments "			0
+' he said he verified the issued by restoring an @entity68 to the most recent @entity5 versions ; @entity5 and 7.1.1 , and setting up an @entity71 email account to give him test emails and attachments			2
+by mounting the @entity76 data partition to a computer , he was able to find the email folder and see all the attachments without any encryption or restriction			0
+the flaw was produced on an @entity68 , @entity83 , pictured , and @entity35 2 running @entity84 to 7.1.1			1
+despite the flaw , experts have stated it is difficult to exploit because the attacker would need access to the device and need to know the passcode he was also able to reproduce the flaw on an @entity83 and an @entity35 running @entity5 7.0.4			1
+@entity54 confirmed the data protection feature was enabled elsewhere on the phone by attempting , and failing , to access the @entity97 file , in the email message database			0
+in a statement , @entity6 said : ' we 're aware of the issue and are working on a fix which we will deliver in a future software update			2
+' despite the flaw , experts have stated it is difficult to exploit because the attacker would need access to the device and need to know the passcode .			0
+
+the bug was discovered by a security expert in @entity9
+it was produced on an @entity68 , @entity83 and @entity35 running @entity84 to 7.1.1
+it causes email attachments to be sent unencrypted on @entity5 devices
+this occurs even if @entity5 ’s @entity27 feature is enabled
+@entity6 has acknowledged the bug and said it is working on a fix
+
+@entity23:Mail
+@entity33:iPhone 3GS
+@entity0:Victoria Woollaston
+@entity35:iPad 2
+@entity6:Apple
+@entity5:iOS 7
+@entity36:iPod touch
+@entity71:IMAP
+@entity9:Germany
+@entity27:Data Protection
+@entity51:Passcode
+@entity50:General
+@entity84:iOS 7.0.4
+@entity68:iPhone 4
+@entity54:Kurtz
+@entity97:Protected Index
+@entity59:MobileMail.app
+@entity76:iOS
+@entity83:5S
+@entity49:Settings
+@entity55:NESO Security Labs

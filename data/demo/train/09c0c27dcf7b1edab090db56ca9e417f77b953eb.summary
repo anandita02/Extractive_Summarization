@@ -1,0 +1,64 @@
+http://web.archive.org/web/20150617220452id_/http://www.cnn.com/2013/10/08/politics/obamacare-website-glitches/
+
+technical problems with the federally facilitated health insurance exchange were caused by a specific software component that crashed under the high volume of visitors last week , preventing users from creating accounts in the beginning stages of the enrollment process , a federal official confirmed to @entity10 on tuesday			1
+" at lower volumes , this software component would work fine , and at higher volume , that 's what created the problems , " the official said			2
+" we 've made software changes to make the system more efficient and be able to handle higher volumes			0
+" for more than a week , visitors to @entity21 have experienced slow connection speeds and error messages preventing them from purchasing insurance			2
+the @entity25 has been taking down parts of the site during off - peak hours , and officials say that adding more server capacity ; moving certain over-stressed components to dedicated hardware ; and making software changes to increase efficiency have improved the situation			1
+on monday , hhs secretary @entity36 told @entity38 's @entity37 that despite the hiccups , hundreds of thousands of consumers have created accounts on the federal site , but the government wo n't announce how many of those users have actually purchased insurance until next month			1
+the government has been assisted in building and maintaining @entity21 primarily by contractor @entity48			1
+as of march , the contractor had collected nearly $ 90 million from the @entity50 , according to a report issued in june by the @entity52			1
+" we have a unique , cross-sector perspective on health it that makes us well - suited to partner with @entity50 for success on one of the most visible efforts in @entity50 history , " @entity54 vice president @entity53 said in a december 2011 statement announcing the contract , the original value of which was more than $ 55 million			2
+as part of @entity69 implementation , @entity54 is also performing exchange work in @entity71 , @entity72 , @entity73 , @entity74 , @entity75 , @entity76 , @entity77 and @entity78 , according to the company 's website			0
+a @entity82 company with a global presence , @entity54 presents itself as the world 's fifth largest independent it and business process services company			0
+the company has experience in health care it as a partner to some of the @entity91 and as a provider of secure electronic medical records in @entity94			0
+its @entity96 government contracting branch , @entity48 , has done more than $ 2.5 billion in business with more than two dozen government agencies since 2001 , according to a search at @entity100			1
+this work includes nearly a billion dollars of work with @entity25 , costly projects for the defense and intelligence industry , as well as contracts worth potentially billions of dollars supporting the @entity107 , @entity108 and @entity109			0
+career operations staff at both @entity25 and @entity50 managed the company 's work , as well as the work of @entity114 , a separate contractor that has received about $ 55 million from @entity50 to build the federal data hub			1
+according to government officials , that data hub and the various levels of identity verification necessary for enrollment are working properly , providing accurate eligibility results and tax credit determinations			0
+the problems have been centered in the website 's front - end , or @entity21 's consumer - facing side			2
+an analysis of this front - end performed by leading web - hosting company @entity130 for the @entity131 and provided to @entity10 found that the designers failed to follow basic protocols for high - traffic sites			2
+six of @entity130 's high - level engineers point to the site 's structure rather than web traffic as the primary problem			0
+the faults they identified include out - of - date web applications ; poorly written code ; lines of testing code left in the final product ; and unnecessary or unchanging information sent to users on each login rather than stored on local servers or computers for quicker access , a process called caching			1
+" we 're in the business of fast websites that do n't fail , that 's what we do , " said @entity130 president and coo @entity157			0
+" and so when i had my engineers look at the web site , they came up with a lot of things that they could have done better			0
+if this is so important and they 've gotten paid so much money -- the consulting firm @entity54 , $ 55 million for this project where 's the oversight ? where 's the technical leadership saying , ' tell me how you tested this and how do we make sure that this is not only secure but it wo n't fail when we have 7 million people log in ? ' " government officials would n't comment on which parts of @entity21 were built by @entity54 and which parts were built by the government			1
+@entity54 did n't return requests for comment .			0
+
+software problems caused @entity21 *glitches* , @entity96 official says
+poorly written code , out - of - date applications found in outside analysis
+it contractor @entity48 had received $ 90 million by march for site , @entity52 says
+government wo n't say what parts of the site @entity48 built
+
+@entity21:Healthcare.gov
+@entity25:HHS
+@entity82:Canadian
+@entity114:Quality Software Services , Inc.
+@entity96:U.S.
+@entity157:Russ Reeder
+@entity130:Media Temple
+@entity131:Wall Street Journal
+@entity36:Kathleen Sebelius
+@entity53:Rich Martin
+@entity52:GAO
+@entity50:CMS
+@entity78:Vermont
+@entity54:CGI
+@entity75:Massachusetts
+@entity74:Illinois
+@entity77:New Mexico
+@entity76:Kentucky
+@entity71:California
+@entity73:Hawaii
+@entity72:Colorado
+@entity37:Jon Stewart
+@entity10:CNN
+@entity38:Comedy Central
+@entity100:USASpending.gov
+@entity107:U.S. Army
+@entity108:Navy
+@entity109:Marine Corps
+@entity94:Europe
+@entity91:Canadian Ministries of Health
+@entity69:Obamacare
+@entity48:CGI-Federal

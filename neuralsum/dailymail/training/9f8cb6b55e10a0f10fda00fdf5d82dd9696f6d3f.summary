@@ -1,0 +1,77 @@
+http://web.archive.org/web/20140817164753id_/http://www.dailymail.co.uk/news/article-2603817/Own-Android-device-Watch-Heartbleed-Millions-smartphones-tablets-ARE-vulnerable-security-breach.html
+
+by @entity0 @entity2 users beware : @entity3 has been causing panic across users of popular internet sites and now millions of @entity2 device users have been revealed to be at risk millions of @entity2 smartphone and tablet users are vulnerable to the @entity3 security flaw despite @entity14 's insistence to the contrary , researchers reveal			1
+the tech giant assured panicked users last week that their mobile platform was safe save for a ' limited exception			1
+' it 's now been revealed that the exception refers to millions of devices running a 2012 version of the operating system			1
+security experts say the vulnerable software can be found on popular phone and tablet brands including @entity28 , @entity29 and others , reports @entity31			1
+more than 900 million @entity2 devices have been purchased worldwide			1
+of those , @entity31 reports that 34 percent run some version of the outdated software			1
+while a fix for computers and websites was readily available after news of @entity3 sent internet users into a panic last week , the same can not be said for @entity2			1
+while a patch is available for devices with the flaw , wireless carriers and handset makers must now provide updates and the process is long			1
+' one of the major issues with @entity2 is the update cycle is really long , ' @entity49 , ceo of mobile security company @entity50 told @entity31			1
+' the device manufacturers and the carriers need to do something with the patch , and that ’s usually a really long process			2
+' @entity60 was triggered last week when it emerged that tens of millions of websites around the world did not have the security promised			1
+the popular blogging website @entity65 , which is owned by @entity67 , urged its users to change all their passwords , especially those protecting sensitive data like email and bank accounts , immediately			1
+internet security companies have painted a doomsday scenario of customer web accounts being hijacked by criminals or even government spies			2
+global web giants were given advanced warning of the need to improve security , which allowed them to make sure their sites safe			2
+hacked ? internet security companies had warned of accounts being hacked by criminals or government spies and despite @entity14 's assurances to the contrary , it appears many millions of @entity2 users are vulnerable however , millions of other firms have not had the time – or expertise - to ensure their sites are protected , leaving consumers in the dark about whether they are safe to use			1
+these firms will have no choice but to bring in outside security consultants at great expense to protect their websites and customers			0
+the @entity3 bug bypasses the encryption – called @entity103 - that normally protects data as it is sent between computers and servers , leaving personal and sensitive data vulnerable			0
+the problem has existed for at least two years , however details were only made public this week by @entity14 and a small company from @entity112 , called @entity113			1
+the fact the loophole has existed for so long is a huge blow to the credibility of websites and consumer trust in the internet			0
+however , there is no evidence to date that any malicious hackers have taken advantage of it to grab information			2
+in a blog post , @entity14 said it has applied a security patch to defeat the flaw on its search engine , @entity130 , @entity131 , @entity132 and play store for mobile apps and other digital content			1
+a spokesman said : ‘ it ’s good practice to use strong passwords that are unique to each of your accounts , but we do n’t think our users need to change their @entity146 passwords because of this bug			2
+’ @entity148 said simply : ‘ @entity148 is not affected			0
+’ @entity151 , along with a number of big name websites , was given advance warning that details of the security flaw were about to be made public			2
+it appears its systems have been vulnerable for some time , however it has also now installed a security patch			2
+a spokesman said : ‘ we added protections for @entity151 ’s implementations of @entity103 before this issue was publicly disclosed , and we have n’t detected any signs of suspicious activity on people ’s accounts			0
+' we ’re continuing to monitor the situation closely			0
+’ the banks also tried to reassure customers			0
+the @entity171 said : ‘ if customers are worried about the security of their online account they should contact their bank to discuss those concerns directly			0
+‘ if they are proven to have been the victim of a fraudulent online transaction then their bank will make sure they are granted a full refund of any money that has been stolen			0
+’ by contrast , the @entity181 was unable to offer any comment on the safety of online stores			0
+@entity186 , which is part of @entity188 , and responsible for handling millions of electronic payments every day insisted its system remains secure			2
+its chief technical officer , @entity191 , issued a statement saying customer account details were not exposed and there is no need for people to change their password			0
+however , the problem is not resolved by simply improving site security			0
+experts at the @entity203 security and training company , the @entity201 , suggested that the software that runs smartphones , tablets and laptops could have the same flaw			1
+spokesman @entity209 said a malicious server could easily send a message to vulnerable software on phones , laptops , pcs , home routers and other devices , and retrieve a @entity219 block of sensitive data from the targeted system			1
+that would gather keystrokes which could , in theory , provide log - in and password details for internet banks and other sites			0
+mr @entity209 criticised companies with websites that are vulnerable to the heartbeat bug for failing to admit the problem to consumers			0
+‘ too many vendors not communicating with their customers , ’ he said			0
+he suggested it could take the industry until 2020 and beyond to eliminate the problem .			0
+
+a 2012 version of @entity14 's mobile operating systems is *susceptible* to the glitch , which allows hackers to steal passwords
+the flaw was revealed last week but @entity14 said all @entity2 devices were immune save for a ' limited exception '
+researchers now say the ' exception ' covers millions of devices that still run the old software and a *solution* wo *n't* come easily
+
+@entity28:Samsung
+@entity29:HTC
+@entity113:Codenomicon
+@entity112:Finland
+@entity151:Facebook
+@entity131:YouTube
+@entity130:Gmail
+@entity132:Wallet
+@entity3:Heartbleed
+@entity2:Android
+@entity0:Daily Mail Reporters
+@entity219:64KB
+@entity191:John Barrese
+@entity50:Lacoon Security Ltd.
+@entity31:Bloomberg
+@entity171:British Bankers Association
+@entity14:Google
+@entity209:Williams
+@entity103:OpenSSL
+@entity203:American
+@entity201:SANS Institute
+@entity188:eBay
+@entity146:Google Account
+@entity181:British Retail Consortium
+@entity148:Amazon.com
+@entity186:Paypal
+@entity67:Yahoo!
+@entity65:Tumblr
+@entity49:Michael Shaulov
+@entity60:Panic

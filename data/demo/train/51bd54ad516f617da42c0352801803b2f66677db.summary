@@ -1,0 +1,57 @@
+http://web.archive.org/web/20141018105710id_/http://www.cnn.com:80/2014/04/14/tech/mobile/phones-in-flight
+
+-- the lack of phone calls , texts or social media postings from missing @entity5 has raised a number of questions about how cell phones work on airplanes			1
+a @entity11 official told @entity0 a cell tower in @entity13 , @entity14 , detected the co-pilot 's cell phone searching for service before the flight vanished			1
+here 's a quick primer on how and when phones can make a connection from the air : how high in the air can a cell phone work ? despite the urgings of flight crews to turn off all phones or put them in airplane mode , cell phones can continue to work after a plane takes off , but only while in range of a cellular tower			1
+cell phones communicate through cell towers , which are located on the ground but can stretch hundreds of feet into the air			1
+as an airplane rises , it gets further from these towers and eventually moves out of contact range			2
+for efficiency , many towers are designed to direct their signal where its most useful : on the ground , not into the sky above			2
+the maximum distance at which a phone can still make calls and send texts varies depending on the type of tower and transmitter , but an airplane would have to be no more than 10,000 feet in the air for any cell phones on board to still have a signal , according to @entity56 , director of telecom research at @entity58			1
+it 's not just altitude that can limit cell phone service			1
+when flying over sparsely populated rural areas , nearby towers are fewer and farther between			0
+over the open ocean , there are no towers at all with which to communicate , making phone calls , texts and social media posts impossible			1
+speed can also make maintaining a cellular connection difficult , as a device has to switch from tower to tower to maintain a connection			0
+@entity56 told @entity0 that a plane would have to be going 155 miles per hour ( 250 kilometers per hour ) or less for phones in cell - tower range to make or receive calls			1
+the metal body of an airplane can also impede cellular service			0
+what is airplane mode ? airplane mode is a setting on smartphones and tablets that turns off most or all of a device 's wireless communication features			0
+this includes shutting down cellular connections , @entity93 , @entity94 and @entity95 so that no calls , messages or data can be sent or received			0
+this setting has different names depending on the device and operating system , but is present on all smartphones			0
+can a phone in airplane mode still communicate ? it is not possible to send or receive communications while in full airplane mode			0
+on some phones , it is possible to turn @entity93 back on while in airplane mode to take advantage of any on - board wireless networks , or to reactivate @entity95 to hook up to any compatible devices			1
+neither setting would communicate with a cell tower on the ground , though			0
+are all phones on flights in airplane mode ? up to 30 % of all passengers reported forgetting to power down their devices when asked on airplanes , according a survey conducted last year by the @entity120			2
+it 's likely that many passengers also forget to turn their phone to @entity124 when taking off and that all flights have a few cellular devices that can still search for towers			2
+do phones communicate with towers when not in use ? a cell phone not set to airplane mode could still automatically connect to cellular base stations when in the proper range			1
+background phone tasks such as location services , e-mail and other things that push through notifications are always attempting to connect and send and receive information			2
+any attempted connections or pings would be recorded by mobile operators			0
+do n't many airlines offer inflight @entity93 ? some airplanes offer inflight wireless connections that can be used to connect to the @entity146 and make calls and send texts using services such as @entity150 and @entity151			0
+there are different technologies for bringing @entity93 to airplanes			0
+some use special mobile broadband cell towers on the ground that are flipped to point into the air			1
+satellite technology can be used to get signals where there are no ground towers			2
+if the inflight entertainment system is turned off , phones and other devices can not use these wireless connections			0
+are n't some flights going to allow calls in the air ? recently , the @entity170 loosened its rules for using cellular devices on airplanes			2
+many airlines now allow you to use tablets and smartphones during take - off and landing as long as they are in airplane mode			0
+it is also considering allowing cell phone calls in the air			1
+to make that possible , airplanes would need to be equipped with specialized miniature base stations called picocells			0
+those base stations would relay any cellular signals through satellites or cell towers on the ground that are already set up to work with airplanes .			1
+
+new reports claim cell towers recorded the phone of the co-pilot of @entity5
+there are a number of *factors* that determine if and when phones can work from airplanes
+location , speed , on - board technology and altitude could all affect cell service in the air
+
+@entity170:FAA
+@entity146:Internet
+@entity14:Malaysia
+@entity13:Penang
+@entity5:MH 370
+@entity11:U.S.
+@entity0:CNN
+@entity56:Rojas
+@entity58:IDC Asia Pacific
+@entity95:Bluetooth
+@entity151:WhatsApp
+@entity94:GPS
+@entity93:Wi-Fi
+@entity124:Airplane Mode
+@entity120:Consumer Electronics Association
+@entity150:Skype

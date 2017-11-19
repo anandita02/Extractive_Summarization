@@ -1,0 +1,18 @@
+1. Introduction
+This dataset contains CNN and Dailymail articles used for training a summarization system. The script used to create the dataset is modified from the release of Hermann et al. 2015.
+
+2. Format:
+Each file contains four parts separated by ‘\n\n’. They are
+* url of the original article;
+* sentences in the article and their labels (for sentence-based extractive summarization);
+* extractable highlights (for word extraction-based abstractive summarization);
+* named entity mapping.
+
+3. Sentence labels
+There are three labels for the sentences: 1, 2 and 0. 
+1—-sentence should extracted; 
+2--sentence might be extracted; 
+0—-sentence shouldn't be extracted.
+
+4. Extractable highlights
+The extractable highlights are created by examining if a word (or its morphological transformation) in the highlight appears in the article or a general purpose stop-word list, which together constitute the output space (i.e., the allowed vocabulary during summary generation).

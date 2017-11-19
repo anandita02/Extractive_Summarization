@@ -1,0 +1,74 @@
+http://web.archive.org/web/20121104052742id_/http://www.dailymail.co.uk:80/sciencetech/article-2198834/Apple-hacking-FBI-hits-hackers-says-did-NOT-details-millions-accounts.html
+
+by @entity0 published : 13:14 est , 5 september 2012 updated : 14:33 est , 5 september 2012 the @entity1 has hit back at a hacktivist groups claims that it stole personal identification data on millions of @entity5 device owners from an @entity1 agent 's laptop			1
+@entity1 officials said the bureau never asked for and never possessed the database that the group , which calls itself @entity12 , is posting on a website			1
+the group has released a link to a database of more than 1 million unique identification numbers for @entity5 devices , which could include iphones and @entity20			1
+have claim to have obtained more than 12 million @entity23 codes @entity5 uses to identify its gadgets , along with user names and password			1
+the @entity1 was today facing major questions over why it held the data			1
+@entity12 had claimed the data is just a piece of the more than 12 million unique identification numbers and personal information on the device owners that it got from a laptop used by an @entity1 agent			1
+however , today the @entity1 denied that it ever had that information			1
+' the @entity1 is aware of published reports alleging that an @entity1 laptop was compromised and private data regarding @entity42 ( unique device ids ) was exposed , ' an @entity1 spokesperson told @entity44			1
+' at this time there is no evidence indicating that an @entity1 laptop was compromised or that the @entity1 either sought or obtained this data			1
+' officials there said they could not verify the validity of the data that @entity12 released			2
+federal officials also warned that computer users should be careful when clicking on such links because they sometimes may contain malware that can infect computers			0
+@entity58 , a security researcher with @entity60 - based @entity59 , said , however , that he tested the link and did not find any connection to malware			2
+@entity5 also said it had not given the information to the @entity1			1
+' the @entity1 has not requested this information from @entity5 , nor have we provided it to the @entity1 or any organization , @entity5 spokesperson @entity65 told @entity69			1
+@entity5 assigns unique device identification numbers ( @entity71 ) - a string of numbers and letters - to all of its devices			1
+the numbers let @entity76 and application developers know which device is running which apps			0
+as an example , the numbers allow game developers to keep track of users ' high scores			0
+besides the identification numbers , the information posted by @entity12 has the name that a person chooses to name their device and a description of whether the device is an @entity93 , @entity20 or @entity94			0
+if linked with other information such as a name or address , the numbers could be used as a way to get at other more sensitive data			0
+but knowing the number does n't enable the @entity1 to track or eavesdrop on people			1
+in its posting , @entity12 said it got the file by hacking into the laptop of an agent who was on one of the bureau 's cyber action teams			0
+and it said part of the file 's name on the laptop was " @entity113 , " referring to the @entity113			0
+the @entity113 is a nonprofit group made up of experts from the public and private sectors to share information on cyber threats			0
+in the internet post , it said the @entity1 was " using your device info for a tracking people project			2
+" a group known as @entity124 and its offshoot @entity125 have been linked to a number of high profile computer attacks and crimes , including many that were meant to embarrass governments , federal agencies and corporate giants			0
+they have been connected to attacks that took data from @entity1 partner organization @entity138 and they 've jammed websites of the @entity140 and the @entity141			2
+earlier this year , @entity1 agents arrested several hackers tied to the group , and in the process revealed that @entity125 's reputed leader , known as @entity147 , was an @entity1 informant			2
+law enforcement officials said that linking the @entity5 data theft to an @entity1 agent may have been done , in part , as retribution for the arrests			1
+the move comes as @entity5 is believed to be putting the finishing touches to a launch event for a new version of its @entity93 the @entity12 group has made the files freely available online			1
+' there you have 1,000,001 @entity163 linking to their users and their @entity166 tokens , ' it said			0
+' the original file contained around 12,000,000 devices			0
+we decided a million would be enough to release			2
+' we trimmed out other personal data as , full names , cell numbers , addresses , zipcodes , etc. ' not all devices have the same amount of personal data linked , some devices contained lot of info , others no more than zipcodes or almost anything			0
+' we left those main columns we consider enough to help a significant amount of users to look if their devices are listed there or not			0
+the @entity189 are included for those mobile hackers who could figure out some use from the dataset			0
+' the group also defended its decision to release the data			0
+' well we have learnt it seems quite clear nobody pays attention if you just come and say ' hey , @entity1 is using your device details and info			2
+' so without even being sure if the current choice will guarantee that peoplewill pay attention to this			0
+
+@entity209 claimed to have over 12 million ids taken from an @entity1 laptop
+@entity213 released a million ids online *yesterday* - but @entity1 now says it does not posses the database
+@entity5 says it did not release information to the @entity1
+
+@entity23:ID
+@entity20:iPad
+@entity113:NCFTA
+@entity138:InfraGard
+@entity125:LulzSec
+@entity1:FBI
+@entity0:Mark Prigg
+@entity5:Apple
+@entity213:Group
+@entity58:Joe Stewart
+@entity59:Dell SecureWorks
+@entity76:iTunes
+@entity71:UDIDs
+@entity12:Antisec
+@entity189:DevTokens
+@entity209:Antisec group
+@entity140:CIA
+@entity124:Anonymous
+@entity94:iPod Touch
+@entity93:iPhone
+@entity163:Apple Devices UDIDs
+@entity147:Sabu
+@entity166:APNS
+@entity141:Public Broadcasting Service
+@entity44:CNN
+@entity42:Apple UDIDs
+@entity69:AllThingsD
+@entity65:Natalie Kerris
+@entity60:Atlanta

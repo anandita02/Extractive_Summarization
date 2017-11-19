@@ -1,0 +1,46 @@
+http://web.archive.org/web/20141204201522id_/http://www.dailymail.co.uk/sciencetech/article-2791212/the-smartwatch-lets-scribble-messages-microsoft-develops-handwriting-tool-android-wrist-tech.html
+
+with smartwatches rising in popularity , figuring out how best to input text onto them has become a bit of an issue			0
+but @entity6 thinks they 've got part of an answer with their handwriting tool			1
+called the @entity12 , it lets a user draw letters , numbers and even symbols in the middle of watch , which are then registered by the device			1
+the @entity12 lets users write on the middle of the watch ( shown )			1
+it can recognise letters , numbers and also some symbols the prototype reported by @entity33 is compatible both with square @entity27 watches and the circular @entity35 so far			1
+most smartwatches currently employ some form of speech recognition to carry out most tasks			2
+write lowercase - you can enter lowercase @entity43 letters ( print ) , numbers , and basic punctuation symbols			1
+@entity48 letters are not supported			2
+start slowly and neatly - when using the prototype for the first time , watch the fading strokes on the writing panel and make sure they are legible and properly separated from one another			1
+the recognition accuracy should be fairly high that way			2
+then try to develop a sense for how sloppy you can write while still getting good accuracy			0
+frequent words like ' this ' , ' and ' , ' is ' and so on will often be auto - corrected by the system once all characters have been entered , so it 's generally faster to finish writing these words even if there are wrong letters along the way			2
+rare words on the other hand , like names or hashtags , should be written slowly and verified character by character ( auto - correct is suppressed if you pause a little after each character )			0
+the backspace key has a repeat function when you hold it down			0
+but , as the @entity82 team points out , there are some situations where speaking to your watch is either not appropriate or possible			0
+' with the @entity12 we are exploring handwriting recognition for text input on small touch screens , ' the team writes on their site			1
+' handwriting , unlike speech , is discreet and not prone to background noise			0
+' they also add that a handwriting method allows the whole screen to be used for each character , rather than classic typing methods where part of the screen must be obscured			0
+this leaves room on the left for a large backspace button , and on the right for a space bar button			0
+for now only lowercase @entity43 letters , numbers and basic punctuation symbols can be used			2
+the team advises that you should write slowly and neatly at first in order for the recognition software to get to grips with your writing style			1
+in addition words will be auto - corrected so , they note , it is often quicker to finish a word if an error is made rather than going back to fix something			0
+while it is available for download now , the team notes that it should be for research purposes only as it is still in a very early stage			0
+most smart watches currently employ some form of speech recognition to carry out most tasks			1
+but , as the @entity82 team points out , there are some situations where speaking to your watch is either not appropriate or possible , making typing or writing a more welcome option the prototype is compatible both with square @entity27 watches and the circular @entity35 ( shown ) so far			1
+but while it is available for download now , the team notes that it should be for research purposes only as it is still in a very early stage and may still have a few problems			0
+
+researchers at @entity6 's @entity23 base in @entity24 have developed a writing tool for @entity27 smart watches
+the @entity12 lets users write on the middle of the watch
+it can recognise letters , numbers and also some symbols
+recognition software can also learn your handwriting style
+while it is available for download , they note it is only a prototype for now
+it is intended as an alternative to using voice recognition on devices
+
+@entity23:Redmond
+@entity33:Gizmodo
+@entity35:Moto 360
+@entity27:Android
+@entity24:Washington
+@entity6:Microsoft
+@entity82:Microsoft Research
+@entity43:English
+@entity48:Uppercase
+@entity12:Analog Keyboard Project

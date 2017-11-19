@@ -1,0 +1,79 @@
+http://web.archive.org/web/20141130123455id_/http://www.dailymail.co.uk/sciencetech/article-2626281/The-maps-MATHS-Borders-redrawn-using-algorithms-relating-distance-cities-not-politics.html
+
+many wars have been waged defending a line on a map - or in a bid to draw a new one			0
+but one data visualisation specialist has created a number of intriguing maps carving up the world according to mathematical rules instead of politics			1
+@entity11 , 29 , from @entity12 , uses algorithms and datasets to divide our planet into new regions based around nearest ‘ point ’ such as a capital city or an airport , for example			1
+flying high : @entity11 uses algorithms and datasets to divide our planet into new regions based around a nearest ' point ' which can be a capital city or an airport ( pictured )			1
+on this map it is easy to see that the @entity29 is well catered for in airports , while remote islands are not ' the @entity33 diagram is a beautiful piece of mathematics , ' mr @entity11 told @entity36			1
+' it divides space into a number of regions , where each region contains all points closest to a particular seed			2
+the seed points can be anything that has coordinates : capital cities , airports etc , ' @entity33 diagrams crop up in many places , including art and data visualisation			1
+' the most common @entity33 diagram works in @entity54 , where the shortest distance from one point to another is simply a straight line			0
+however , on a globe , the shortest distance is along something called a geodesic			0
+' you can imagine this as stretching a string between two points on a football - it will be a curve in @entity69 ' in one map , he gives people an idea of what the world might look like if leaders only controlled the land closest to their capital city			1
+he uses a technique called @entity33 diagrams to pick out a set of ‘ seed points ’ – capital cities for example – then divides space into a number of regions so that there is one region for every seed , consisting of all points closer to that seed than any other			1
+this produces the mathematical borders and disregards language , culture and politics , which have traditionally been reasons to carve land up into countries and empires			1
+' the @entity33 diagram is a beautiful piece of mathematics , ' mr @entity11 told @entity36			0
+in a right state ? mr @entity11 ' map draws new state lines in relation to each state 's capital			0
+if his map were real , some states including @entity111 , @entity112 and @entity113 would be much smaller , while others such as @entity116 , @entity117 and @entity118 would gain territory @entity120 : this map gives people an idea of what the world might look like if leaders only controlled land closest to their capital city , rather than another country 's capital			1
+if this division came to be , @entity131 would be ruled by the @entity134 government and countries such as @entity136 and @entity137 would make territorial gains his latest map divides the world into 2,980 regions based upon the location of medium and large airports across the world			1
+it is immediately obvious which parts of the planet are the wealthiest and most populated , with @entity147 and the @entity29 for example being carved up into many more regions than parts of northern and @entity151 or small islands			2
+. the @entity33 airport map ensures that each region is closer to a particular airport than any other and highlights certain areas that are not well covered by air travel			2
+whole world in his hands : mr @entity11 ' latest map divides the world into 2,980 regions based upon the location of medium and large airports across the world ( pictured )			1
+it is immediately obvious which parts of the planet are the wealthiest and most populated drawing a line : another @entity33 diagram divides the world according to its capital cities			2
+here , @entity170 is substantially larger , while the @entity29 has lost considerable ground as its capital , @entity173 is based on the @entity174			2
+the @entity175 is also ruling part of @entity116 mr @entity11 accessed a list showing the location of 2,980 medium and large airports he wrote and and used a reusable library to compute spherical @entity33 in @entity181 , which is a computer programming language			2
+' it exploits several beautiful mathematical relationships , starting with something called a " @entity185 " , which leads to something called a " spherical @entity187 " , and finally this leads to the spherical @entity33 diagram , ' he said			2
+polygons are created within the @entity33 diagram and mr @entity11 then uses the data visualisation library called @entity193 to make it interactive and create a zoomable globe			1
+the page which calculated the most remote points relative to the airports is under 300 lines of code and took mr @entity11 just one evening to create			0
+however , it took him ' much longer ' to make the library			0
+according to the map , the most remote airport in the world is @entity206 on @entity207			0
+it is 1,617 miles ( 2,602km ) from the nearest airport , which is @entity210 on @entity211 in @entity212			0
+another @entity33 diagram divides the world according to its capital cities and the same technique is used to determine the mathematical boundaries of different states in the @entity29 mr @entity11 ’ map draws new state lines in relation to each state ’s capital			1
+if his map were real , some states including @entity111 , @entity112 and @entity113 would be much smaller , while others such as @entity116 , @entity117 and @entity118 would gain territory			0
+mr @entity11 said : ' my work is primarily intended to demonstrate the beauty of @entity33 , in particular for spherical space , which i think is somewhat unusual			0
+' he has written a reusable library to compute spherical @entity33 in @entity181 , which is a computer programming language			0
+' the majority of @entity33 diagrams are for @entity54			0
+i hope to inspire others to create more interesting and potentially thought - provoking maps using a reusable library , ' he said			0
+@entity151 re-mapped : mr @entity11 uses a technique called @entity33 diagrams to pick out a set of ' seed points ' - capital cities for example ( pictured ) - then divides space into a number of regions so that there is one region for every seed consisting of all points closer to that seed than any other			1
+@entity249 has lost considerable territory in this map			0
+
+@entity12 - based data visualisation specialist uses algorithms and datasets to divide @entity256 into regions based around the nearest capital city or airport
+he uses a technique called @entity33 so there are the same amount of regions as there are ' seed points '
+mathematical borders disregard language , culture and politics , which have traditionally been reasons to carve up land into countries
+the world looks very different in the maps . for example , the @entity29 is much smaller and @entity131 is under @entity134 rule
+
+@entity256:Earth
+@entity29:U.S.
+@entity117:Arizona
+@entity116:Florida
+@entity113:Georgia
+@entity112:Texas
+@entity111:California
+@entity134:Irish
+@entity137:Holland
+@entity136:Belgium
+@entity131:Scotland
+@entity151:Asia
+@entity118:West Virginia
+@entity170:Mexico
+@entity173:Washington DC
+@entity175:Bahamas
+@entity174:East Coast
+@entity212:French Polynesia
+@entity193:D3.js
+@entity120:Divide and Conquer
+@entity54:2D
+@entity33:Voronoi diagrams
+@entity12:London
+@entity11:Davies
+@entity36:MailOnline
+@entity210:Totegegie Airport
+@entity207:Easter Island
+@entity206:Mataveri Airport
+@entity249:India
+@entity211:Totegegie Island
+@entity147:Europe
+@entity181:JavaScript
+@entity185:3D convex hull
+@entity187:Delaunay triangulation
+@entity69:3D

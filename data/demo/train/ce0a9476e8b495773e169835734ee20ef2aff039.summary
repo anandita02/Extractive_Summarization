@@ -1,0 +1,60 @@
+http://web.archive.org/web/20140208121555id_/http://www.cnn.com:80/2013/12/23/tech/space-robots-future/?
+
+@entity0 -- what do artificial whiskers and coffee - filled balloons have in common ? the answer is that they are both tools on experimental robots -- but they are also being put forward as possible ideas to help future planetary explorations			1
+" @entity20 " is the latest in a line of robots developed by teams at the @entity15 's @entity14 ( @entity16 ) that aims to test whether artificial whiskers could help a robot find its way around			1
+inspired by the @entity22 shrew -- one of the world 's tiniest mammals -- scientists wanted to find out if a robot could explore its environment using touch instead of vision , just as rats , mice and shrews find food in the dark			1
+team leader @entity36 , who works at the @entity38 project , said the research was primarily to assist biologists in their understanding of how an animal 's touch sensing works			2
+but he added : " future robotic applications for this kind of sensing could be in search - and - rescue robots operating in smoke filled buildings or for sub-sea pipeline inspection robots in the murky depths of the sea			1
+" the idea has also been suggested as a way to explore planetary surfaces where there is limited vision			2
+speaking at a space conference at the @entity15 's @entity59 , robotics expert and co-founder of the @entity16 , @entity62 , identified it as one of a number of advancements that might be useful to space scientists planning future missions			1
+" i was speculating that whiskers could provide a planetary rover with the ability to feel its way around , " he told @entity1			1
+" it may be that certain types of geology would be helped if you could , for instance , run the whiskers across the rock sample because you can get texture from whiskers			2
+" you can also imagine planets with thick , heavy atmospheres where vision would be completely useless			0
+one of the beauties of whiskers is that the whisker can get damaged but still works -- all the sensing is done at the root			0
+" @entity62 also pointed to research carried out by @entity93 , the @entity94 , @entity95 and @entity96 that produced a robotic gripper using coffee granules and a latex party balloon			2
+it exploits the way vacuum - packed coffee is rigid until the seal is broken and then the coffee granules can flow , adapting to the shape of an object it is pressed against			0
+the vacuum can then be restored and the balloon ' jams ' solid to form a grip			0
+watch how the gripper works at @entity112 in 2010 " jamming gripper " researcher @entity113 described in the @entity115 how the project had " opened the door to applications none of us had originally thought about			0
+" one of those applications , @entity62 suggested , is a potential alternative for gathering samples on a planetary rover mission			1
+" almost any planetary exploration robot is likely to need a gripper to pick up or collect rock samples for analysis or collection , " he said on his blog			1
+" something like the @entity133 coffee balloon gripper would -- i think -- provide a much better solution			0
+this soft gripper avoids the hard control and computation because the soft material adapts itself to the thing it is gripping			0
+" speaking to @entity1 , @entity113 said it would be exciting to work with space scientists			2
+" it 's wonderful to see engineers and researchers come up with new ideas based on granular jamming			0
+" the main advantage of the jamming gripper is that it can deal effectively with very irregularly shaped objects and needs to cover only a fraction of the sample 's surface in order to hold on to it			0
+" perhaps even more importantly for a rover mission on @entity157 -- there are no mechanical parts that can get clogged up by dust			0
+" a third advantage is that the gripper is exceedingly gentle			0
+it will put very little stress on the object to be gripped because it distributes the holding force over a large contact area that very closely conforms to the object 's shape			0
+" @entity62 said this new field of " soft robotics " could be well suited to space exploration , explaining that the @entity16 is now working on touch sensors for robots			1
+" it 's easy to see that giving planetary robots touch sensing could be useful , but there 's another possibility ... the potential to allow @entity181 scientists to feel what the robot 's sensor is feeling , " he told @entity1			1
+looking further into the future , @entity62 believes so - called swarm robots -- large groups of simple robots that work together like social insects -- ones that can self - assemble and adapt to the environment in the way living creatures do , could also aid scientists exploring new worlds			1
+" imagine that robots can actually remake parts of themselves -- we ca n't even do that in the lab yet -- but in theory you can imagine robots that can adapt their physical shape as well as their behaviors to meet a particular environment ... it 's almost like evolution except these are mechanical devices , " he said			1
+however , he also believes that this technology -- along with fully autonomous robots that can think for themselves -- is a long way off			0
+" this field is very much a concept that we are developing in the lab -- i would n't expect these swarms of robots in space any time soon , " he said .			2
+
+" @entity20 " aims to test whether artificial whiskers could help a robot *navigate*
+robotics expert @entity62 suggests they could be useful for planetary rovers
+he also points to work on soft robotics that could aid space exploration
+so - called ' swarm robots ' might be able to adapt to an alien planet 's environment , he says
+
+@entity22:Etruscan
+@entity16:BRL
+@entity1:CNN
+@entity0:London
+@entity36:Martin Pearson
+@entity38:Biotact
+@entity62:Alan Winfield
+@entity20:Shrewbot
+@entity115:Cornell Chronicle
+@entity14:Bristol Robotics Laboratory
+@entity113:Jaeger
+@entity157:Mars
+@entity181:Earth
+@entity93:Cornell
+@entity96:Liquidia
+@entity59:Rutherford Appleton Laboratory
+@entity94:University of Chicago
+@entity15:UK
+@entity95:iRobot Corp
+@entity133:Jaeger-Lipson
+@entity112:Cornell Creative Machines Lab

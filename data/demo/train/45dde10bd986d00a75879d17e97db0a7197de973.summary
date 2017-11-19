@@ -1,0 +1,62 @@
+http://web.archive.org/web/20140601012115id_/http://www.cnn.com:80/2011/10/13/tech/mobile/dual-persona-phones/
+
+@entity0 -- smartphones have made it more difficult to separate work from personal lives			1
+corporate managers tend to embrace smartphones because they make workers constantly accessible , but the devices have proved to be a headache for the departments concerned with keeping data secure			0
+devices that transmit and receive sensitive business files should be locked down from being accessed by most third parties , experts say			0
+and some companies are encouraging employees to keep their two worlds separate			0
+contrary to many workers ' wishes , corporate - information chiefs would prefer they not harvest virtual farmland or fling angry avians on the same device they use to review their companies ' financial documents			0
+that 's not necessarily due to worries over lost productivity ( that 's the boss 's concern )			0
+instead , technology departments fear that amidst all the innocent games and other applications a person installs , malicious software could sneak in and gobble up e-mails , files and contact lists			1
+a solution may come in the form of new phones with split personalities			2
+@entity44 , @entity45 and heavily financed startups are presenting their own takes on the concept			1
+each company is trying to sell companies on their wares so that they 'll install the security packages on employees ' phones			2
+these security systems are primarily being designed for hardware that runs @entity58 's @entity57 platform			1
+in addition to being the most popular smartphone operating system , @entity57 is perceived as the most vulnerable to attacks because @entity58 does n't review apps before they are posted to its online store , like @entity65 and @entity66 do			1
+developers can embed their programs deep within @entity57 's file system , unlike with competing software			1
+a service introduced this week called @entity72 separates an @entity57 phone into personal and work environments , and the user can switch between the two			1
+@entity44 's stance is that -- much to the chagrin of it professionals -- the bring - your - device - to - work trend is inescapable			2
+and the @entity72 concept is the natural antibiotic , said @entity82 , the president of @entity44 's emerging devices group			1
+toggle is based on work by @entity86 , a company that has taken venture capital from @entity58 's ventures arm and from mobile - chip maker @entity89			2
+@entity86 has said it plans to release a version for @entity91			0
+for security - minded executives attending the wireless - trade group @entity94 's enterprise conference this week in @entity0 , @entity86 's concept has been a popular topic of conversation			2
+phone manufacturer @entity45 has its own take on this , which @entity99 , a vice president for @entity45 ' business - to - business unit , calls the " dual persona			1
+" it incorporates technology from @entity103 , which develops virtualization software that lets a worker access his office computer 's desktop from home			2
+" @entity58 continues to develop ( @entity57 ) with a focus on a consumer market , " @entity99 said			1
+" so far , data security has been a bottleneck			2
+" @entity113 is forgoing the dual - persona approach for now , but its @entity115 , an @entity57 phone for @entity117 that hit stores on thursday , is being marketed heavily to businesspeople , said @entity120 , a marketing exec for the company			1
+the @entity115 is the company 's first handset with a new set of security features that will probably make their way into other @entity113 phones , he said			0
+@entity120 , who defected a few months ago from @entity130 maker @entity129 , said @entity113 's position is promising , especially " having come from @entity129 and being on the losing end of the bring - your - own - device trend , " he said			0
+" we 've been very consumer - focused , " @entity120 said of @entity113 's business			0
+however , " we want to make it easy on the ( chief information officers )			0
+" this split - personality approach to phone usage has n't caught on yet , but security experts see it as a promising alternative to asking workers to carry around @entity143 in addition to their personal cell phones			1
+many companies favor @entity129 for their work forces because the company handles the message encryption on its own servers			0
+the downside of that approach is that when @entity129 's servers go down , as they did this week , so does a company 's access to mobile data services			0
+for @entity129 's competitors , perhaps there is no better time than now to try to shift big corporate buyers to a new platform , where reliability along with security will be a major selling point .			0
+
+software makers are looking to solve security issues in @entity57
+@entity72 creates two modes on a phone , for work and personal use
+@entity45 is developing its own solution to this problem
+
+@entity117:Verizon Wireless
+@entity82:Glenn Lurie
+@entity113:Samsung
+@entity86:Enterproid
+@entity89:Qualcomm
+@entity130:BlackBerry
+@entity1:CNN
+@entity0:San Diego
+@entity57:Android
+@entity91:iPhone
+@entity58:Google
+@entity72:AT&T Toggle
+@entity103:VMware
+@entity99:Kim
+@entity129:RIM
+@entity94:CTIA
+@entity120:Bidan
+@entity143:BlackBerrys
+@entity115:Stratosphere
+@entity44:AT&T
+@entity45:LG
+@entity66:Microsoft
+@entity65:Apple

@@ -1,0 +1,55 @@
+http://web.archive.org/web/20150514154858id_/http://www.dailymail.co.uk/sciencetech/article-2263475/Revealed-10-worst-apps-taking-personal-details-letting-know.html
+
+a list of the worst mobile phone apps for extracting personal information such as location and contacts has been compiled by academics			1
+among the worst for taking details from users who have little or no idea it is happening include @entity10			1
+researchers at @entity12 , in @entity13 in the @entity14 , looked at the most popular programs in @entity18 's @entity17 app store to compile their list			1
+researchers found that users often have little idea their apps take details such as location			1
+some of the apps , such as @entity26 , were at least half expected by mobile users to be taking location details but others were more of a surprise			1
+when told that the @entity10 mobile app took location details , 80 per cent of users questioned were surprised			1
+dr @entity34 , of the university ’s @entity35 , wrote on a blog : " a vast majority of people ( 95 % ) were surprised that @entity40 used location data , but no one ( 0 % ) was surprised that @entity26 did so			1
+' here , we can use level of surprise as one form of privacy			2
+if people are n't surprised , then from our perspective it 's less of a privacy issue , since people have some level of informed consent			2
+' on the other hand , if lots of people are surprised , then we have a potential privacy issue at hand			0
+' the list , which was not ranked in any order , was released after dr @entity34 and colleague including professor @entity61 analysed the 100 most popular @entity17 apps			0
+the other eight apps were toss it game , talking @entity66 , @entity67 , @entity69 game , horoscope , @entity71 music , and @entity72			1
+one or more of three types of information - location , device identifying details , and contact lists - were collected , the researchers found			1
+users were often in the dark as to why the information was collected by the app , such as 58 per cent being unaware device ids could be used for marketing			1
+dr @entity34 said users would be far less suspicious if they were to be told why the information is being extracted as there can be good reasons for it			2
+the mobile @entity10 app was among those named by researchers			1
+@entity66 takes contact details because because it has a facility to change the appearance of the screen when one of the contacts rings or texts			0
+he said it is important that the apps are transparent about what they take and why			0
+he added : ' some of these uses , while rated unusual , were actually perceived as legitimate once it was explained how the data was used			0
+' for example , the @entity67 app uses location for finding words that others near you are searching for , rather than for ads or other purposes			1
+' in our work , we also found that people were generally ok with this usage once it was made clear to them			0
+' in the short - term , the main thrust of our research is to help people understand these kinds of unusual behaviors of apps , as well as increase transparency			0
+' it 's worth pointing out too that a lot of this information seems to be used for advertising rather than malicious purposes ( though it obviously depends on your definition of malicious )			2
+' in the long - term , we need better policies and best practices around this kind of data collection , as well as better ways of helping developers create sustainable business models that also respect privacy			0
+professor @entity61 was quoted by @entity144 as saying : ‘ when you look at the fundamental issue , it 's about informing users and giving them an option			0
+‘ you need to say more to users than , “ i need permission to collect this			0
+” you need to tell them what you will do with what you collect			0
+when you communicate , you put people at ease			0
+’ but he added : ‘ the platforms invite developers to collect more information than you would like			2
+‘ and the developers can hide behind what the app store offers ( for disclosure options )			2
+' they can say , “ hey , there 's no way for me to offer more			0
+” it 's up to these marketplaces to make an effort to convey more information			2
+
+*astonishment* at *realisation* a *flashlight* app extracts location information
+@entity10 game named among the worst *offenders* on mobile phones
+
+@entity17:Android
+@entity144:NBCNEWS.com
+@entity14:US
+@entity13:Pittsburgh
+@entity12:Carnegie Mellon University
+@entity26:Google Maps
+@entity10:Angry Birds
+@entity67:Dictionary.com
+@entity18:Google
+@entity34:Hong
+@entity40:Brightest Flashlight
+@entity69:Mouse Trap
+@entity66:Backgrounds HD Wallpapers
+@entity35:Human-Computer Interaction Institute
+@entity61:Sadeh
+@entity71:Shazam
+@entity72:Pandora Internet Radio

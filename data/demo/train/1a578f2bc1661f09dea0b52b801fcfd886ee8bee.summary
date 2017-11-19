@@ -1,0 +1,27 @@
+http://web.archive.org/web/20130508064630id_/http://www.cnn.com:80/2012/04/06/tech/web/mac-flashback-trojan-check
+
+-- according to a report thursday , more than 600,000 @entity1 could be infected with the nasty @entity3			1
+we 've already detailed how to check your @entity1 to see if you 're infected -- but that requires some command line code , and we know that not all users are comfortable doing that			1
+now we 've gone one step further and wrapped those commands into two applescripts			0
+why two ? well , there are actually two areas of your hard drive that need to be checked for nasty files			1
+these files simply run the terminal commands and let users know if they have anything to worry about			2
+they are n't the most beautiful creations , but they do the job			0
+you can download the scripts here ( hosted by @entity27 )			1
+after unzipping , simply double - click on " trojan - check " and " trojan - check - 2			0
+" if you get an image that looks like the image at left ( click to enlarge it ) , you 're in the clear			0
+if either of the scripts reports something other than " does not exist , " go to @entity37 's website and follow their removal instructions			1
+even if you are n't infected , make sure you install the latest @entity40 security update for @entity41 to fix the vulnerability that allowed this nasty exploit to exist in the first place			2
+did you find yourself infected ? let us know in the comments			0
+see the original article on @entity0 © 2013 @entity0			0
+
+there are two areas of your hard drive that need to be checked for nasty files
+to check if your @entity1 is infected , you can download the scripts hosted by @entity27
+if infected , you will need to go to the @entity37 's website and follow the instructions
+
+@entity3:Flashback Trojan
+@entity1:Mac
+@entity0:MASHABLE.com
+@entity27:CloudApp
+@entity37:F-Secure
+@entity40:Apple
+@entity41:Java

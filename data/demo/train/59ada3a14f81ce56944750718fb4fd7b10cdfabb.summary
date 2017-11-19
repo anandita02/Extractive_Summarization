@@ -1,0 +1,25 @@
+http://web.archive.org/web/20120213213327id_/http://edition.cnn.com:80/2011/12/04/world/asia/india-bollywood-star-dies/index.html
+
+-- @entity3 movie star @entity2 , a fixture in the @entity6 film industry for decades , has died of an apparent heart attack , @entity1 reported sunday			1
+@entity2 died in a @entity10 hotel saturday night , his family said			2
+the legendary @entity6 actor was known for his roles in a series of movies , including " @entity15 , " " @entity16 " and " @entity17			1
+" prime minister @entity18 offered his condolences sunday			1
+" @entity2 was a great artist who entertained generations of cinema lovers over five decades , " @entity18 said in a statement , according to @entity1			0
+" he was an embodiment of a life long passion for acting and film making			0
+i join millions of his fans in mourning his death			0
+" the star , who was known for his good looks and leading roles in romantic movies , released his book , " romancing with life " in 2007 .			0
+
+@entity3 star @entity2 dies in @entity10 saturday night
+legendary @entity6 actor is known for his roles in a series of movies
+prime minister @entity18 offered his condolences sunday
+
+@entity3:Bollywood
+@entity2:Dev Anand
+@entity1:CNN IBN
+@entity0:CNN
+@entity6:Indian
+@entity10:London
+@entity17:Hare Rama Hare Krishna
+@entity15:Johnny Mera Naam
+@entity18:Manmohan Singh
+@entity16:Des Pardes

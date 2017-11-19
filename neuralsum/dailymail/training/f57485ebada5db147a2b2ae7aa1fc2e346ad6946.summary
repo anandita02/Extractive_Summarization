@@ -1,0 +1,53 @@
+http://web.archive.org/web/20140402215844id_/http://www.dailymail.co.uk/sciencetech/article-2586006/Now-drones-used-expose-bank-details-passwords-Hackers-manage-access-150-phones-hour-Wi-FI.html
+
+by @entity0 news that hovering drones can now steal passwords from unsuspecting phones will do little to ease fears that the widespread use of unmanned aircraft could infringe upon our privacy			1
+hackers in the @entity11 have managed to ' steal ' information , including @entity14 passwords , bank details and even people ’s home addresses using an aircraft			1
+while it might sound like the crime of the century , the exercise was an experiment to show it is possible to use drones to tap into a smartphone ’s @entity25 settings and access valuable information			1
+it then makes use of built - in technology which can see what networks the phones have accessed in the past			2
+in theory , almost any drone could be adapted to do this			0
+phones ' noisily ' reach out to networks , according to the experts			0
+@entity38 looks for this activity and when hovering nearby it emits a signal masquerading as another network			0
+the phone ‘ trusts ’ that it is accessing a trusted @entity25 network but instead connects to the quadcopter 's network			1
+@entity38 can then intercept everything a smartphone sends and receives and allows skilled hackers to see passwords , bank details and the phone 's location			1
+the test was conducted in @entity69 and the group will share their findings at the @entity73 cybersecurity conference in @entity74 next week , @entity67 reported			0
+the drone , known as @entity38 , seeks out smartphones that have @entity25 turned on			1
+it then makes use of built - in technology which can see what networks the phones have accessed in the past			2
+in theory , almost any drone could be adapted to do this			0
+@entity69 - based @entity87 security researcher @entity86 , said : ‘ their phone will very noisily be shouting out the name of every network its ever connected to			2
+' they 'll be shouting out , “ @entity95 , are you there ? ... @entity97 , are you there ? ” ’ when this happens , @entity38 hovers nearby and emits a signal masquerading as another network and the phone ‘ thinks ’ it is accessing a trusted @entity25 network			1
+however , when it connects to the quadcopter ’s network , @entity38 will intercept everything a smartphone sends and receives using a complicated method described by the company			0
+@entity86 said : ‘ your phone connects to me and then i can see all of your traffic			0
+’ he is able to see the websites a person visits , any credit card information entered or saved , their location , usernames and passwords			1
+in the wrong hands , this could potentially leave a mystified smartphone user out of pocket			0
+the hackers managed to gain access by looking at a unique identification number known as a @entity127 ( @entity127 ) address			0
+this number matches web traffic to a specific device			0
+to demonstrate the effectiveness of the technology , @entity86 spent an hour with @entity67 showing them how he could obtain network names and gps coordinates for 150 smartphones used by @entity138			0
+while collecting metadata and network names is not strictly illegal , intercepting passwords and credit card details with the intent of using them is			1
+the drone emits a signal masquerading as a trusted @entity25 , which the phone ' trusts '			1
+however , once connected , this network intercepts everything a smartphone sends and receives , giving hackers access to password information ( illustrated ) and even bank details that are entered or saved the ethical hackers said they 're demonstrating the technology to highlight how vulnerable smartphone users can be			2
+the drones might seem even more threatening to people than remote hackers because the aircraft can hover close to potential ‘ victims ’ are incredibly mobile			2
+there is a prospect that the technology could be put to good use for law enforcement purposes , however , such as identifying looters in a riot			0
+while it is not thought that anyone is currently using this snooping technique in the real world , smartphone users can protect themselves by shutting off their @entity25 when they are not using it , or only access secure networks .			1
+
+experts in @entity69 have proved it 's possible to use drones to steal data
+they *modified* an aircraft capable of tapping into a phone 's @entity25 settings
+once it had access , it was able to read and steal personal information
+called @entity38 , the drone takes *advantage* of smartphones that actively search for networks
+from this it can also see networks those devices have accessed in the past
+during tests , hackers *exposed* credit card information and passwords
+
+@entity14:Amazon
+@entity11:U.S
+@entity25:Wi-Fi
+@entity74:Singapore
+@entity38:Snoopy
+@entity69:London
+@entity0:Sarah Griffiths
+@entity138:Londoners
+@entity86:Wilkinson
+@entity87:Sensepost
+@entity97:McDonald 's Free Wi-Fi
+@entity67:CNN
+@entity127:MAC
+@entity95:Starbucks
+@entity73:Black Hat Asia

@@ -1,0 +1,57 @@
+http://web.archive.org/web/20141110093512id_/http://www.dailymail.co.uk/sciencetech/article-2812286/Samsung-flaw-lets-hackers-remotely-lock-devices-Bug-Mobile-service-leaves-handsets-open-attack.html
+
+millions of @entity1 devices may be at risk of attack due to a vulnerability in the firm 's @entity6 service			1
+an @entity9 security researcher has discovered a way to hack into the service and remotely unlock handsets from a pc			1
+once a hacker has access to a device , they can also change the pin code rendering it useless to the owner			2
+security experts have discovered a way to hack into the service and remotely unlock handsets from a pc			1
+once a hacker has access to a device , they can also change the pin code rendering it useless to the owner find my @entity34 is automatically enabled when a user registers for a @entity37			2
+it lets users remotely lock and wipe their devices if they 're lost or stolen			2
+the ' ring my device ' sounds the default ringtone at its maximum volume for one minute , regardless of any sound or vibration settings			0
+by sounding the ringtone , it can alert people to the lost device , increasing the chances of it being found			0
+its call logs feature additionally lets users check to see a list of recent calls , and if the sim card is changed , the owner is informed			0
+uses beyond this are not known , and it is unclear whether hackers will be able to exploit it further to access personal information on the device			2
+@entity65 posted a proof - of - concept video at the weekend that shows him hacking a device , unlocking it , changing the greeting message and remotely calling it			1
+his hack is controlled using the web on a pc			0
+there are three modes of attack seen in the video : remote mobile device lock , remote mobile device unlock , and remote device mobile ring			2
+the flaw has also been reported by the @entity80 ( @entity80 ) in the @entity81 on its @entity83 ( @entity82 )			1
+the security researchers have given it a high - severity rating of 7.8 , with an ‘ exploitability sub-score ’ of 10.0			1
+this means it is a relatively easy hack and does n't require authentication			0
+@entity80 ’s vulnerability report explained : ‘ the @entity93 feature on @entity1 mobile devices does not validate the source of lock - code data received over a network			1
+' [ this ] makes it easier for remote attackers to cause a denial of service - screen locking with an arbitrary code - by triggering unexpected find my mobile network traffic			0
+’ @entity9 researcher @entity65 has posted a proof - of - concept video ( screengrab pictured ) that shows him hacking a device , unlocking it , changing the greeting message and remotely calling it			1
+the flaw has also been reported by the @entity80 ( @entity80 ) the flaw affects any @entity1 device with @entity6 enabled ( @entity113 pictured ) @entity1 told @entity114 : ' the reported issue occurred in web user interface , and it was fixed through a patch update on 13 october			1
+' but mr @entity65 's proof - of - concept was posted on 27 october , after this patch date			1
+@entity114 has contacted mr @entity65 to discover when the video was filmed , and if the flaw is still being exploited			1
+find my @entity34 is automatically enabled when a user registers for a @entity37			0
+it lets users remotely lock and wipe their devices if they 're lost or stolen			0
+it is also used to help locate a missing device			0
+the ' ring my device ' sounds the default ringtone at its maximum volume for one minute , regardless of any sound or vibration settings			0
+by sounding the ringtone , it can alert people to the lost device , increasing the chances of it being found			0
+its call logs feature additionally lets users check to see a list of recent calls , and if the sim card is changed , the owner is automatically informed			0
+the flaw affects any @entity1 device that has enabled the find my mobile service			1
+to protect themselves , users can check the service ’s access by opening @entity154 and security and find my @entity34 .			2
+
+the flaw was discovered by @entity9 security researcher @entity158
+vulnerability affects any device using the firm ’s @entity6 service
+it means hackers can remotely unlock devices and change pin codes
+a proof - of - concept video also shows hackers remotely calling the device
+@entity80 gave it ‘ high - severity ’ rating
+@entity1 claims the reported issue was fixed on 13 october , but mr @entity65 's *demonstration* was posted since that date
+@entity114 has contacted mr @entity65 to *confirm* if the flaw is still exploitable
+
+@entity1:Samsung
+@entity34:Mobile
+@entity37:Samsung Account
+@entity24:Find My Mobile service
+@entity93:Remote Controls
+@entity9:Egyptian
+@entity6:Find My Mobile
+@entity80:National Institute of Standards and Technology
+@entity81:US
+@entity82:NVD
+@entity158:Mohamed Baset
+@entity113:Galaxy S5
+@entity114:MailOnline
+@entity65:Baset
+@entity83:National Vulnerability Database
+@entity154:Menu , Settings , Location

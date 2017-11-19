@@ -1,0 +1,66 @@
+http://web.archive.org/web/20140912050640id_/http://www.dailymail.co.uk/sciencetech/article-2723801/Google-SOUND-View-Tool-adds-ambient-music-noises-world-people-virtually-explore-mapping-service.html
+
+by @entity0 for @entity1 @entity2 lets people explore the world from the comfort of their living room , but it ca n’t replicate the experience of actually being there			2
+in a bid to make this the mapping service more immersive , designers have created the @entity13 project , which adds audio markers to locations			1
+as people move around the map , the sounds change depending on what they are looking at and this includes church bells , waves hitting the beach , a fairground , and more			1
+audio has been manually added to locations to offer a more immersive experience when virtually moving around towns and cities			0
+click experience the tour ( above ) to begin exploring			0
+turn up the volume on your device , or use headphones , to hear the sounds designers and programmers used latitude and longitude points to plot invisible markers on @entity2			2
+they sourced relevant sounds from the web , or created their own mp3 files using audio recording software such as @entity51			0
+the sound is linked to a location using a bespoke framework , markers can be dragged and dropped to other locations , and decibel levels can be customised to make sounds more realistic			2
+@entity60 @entity59 is asking people to create their own soundscapes , to increase the locations covered by the project			1
+step - by - step instructions are available on the @entity13 site			0
+sounds of @entity2 was created for @entity69 - based hearing aid specialists @entity60 @entity59			1
+it ’s still an experimental technology and not all locations are covered yet , but , the designers have so far added sound to three locations ; @entity75 in @entity76 , @entity77 in @entity78 , and @entity79 in @entity80			1
+in @entity76 , for example , the user is dropped in a courtyard where they can hear the bells of the church that is visible on the right - hand side of the screen			1
+moving away from the church and into a plaza , the bells become quieter and a café noise plays , including clinking glasses and people talking			0
+when moving away from the plaza further , a fairground appears and the music from a carousel begins playing			0
+elsewhere , at @entity77 , sounds include the waves hitting the beach , children playing , and rustling grass			1
+and moving around @entity79 in @entity80 , the audio includes people talking , a water fountain flowing , the sound of birds and an orange juice machine running on a cart			1
+users can switch between the locations using dots at the bottom of the screen			0
+clicking the three green blocks on the right - hand side of the screen reveals a guide on how to use @entity119 , and to learn more about adding new locations			0
+the designers created the sounds using latitude and longitude markers to plot invisible markers on @entity2			2
+sounds of @entity2 was created for @entity69 - based hearing aid specialists @entity60 @entity59			1
+it is still an experimental technology and not all locations are covered yet , but , the designers have so far added sound to three locations ; @entity75 in @entity76 ( pictured ) , @entity77 in @entity78 , and @entity79 in @entity80 when moving around the locations , the sounds change and develop			1
+for example , in @entity76 , the user is dropped in a courtyard where they can hear the bells of the church			2
+moving away from the church and into a plaza , the bells become quieter and a café noise plays , including clinking glasses and people talking			0
+when moving away from the plaza further , a fairground appears ( pictured ) and the music from a carousel begins playing they then sourced relevant sounds from the web , or created their own mp3 files using audio recording software such as @entity51			2
+the sound is linked to a location using a bespoke framework , and is dropped onto the map			0
+markers can be dragged and dropped to other locations , too , and decibel levels can be customised to make it sound as realistic as possible			0
+to achieve the correct distance between the user and a specific sound , the project models the map as if @entity2 was a sphere , like @entity167			2
+it then finds the angle at which a sound is lying at , from the user , to generate stereophonic sound			0
+meanwhile , when exploring @entity77 ( pictured ) the sounds include the waves hitting the beach , children playing , and rustling grass			1
+@entity60 @entity59 is asking people to create their own soundscapes , to increase the locations covered by the project			1
+step - by - step instructions are available on the @entity13 site markers can be dragged and dropped to other locations , too , and decibel levels can be customised to make it sound as realistic as @entity188 achieve the correct distance between the user and a specific sound , the project models the map as if @entity2 was a sphere , like @entity167			1
+it then finds the angle at which a sound is lying at , from the user , to generate stereophonic sound ( diagram pictured ) in human hearing , the pinna catches soundwaves and the outer ear points contains a number of curves to help determine the direction of a sound			0
+if a sound is coming from behind or above , it will bounce off the pinna in a different way than if it is coming from in front or below you			0
+this alters the pattern of the waves , and human brains recognise distinctive patterns to determine which direction the sound is coming from			0
+to imitate this action found in human ears , @entity60 applies a ‘ low - pass filter ’ to the sound gradually on its map , the further behind the user it is			2
+@entity60 @entity59 is now asking people to create their own sound maps , and share them with the team to increase the locations covered by the project .			1
+
+sounds of @entity2 was created by designers for @entity69 - based hearing aid specialists @entity60 @entity59
+the project adds audio to locations using sound markers in the @entity2 mapping service
+it is still an experimental technology and only three locations are currently mapped using these audio markers
+this includes @entity75 in @entity76 , @entity77 in @entity78 , and @entity79 in @entity80
+in @entity76 , for example , the user is dropped in a courtyard where they can hear the bells of the *nearby* church
+at @entity77 sounds include the waves hitting the beach , children playing , and rustling grass
+@entity60 @entity59 provides instructions about how to create your own soundscape
+it is now asking people to share their maps to increase the locations covered by the project
+
+@entity188:possible.To
+@entity2:Google
+@entity1:MailOnline
+@entity0:Victoria Woollaston
+@entity13:Sounds of Street View
+@entity167:Earth
+@entity60:Amplifon
+@entity80:San Diego
+@entity51:Audacity
+@entity79:Balboa Park
+@entity78:Hawaii
+@entity69:Manchester
+@entity75:Place du Palais
+@entity59:UK
+@entity76:Monaco
+@entity77:Hapuna Beach
+@entity119:Sounds of Street View

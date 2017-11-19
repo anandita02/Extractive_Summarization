@@ -1,0 +1,19 @@
+http://web.archive.org/web/20140217021232id_/http://www.cnn.com:80/2014/01/11/business/neiman-marcus-data-breach
+
+-- @entity1 says it may be the latest retailer to be struck by hackers			2
+the upscale store says it was informed in mid-december of a possible breach			0
+" on january 1 , the forensics firm discovered evidence that the company was the victim of a criminal cyber-security intrusion and that some customers ' cards were possibly compromised as a result , " @entity1 said in a statement			1
+" we have begun to contain the intrusion and have taken significant steps to further enhance information security			0
+" this comes on the heels of a massive credit and debit card data breach at @entity22 that could affect as many as 70 million people			1
+it is too early to tell how many customers were affected , said @entity26 , a spokeswoman for @entity1 stores			2
+@entity1 says it has informed federal law enforcement agencies and is working actively with the @entity29 .			0
+
+@entity1 says it was informed of a breach in december
+the company does not know how many customers have been affected
+this comes on the heels of a massive breach at @entity22
+
+@entity22:Target
+@entity1:Neiman Marcus
+@entity0:CNN
+@entity26:Ginger Reeder
+@entity29:U.S. Secret Service

@@ -1,0 +1,41 @@
+http://web.archive.org/web/20140913211847id_/http://www.cnn.com:80/2014/07/09/showbiz/george-clooney-daily-mail
+
+-- @entity1 1 , @entity3 newspaper 0			1
+the @entity6 newspaper 's website deleted an article about @entity1 , his fiancee , @entity9 , and her mother , @entity10 , on wednesday , after @entity1 said the article was " completely fabricated " and even " dangerous			1
+" the website subsequently apologized and said it had " launched a full investigation			0
+" the offending article came out on the web on monday and in print on tuesday			0
+while it is now missing from the @entity3 's site , rewritten versions of it still appear on hundreds of other sites -- a point that @entity1 himself made in an unusual response to the @entity3 , published by @entity24 on wednesday morning			1
+in order to rebut the article , @entity1 had to repeat some of what it said			2
+" the @entity3 has printed a completely fabricated story about my fiancee 's mother opposing our marriage for religious reasons , " @entity1 wrote in @entity24			1
+" it says @entity9 's mother has been telling ' half of @entity37 ' that she 's against the wedding			0
+it says they joke about traditions in the @entity42 religion that end up with the death of the bride			0
+" none of that is true , @entity1 said			0
+@entity1 , of course , is used to media misbehavior -- thinly sourced stories about celebrities of his stature are a daily occurrence , and " i seldom respond , " he wrote			2
+" but this lie involves larger issues , " he wrote			0
+" the irresponsibility , in this day and age , to exploit religious differences where none exist , is at the very least negligent and more appropriately dangerous			0
+we have family members all over the world , and the idea that someone would inflame any part of that world for the sole reason of selling papers should be criminal			0
+" later on , he suggested that the @entity3 had moved " into the arena of inciting violence			0
+" so was the mail story completely made up ? @entity72 , the web division of the newspaper , said wednesday that it was " not a fabrication " ; rather , it was " supplied in good faith by a reputable and trusted freelance journalist			2
+" the @entity3 said the journalist " based her story on conversations with a long - standing contact who has strong connections with senior members of the @entity86 community in the @entity6 and the @entity42 in @entity37			2
+" in other words , the journalist played a particularly bad game of telephone , repeating what one person was saying about what other people were allegedly saying about @entity1 's future mother - in - law			1
+" we accept mr. @entity1 's assurance that the story is inaccurate and we apologise to him , miss @entity9 and her mother , @entity10 , for any distress caused , " the @entity3 said in a statement			1
+" we have removed the article from our website and will be contacting mr. @entity1 's representatives to discuss giving him the opportunity to set the record straight			1
+" what we know about @entity1 's fiancee photos : the women who captured @entity1 's heart @entity0 's @entity113 contributed to this report .			1
+
+@entity3 said @entity1 's future mother - in - law opposes his marriage on religious grounds
+@entity1 responds in @entity24 , calling the story " completely fabricated " and " dangerous "
+the story was removed from the @entity3 's website , and the paper is investigating
+@entity1 rarely responds to the media 's stories about his personal life
+
+@entity3:Mail
+@entity1:Clooney
+@entity0:CNN
+@entity6:UK
+@entity24:USA Today
+@entity10:Baria
+@entity9:Amal Alamuddin
+@entity37:Beirut
+@entity113:Joan Yeam
+@entity42:Druze
+@entity86:Lebanese
+@entity72:MailOnline

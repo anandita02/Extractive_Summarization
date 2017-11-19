@@ -1,0 +1,33 @@
+http://web.archive.org/web/20150320153101id_/http://www.dailymail.co.uk/sciencetech/article-2544539/Is-Chrome-spying-YOU-Cyber-criminals-use-Google-browsers-voice-recognition-software-listen-conversations.html
+
+technology - savvy criminals could be listening in to the conversations of people visiting voice - controlled websites using @entity5 ’s @entity4 , one computer expert claims			1
+computer security expert @entity7 discovered that criminals could potentially use the web browser ’s voice recognition abilities to invade users ’ privacy			1
+while the @entity15 programmer reported the problem to @entity5 last september , he says the search giant has not yet fixed the issue			2
+mr @entity7 said that within two weeks of reporting the problem , a patch for the fix was ready			0
+' @entity5 ’s engineers , who ’ve proven themselves to be just as talented as i imagined , were able to identify the problem and fix it in less than 2 weeks from my initial report			1
+' i was ecstatic – they system works , ' he wrote on a website dedicated to the problem			0
+but to date the solution has not yet been put in place			0
+@entity5 says it has looked at the problem and found there was ' no immediate threat ' ' this feature was designed with security and privacy in mind , ' we ’ve re-investigated and still believe there is no immediate threat , since a user must first enable speech recognition for each site that requests it			1
+' the feature is in compliance with the current @entity56 standard , and we continue to work on improvements			0
+' most websites that use voice recognition also use @entity61 secure servers , which means that @entity4 does not have to ask permission every time it wants to run sound - sensitive software			1
+while this usually lets web users interact with sites that use voice - recognition more easily , it also means in this instance that there is potential for a cunning criminal to tap into the feature to invade peoples ’ privacy , @entity66 reported			1
+the programmer warned that as an @entity61 certificate of a secure server is not particularly hard to get hold of , a malicious web developer could programme an invisible pop - up window to let them listen and even record the conversations of users of @entity4 – even after a specific speech recognition website has been closed down			0
+most websites that use voice recognition also use @entity61 secure servers , ( a server room is pictured ) which means that @entity4 does not have to ask permission every time it wants to run voice - recognition software			2
+this means that cunning criminals could potentially tap into the feature to invade peoples ' privacy while the threat has been identified , no - one is sure how much a hacker could gain from exploiting the flaw and how much they could actually hear , as few people talk to their internet browsers unless they are purposely using a voice - recognition website			1
+however , video chat and online gaming users could be vulnerable to having their conversations listened in to			0
+experts told @entity66 that anyone worried about the insecure feature should use an @entity112 version of a website that uses voice - recognition , instead of the @entity61 version			0
+they added that they will notice the change as they will be asked permission every time they want to use voice recognition features			0
+relatively few sites use voice recognition outside the realms of online gaming and chat services , but many people predict that it will soon be used by more people to navigate popular websites .			2
+
+@entity7 discovered that people with *bad* intentions could potentially use the web browser ’s voice recognition abilities to invade users ’ privacy
+he reported the problem to @entity5 's engineers , who came up with a patch for the problem , that has yet to be *implemented*
+@entity5 claims there is ' no immediate threat ' - and says user would have to *approve* the use of their *microphone*
+
+@entity15:Israeli
+@entity7:Tal Ater
+@entity5:Google
+@entity4:Google Chrome
+@entity56:W3C
+@entity66:NBC
+@entity61:HTTPS
+@entity112:HTTP

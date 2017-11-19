@@ -1,0 +1,35 @@
+http://web.archive.org/web/20130726151520id_/http://www.cnn.com/2013/02/08/tech/social-media/facebook-killed-internet
+
+-- for a few minutes thursday evening , @entity1 was redirecting users visiting dozens of websites -- including @entity4 and @entity0 -- to cryptic error pages			1
+the reaction online was pretty much what you 'd expect , with -- as @entity9 noted -- hashtags like " @entity11 " and " @entity12 " common amongst @entity14 users			0
+so what happened , exactly ? there was an issue with the @entity18 that caused users on sites that use that @entity18 to redirect users to a @entity1 error page			1
+for example , if you were visiting @entity4 and logged into our site using your @entity1 account ( and you were also signed into @entity1 ) , you were automatically redirected to a @entity1 error page			1
+exiting the page or attempting to re-access the original site would lead to another			0
+sites such as @entity32 , @entity33 , @entity34 , @entity35 , @entity36 and hundreds of others were all impacted			1
+the bug lasted less than 10 minutes			2
+in a statement , @entity1 told @entity4 : " for a short period of time , there was a bug that redirected people logging in with @entity1 from third party sites			2
+the issue was quickly resolved and @entity47 with @entity1 is now working as usual			0
+" the bug may have been brief , but it has highlighted just how many important websites use @entity18 for user authentication			0
+over the span of just a few years , @entity1 logins have become so pervasive that they are nearly second nature			0
+it also shows that if @entity1 has an issue , it can affect more than just its site -- it can also impact the hundreds of thousands ( millions ? ) of sites that integrate with @entity1 's apis			2
+what 's interesting is that a user did n't even need to be performing the action for the error -- and hijacking -- to occur			0
+instead , simply being logged into both places ( and having the accounts linked ) was enough to force users off of a third - party website and onto @entity1 's error page			1
+
+@entity1 error causes other sites to crash for users
+the *problem* , with @entity1 's log - in tool , last about 10 minutes
+@entity0 , @entity4 , @entity32 , @entity34 , @entity36 among the sites impacted
+
+@entity1:Facebook
+@entity0:CNN
+@entity35:The Daily Dot
+@entity12:Facebocalypse
+@entity11:Facebookmageddon
+@entity4:Mashable
+@entity9:The Next Web
+@entity36:Pinterest
+@entity33:Kayak
+@entity18:Facebook Connect
+@entity14:Twitter
+@entity32:Huffington Post
+@entity47:Login
+@entity34:Hulu

@@ -1,0 +1,14 @@
+http://web.archive.org/web/20081201124806id_/http://www.cnn.com:80/2008/POLITICS/09/27/debate.wrap/index.html?iref=topnews
+
+@ highlight sen. @entity1 and sen. @entity2 debated in @entity3 , @entity4 friday night			0
+
+the debate *focused* on *foreign* *policy* and *national* *security*
+@entity1 *called* @entity2 on *agreeing* with *president* @entity10 *90* *percent* of the time
+@entity2 *criticized* @entity1 on being *naive* on considering *speaking* with @entity12
+
+@entity3:Oxford
+@entity2:McCain
+@entity1:Obama
+@entity12:Iran
+@entity4:Mississippi
+@entity10:Bush

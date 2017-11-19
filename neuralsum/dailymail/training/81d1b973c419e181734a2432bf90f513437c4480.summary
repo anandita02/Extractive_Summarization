@@ -1,0 +1,65 @@
+http://web.archive.org/web/20140809153338id_/http://www.dailymail.co.uk/sciencetech/article-2601096/Internet-users-told-change-passwords-security-alert.html
+
+by @entity0 and @entity1 internet users have been warned to change all their computer and phone passwords following what could be a ‘ catastrophic ’ security breach			1
+major technology firms have urged the public to immediately update their online security			1
+the alert is the result of the discovery of an internet bug called ‘ @entity14 ’ , which is able to bypass computer security settings			1
+lastpass @entity16 warns if a website may be at risk			0
+it also reveals websites that are n't affected if a password is in any dictionary in any language then it will take just three minutes to crack , warned computer expert @entity26			1
+the worst passwords are the likes of ‘ password ’ , ‘ 123456 ’ , ‘ qwerty ’ , or your child ’s name			1
+using the same password for every site can leave you even more vulnerable to hackers , he added			0
+his advice is to use a phrase rather than a word			0
+for example , use ‘ nameisabella ’ rather than just ‘ @entity47 ’ – and use a mixture of letters and numbers			0
+a password of ‘ name ! @entity48 ’ would take a year to crack , said mr @entity26 , managing director of @entity50 ‘ most hackers give up after 24 hours unless it is something they really want to gain access to , ’ he added			1
+as a result , personal information such as passwords and credit card details has been accessible			1
+@entity14 , so called because it creates a ‘ bleeding ’ leak of security , is a flaw in @entity62 , the software used by the majority of websites to keep data secure			1
+the programme works by encrypting data – such as emails , instant messages , bank details or passwords – making it look like nonsense to hackers			2
+when a line of communication is secure and information encrypted , the user sees a padlock on the page			2
+when software is active , one computer may send a ‘ heartbeat ’ – a small packet of data – to check there is still another computer at the other end			0
+however , a flaw in the programming meant it was possible to trick the computer at the other end by sending it a packet of data that looked like one of these heartbeats			0
+this made it possible for hackers to impersonate the website and steal the encryption keys , revealing the data being sent			0
+the bug was found simultaneously by a @entity103 security researcher and a small @entity105 security firm named @entity106 and disclosed on monday night			1
+many companies have installed a ‘ patch ’ to fix the flaw , but there are still many that are vulnerable as service providers must install the update			0
+furthermore , it is not known whether hackers had used it before the bug came to light – it went undiscovered for two years – as doing so would not leave a trail			2
+one of the worst affected sites was @entity121 , who posted a warning on their blogging site @entity125 to say : ‘ the little lock icon we all trusted to keep our passwords , personal emails , and credit cards safe , was actually making all that private information accessible			1
+’ a spokesman for @entity106 said : ‘ if people have logged into a service during the window of vulnerability then there is a chance that the password is already harvested			0
+‘ in that sense it ’s a good idea to change the passwords on all the updated web portals			2
+’ however , researcher @entity144 said changing a password on websites that have not fixed the bug could reveal ‘ both the old and new passwords ’ to an attacker			1
+when contacted by the mail last night , @entity151 ’s major banks would not comment on whether passwords should be changed			2
+@entity154 said they were ‘ monitoring ’ the situation and a @entity157 spokesman said they would not comment on security issues			2
+the @entity14 bug lets anyone on the web read the memory of the systems protected by vulnerable versions of the @entity62 software			1
+it compromises secret keys used to identify the service providers and to encrypt web traffic			0
+this includes the names and passwords of the users and the actual content , such as credit card numbers			2
+attackers can ' eavesdrop ' on communications between servers , steal data directly from the them , and use the information to impersonate services and users on other sites or platforms			2
+@entity186 , global head of research at security firm @entity189 told @entity190 : ' this fault undermines the fundamental trust on the internet for anyone running the vulnerable software and it is widely integrated into the technology we all use every day			1
+' while the fault has now been fixed , providers must apply it manually , so many still are vulnerable			0
+' worse still , the defect was in the code for over two years before being discovered by security researchers - attackers could have discovered this at any time during that period and retrieved large volumes of data without anyone knowing			0
+' at this point the best thing for consumers to do is to assume their passwords and alike have been leaked			0
+they may not have been , but since it 's very hard to actually tell retrospectively , it is better to be safe than sorry			0
+' as providers rush to patch [ the flaw ] , consumers should apply typical it security best practice : ensure you change passwords - once you know the issue has been fixed by your provider ; update your computers ; and do n't use the same password across multiple sites or services			1
+' this is not the first defect of its kind and it certainly wo n't be the last , but it is one of the more serious faults we 've seen in recent internet history			0
+
+online security breach is described as ' catastrophic '
+alert is result of internet bug @entity14 being uncovered
+@entity14 is able to bypass websites ' security measures to access passwords and personal information
+
+@entity144:Mark Schloesser
+@entity16:Heartbleed Checker
+@entity1:Tania Steere
+@entity0:Rebecca Evans
+@entity26:McDowell
+@entity48:saBe1la
+@entity189:Sophos
+@entity157:Lloyds
+@entity103:Google
+@entity121:Yahoo!
+@entity186:James Lyne
+@entity190:MailOnline
+@entity50:Encription Ltd.
+@entity105:Finnish
+@entity106:Codenomicon
+@entity47:Isabella
+@entity14:Heartbleed
+@entity125:Tumblr
+@entity62:OpenSSL
+@entity151:Britain
+@entity154:HSBC

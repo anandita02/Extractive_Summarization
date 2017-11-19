@@ -1,0 +1,37 @@
+http://web.archive.org/web/20111209181630id_/http://www.dailymail.co.uk/sciencetech/article-2068755/Warning-spots-bad-drivers-BEFORE-kill-you.html
+
+by @entity0 last updated at 6:33 pm on 1st december 2011 around one tenth of accidents that happen at crossroads are due to someone driving straight through a red light			0
+but - rather distressingly for responsible drivers - half the people killed are n't the drivers who drove past the red signal			1
+now @entity11 researchers have developed an algorithm that can ' detect ' drivers who 're likely to drive straight across a red light - before they do so			1
+the warning system will give drivers a two - second warning that an oncoming car is about to shoot a red light - it uses advanced ' @entity20 ' vehicle - to - vehicle communications systems already in development by @entity22 the monitor ' watches ' deceleration and distance from a light - and ' guesses ' which cars are likely to break the @entity29			1
+crucially , the software can provide two seconds ' warning if someone else is about to shoot across a crossroads - enough time for other drivers to hit the brakes			2
+' the challenge is , you do n't want to be overly pessimistic , ' how says			0
+' if you 're too pessimistic , you start reporting there 's a problem when there really is n't , and then very rapidly , the human 's going to push a button that turns this thing off			0
+' @entity44 , the @entity46 professor of aeronautics and @entity47 at @entity11 , says ' smart ' cars of the future may use the system to help drivers anticipate and avoid potential accidents			2
+the researchers tested the algorithm on data collected from an intersection in @entity57 , finding that it accurately identified potential violators within a couple of seconds of reaching a red light — enough time , according to the researchers , for other drivers at an intersection to be able to react to the threat if alerted			2
+the creators think the system will allow ' smart cars ' to warn drivers of other dangerous drivers - before the cars even get close enough to cause a crash compared to other efforts to model driving behavior , the @entity11 algorithm generated fewer false alarms , an important advantage for systems providing guidance to human drivers			1
+the researchers report their findings in a paper that will appear in the journal @entity86 on @entity87			0
+' if you had some type of heads - up display for the driver , it might be able to warn you of other drivers who are a ' concern ' says how , who is one of the paper 's authors			0
+" even though your light might be green , it may recommend you not go , because there are people behaving badly that you may not be aware of			0
+" how says that in order to implement such warning systems , vehicles would need to be able to ' talk ' with each other , wirelessly sending and receiving information such as a car 's speed and position data			0
+such vehicle - to - vehicle ( @entity20 ) communication , he says , can potentially improve safety and avoid traffic congestion			1
+today , the @entity117 @entity116 ( @entity116 ) is exploring @entity20 technology , along with several major car manufacturers — including @entity22 , which this year has been road - testing prototypes with advanced @entity121 and collision - avoidance @entity123 researchers are now investigating ways to design a closed - loop system — to give drivers a recommendation of what to do in response to a potential accident — and are also planning to adapt the existing algorithm to air traffic control , to predict the behavior of aircraft .			1
+
+system monitors oncoming drivers and ' predicts ' drivers who are going to go through red lights
+based on advanced ' *v2v* ' - vehicle to vehicle - systems in development by @entity22 and other car *companies*
+
+@entity22:Ford
+@entity44:Jonathan How
+@entity20:V2V
+@entity0:Rob Waugh
+@entity11:MIT
+@entity29:Highway Code
+@entity117:U.S.
+@entity116:DOT
+@entity46:Richard Cockburn Maclaurin
+@entity47:Astronautics
+@entity57:Virginia
+@entity86:IEEE Transactions
+@entity87:Intelligent Transportation Systems
+@entity123:systems.The
+@entity121:Wi-Fi

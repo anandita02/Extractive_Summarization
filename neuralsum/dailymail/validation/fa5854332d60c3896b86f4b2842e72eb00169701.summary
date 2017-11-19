@@ -1,0 +1,56 @@
+http://web.archive.org/web/20150722204655id_/http://www.dailymail.co.uk/sciencetech/article-3004382/Google-skewed-search-results-Report-reveals-tech-firm-favoured-services-rivals.html
+
+@entity0 was almost prosecuted by the @entity2 government three years ago for skewing its search results , according to a confidential report			1
+in 2012 , experts at the @entity6 ( @entity6 ) who were probing the company after some of its rivals complained about @entity0 ’s dominance in internet search , wrote that the company was using anti-competitive tactics , to the detriment of users			1
+the 160 - page report , which was obtained by @entity18 , suggests that @entity0 's algorithms were biased and it was demoting competitors ' services , while putting its own at the top of search results lists			1
+the 160 page report , which was obtained by @entity18 , suggests that @entity0 's algorithms were biased and it was demoting competitors ' services , while putting its own at the top of search results lists it said that key staff members of the @entity6 were in favour of suing the @entity33 tech giant for violating antitrust rules , before the agency settled its investigation in 2013			1
+the internal report was written by the @entity6 ’s competition bureau , which opened its investigation into internet search engines in 2011			1
+it said that @entity0 ’s ' conduct has resulted - and will result - in real harm to consumers and to innovation in the online search and advertising markets			2
+' the report also said that the tech company 's actions ' helped it to maintain , preserve and enhance @entity0 ’s monopoly position in the markets for search and search advertising ' and ' will have lasting negative effects on consumer welfare '			1
+@entity0 claims its facial recognistion ' @entity58 ' system is practically perfect , getting the right person 99.96 per cent of the time			0
+the dataset uses more than 13,000 face images from the @entity64 to measure how accurate the algorithms are at verifying whether two images are of the same individual ' our method uses a deep convolutional network trained to directly optimize the embedding itself , rather than an intermediate bottleneck layer as in previous deep learning approaches , ' the researchers say			0
+' to train , we use triplets of roughly aligned matching / non-matching face patches generated using a novel online triplet mining method			0
+' the benefit of our approach is much greater representational efficiency : we achieve state - of - the - art face recognition performance using only 128 - bytes per face			0
+' on the widely used @entity86 in the @entity89 ( @entity88 ) dataset , our system achieves a new record accuracy of 99.63 %			0
+@entity58 was trained on an enormous 260 - million - image dataset and performed at an 86 percent and higher accuracy rate			0
+it argued that the owner of the world 's number one internet search engine illegally took information from rival websites , such as @entity100 and @entity101 , to improve its own search ranking system and placed restrictions on websites and advertisers , the @entity93 reported			2
+despite this , the @entity6 settled its multi-year investigation of @entity0 in 2013 after the search giant agreed to some voluntary changes to its practices			1
+this included allowing websites to opt out of having content included in competing search products			0
+the @entity18 noted that it 's rare for commissioners not to take staff recommendations , but that another report from a different part of the agency did n't back legal action			1
+@entity121 , who was chairman at the time , said in a statement that @entity0 ’s voluntary changes deliver ' more relief for @entity2 consumers faster than any other option			0
+' the tech firm said that the review showed the way it sorted its results did no harm to either its competitors or consumers googling information			0
+@entity0 said in a statement that ‘ after an exhaustive 19 - month review , covering 9 million pages of documents and many hours of testimony , the @entity6 staff and all five commissioner agreed that there was no need to take action on how we rank and display search results			1
+’ ‘ speculation about potential consumer and competitor harm turned out to be entirely wrong			0
+’ a representative of the @entity6 said the agency had no comment on the report			2
+@entity0 said that the review showed the way it sorted its results did no harm to either its competitors or consumers googling information			2
+a picture of its headquarters in @entity161 , @entity33 is shown details of the report , which the @entity18 said were inadvertently disclosed in an open - records request , come as @entity166 antitrust regulators decide their next steps in a four - year investigation of @entity0			1
+@entity169 has reiterated its assertions that @entity0 abuses its dominant position in the search market , the @entity171 reported			2
+' this shows the @entity6 had direct evidence of intentional search bias by @entity0 , ' said @entity176 , vice president for public policy at @entity169			1
+' with the @entity6 agreeing to a weak settlement against the recommendation of professional staff , this anti-consumer behavior has been effectively greenlighted in the @entity2			0
+' after the regulator made its decision public , @entity181 called it a missed opportunity that was ' weak and - frankly - unusual			0
+
+@entity6 report was obtained by @entity18
+shows @entity0 was almost prosecuted for manipulating search results
+report suggests @entity0 's algorithms demoted rival services
+deal was reached in 2013 for @entity0 to change its search rankings
+
+@entity171:New York Times
+@entity2:United States
+@entity33:California
+@entity0:Google
+@entity166:European
+@entity6:Federal Trade Commission
+@entity176:Luther Lowe
+@entity181:Microsoft
+@entity169:Yelp
+@entity18:The Wall Street Journal
+@entity100:Trip Advisor
+@entity101:Amazon
+@entity161:Mountain View
+@entity86:Labeled Faces
+@entity88:LFW
+@entity89:Wild
+@entity64:Internet
+@entity58:FaceNet
+@entity93:BBC
+@entity121:Jon Leibowitz

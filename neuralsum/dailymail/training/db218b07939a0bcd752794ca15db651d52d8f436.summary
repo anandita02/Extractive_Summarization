@@ -1,0 +1,48 @@
+http://web.archive.org/web/20140811055854id_/http://www.dailymail.co.uk/sciencetech/article-2606921/Will-Nokia-mobiles-soon-unhackable-Quantum-phone-booths-make-texts-calls-100-secure-claim-experts.html
+
+by @entity0 keeping your devices safe and secure is a growing problem - from the @entity6 bug to the @entity7 , digital security is at the top of the agenda			0
+but now experts believe the solution may lie in quantum computing , which would encrypt our phones and , they claim , make them almost unhackable			1
+led by dr. @entity17 at the @entity18 , a team has been working on quantum encoders			2
+under lock and key : researchers have developed a quantum encoding machine that could make your phone unhackable , although you 'll need to use a ' quantum phone booth ' they have been trying to shrink the encoders into more usable sizes			1
+and their latest breakthrough might make quantum encoding a modern security feature			1
+at the moment our internet transactions are secured by public key cryptography			0
+this is an algorithm that requires two keys - one private and one public			0
+while effective , it is susceptible to ‘ eavesdropping ’ hackers who can then duplicate the keys and get access to secure content			0
+a quantum key , however , can not be duplicated in the same way , and any attempt to do so destroys the original			2
+theoretically , this would make codes unbreakable			1
+but while this security measure is desirable , it requires large and bulky equipment to be possible			2
+this equipment is in the form of a server that is used to encode a phone			1
+dr. @entity17 and his team have found a way to reduce the size of this server to that of a case of beer			0
+this then sends photons through a fibre - optical capable into a device that is then embedded in your mobile phone			1
+modern day computers run on a model designed by @entity74 in the 1930s			0
+they are digital and use ' bits ' to transfer information and perform tasks			0
+they use binary code and can only ever been in an active , or an inactive state - running at one or zero			0
+this means that a single bit is either on or off at any one time			0
+the @entity86 quantum computer qubits work differently and can be on , off , or in a mixed state in between			2
+as a result , qubits are able to be in multiple places at the same time			0
+whereas the original @entity74 computer can only make one calculation at a time , quantum computers are capable of performing single tasks faster , and performing multiple tasks more effectively			1
+tasks that would take normal computers years to complete can be processed in seconds using quantum computers like the @entity86			0
+‘ large resources such as laser and detectors are situated at the server side , which is accessible via telecom fiber to a client requiring only an on - chip polarization rotator , which may be integrated into a handheld device , ’ the researchers write in their paper			1
+‘ this opens the way for quantum enhanced secure communications between companies and members of the general public equipped with handheld mobile devices , via telecom - fiber tethering			1
+’ inside the device in your phone , photons are altered as they pass through , encrypting any message that is sent			0
+to send texts or make calls securely , you would just need to plug your mobile into the server			2
+it has been likened to an atm machine , which you ’d use with your phone to make , for example , secure financial transactions			2
+known as quantum cryptography , this feature is being researched further by @entity135 and they hope that the technology could soon be making its way to a phone near you			1
+connecting people : future @entity135 phones could use @entity143 cryptography to keep your information safe the new research could enable our phones to being undergo quantum encoding in future so that we can send secure texts and also make safe financial transactions , according to the researchers			1
+
+quantum computing could be used to make codes unbreakable
+researchers have made *small* servers that encode mobile phones
+*previously* the technology was *limited* only to large companies
+now ' quantum phone booths ' could be used like an @entity165
+the technology is currently being *investigated* by @entity135
+
+@entity17:Laing
+@entity0:Jonathan O'Callaghan
+@entity7:NSA
+@entity6:Heartbleed
+@entity165:ATM
+@entity143:Quantum
+@entity18:University of Bristol
+@entity86:D-Wave
+@entity135:Nokia
+@entity74:Turing

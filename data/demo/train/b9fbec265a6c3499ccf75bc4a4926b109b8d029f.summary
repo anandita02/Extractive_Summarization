@@ -1,0 +1,72 @@
+http://web.archive.org/web/20130904130456id_/http://www.cnn.com:80/2012/07/26/tech/innovation/technology-fighting-fire
+
+-- wildfires are fast - moving targets , so one of the most important weapons firefighting teams can have is timely , precise information about where the fire is , where it 's likely to spread and what 's in its path			1
+in the past couple of years , firefighters have gained a significant advantage : aircraft equipped with heat - detecting infrared sensors and special communication equipment now can relay to firefighting teams on the ground , in minutes , a fire 's precise location , as well as where new " hotspots " are cropping up , even before they burst into visible flame			1
+" when i was an incident commander , i would have killed for this kind of data , " said @entity24 , the director of public safety and homeland / national security for @entity28 , one of the world 's leading geographic information companies			2
+in past decades he commanded operations to fight major wildfires , including the massive @entity36 wildfires of 1988 which scorched about 1.2 million acres			2
+monitoring wildfires with infrared sensors from aircraft is n't new , but the level of detail and speed with which this data gets transmitted to firefighting teams has been revolutionized			1
+" those aircraft used to have to fly at night , because you could n't gather good thermal data during daylight hours , " @entity24 said			1
+" then you 'd have to wait for the plane to land , and then for the thermal imagery to be processed			2
+if we were lucky , we 'd get that information on printed maps by 4 or 5 in the morning -- just maybe in time to brief firefighters before they went out on the line			1
+" today those flights can happen in daylight with vastly improved accuracy , and incident commanders get that data electronically in two minutes on a computer - based map			1
+we now have accurate , almost real - time situational awareness on the spot			2
+that makes all the difference			2
+" wildfires generally have a perimeter marked by an advancing line of flame			2
+but burning debris gets sucked up into the column of hot air over the fire and deposited ahead of the fire line , often causing new spot fires where they land , up to half a mile away			0
+these hotspots also can be caused by burning debris rolling downhill on a steep slope			0
+left unchecked , new hotspots can smolder invisibly for hours or days			0
+" incident commanders and emergency responders who are managing fires need to make decisions on where to focus air drops of fire retardants and other resources , " @entity24 said			0
+" with this new hotspot information , all of a sudden i know : down there in that canyon , not visible yet , there 's a hotspot			0
+so let 's divert some air assets to hold it while it 's still small and later deploy firefighters there			1
+that 's so much better than discovering the hotspot only when it busts out of a canyon , when it 's strong and harder and more dangerous to fight			0
+" how does this data get to firefighting operations so fast ? generally it 's transmitted over the @entity109 ( via broadband or wireless carrier networks ) on a secure website , which decision - makers and emergency responders can access via computers or smartphones			0
+but where a direct connection to these conventional networks is n't available , that data can travel the " last mile " by packet radio , a technology long used by amateur radio operators			1
+meanwhile , brand new technology is also having an impact on fighting wildfires			1
+unmanned aircraft -- sometimes called " drones " -- also are starting to play a bigger role in fighting wildfires			1
+according to @entity133 , as of june the @entity132 had authorized nearly 60 private and government entities to operate unmanned aircraft systems in domestic airspace for many purposes , including fighting wildfires			0
+in the latest issue of @entity139 , @entity140 , a remote sensing specialist with the @entity142 , explained that in addition to carrying sensors , drones also can help form a data transmission network to quickly transmit thermal imagery and other information to firefighting operations			1
+but so far , firefighting reconnaissance drones are n't commonplace			1
+@entity24 said they 've been used mainly " when fires get politically visible			0
+once a fire becomes catastrophic , they turn the drones loose to collect information and data			1
+" that 's because it 's complicated to work drones into firefighting procedures , especially for managing aircraft and air space over fire areas			1
+@entity24 explained , " when there 's a wildfire , emergency airspace gets declared			1
+this restricts all aircraft near the incident			0
+procedures for managing drones along with air tankers and other aircraft would have to be built into that protocol			2
+i think in the future , if drones can be cost - effectively and safely applied , they 'll become very common and useful in fighting wildfires			2
+but that 's a few years down the road			0
+" satellites and even the @entity182 also help fight wildfires			0
+in particular , satellites operated by @entity185 and the @entity186 can supply current data on wind direction and speed , as well as the dryness of surrounding areas			1
+this can help predict where , and how fast , a fire will spread			2
+an agreement signed in june will allow @entity185 and the @entity142 to collaborate on raising wildfire awareness			1
+this partnership will highlight connections between wildfires , forest and plant growth research , and materials science			0
+@entity140 noted in @entity139 : " this joint effort is enhanced by the personal interest of astronaut @entity204 , a flight engineer aboard the @entity182			0
+@entity205 is an avid outdoorsman who has focused much of his career on the environment			0
+he selected @entity209 , the forest service 's mascot , as the zero - gravity indicator and talisman for his @entity215 flight to the orbiting laboratory in may			0
+" @entity205 and his crewmates recorded high - resolution video and photographs of recent wildfires in @entity221 and @entity222			0
+" the opinions expressed in this post are solely those of @entity225 .			0
+
+firefighters have new technology to put out flames before they spread
+tech like infrared sensors is n't new , but greatly improved by the internet
+planes allow for remote monitoring of wildfire situations , drones used in catastrophes
+organizations like @entity185 and @entity186 are collaborating to monitor nature from space
+
+@entity221:Colorado
+@entity215:Soyuz
+@entity0:CNN
+@entity140:Zajkowski
+@entity142:U.S. Forest Service
+@entity24:Johnson
+@entity36:Yellowstone
+@entity28:Esri
+@entity185:NASA
+@entity186:NOAA
+@entity209:Smokey Bear
+@entity222:Utah
+@entity139:Earth Imaging Journal
+@entity133:Aero-News Network
+@entity109:Internet
+@entity225:Amy Gahran
+@entity132:Federal Aviation Administration
+@entity182:International Space Station
+@entity205:Acaba
+@entity204:Joe Acaba

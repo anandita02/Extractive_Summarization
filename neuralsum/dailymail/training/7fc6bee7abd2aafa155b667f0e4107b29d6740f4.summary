@@ -1,0 +1,61 @@
+http://web.archive.org/web/20131223161659id_/http://www.dailymail.co.uk/sciencetech/article-2522647/Apple-Mac-Plus-5-years-web-launch-connects-internet.html
+
+by @entity0 @entity1 : 03:39 est , 13 december 2013 @entity2 : 04:38 est , 13 december 2013 most of us have old tech gadgets lying around gathering dust , but one engineer has decided to put his to good use			0
+@entity9 from @entity10 successfully managed to wire up a 27 - year - old @entity11 - an early version of the @entity17 @entity16 computer - to the web using a @entity14 and proxy server			1
+pages took ' minutes ' to load , but @entity9 was able to access the sites through a proxy server manufactured in 1986 @entity34 and @entity35 @entity37 disk @entity39 hard drive 512 x 384 pixel black - and - white screen system 7.0 @entity27 v2.0 browser ( 1994 ) this means it did n’t have a web browser , could n’t read web addresses and did n’t even have an @entity47 in order to connect it to @entity9 ’s router			1
+the full process of how @entity9 managed to connect his now antique hardware is available on his blog			2
+he began by installing a version of @entity54 - an early version of the @entity16 web browser that runs on the @entity57 operating system			1
+to connect the computer to the router , without an @entity47 , @entity9 used a series of old adapters to to connect a @entity14 to the @entity11			1
+he then connected the @entity14 to the router			2
+to connect to his home network , @entity9 had to wire up his computer to a @entity14 , pictured , and then connect the @entity14 to his router			1
+this was necessary because the @entity11 is so old it does n't have an @entity47 port , so could n't connect to the router directly @entity27 2.0 is not capable of reading web addresses and serving links and pages in the same way as modern - day browsers because it does n’t recognise computer languages such as @entity76 or @entity77			1
+instead , @entity9 recruited a friend to write a proxy program that took the url of websites , removed all modern - day computer language , cookies and images and turned the sites into basic text versions			1
+@entity9 was then able to read @entity29 pages and access @entity30 through the retro browser			2
+on his blog , @entity9 explained : ‘ yes , in a certain sense , my @entity16 has already been on the internet through dial - up shell sessions			2
+a wikipedia page viewed through the @entity96 browser			0
+@entity27 2.0 is n't capable of reading web pages because it does n't recognise computer languages such as @entity76 of @entity77			1
+instead , @entity9 used a program that stripped the sites of this computer language and turned them into basic text versions the @entity11 was manufactured in 1986			1
+it has 4mb ram and is powered by an @entity35			0
+the black and white screen has 512 x 384 pixels and it runs on the @entity106 from 1991			0
+according to @entity9 the computer is ' 200,000 times ' slower than modern - day pcs ‘ what it never did was run a tcp / ip stack of its own			0
+it was always just a dumb terminal on the ‘ net , never a full - fledged member			0
+’ ‘ sure , it was slow as hell , but it worked ! @entity117 loaded , pages rendered , and links were clickable			0
+even forms sort of worked			0
+’ @entity9 has a @entity120 in management science and engineering from @entity122			0
+he also holds a bachelor of science degree in @entity124 from @entity125 .			0
+
+engineer @entity9 *wanted* to connect his 1986 @entity11 to the internet
+he used an early web browser called @entity27 2.0 to run on the system
+by connecting a @entity14 to the @entity16 , he could connect it to a router
+he then set up a proxy server to run text versions of various websites
+although @entity9 admitted the pages took ' minutes ' to render
+
+@entity23:PCs.
+@entity27:MacWeb
+@entity16:Mac
+@entity29:Wikipedia
+@entity117:Data
+@entity2:UPDATED
+@entity1:PUBLISHED
+@entity0:Victoria Woollaston
+@entity11:Mac Plus
+@entity9:Keacher
+@entity57:Mac System 7
+@entity54:MacWeb 2.0
+@entity77:CSS
+@entity76:Javascript
+@entity17:Apple
+@entity30:Hacker News
+@entity14:Raspberry Pi
+@entity35:8MHz MC68000 CPU
+@entity34:4MB RAM
+@entity37:100MB Zip
+@entity10:Colorado
+@entity39:50MB
+@entity106:System 7.0
+@entity96:MacWeb 2.0
+@entity124:Electrical Engineering
+@entity125:Rose-Hulman Institute of Technology
+@entity122:Stanford University
+@entity120:Master of Science Degree
+@entity47:Ethernet

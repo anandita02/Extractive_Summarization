@@ -1,0 +1,50 @@
+http://web.archive.org/web/20150403121249id_/http://www.dailymail.co.uk/sciencetech/article-2332547/The-robot-butler-tend-need--predicting-want-beer-AND-pouring-you.html
+
+a beer - pouring robot that can read your body movements and anticipate when you want another drink has been developed by @entity5 students			1
+researchers from @entity7 used @entity9 sensors and 3d cameras to help the robot analyse its surroundings and identify its owner 's needs			1
+the robot then uses a database of videos showing 120 various household tasks to identify nearby objects , generate a set of possible outcomes and choose which action it should take - without being told			1
+for example , it scans the surrounding area for clues and when it spots an empty beer bottle , can open the fridge , pick up a full bottle of beer and hand it to its owner the @entity7 robot uses sensors and a 3d camera to analyse the depth of its surroundings ( left )			1
+the view seen by the robot in the right - hand picture shows how it anticipates its owner 's actions			1
+it compares the actions against a database of household task videos and chooses what it thinks is the most appropriate response			2
+the more actions the robot carries out , the more accurate its decisions become festival - goers in @entity62 this summer will be able to order beer from their smartphones and have it delivered by a flying drone dropping a can attached to a parachute			2
+the drone has been developed by @entity69 and will be tested at the @entity71 music festival in the @entity73 province of @entity62 this august			0
+customers will be able to place their drink orders through an @entity77 app that will send their gps coordinates to the drone operators			0
+as the actions continue , the robot can constantly update and refine its predictions			0
+as well as fetching drinks for thirsty owners , the robot can also work out when its owner is hungry and put food in a microwave , tidy up , make cereal , fetch a toothbrush and toothpaste , open fridge doors and more			1
+@entity93 , @entity7 's professor of computer science and co-author of a new study tied to the research : ' we extract the general principles of how people behave			1
+' drinking coffee is a big activity , but there are several parts to it			0
+' the robot builds a ' vocabulary ' of such small parts that it can put together in various ways to recognise a variety of big activities			0
+' the @entity7 robot can also help its owner tidy up			1
+in this image , the robot scanned the area and noticed that its owner was carrying a pot of food and heading towards the fridge			2
+the robot then automatically opened the fridge door			0
+during tests , the robot made correct predictions 82 % of the time when looking one second into the future , 71 % correct for three seconds and 57 % correct for 10 seconds the robot was initially programmed to refill a person ’s cup when it was nearly empty			1
+to do this the robot had to plan its movements in advance and then follow this plan			0
+but if a human sitting at the table happens to raise the cup and drink from it , the robot was put off and could end up pouring the drink into a cup that is n’t there			0
+after extra programming the robot was updated so that when it sees the human reaching for the cup , it can anticipate the human action and avoid making a mistake			0
+during tests , the robot made correct predictions 82 per cent of the time when looking one second into the future , 71 per cent correct for three seconds and 57 per cent correct for 10 seconds			1
+this image shows the robot anticipating its owner walking towards a fridge and automatically opens the fridge door for him			2
+the first three images show the robot 's view , the fourth is from the view of the owner ' even though humans are predictable , they are only predictable part of the time , ' @entity93 said			1
+' the future would be to figure out how the robot plans its action			0
+right now we are almost hard - coding the responses , but there should be a way for the robot to learn how to respond			0
+' @entity93 and @entity7 graduate student @entity178 will they present their research at the @entity180 in @entity181			2
+they will also demonstrate the robot at the robotics : @entity186 and @entity187 conference in @entity188 , @entity189 , also in june .			0
+
+the robot , developed at @entity7 , uses @entity9 sensors , 3d cameras and a database of videos to work out what its owner wants
+in tests , the robot correctly anticipated its owner 's needs 82 % of the time
+
+@entity188:Berlin
+@entity189:Germany
+@entity71:Oppikoppi
+@entity7:Cornell University
+@entity5:American
+@entity180:June International Conference of Machine Learning
+@entity178:Hema S. Koppula
+@entity9:Kinect
+@entity69:Darkwing Aerials
+@entity186:Science
+@entity187:Systems
+@entity181:Atlanta
+@entity93:Saxena
+@entity77:iOS
+@entity62:South Africa
+@entity73:Limpopo

@@ -1,0 +1,52 @@
+http://web.archive.org/web/20150723182140id_/http://www.dailymail.co.uk/sciencetech/article-3029247/The-computer-smaller-grain-rice-Researchers-say-smart-dust-invisibly-monitor-home.html
+
+it is the smallest computer in the world - and 150 of them can fit in a thimble			2
+called the @entity5 , to tiny technology is a complete computer system			1
+its inventors say it can act as a smart sensor , and give everyday objects computing capabilities			0
+the @entity5 is the smallest computer in the world , measuring less than 2mm across			1
+the @entity5 contains solar cells that power the battery with ambient light , including indoor rooms with no natural sunlight , allowing the computers to run perpetually			1
+this line of ' smart dust ' devices includes computers equipped with imagers ( with motion detection ) , temperature sensors , and pressure sensors			1
+by strobing light at a high frequency , the operator is able to send information to the computer			1
+once the @entity5 processes the data , it is able to send the information to a central computer via conventional radio frequencies			1
+the @entity37 is the first complete , operational computer system measuring as small as two millimeters across			1
+' to be ' complete , ' a computer system must have an input of data , the ability to process that data - meaning process and store it , make decisions about what to do next – and ultimately , the ability to output the data			1
+' the sensors are the input and the radios are the output			2
+the other key to being a complete computer is the ability to supply its own power			1
+' the @entity37 contains solar cells that power the battery with ambient light , including indoor rooms with no natural sunlight , allowing the computers to run perpetually			1
+this line of ' smart dust ' devices includes computers equipped with imagers ( with motion detection ) , temperature sensors , and pressure sensors			1
+they are the culmination of work initiated by @entity49 and @entity75 on very low - power processing for millimeter - scale systems			2
+a key breakthrough in the size / power matchup came with the @entity81 processor in 2008			2
+the @entity81 processor is miniscule at 915 x 915µm2 , and boasts ultra-low operating voltage and a unique standby mode that results in an average power consumption of only @entity85			0
+( consider that @entity86 is the average power consumption of a single human cell			0
+) @entity49 explained why @entity81 's extreme energy efficiency is so important : ' as you shrink down in size , the percentage of the system tends to be dominated by the battery			2
+' it 's actually not hard to make chips small , but it is hard to make them low power			0
+' we could have very small chips , but we 'd still end up with really large batteries			0
+' this line of ' smart dust ' devices includes computers equipped with imagers ( with motion detection ) , temperature sensors , and pressure sensors			1
+one key application for this line of smart sensors lies in personal security and information , its inventors say			0
+the solar system allows the computer to work under indoor lights without ever having to be charged			1
+' with a 1mm2 solar cell producing @entity124 , the device can harvest enough energy under ambient light to run perpetually , ' the team say			1
+the device 's standby power consumption is @entity129			0
+that 's about a million times less power than the average mobile phone consumes while on standby , or the comparative difference between the thickness of a sheet of paper and the length of a football field			0
+there are currently three different systems in the @entity142 family , focusing on several different applications : sensing temperature , pressure , and taking images			2
+' down the road we want these sensors to be able to talk to one another , ' says @entity49 , ' and we 're currently working to extend their range to about 20m			0
+' the working computer is smaller than a grain of rice programmed and charged via light and could be used for a variety of medical and industrial purposes			2
+one key application for this line of smart sensors lies in personal security and information			0
+numerous specks of technology could be discretely placed to invisibly monitor a home , business , or personal device			0
+' we found that a lot of people were very interested in these devices , and that 's why we went with the modular or stacked approach			0
+' it 's the key aspect of our design			0
+if you need a different sensing modality you take out one sensor and replace it with another - like mix and match tinker toys			0
+
+@entity5 @entity5 is a complete computer system less that *5mm* across
+contains solar cells that power the battery with ambient light
+can be equipped with cameras , temperature and pressure sensors
+
+@entity37:Michigan Micro Mote
+@entity142:M3
+@entity5:Micro Mote
+@entity81:Phoenix
+@entity85:500pW
+@entity86:1pW
+@entity129:2nA
+@entity75:Sylvester
+@entity124:20nW
+@entity49:Blaauw

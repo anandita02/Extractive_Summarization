@@ -1,0 +1,56 @@
+http://web.archive.org/web/20150513001751id_/http://www.dailymail.co.uk/sciencetech/article-2717010/Watch-hacker-unlock-car-WITHOUT-touching-attack-takes-just-10-minutes-complete.html
+
+you may be forgiven for thinking your car is secure , parked on your drive with the doors locked			0
+but a security researcher has revealed how key fobs can be hacked wirelessly using an everyday laptop , transmitter and a bit of technical knowledge			1
+researcher dr @entity10 demonstrated the hack exclusively to @entity12 , ahead of presenting his findings at this week ’s @entity15 conference in @entity16			1
+@entity10 used a software - defined radio to mimic the same frequency as a key fob			1
+using this frequency , he was able to guess the code that unlocked the car			2
+stock image pictured brute - force attacks are used to gain access to encrypted files , for example			2
+hackers know that there ’s an encryption key that unlocks it , and to decrypt it , they can begin to try every possible password and see if that results in a decrypted file			0
+this is done automatically , using calculations made by a computer program			0
+it begins by trying one - digit passwords or codes before scrolling through longer combinations until it reaches the correct one			0
+a ‘ dictionary attack ’ is similar , but uses words in a dictionary , or a list of commonly - used passwords , instead of all possible passwords			2
+dr @entity10 ’s hack involved mimicking the frequency used by key fobs , and wirelessly unlocking the car in minutes			1
+the equipment used in the hack included a software - defined radio , a transmitter , amplifier and antenna all connected to his laptop			1
+his whole system cost $ 1,000 ( £ 600 ) - but prices could be cheaper if different antennas and transmitters were used			1
+the radio is designed to pick up frequencies across the @entity74 , @entity75 and @entity76 range			0
+in the video , dr @entity10 is shown using his laptop , with the antenna and amplifier , to transmit the same frequency used as the key fob			1
+he then performed what ’s known as a ‘ brute force ’ attack to correctly identify the code needed to force the fob to unlock the car			1
+in theory , this could be performed with any key fob if the hacker was able to identify and attack the frequency it sits on			1
+the car used in the attack has deliberately not been revealed , but dr @entity10 told @entity12 he has contacted the manufacturer , via the @entity96 @entity95			1
+dr @entity10 did caveat his discovery , however , by claiming it ’s not as straightforward as it seems			2
+dr @entity10 added that the hacker would need to pick up the car 's unique unlock code by ' eavesdropping ' on the frequency before being able to attack it for example , the hacker would need to pick up the car 's unique unlock code by ' eavesdropping ' on the frequency			1
+but , he noticed the code in his experiment could be used multiple times before it stopped working , so this eavesdropping could occur well in advance of the attack			0
+this is the latest hack that exposes weaknesses in the technology being fitted to modern - day cars			0
+in february , hackers demonstrated a homemade devices called the @entity125 ( @entity126 )			0
+the device can be fitted to any car 's @entity128 ' within minutes ' and run malicious code through the vehicle 's system			2
+once hackers take hold of this network they can control lights , locks , steering and even brakes - and it costs just $ 20 ( £ 12 )			2
+many cars come with built - in software that run on an operating system in a similar way to phones and computers			2
+the @entity125 ( @entity126 ) has four wires that are attached to the different outputs of a car 's @entity128			0
+a 60p ( $ 1 ) computer chip is used to bypass any encryption on the car before reading and writing data from the flash memory of the vehicle 's engine control unit			0
+in february , @entity159 security researchers created the $ 20 ( £ 12 ) can @entity125 ( @entity126 ) ( pictured ) - a device that can be fitted to any car 's @entity128 ' within minutes ' and run malicious code through the vehicle 's system			1
+once hackers take hold of this network they control lights , locks , steering and brakes hacking tools can be attached to a car 's @entity128 ( @entity128 ) , pictured			0
+this diagram shows the electronic layout of a typical car and the features controlled by the @entity128 are shown along the black lines including lights , climate , seats , heating and locks the gadget is smaller than an @entity183 , meaning it sits in the palm of the hacker 's hand , and can be controlled remotely			0
+hackers can use any command they want to program an action via the @entity126 , and this includes disabling the brakes , deploying the airbag , locking the doors and enabling the alarm .			0
+
+@entity196 was demonstrated to @entity12 by security researcher dr @entity10
+he used a software - defined radio to mimic the same frequency of a key fob
+using this frequency , he performed a ‘ brute force ’ attack to guess the code that unlocked the car
+the whole hack was carried out wirelessly on a laptop inside the house
+dr @entity10 's transmitter , antenna and amplifier system cost $ 1,000 ( £ 600 )
+
+@entity16:Las Vegas
+@entity15:Black Hat
+@entity76:Wi-Fi
+@entity12:Wired
+@entity10:Cesare
+@entity196:Hack
+@entity183:iPhone
+@entity75:Bluetooth
+@entity159:Spanish
+@entity128:CAN
+@entity74:FM
+@entity126:CHT
+@entity96:Australian
+@entity95:Computer Emergency Response Team
+@entity125:Hacking Tool

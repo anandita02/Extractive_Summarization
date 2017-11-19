@@ -1,0 +1,54 @@
+http://web.archive.org/web/20140319190518id_/http://www.dailymail.co.uk/sciencetech/article-2366055/Is-Apple-CENSORING-messages-Study-finds-iPhone-refuses-correct-sensitive-rude-words.html
+
+by @entity0 published : 13:04 est , 16 july 2013 updated : 13:04 est , 16 july 2013 @entity3 's @entity2 may be preventing you from typing certain words in your messages without you realising			1
+analysis from news website @entity8 has discovered that @entity2 handsets running @entity3 's latest software - @entity11 6 - will not suggest corrections for words considered to be sensitive or provocative			1
+researchers used the built - in spell checker in the @entity18 developer platform to test more than 250,000 words and discovered that suggestions do not apply for words including ' abortion ' , ' bullet ' , ' suicide ' and ' pornography ' when they have been mistyped			1
+analysis from news website @entity8 has discovered that @entity2 running @entity3 's latest software - @entity11 6 - will not suggest corrections for words considered to be sensitive or provocative , such as suicide , pictured @entity8 took the 250,000 words from the built - in @entity31 dictionary and the @entity33 corpus online dictionary			1
+the researchers then wrote a script that generated three misspellings for each of these words			2
+the misspelled words were run through @entity3 's @entity11 spell checker			1
+the results were analysed and any misspelled words that were offered suggestions were removed			0
+the remaining 20,000 words were run through the spell checker again			1
+another script was written that automatically double - tapped a suggestion if it appeared			0
+this left 14,000 words that are not offered suggestions using the @entity11 spell checker			1
+when a word is misspelled on an @entity54 device including iphones and @entity56 the incorrect word is highlighted in red			0
+this word can be double - tapped to open a menu that lets users pick from suggestions the phone believes the user was trying to type			0
+this fix works for the vast majority of words , but a few have been found to not have any suggestions , even if the mistake was by only one character			0
+the software used in the @entity8 test is different from autocorrect , which attempts to guess a word and corrects it automatically			0
+according to the @entity8 analysis , iphones on @entity11 will not suggest corrections for even ' slight misspellings of words such as ' abortion , ' ' rape , ' ' ammo , ' and ' bullet			1
+' if a user types ' abortiom ' with an 'm ' instead of an ' n , ' the software will highlight the word in red but when it is tapped a message saying ' no replacements found ' appears			0
+the analysis states that there are over 150,000 words that are corrected automatically on the @entity2			1
+it adds that many ' modern spell - check and predictive text engines understand that the ' n ' is located next to 'm ' on a standard keyboard , so replacing it with its neighbor is the low - hanging fruit of the correction world			2
+' when a word is misspelled on an @entity11 device the word is highlighted in red and suggestions for alternative spellings are given			2
+this fix works for the vast majority of words , but a few , such as ' abortion ' , pictured , have been found to not have any suggestions , even if the mistake was by only one character this finding did n't just apply to provocative words , either			0
+@entity8 also found that 14,000 words which are recognised as words when spelled accurately , are n't given suggestions			0
+this included technical words such as : ' nephrotoxin , ' ' sempstress , ' ' sheepshank , ' or ' @entity124 , ' to name a few			0
+among this list were also more frequently used words such as ' drunken , ' ' drunkard , ' ' @entity129 , ' ' murder , ' and ' virginity			2
+' in total , the analysis found words were not identified as jargon or technical words but were not given corrections , including ' bigot , ' ' cuckold , ' ' deflower , ' ' homoerotic , ' and ' marijuana			2
+' the iphones used for testing were all restored to factory settings and had no usage history			0
+all new @entity11 phones and tablets , as well as those that have been updated , run on @entity11 with spell check built - in			1
+older versions of the @entity54 software , from version 3.1.3 to 5 , pictured , do n't have this feature and will accurately correct a misspelling of ' abortion ' all new @entity11 phones and tablets , as well as those that have been updated , run on @entity11 with spell check built - in			1
+older versions of the @entity54 software , from version 3.1.3 to 5 do n't have this feature built - in and will accurately correct a misspelling of ' abortion			1
+' @entity162 , director for international freedom of expression at the @entity165 told @entity8 : ' i hate to say it , but i do n’t think this should surprise anyone			0
+' @entity3 is one of the most censorious companies out there			2
+' she cited the company ’s history of censoring products in its @entity175 as an example of this			0
+@entity3 was not available for comment .			2
+
+analysis has discovered @entity3 's @entity2 will not correct sensitive words
+researchers used @entity11 's built - in spell checker to test 250,000 words
+words including drunken , suicide , and virginity were among the list
+
+@entity3:Apple
+@entity2:iPhone
+@entity33:Wordnet
+@entity0:Victoria Woollaston
+@entity175:App Store
+@entity162:Jillian York
+@entity11:iOS 6
+@entity165:Electronic Frontier Foundation
+@entity8:Daily Beast
+@entity18:iOS API
+@entity56:iPads
+@entity54:iOS
+@entity124:Aesopian
+@entity31:Mac OS X
+@entity129:Aryan

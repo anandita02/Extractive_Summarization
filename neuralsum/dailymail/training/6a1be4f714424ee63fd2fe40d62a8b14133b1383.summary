@@ -1,0 +1,76 @@
+http://web.archive.org/web/20140801211356id_/http://www.dailymail.co.uk/sciencetech/article-2687371/Google-CAESAR-View-Interactive-map-ancient-Roman-roads-reveal-long-took-cost-travel-CHARIOT.html
+
+by @entity0 at its largest , the @entity1 stretched across the length and breadth of @entity4 , @entity5 and beyond covering a staggering 1,061,780 square miles ( 2,750,000 square km )			1
+but its size was can also be attributed to its downfall as managing such a large expanse of land proved costly and time consuming			0
+to put this expanse into perspective , historians have created the interactive ' @entity15 : the @entity16 ' that lets you explore the @entity1 , and see how long it would have taken - and how much it would have cost - to travel the world in 200 ce. try out the interactive map below the map of the @entity1 world was created by @entity23 , an historian in the @entity24 at @entity16			1
+it features 632 sites including urban settlements and mountain passes , and covers close to 4 million square miles ( 10 million square km ) of land and sea			1
+@entity31 now lets users measure the exact distance between two or more points on a map			0
+previously , @entity31 displayed distances when searching for directions , but it would only reveal the distance along the planned route - ' as the crow flies			2
+' this means it would draw a straight line from one point to another to reveal the distance			0
+now , desktop users will see the exact distances between two or more points , which will be useful for runners or cyclists for example			0
+to use the new tool , travellers can right - click on the map and select @entity56 distance			2
+the map reveals how much it would have cost to travel on roads and seas across the @entity1 in 200 ce , and calculates the route based on the season or mode of transport chosen			1
+for example , travelling from @entity65 to @entity66 in july would have taken 21 days , covering 1,642 miles ( 2643km )			1
+prices in denarii would have been 1031.23 per passenger			1
+@entity71 was a small silver coin used by the @entity1			2
+its name is the origin of several modern words such as the currency name dinar , and the @entity79 common noun for money , denaro			0
+an unskilled labourer would have received a denarius for a day 's work , for example			0
+map modes include travelling by foot , horses , relay , oxcart , porter , private chariot , and during a rapid military march			2
+start and end points of routes can be selected using drop - down menus , and users can even select what season they travel in			1
+elsewhere , travellers can select between the fastest , cheapest , and shortest routes and whether they want to exclude roads , rivers , coastal or open seas			1
+once all the options have been selected , the @entity103 button shows the results			0
+these appear as text in the bottom left - hand corner , a longitude and latitude graph along the bottom , and a node route on top of the map			1
+the display options in the top right - hand corner lets users remove , or show , terrain details , sites , names , paths and regions			1
+additionally , there is a video tutorial that teaches users how to navigate around the map			0
+although it broadly reflects conditions around 200 ce , it also covers a sites and roads created in late antiquity			1
+a total of 301 sites serve as sea ports			2
+the baseline road network covers 52,587 miles ( 84,631 km ) of road or desert tracks , in addition to 17,567 miles ( 28,272 km ) of navigable rivers and canals ( pictured ) modes include travelling by foot , horses , relay , oxcart , porter , private chariot , ( stock image pictured left ) and during a rapid military march			1
+start and end points of routes can be selected using drop - down menus and users can even select what season they travel in			1
+travellers can also select between the fastest , cheapest and shortest routes and once all the options have been selected , the @entity103 button shows the results as text , a longitude and latitude graph , and a node route ( pictured right ) @entity15 : the @entity16 of the @entity1 model is based on a simplified version of the network of cities , roads , rivers and sea lanes that framed movement across the @entity1			1
+costs are shown in denarii ( a @entity1 denarius is pictured )			2
+@entity71 is the origin of several modern words such as the currency name dinar , and the @entity79 common noun for money , denaro			0
+although it broadly reflects conditions around 200 ce , it also covers a sites and roads created in late antiquity			1
+a total of 301 sites served as sea ports			2
+the baseline road network covers 52,587 miles ( 84,631 km ) of road or desert tracks , in addition to 17,567 miles ( 28,272 km ) of rivers and canals			1
+when travelling by sea , the map simulates monthly wind conditions and takes account of strong currents and wave height			2
+the model 's maritime network is made up of 1026 sea routes , linking 513 pairs of sites in both directions			0
+the details were taken from historical sources and supplemented by coastal short - range connections between all ports , as well as number of mid-range routes that fill gaps in ancient coverage			0
+their total length , which would have varied monthly due to the changing conditions , averages at 119,806 miles ( 192,810 km )			0
+sea travel is possible at two sailing speeds that reflect the likely range of navigational capabilities in the @entity1 period			1
+maritime travel is constrained by rough weather conditions			0
+more than 150 of the sea lanes are classified as open sea connections and can be disabled to restrict movement to coastal and other short - haul routes			0
+for each route the model generates two outcomes for time , and four for expense in any given month			0
+the map was built by a team led by @entity233 and included geographer and web developer @entity235 and @entity236			0
+when travelling by sea , the map simulates monthly wind conditions and takes account of strong currents and wave height			2
+the model 's maritime network is made up of 1026 sea routes , linking 513 pairs of sites in both directions			0
+all route details were taken from historical sources and supplemented by coastal short - range connections between all ports			0
+
+the @entity1 world map was created by @entity23 , an historian from @entity255
+it features 632 sites across the @entity4 , @entity5 and into @entity259 including urban settlements and mountain passes
+the map covers approximately 4 million square miles ( 10 million square km ) of land and sea
+baseline roads cover 52,587 miles ( 84,631 km ) , in addition to 17,567 miles ( 28,272 km ) of rivers and canals
+@entity272 reveals how much it would have cost to travel on roads and seas across the *empire* in 200 ce
+it calculates the route based on the season , or mode of transport chosen - and reveals four different price options
+for example , travelling from @entity65 to @entity66 in july would have taken 21 days , covering 1,642 miles ( 2643km ) and prices in denarii would have been 1031.23 per passenger
+
+@entity31:Google Maps
+@entity16:Stanford Geospatial Network Model
+@entity1:Roman
+@entity0:Victoria Woollaston
+@entity236:Noemi Alvarez
+@entity5:Europe
+@entity24:Classics and History Departments
+@entity4:UK
+@entity71:Denarius
+@entity235:Karl Grossner
+@entity23:Walter Scheidel
+@entity15:Orbis
+@entity233:Elijah Meeks
+@entity103:Calculate Route
+@entity79:Italian
+@entity56:Measure
+@entity66:Roma
+@entity259:Africa
+@entity65:Londinium
+@entity272:Map
+@entity255:Stanford University

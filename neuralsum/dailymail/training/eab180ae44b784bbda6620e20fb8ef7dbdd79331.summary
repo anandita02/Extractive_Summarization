@@ -1,0 +1,55 @@
+http://web.archive.org/web/20121104094809id_/http://www.dailymail.co.uk:80/sciencetech/article-2198067/Hackers-post-details-MILLION-Apple-ID-codes-claim-taken-FBI.html
+
+by @entity0 published : 06:02 est , 4 september 2012 updated : 13:32 est , 5 september 2012 the @entity1 was today at the centre of a massive privacy row after hackers claimed to have obtained details of over 12 million @entity7 users from an agent 's laptop			1
+hackers released more than a million @entity7 device ids obtained from the laptop of an @entity1 employee			1
+the @entity15 hacking group claims to have over 12 million ids , known as @entity17 , in total - as well as personal information such as user names , device names , notification tokens , cell phone numbers and addresses			1
+it has released a million of them online - but has removed the most personal data			1
+have claim to have obtained more than 12 million @entity29 codes @entity7 uses to identify its gadgets , along with user names and password			1
+the @entity1 was today facing major questions over why it held the data			1
+the hackers today issued a statement saying : ' during the second week of march 2012 , a @entity39 notebook , used by supervisor special agent @entity40 from @entity1 @entity41 and @entity43 @entity42 was breached using the @entity45 vulnerability on @entity46			2
+' during the shell session some files were downloaded from his desktop folder one of them with the name of ” @entity53 ” turned to be a list of 12,367,232 @entity56 devices including @entity17 ( @entity57 ) , user names , name of device , type of device , @entity62 tokens , zipcodes , cellphone numbers , addresses , etc. ' the personal details fields referring to people appears many times empty leaving the whole list incompleted on many parts			1
+' no other file on the same folder makes mention about this list or its purpose			0
+it is believed the group published the numbers as it believes the @entity1 was using the details to track people			1
+however , before releasing the data , the group removed most of the personal details			2
+@entity85 of computer security firm @entity86 believes the @entity1 now has serious questions to answer			2
+' @entity88 are out to embarrass organisations , and it would appear the @entity1 were lax in storage of data			2
+' however , we have to be grateful they have n't published more personal information and held back data			0
+' i 'm not sure that there is much harm in the data they have released in isolation , but questions have to be asked as to why the @entity1 had this information in the first place , and what they were planning to do with it			1
+' the move comes as @entity7 is believed to be putting the finishing touches to a launch event for a new version of its @entity111 the @entity15 group has made the files freely available online			0
+' there you have 1,000,001 @entity117 linking to their users and their @entity62 tokens , ' it said			0
+' the original file contained around 12,000,000 devices			0
+we decided a million would be enough to release			0
+' we trimmed out other personal data as , full names , cell numbers , addresses , zipcodes , etc. ' not all devices have the same amount of personal data linked , some devices contained lot of info , others no more than zipcodes or almost anything			1
+' we left those main columns we consider enough to help a significant amount of users to look if their devices are listed there or not			0
+the @entity142 are included for those mobile hackers who could figure out some use from the dataset			0
+' the group also defended its decision to release the data			0
+' well we have learnt it seems quite clear nobody pays attention if you just come and say ' hey , @entity1 is using your device details and info			2
+' so without even being sure if the current choice will guarantee that peoplewill pay attention to this			0
+
+questions *raised* over why the @entity1 had the data , which is believed to include user names , device names and phone numbers
+@entity168 claims to have over 12 million ids - but has not released the most personal data
+
+@entity111:iPhone
+@entity29:ID
+@entity117:Apple Devices UDIDs
+@entity85:Graham Cluley
+@entity86:Sophos
+@entity88:Hacktivists
+@entity1:FBI
+@entity0:Mark Prigg
+@entity7:Apple
+@entity53:NCFTA_iOS_devices_intel.csv
+@entity57:UDID
+@entity56:Apple iOS
+@entity17:Unique Device Identifiers
+@entity15:Antisec
+@entity39:Dell Vostro
+@entity142:DevTokens
+@entity168:Antisec group
+@entity45:AtomicReferenceArray
+@entity46:Java
+@entity40:Christopher K. Stangl
+@entity41:Regional Cyber Action Team
+@entity42:FBI Office Evidence Response Team
+@entity43:New York
+@entity62:APNS

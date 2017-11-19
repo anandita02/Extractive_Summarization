@@ -1,0 +1,53 @@
+http://web.archive.org/web/20150118150729id_/http://www.dailymail.co.uk/sciencetech/article-2710943/The-app-ENCRYPTS-phone-calls-Signal-free-app-hides-communication-iOS-devices.html
+
+a series of high - profile leaks have revealed how easy it can be for governments , organisations and cybercriminals to track what we ’re doing online			0
+and while @entity10 devices have been able to make free encrypted calls and texts for some time , the feature has been lacking on @entity14 handsets - until now			2
+signal is the first @entity17 app to let users make secure calls over the internet without passwords , call codes , or monthly subscriptions			1
+signal developed by @entity26 - based @entity25 uses a person ’s existing number and contacts ( pictured left )			1
+the first time the app is used , a caller verifies their device using a one - time sms code			1
+during a call signal then displays two random words on the screen of both users ( right ) to verify caller identities signal was developed by @entity39 and uses a person ’s existing phone number and contacts			1
+video calls over the internet are easier to hack and intercept than regular phone calls			0
+to make them more secure , app developers use what ’s called the @entity49 protocol			0
+@entity50 refers to the protocols inventor , @entity52 , while @entity53 stands for @entity53			0
+it uses a variety of cryptographic tools to scramble calls and make them harder to listen in on			2
+signal , for example , additionally displays two words on the screen during a call			1
+these are used to verify who the two callers are , and to make sure people ca n’t join the call in what ’s known as a ‘ man - in - the - middle ’ attack			2
+a caller is asked to verify their device the first time they use the app , via a one - time sms code , and then can use the app without entering a username or password			1
+during a call , @entity60 then displays two random words on the screen of both users			1
+these are used to verify who the two callers are , and to make sure people ca n’t join the call in what ’s known as a ‘ man - in - the - middle ’ attack			2
+on a deeper security level , the app uses what ’s known as @entity49			0
+@entity50 refers to the protocol ’s inventor , @entity52 , while @entity53 stands for @entity53			0
+it uses a number of cryptographic features to scramble calls and make them harder to listen in on			1
+signal is the first free voice call encryption app to launch on @entity17			1
+there are other apps available , namely @entity105 ’s @entity104 and @entity106 ( pictured ) , but these services start at $ 12.95 ( £ 7.70 ) per month @entity26 - based @entity39 already makes @entity108 , which encrypts calls on @entity10 devices ( pictured ) ‘ at @entity112 , we want everyone to have access to advanced secure communication tools that are as easy and reliable to use as making a normal phone call or sending a normal text message , ' explained the developers in a blog post			0
+‘ over the past year , we 've been working to bring the privacy software we 've developed for @entity10 to the @entity121 , and today we ’re releasing signal – free , worldwide , encrypted voice calls for @entity121			2
+’ @entity26 - based @entity39 already makes @entity124 and @entity108 , which encrypts texts messages and calls , respectively , on @entity10 devices			0
+signal is the first free voice call encryption app to launch on @entity17			1
+it is also open source , and the firm encourages developers to audit the code and suggest improvements to make sure the code has n't been compromised or hacked by cybercriminals or organisations			0
+there are other apps available , namely @entity105 ’s @entity104 and @entity106 , but these services start at $ 12.95 ( £ 7.70 ) per month .			0
+
+signal uses a person *'s* existing number and does n't require a password
+instead , a caller verifies their device the first time the app is opened using a one - time sms code
+during a call , @entity60 then displays two words on the screen of both users
+these are used to *confirm* the callers ' identities and stop others joining calls
+signal also uses cryptographic features to scramble the call
+it is the first free voice call encryption app to launch on @entity17
+
+@entity17:iOS
+@entity14:Apple
+@entity26:San Francisco
+@entity112:Open Whisper Systems
+@entity10:Android
+@entity39:Open WhisperSystems
+@entity25:Open WhisperSystem
+@entity53:Real-time Transport Protocol
+@entity52:Phil Zimmermann
+@entity50:Z
+@entity104:Silent Phone
+@entity105:Silent Circle
+@entity106:Silent Text
+@entity108:RedPhone
+@entity124:TextSecure
+@entity49:ZRTP
+@entity60:Signal
+@entity121:iPhone

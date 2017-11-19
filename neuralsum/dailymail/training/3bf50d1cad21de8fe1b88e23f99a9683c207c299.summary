@@ -1,0 +1,69 @@
+http://web.archive.org/web/20150717062152id_/http://www.dailymail.co.uk/sciencetech/article-2941340/Hackers-target-iPhones-Malware-runs-iOS7-iOS8-steal-photos-texts-contacts-reveal-location.html
+
+hackers are using spyware to steal text messages , contacts , pictures and other personal information from @entity6 , according to computer security experts			1
+anti-virus company @entity8 claims it has discovered new software that infects @entity6 running @entity10 and @entity11			2
+the software is spread via phishing attacks that are sent from the phones of friends and associates to encourage targets to click on a link and install the spyware			1
+the @entity21 malware will run on @entity23 devices like the new @entity24 6 ( above ) even if they are not jailbroken known as @entity21 , the spyware will then collect text messages , contact lists , pictures , location data , lists of apps and any software running on the device			1
+this information is then sent to a remote server while the malware will also switch on the @entity24 's microphone and record everything going on around it			2
+@entity8 believe the malware has been created by a group of @entity44 hackers who have in the past been targetting governments , the military and the media			1
+the @entity21 malware is not the first to hack into @entity23 's @entity51 software for its mobile devices			1
+@entity24 users were left unaware for approximately a year - and - a half that a software bug could have made them the victims of ‘ hi - tech eavesdropping ’			0
+security experts warned that past iterations of @entity51 software - dating from as long ago as september 2012 - had a vulnerability that hackers could have exploited to see financial transactions , emails and @entity65 activity			2
+the vulnerability was eventually fixed by an update to the @entity10 software last february			0
+hackers also claim to have been able to circumvent the fingerprint recognition hardware installed on the @entity70 and @entity24 6			0
+some @entity24 users reported last may that they received messages telling them their phones had been hacked by @entity74 and demanding money for their devices to be unlocked			0
+however , perhaps the worst breach of @entity23 security was the hack into the company 's @entity80 that saw the leak of hundreds of personal and naked photographs belonging to celebrities , @entity85 , @entity86 and @entity87			1
+it is thought that @entity21 was designed by the group to help them obtain information from specific high profile targets			1
+@entity8 said it had also identified a second malware programme that is focused on recording audio from so - called ' jailbroken ' devices			1
+these devices have had limitations on their @entity10 software removed , which can compromise the phone 's security			2
+@entity100 , senior threat researcher at @entity8 , said : ' while spyware targeting @entity23 users is highly notable by itself , this particular spyware is also involved in a targetted attack			1
+' the @entity21 app is fully functional malware			2
+after being installed on @entity10 , the app ’s icon is hidden and it runs in the background immediately			0
+' when we try to terminate it by killing the process , it will restart almost immediately			0
+' installing the malware into an @entity117 device yields different results			0
+the icon is not hidden and it also can not restart automatically			0
+' this suggests that the malware was designed prior to the release of @entity51 8 last september 2014			0
+' nearly three quarters of @entity6 and tablets are now thought to be using @entity11 , although a quarter are still running the older @entity10 software			0
+this could mean that up to 200 million devices could be the most vulnerable to the spyware			2
+@entity8 believe the @entity21 malware is related to another type of spyware it has been tracking that works on @entity135 ' systems called @entity136			1
+they claim that the malware has been created by a group of hackers that it calls @entity142			1
+@entity8 found one route of infection was through a simple lure like the one above that downloads @entity21 @entity21 can turn on the microphone of any @entity24 it runs on and record the sound going on around it experts at @entity150 first identified @entity142 as being behind a series of online attacks targeting military officials and defence contractors in a cyber-espionage operation			1
+subsequently they have also been linked to attacks against government officials and journalists			0
+@entity8 said that it is unclear exactly how the new @entity51 malware is spread , although the group tends to infect the devices of contacts and friends of its targets			1
+writing on its blog , mr @entity100 and his colleagues who have been investigating @entity21 , said they had seen one instance where the malware was attacked to a simple link with the words ' tap here to install the application '			2
+however , they added : ' the exact methods of installing these malware is unknown			0
+' there may be other methods of infection that are used to install this particular malware			0
+' one possible scenario is infecting an @entity24 after connecting it to a compromised or infected @entity135 laptop via a usb cable			0
+' @entity186 has contacted @entity23 for comment			0
+@entity23 is thought to have sold more than 800 million of its mobile ios devices including the new @entity24 6			1
+
+computer security firm @entity8 detected new spyware called @entity21
+@entity21 is thought to have been created by a group of @entity44 hackers
+the hackers have been *dubbed* @entity142 after their tactics
+the group are thought to be targeting the military , governments and media
+they infected devices of friends and relatives to attack high profile targets
+the malware runs on @entity23 mobile devices to steal personal information
+
+@entity23:Apple
+@entity21:XAgent
+@entity24:iPhone
+@entity80:iCloud
+@entity85:Jennifer Lawrence
+@entity86:Kelly Brook
+@entity87:Rihanna
+@entity135:Windows
+@entity136:SEDNIT
+@entity150:Micro Trend
+@entity6:Apple iPhones
+@entity8:Trend Micro
+@entity51:iOS
+@entity74:Oleg Pliss
+@entity70:iPhone 5S
+@entity11:iOS8
+@entity10:iOS7
+@entity100:Hacquebord
+@entity117:iOS 8
+@entity142:Operation Pawn Storm
+@entity186:MailOnline
+@entity44:Russian
+@entity65:Facebook

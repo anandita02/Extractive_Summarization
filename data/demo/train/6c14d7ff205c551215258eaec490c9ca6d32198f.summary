@@ -1,0 +1,94 @@
+http://web.archive.org/web/20140110192720id_/http://edition.cnn.com/2011/10/10/tech/mobile/mobile-tools-for-protest/index.html
+
+-- as @entity3 demonstrations spread to cities across the @entity5 , protesters , bystanders and interested people almost everywhere are using mobile devices to share and follow events on the ground			1
+how have mobile organizing tools evolved over the past few years , and where might they go from here ? media technologist @entity15 ( author of " @entity17 with @entity18 " ) attended the protests in @entity21 's @entity20 last week			1
+this led her to reflect on her experience at the @entity25 protests in @entity21			1
+" 2004 was well before @entity26 and @entity27			1
+the tools we had were great for mobile communication among protesters and organizers , or for uploading media to places like @entity35 , where you hoped people might see it			1
+but you could go to another part of the city where no protests were happening , and people there would have no idea that anything was going on , " she said			2
+that situation has completely flipped			0
+today , communicating from and about the @entity3 protests is primarily a social phenomenon			1
+" this week , all my apolitical friends who were not really involved or interested in the protests were still commenting about it on @entity26			2
+it even generated a hilarious spoof meme , # @entity56 , " @entity15 said			0
+" it 's on everyone 's radar now			0
+" in 2004 , text messaging was the primary mobile tool for protest coordination			1
+" most mobile social media tools did n't exist , so we were rolling our own , " said open source software developer @entity63			1
+in 2004 , he helped the @entity67 build a text alert service , which transmitted tactical messages from organizers to more than 10,000 protesters on the scene			1
+@entity73 thinks this relatively closed communication channel may in some ways have had more impact on protests than the more open social media channels that are common today			1
+he said the 2004 text - alert system " was more powerful because there was less noise and competition			1
+our goal was to organize people using their phones ; social media is more about spreading news and opinion			2
+notice that what we heard about how @entity27 was used in @entity91 this spring was mostly not about organizing people on the ground ; it was about getting the word out to the rest of the world			0
+" in a later project , the @entity67 helped the @entity99 and @entity100 mobilize their " get out the vote " campaign			0
+it expanded the text alert system it had created for the @entity106 ' 04 protests to use a distributed technique similar to how @entity108 works			1
+in that project , people across the nation volunteered their home computers ' spare processing capacity to send out text messages to subscribers utilizing sms gateway technology			1
+this minimized the otherwise high cost of transmitting lots of text messages			1
+furthermore , distributed text message broadcasts helped ensure that the messages got delivered			1
+wireless carriers tend to block text messages when they 're generated in volume from a single phone number			1
+but when many volunteers were transmitting alerts in small batches , it bypassed carrier blocking			0
+after 2004 , looking at protest and dissent movements around the world , @entity63 and others realized that in some countries , people may risk their lives by protesting			2
+these activists need mobile communication tools that shield their identities , their current locations and other crucial information			2
+so @entity73 helped create the @entity143 , which makes easy - to - use apps and other mobile software as well as customized mobile phones " that can be used and deployed around the world , by any person looking to protect their communications and personal data from unjust intrusion and monitoring			2
+" @entity63 observed that the @entity3 protesters seem more interested in transparency than secrecy			1
+" with the occupy protests -- at least so far -- law enforcement does n't seem highly interested in surveilling or arresting protesters			2
+" today , @entity63 teaches a course at @entity161 called " social activism using mobile technology			1
+" he 's been sending his students out to the @entity3 protests			1
+in addition to seeing mobile devices being used to create a great deal of citizen journalism there , they 've noted innovative approaches , such as the curation tool @entity173 , an @entity175 and @entity176 app that allows users to connect with people based on proximity			1
+while it 's not completely anonymous , it provides more privacy than popular social media services			2
+" with @entity173 , you do n't have to follow someone ; you can just talk to people in your local area , within a radius of your location , " @entity63 explained			0
+but since @entity173 connects via the internet , " that means it could be shut down if they turned off cell towers , like @entity193 did in @entity194 recently			0
+" @entity63 noted that other mobile communication apps are emerging that are " peer to peer " or " mesh networks , " meaning mobile devices communicate directly with each other , not via the internet			2
+these tools are in their infancy , but @entity205 expects them to develop rapidly			0
+common mobile technologies like @entity207 or emerging ones like near - field communication could play a roll in this evolution			2
+@entity15 also noted that mobile media have the ability to engage the attention -- if not always the participation -- of bystanders			2
+" approximately every other person walking by on the streets was pulling out a phone to check online to see what the protest was about			0
+they were tweeting about it and checking whether the subway was still running , things like that , " she said			0
+" that 's a huge ripple effect of awareness and education			0
+" @entity15 noted that in the past , bystanders would have to walk up to a cop or a protester to ask what was going on , something that can seem daunting or even risky to bystanders			0
+but last week , " most bystanders were taking photos with their phones			0
+some were posting photos to social media or sending them around to their friends			0
+you could see them texting and tweeting , " @entity15 said			0
+" i saw some women wearing janitorial uniforms , speaking an eastern @entity247 language , doing that , too			0
+workers of the world , unite ! " still , the proliferation of mobile media at the recent protests is n't always a good thing			1
+" i get frustrated with ' protest porn ' : people waiting to see the police do something wrong , and then they whip out their cameras , " @entity15 said			0
+" at a big demonstration , there are lots of interesting things to document			0
+for instance , i loved seeing that lots of different kinds of people -- people of color , minorities , etc. -- who had n't been well - represented in in earlier media coverage of the @entity3 protests are now getting coverage , " she said			1
+" with mobile tools , we should do our best to represent the full picture of what 's happening			0
+we should n't just be waiting for something to go horribly wrong			0
+" the opinions expressed in this post are solely those of @entity282 .			0
+
+communicating from and about the @entity3 protests is a social phenomenon
+in 2004 , text messaging was the primary mobile tool
+distributed text message broadcasts help ensure that the messages got delivered
+
+@entity20:Zucotti Park
+@entity21:New York
+@entity26:Facebook
+@entity27:Twitter
+@entity25:2004 Republican National Convention
+@entity3:Occupy Wall Street
+@entity173:Vibe
+@entity0:CNN
+@entity175:iPhone
+@entity5:U.S.
+@entity176:Android
+@entity194:San Francisco
+@entity193:BART
+@entity56:OccupySesameStreet
+@entity73:Frietas
+@entity17:Share This ! How You Will Change the World
+@entity15:Zandt
+@entity35:Flickr
+@entity18:Social Networking
+@entity100:MoveOn.org
+@entity91:Egypt
+@entity106:RNC
+@entity108:SETI@Home
+@entity207:Bluetooth
+@entity205:Frietas
+@entity247:European
+@entity161:New York University
+@entity99:Service Employees International Union
+@entity143:Guardian Project
+@entity282:Amy Gahran
+@entity67:Ruckus Society
+@entity63:Freitas

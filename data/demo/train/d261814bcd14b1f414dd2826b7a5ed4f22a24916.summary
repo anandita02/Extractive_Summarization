@@ -1,0 +1,62 @@
+http://web.archive.org/web/20140922094133id_/http://www.cnn.com:80/2014/04/23/world/asia/malaysia-370-black-box-lab
+
+@entity0 , @entity1 -- at first glance , it does n't look like much			1
+hidden behind an unmarked door , in a nondescript government office building in the @entity1 capital , it could be mistaken for a high school science classroom with work benches , slightly outdated computer monitors , and the odd microscope sitting in the corner			1
+but what happens in this room is anything but amateur			0
+we 're inside the @entity20 's accident investigation lab , the place where the black boxes from @entity25 flight @entity22 could be brought if and when they 're recovered from the bottom of the southern @entity27			1
+the place that may play a critical role in solving the mystery of what happened to the @entity32 and the 239 passengers and crew on board			0
+our guide today is senior transport safety investigator @entity37			0
+an engineer by trade , he 's been taking apart flight data recorders and recovering the data from them for over two decades			1
+@entity37 says he thrives on the technical challenge of accident investigation , but there 's another factor that attracts him to his chosen line of work			1
+" anything you can do to improve safety , improve the safety of the traveling public -- that 's rewarding , " he says			2
+just a handful of countries have the capability and technical know - how to decipher what 's inside a black box			0
+and if the @entity60 , who by international convention are in charge of the investigation into @entity22 , select @entity1 to take the lead , the devices will be brought here			1
+' object of interest ' found retrieving the memory board we start by the sink			0
+once the flight data recorder or cockpit voice recorder is retrieved from more than 4500 meters below the surface of the @entity27 , it will be packed in water in a plastic bin to stop any salt or chemicals from solidifying and damaging the memory board , says @entity37			1
+when the recorder arrives at the lab , @entity37 or another investigator will rinse the recorder with distilled water , then begin the process of taking it apart			2
+sometimes getting the data is simple			2
+" a lot of our work is with undamaged recorders and it 's very easy to download them , much as you would a usb memory stick , " @entity37 says , as he flips open a slot on the end of the recorder			2
+but the process becomes much more technical if the recorders are damaged by fire or water			2
+on the shelves of the lab 's main room are examples of black boxes that have survived some of the worst conditions			0
+their metal casing is warped and torn , or their bright orange exterior charred black			0
+but even with these recorders , @entity37 still has options to tackle what some might consider an impossible task			0
+that 's because the only part of the flight data recorder that investigators really need intact is a small rectangular box called the @entity120 ( @entity121 )			1
+@entity37 unscrews a couple of bolts			0
+wearing gloves and grounded to an anti-static mat , he begins peeling off layer upon layer of housing and protective insulation			0
+in the center , is a memory board with eight flash memory chips , no bigger than the palm of his hand			0
+this is where the vital data , and potentially the answers , live			2
+in the case of the @entity32 , @entity37 says , the flight data recorder captures about 2,000 parameters for up to 25 hours			1
+those include everything from altitude and airspeed , to flap settings , engine performance , even cabin temperature and pressure			1
+@entity37 says some of the key parameters are recorded as often as eight times per second			2
+the cockpit voice recorder captures four audio channels for a maximum of two hours before overwriting			2
+one of the most challenging scenarios is when the board itself is damaged : " we could take each individual chip off the circuit board , read those out individually , and then with the help of the manufacturer , piece all that information together , " @entity37 explains			1
+if there 's water damage , @entity37 says he will rinse the board very carefully , then use a water displacement liquid , before drying out the circuit board in an oven			0
+that process can take a couple of days			0
+decoding the data when the raw data is downloaded from the recorder , it comes out as binary computer code , a slew of zeros and ones			1
+using a document provided by the aircraft manufacturer , investigators are able to decode each piece of data , and begin the process of getting a clearer picture of what happened and when			0
+to illustrate the point of just what the information gathered from a flight data recorder can show , @entity37 takes us through a heavy door into the soundproof audio analysis lab and pulls up an animation on a monitor			1
+for the next 90 seconds we watch an animated representation of a 2010 twin propeller plane crash in @entity200 , @entity1 , when a simulated engine failure went wrong after takeoff , tragically ending in the death of both pilots on board			1
+@entity37 says having this visual representation is a vital tool in helping the public understand an accident : " there 's a satisfaction in working out what happened with the accident and the conclusions , and the closure that that brings			1
+" closure that any investigator , wherever the black boxes from @entity22 end up , might hope to bring to the loved ones of those on board the missing @entity25 flight			0
+@entity2 's @entity222 contributed to this report .			0
+
+@entity226 data from flight *370* could be analyzed at a laboratory in @entity1
+even if the flight data recorder is damaged , information is retrievable
+about 2,000 parameters are decoded , like altitude , engine performance and cabin pressure
+the data is used to create a visual representation , helping the public understand an accident
+
+@entity22:MH370
+@entity2:CNN
+@entity1:Australia
+@entity0:Canberra
+@entity27:Indian Ocean
+@entity37:Campbell
+@entity25:Malaysian Airlines
+@entity226:Black box
+@entity20:Australian Transport Safety Bureau
+@entity32:Boeing 777
+@entity60:Malaysians
+@entity200:Darwin
+@entity222:Michael Holmes
+@entity120:Crash Survivable Memory Unit
+@entity121:CSMU

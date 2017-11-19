@@ -1,0 +1,34 @@
+http://web.archive.org/web/20130110034606id_/http://edition.cnn.com:80/2010/SPORT/football/06/25/football.ac.milan.allegri/index.html
+
+-- @entity2 giants @entity1 have confirmed @entity3 as their new coach			1
+@entity3 has signed a two - year contract with @entity1 and replaces @entity7 coach @entity6 , who left after just one season at the club			1
+the 42 - year - old led @entity11 to mid-table finishes in the last two seasons and recently terminated his contract			1
+a statement on @entity1 's official website read : " @entity1 announce that @entity3 is the new first team coach			1
+the manager has signed a contract until june 30 , 2012			2
+" @entity6 briefly threatened to win the @entity20 title but eventually finished third , securing qualification for the lucrative @entity22			2
+@entity3 says he wants to build on that third - placed finish			1
+he told the club 's website : " it 's a very important day for me			0
+i 'm proud to be able to coach this team and be part of this great club			0
+to the fans i can only say that i 'm very happy , and that i will try to obtain the best with this team			0
+" i replace @entity6 , a coach who has done a good job			1
+under his leadership , @entity1 fought until the end for the @entity35 and the team played very well			2
+therefore i receive a very important legacy			0
+" today is the first day			0
+now i will have all of the time to think and a month available to prepare the new season			0
+coaching @entity1 represents a very important point of arrival in my career			2
+i 'm part of one of the strongest clubs in the world			0
+
+@entity1 confirm @entity3 as their new coach
+@entity3 replaces @entity7 coach @entity6
+the 42 - year - old recently terminated his contract with @entity11
+
+@entity3:Allegri
+@entity2:Italian
+@entity1:AC Milan
+@entity0:CNN
+@entity7:Brazilian
+@entity6:Leonardo
+@entity11:Cagliari
+@entity20:Italian Serie A
+@entity22:European Champions League
+@entity35:Scudetto

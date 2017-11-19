@@ -1,0 +1,84 @@
+http://web.archive.org/web/20090822201024id_/http://www.cnn.com:80/2009/TECH/06/03/db.plane.nav.tracking/
+
+-- cars have @entity3 devices to pinpoint where drivers are when they get lost , so why ca n't @entity3 be used to locate the exact position of planes when the worst happens ? there is currently no way to constantly track planes as they fly over oceans			1
+it took search and rescue teams over 30 hours to locate the wreckage of the @entity16 plane that crashed in the @entity17 on monday			2
+it appears that the aircraft 's onboard gps system was little help to rescuers in the mission			2
+although details of @entity27 's fate remain uncertain , in some air accidents , this critical time could mean the difference between life and death for any survivors			2
+@entity33 , aviation expert for @entity34 , a @entity36 air navigation safety organization , told @entity0 that nearly all modern planes are fitted with gps navigation systems			1
+how sophisticated those the communications and navigation systems are is down to individual airlines when they fit out their planes , an @entity40 spokesperson told @entity0			1
+on board gps systems are primarily navigation tools for the crew , and do not currently enable a constant tracking of a jet by a ground crew at all times			1
+planes receive a position signal , but do n't transmit that back			1
+this is not a problem when a jet is flying over land or in coastal areas , as it is tracked by radar			0
+over oceans radar does not work as it relies on line - of - sight tracking from a ground station			2
+on oceanic flights a flight crew will know its exact position via @entity3 , but it is not able to be tracked by air traffic control			1
+it is left to someone in the cockpit to relay information via satellite communication to air traffic control or a ground station			1
+" @entity79 often have a contract with a private operator to provide their satellite communications			0
+some companies pay for it , some have free contracts , " @entity33 said			0
+modern jets equipped with an @entity88 , @entity89 and @entity90 ( @entity91 ) , like the @entity92 , are also able to send automatic digital signals			1
+these are not instigated by the crew but report automatically on the plane 's systems and relay information to a receiving station			1
+in @entity27 's case that was @entity16 's head - quarters in @entity102			2
+according to an @entity40 spokesperson , it is up to an airline to determine how much information is sent in a data signal ; it may or may not include location details			2
+shortly before the @entity27 disappeared , its automatic system initiated a four - minute exchange of messages to @entity16 's maintenance computers , indicating that " several pieces of aircraft equipment were at fault or had broken down , " @entity16 ceo @entity110 said on monday			2
+when the @entity16 @entity121 's systems failed these messages would no longer have been able to be transmitted			0
+they did relay the plane 's location , but the plane continued flying for an unknown period of time , so the precise location where it went down could not be known			0
+once a plane loses its electronic system , the automatic data messages can no longer be sent , and in those circumstances no one on the flight deck would be able to transmit a message either			0
+aviation experts have stated that the idea of gps tracking has not been part of any safety review within the aviation industry			0
+the general consensus has been that a trained flight crew is on hand that always has the capability to be in contact with someone on the ground should an emergency arise			0
+in the case of @entity27 , it appears that the crew had no time to relay an emergency message			0
+as well as searching for wreckage , a crashed plane can be found by pin - pointing the location of the in - flight black box recorder			0
+black box flight recorder devices contain flight deck data and crew voice recordings			0
+when a plane has crashed black box recorders automatically emit a honing signal , located via radar			0
+emitting a regular ping for 30 days it can be picked up via radio waves , meaning there is a limit to the distance from the device search and rescue teams can be before they can pick up the signal			0
+according to @entity40 the capabilities of tracking a black box is down to the airline ; satellite tracking of black box recorders is not a standard requirement			0
+the @entity16 jet was equipped with a satellite - tracked black box recorder , but it is thought that depths of the ocean in the crash area are too deep for it to be located it 's also possible , although unlikely , that the location of a troubled aircraft could be pinpointed by military defense satellites , experts said			1
+some @entity192 military satellites employ heat - sensitive cameras that scan the skies for missiles and could possibly detect a plane if it were not obscured by clouds , said @entity198 , director of @entity199 , a public policy organization whose web site provides news on weapons systems and the defense industry			1
+upgrading from radar to satelitte the aviation industry is moving toward replacing its traditional radar - based tracking system with a satellite one that would allow air traffic control to know where a plane is at all times			1
+however the new systems would still not enable air traffic control to track planes over remote ocean areas			1
+the @entity192 @entity219 has begun implementing a system , nicknamed @entity221 , in which gps signals would transmit an aircraft 's precise location to air traffic controllers via ground receivers			1
+the system would allow planes to fly more direct routes instead of zig - zagging between radio beacons			1
+the @entity219 is testing the system in pockets of the @entity192 and plans to be using it by the end of the year in the @entity234 , much of which is out of radar range			1
+the agency hopes @entity221 will cover the entire country by 2013			0
+@entity33 says a similar system will be implemented in @entity36 by 2015			1
+" it means planes will automatically transmit the gps position to the ground and surrounding aircraft within about 150 miles , " he said			1
+" in the far future the idea is to be in a free flight condition , " where pilots have more flexibility in their routes while @entity3 keeps planes safely separated			2
+in a trial last year using an @entity255 system , two @entity40 planes were able to change altitude safely while cruising over oceanic airspace			0
+at present , airliners flying over oceans are usually not permitted to change altitude , because oceanic airspace beyond a certain distance from land can not be controlled by radar			0
+controllers and pilots keep the planes on vectors , or defined highways in the sky , to maintain safe distances between aircraft			2
+the ads - b system is being developed internationally			0
+but the expense of outfitting planes with @entity3 is dwarfed by the cost to upgrade from radar to satellite tracking of planes			0
+according to a 2006 @entity219 report , it would cost $ 4.6 billion to change to a satellite - based system in the @entity192 " it 's a bit of a chicken and egg situation , " @entity33 said			1
+" if you do n't put an implementing rule on this equipment , airlines wo n't install it as it 's a costly operation for them			2
+it is ongoing , and will be installed on @entity36 commercial airliners , but it takes time as always			1
+" @entity0 's @entity294 and @entity295 contributed to this story .			0
+
+gps on airliners ca n't help locate planes , as they receive but do n't send signals
+pilots know their position over an ocean but do n't automatically share that data
+both the @entity192 and @entity36 are implementing gps - based air traffic control systems
+
+@entity27:Air France Flight 447
+@entity192:U.S.
+@entity255:Automatic Dependent Surveillance-Broadcast
+@entity110:Pierre-Henri Gourgeon
+@entity88:Aircraft Communication
+@entity89:Addressing
+@entity3:GPS
+@entity0:CNN
+@entity199:GlobalSecurity.org
+@entity198:John Pike
+@entity219:FAA
+@entity79:Airlines
+@entity294:Brandon Griggs
+@entity295:Emanuella Grinberg
+@entity121:Airbus A330-200
+@entity17:Atlantic
+@entity16:Air France
+@entity33:Roelandt
+@entity34:Eurocontrol
+@entity36:Europe
+@entity102:France
+@entity92:A330-200
+@entity91:ACARS
+@entity90:Reporting System
+@entity221:NextGen
+@entity234:Gulf of Mexico
+@entity40:Airbus

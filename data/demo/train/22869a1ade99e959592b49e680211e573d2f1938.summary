@@ -1,0 +1,27 @@
+http://web.archive.org/web/20141005064114id_/http://www.cnn.com/2013/12/19/world/asia/tokyo-governor-resignation/
+
+-- @entity2 governor @entity1 announced his resignation thursday after admitting he received money from a hospital operator prior to his election last year			1
+" i have confirmed my determination to resign as @entity2 governor , " he said during a press conference after handing in his letter of resignation to the @entity10			1
+@entity1 admitted to receiving 50 million yen ( @entity13 $ 480,150 ) from @entity14 , a hospital operator involved in vote - buying allegations			1
+" i should not have borrowed the money , " @entity1 said			2
+he said it was a personal loan and not in any way linked to his election campaign			0
+he added that the money has already been returned			0
+" i have tried hard to demonstrate my accountability , but unfortunately it was n't enough to clear away suspicions against me			0
+" the governor was seen to have played a crucial role in securing @entity2 's successful bid to host the @entity29 in september , the @entity25 reported			2
+" i do n't want to further interrupt the operations of the administration as @entity2 prepares for the @entity29 and @entity33 , " he said at the press conference			1
+" i offer a deep apology , " he said , bowing deeply			0
+it is likely that a special election will be arranged to choose @entity1 's successor in the coming february , according to the @entity25 .			0
+
+@entity2 governor @entity1 resigns after admitting involvement in money **scandal**
+he admitted receiving 50 million yen from a **scandal** - hit hospital operator
+@entity1 says he does not want to interrupt operations as @entity2 prepares for the @entity29
+
+@entity2:Tokyo
+@entity1:Inose
+@entity0:CNN
+@entity13:U.S.
+@entity10:Tokyo Metropolitan Assembly
+@entity25:Japan Times
+@entity33:Paralympics
+@entity14:Tokushukai
+@entity29:2020 Olympics

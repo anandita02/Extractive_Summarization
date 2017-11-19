@@ -1,0 +1,35 @@
+http://web.archive.org/web/20141112180005id_/http://www.cnn.com/2014/10/23/showbiz/movies/christian-bale-steve-jobs-movie/
+
+-- move over , @entity1			0
+@entity2 is going to give the role of @entity4 a go			1
+@entity6 has confirmed to @entity7 that the " @entity9 " actor has been cast in an upcoming biopic about the @entity12 co-founder			2
+@entity6 , who wrote the screenplay for the acclaimed film " @entity14 , " about the founding of @entity16 , is at the helm of the picture and said of @entity2 's casting , " what we needed was the best actor			1
+" " he really is a phenomenal actor , " @entity6 said			0
+" he did n't have to audition			0
+" @entity2 will be in every scene , @entity6 said , and it 's an " extremely difficult part			1
+" " he 's going to crush it , " @entity6 assured			2
+the film is reportedly based on the " @entity4 " biography by @entity29 , which the @entity30 sanctioned			1
+@entity4 died in 2011 following a long battle with pancreatic cancer			0
+@entity1 portrayed the innovator in the 2013 film " @entity4			2
+" @entity2 -- best known for playing @entity36 / @entity36 in the " @entity9 " trilogy -- will next be seen in @entity39 's " @entity38 : gods and @entity41			0
+
+*screenwriter* @entity6 confirmed @entity2 as the star
+the new film is based on a @entity4 - approved biography
+@entity6 said @entity2 will " crush it "
+
+@entity2:Bale
+@entity1:Kutcher
+@entity0:CNN
+@entity7:Bloomberg
+@entity6:Sorkin
+@entity4:Jobs
+@entity39:Ridley Scott
+@entity38:Exodus
+@entity9:Dark Knight
+@entity29:Walter Isaacson
+@entity36:Batman
+@entity14:The Social Network
+@entity41:Kings
+@entity30:late Jobs
+@entity16:Facebook
+@entity12:Apple

@@ -1,0 +1,49 @@
+http://web.archive.org/web/20140627045729id_/http://www.dailymail.co.uk/sciencetech/article-2663568/The-camera-round-CORNERS-Gadget-identifies-hidden-shapes-tracking-changes-light-waves-echoes.html
+
+by @entity0 crude contraptions using mirrors to see round corners have been used for centuries as spying devices , as well as at war			1
+but now scientists have developed a camera system that lets users see round corners using laser light			1
+by tracking diffusely reflected light , the invention reconstructs the shape of objects outside of the field of view			1
+lights , camera , action ! computer scientists have developed a camera system ( pictured ) that that lets users see round corners without using a mirror			1
+using diffusely reflected light from a laser , it reconstructs the shape of objects outside of the field of view researchers at the @entity32 and the @entity33 in @entity34 , came up with the array of devices			1
+a laser is shone on a surface , such as a wall , and serves as a source of scattered light , as well as the source of information			2
+in a demonstration , a laser is shown shining on a white wall , while a camera watches the scene			2
+all it can see initially through the lens is a ‘ spot ’ of light			0
+a computer records the image and the data is processed so the outlines of an object gradually appear on a screen - but it is behind a partition , proving that the camera can see round corners			1
+@entity62 , of the @entity32 , explained : ‘ this is an actual reconstruction from diffusely scattered light			1
+our camera , combined with a mathematical procedure , enables us to virtually transform this wall into a mirror			0
+’ this graphic shows the set - up of the equipment			0
+the light source ( red ) and camera ( field of view marked in blue ) both look at a white wall			2
+the objects the experts want to reconstruct ( green box ) are hidden and are only accessible through indirect reflections off the diffuse wall the laser ' dot ' on the wall is a source of scattered light , some of which falls back onto the wall and into the camera			1
+‘ we are recording a kind of light echo , that is , time - resolved data , from which we can reconstruct the object , ’ he said			2
+‘ part of the light has also come into contact with the unknown object and it thus brings valuable information with it about its shape and appearance			2
+’ to be able to measure such echoes , a special camera system is required , which the team developed			1
+in a demonstration , a laser was shown shining on a white wall , while a camera watched the scene			0
+all it could see initially through the lens was a ' spot ' of light			0
+these large cardboard letters were hidden out of the cameras ' field of view in the experiment the computer recorded the image and the data was processed so the outlines of the hidden object gradually appeared on a screen , proving that the camera can see round corners			1
+the reconstruction of the cardboard letters is shown unlike conventional cameras , it records not just the direction from which the light is coming , but also how long it took the light to get from the source to the camera			2
+this technology is nothing new in itself , as such image sensors are found in depth image cameras used in video game controllers			0
+the scientists said the challenge was extracting the information needed from time - of - flight measurements			0
+professor @entity62 compared the situation to a room which reverberates so greatly that someone can no longer have a conversation with another person			0
+the new camera system lets people see round corners without using a mirror , like a traditional periscope ( pictured ) ‘ in principle , we are measuring nothing other than the sum of numerous light reflections which reached the camera through many different paths and which are superimposed on each other on the image sensor , ’ he said			1
+this problem , known as multipath interference , has been baffling engineers for a long time			0
+traditionally , they would attempt to remove the undesired multipath scatter and only use the direct portion of the signal			0
+based on an advanced mathematical model , the computer scientists developed a method that can obtain the desired information exclusively from what would usually be considered noise rather than signal			1
+since multipath light also originates from objects which are not at all in the field of view , the researchers can make visible what is virtually invisible			2
+‘ the accuracy of our method has its limits , of course , ’ professor @entity62 admitted , as images of what is around a corner are only shown as rough outlines			0
+but the scientists hope that higher resolution images will be possible soon			0
+they will report on their research at the international conference for @entity191 and @entity192 ( @entity193 ) taking place next week in @entity195 , @entity196 .			0
+
+computer scientists at @entity32 developed the camera system
+it lets users see round corners without using mirrors , like a periscope
+system uses diffusely reflected light from a laser to reconstruct the shape of objects outside the cameras ' field of view
+
+@entity33:University of British Columbia
+@entity0:Sarah Griffiths
+@entity34:Vancouver
+@entity196:Ohio
+@entity195:Columbus
+@entity193:CVPR
+@entity192:Pattern Recognition
+@entity191:Computer Vision
+@entity32:University of Bonn
+@entity62:Hullin

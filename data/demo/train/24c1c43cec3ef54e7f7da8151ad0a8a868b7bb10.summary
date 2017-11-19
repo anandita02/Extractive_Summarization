@@ -1,0 +1,29 @@
+http://web.archive.org/web/20130328214700id_/http://www.cnn.com:80/2013/02/20/world/europe/bulgaria-government
+
+-- @entity4 prime minister @entity3 tendered his government 's resignation wednesday after eight days of nationwide protests over high energy bills , his office said			1
+@entity9 : protests in @entity11 , @entity4 the protests against soaring electricity bills have morphed into wider discontent over austerity and the way the country is being run , the official @entity12 reported			2
+@entity20 will vote thursday on whether to accept the @entity22 's resignation , the government said			1
+if it is accepted , the president will announce an election date			0
+" we will perform our functions until the election of a new @entity22 and we will do everything possible to ensure continuity , " @entity3 said in the formal resignation letter read to parliament , according to the @entity12			2
+the government has done its best to respond to the protesters ' demands , the news agency quoted @entity3 as saying			0
+@entity3 , who has been prime minister since 2009 , earlier told lawmakers his @entity39 party would not be part of a caretaker government			1
+@entity4 , a country of just over 7 million people , held its first free multiparty elections since the @entity44 in 1990 , according to the @entity45			0
+why @entity4 ? why now ? @entity0 's @entity46 and @entity47 contributed to this report .			0
+
+new : prime minister @entity3 's government has resigned from office
+new : @entity20 is *expected* to vote on whether to accept the resignation thursday
+@entity4 has been *roiled* by *public* protests for more than a week
+
+@entity3:Boyko Borisov
+@entity22:Cabinet
+@entity20:Parliament
+@entity0:CNN
+@entity12:Bulgarian News Agency
+@entity11:Shumen
+@entity4:Bulgaria
+@entity39:GERB
+@entity9:CNN iReport
+@entity44:Second World War
+@entity45:CIA World Factbook
+@entity46:Christine Theodorou
+@entity47:Laura Smith-Spark

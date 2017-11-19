@@ -1,0 +1,47 @@
+http://web.archive.org/web/20141203023942id_/http://www.dailymail.co.uk/femail/article-2806941/The-sneaky-practice-price-steering-e-commerce-websites-charge-customers-item.html
+
+it 's no secret that advertising is often targeted to online users , but it may surprise you to learn the extent to which pricing is also personalized			0
+according to a study by computer scientists at @entity9 , many major e-commerce sites personalize prices per customer , depending on what software they use or their browser history			1
+the difference in costs can be as large as ten per cent , and most sites do n't even warn you when they are using price steering techniques			1
+researchers found that users who are logged onto the @entity36 website are charged an average of $ 12 less than those who are not logged on			1
+the same goes for online travel services company @entity43			1
+neither @entity43 nor @entity36 tells customers that prices alter depending on the user			1
+websites also discriminate based on what devices customers are logged onto			2
+for example , @entity25 offers an unspoken $ 15 discount for people using @entity55 's @entity54 operating system			0
+@entity26 , on the other hand , suggests products that are about $ 100 more expensive to customers using a mobile device , as opposed to those on a desktop computer			1
+@entity62 and @entity63 , both under @entity64 , steer people to more expensive products at random with a method called a / b testing			1
+for example , one group of users in the study was shown an average hotel listing price of $ 187			2
+another group using the same search terms was shown prices that were $ 17 cheaper			2
+and travel discount site @entity77 personalizes search results based on a user 's history of clicks and purchases			2
+the researchers monitored the results of 300 real online users as well as creating hundreds fake profiles to reach their results			2
+as they explain in the paper , user personalization can be beneficial in many ways			0
+' for example , when a user searches on @entity94 with an ambiguous query such as " apple , " there are multiple potential interpretations , ' reads the paper			0
+' by personalizing the search results ( e.g. , by taking the user 's history of prior searches into account ) , @entity94 is able to return results that are potentially more relevant ( e.g. , computer products , rather than orchards )			0
+' but when these personalized results are such that they manipulate the user into spending more money , it falls in something of an ethical grey area			0
+@entity62 spokesman @entity114 explained to the @entity115 : ' presenting different booking paths and options to different customers allows us to determine which features customers appreciate most			1
+pricing is not manipulated by @entity62			1
+' and @entity123 , a spokesperson for @entity26 , said the findings are accurate but that the company is not ' intentionally steering search results '			1
+lead researcher @entity127 admits that when it comes to online shopping , things do get complicated			0
+' in the real world , there are coupons and loyalty cards , and people are fine with that , ' he said			0
+' here , there 's a transparency problem			0
+the algorithms change regularly , so you do n't know if other people are getting the same results			0
+
+@entity36 , @entity26 , @entity43 and @entity62 are just some of the websites that use price - steering or price discrimination techniques
+some sites show pricier results depending on what device you are using , while others alter the prices at random
+
+@entity26:Home Depot
+@entity64:Expedia Inc
+@entity25:Travelocity
+@entity9:Northeastern University
+@entity36:Orbitz
+@entity123:Stephen Holmes
+@entity115:Wall Street Journal
+@entity114:Dave McNamee
+@entity55:Apple
+@entity43:CheapTickets
+@entity127:Christo Wilson
+@entity77:Priceline
+@entity94:Google
+@entity62:Expedia
+@entity63:Hotels.com
+@entity54:iOS

@@ -1,0 +1,71 @@
+http://web.archive.org/web/20100225075630id_/http://www.cnn.com:80/2009/TRAVEL/business.travel/05/28/computer.security/
+
+-- with @entity2 access at airports , hotels , and aboard airplanes , business travelers do n't have to look very hard for a wireless internet connection			1
+@entity2 hotspots at airports may put users ' computers at risk , but no more so than at coffee shops , experts say			1
+but with these public wireless hotspots becoming more prevalent , in addition to more travelers using smart phones for web access , are business travelers putting themselves at a security risk ? the short answer , some technology security experts say , is yes			1
+but they add that the use of @entity2 at these spots is no riskier than at a coffee shop			1
+" it 's a shared medium , and if you can connect to it , someone else can connect to it and monitor your traffic , " said @entity26 , a senior member of the technical staff at the @entity28			2
+" that has nothing to do with the security of the network			2
+it 's just the nature of the beast			0
+" for @entity43 , the convenience is n't worth the risk			0
+the sales representative from @entity46 , @entity47 , would frequently bring her computer on business trips and access @entity2 through her hotels			1
+hackers tapped into her computer , resulting in inappropriate material being sent through her account			0
+she had to get her computer restored twice , which cost her $ 900			1
+and while she still is n't sure where she was when she picked up the malware , she said the only wireless device she will bring with her as she travels is a cell phone for voice calls			0
+on the other hand , picking up public wireless is n't a major concern to @entity64 , the cto of a technology firm in @entity67 , @entity68 , and a frequent business traveler			0
+he generally avoids transmitting sensitive personal or company data using these hotspots			2
+but as he sees it , having his information stolen " is more likely to happen in some face - to - face transaction than it is even online			2
+" in addition to open networks , experts say the physical loss of devices poses a threat for business travelers			1
+the combination of replacement cost , detection , forensics , data breach , lost intellectual property costs , lost productivity , and legal , consulting and regulatory expenses sets a company back an average of $ 49,246 per lost laptop , according to a study released in april by the @entity98 and sponsored by the @entity99			1
+however , lost laptops with encryption saved companies nearly $ 20,000 , compared with those that did not have encryption , according to the @entity98 study			1
+encrypted disks safeguard data by scrambling information on them			1
+they unlock that information only when the user enters the proper passcode			2
+" i do n't know how many times we 've heard about laptops being stolen and they have no encryption on them			0
+and it pretty much means that the bad guys can get to your data			0
+they do n't have to know your password or anything , they can just get to it , " said @entity123 , chief security adviser for @entity124 , an internet security company			2
+and many businesses do not yet require their employees to use passwords on their smart phones , leaving lost devices " woefully unprotected , " said @entity135 , ceo and chairman of @entity137			0
+tips for staying secure despite the potential for security breaches , there are simple steps you can take to keep yourself armed as you connect wirelessly on your travels : use an encrypted disk to safeguard the information on your laptop or smart phone , @entity26 said , and make sure you log off of your computer when you 're not using it			1
+in most cases , when you hibernate your computer , its memory is recorded unencrypted			0
+" you can not for convenience close your lid , let your computer go to sleep and believe that if someone steals your computer , your data is protected , because it 's not , " @entity26 said			0
+@entity123 recommended free software called @entity162 ( truecrypt.org ) that you can use to encrypt the content on your local drive and on usb flash drives			0
+turn off your wireless and @entity168 connections if you 're not using them , said @entity135			0
+" those are electronic doorways into your devices			0
+on my @entity173 , i can sit there and scan for open @entity2 peer - to - peer connections			1
+@entity176 [ can ] then gain access to what 's in your files you may have stored in there , your contacts			0
+" use an anti-glare shield on your computer to prevent others from spying , @entity26 suggested			0
+with such shields , you must be face - to - face with the screen to be able to read it			0
+regularly back up the data on your laptop or smart phone , @entity123 said			2
+several companies offer backup services , but you can also save information on other computers and disks			1
+even if your data is encrypted -- eliminating your fear of sensitive information getting stolen -- backing up the data will make it easy to transfer to a new phone or laptop , @entity123 said			1
+if you lose your smart phone and do n't want others to access your information , call your provider and request that the device be wiped of information , @entity123 said			2
+he also suggested considering software that allows you to send a text message to your phone that will remotely wipe it and block others from accessing its content			0
+to ensure that you 're visiting an authentic web site and not getting duped by a phishing scheme , some experts suggest logging onto those sites through your company 's @entity223 connection			1
+but technology company @entity225 says he hesitates to use @entity223 from a public @entity227 : " even though all the traffic is encrypted , " he said , " if your machine got compromised in some way , it is sort of a gateway into your network			1
+
+@entity2 at airports , planes , hotels may be risky , but no more than at coffee shops
+study : loss of a single laptop costs a company $ 49,246
+use encrypted disks to keep your information safe , experts say
+
+@entity26:Linder
+@entity28:Carnegie Mellon Software Engineering Institute CERT / Coordination Center
+@entity135:Clawson
+@entity137:Lumension Security
+@entity2:Wi-Fi
+@entity173:BlackBerry
+@entity0:CNN
+@entity176:I
+@entity99:Intel Corporation
+@entity98:Ponemon
+@entity124:F-Secure
+@entity123:Runald
+@entity162:TrueCrypt
+@entity223:VPN
+@entity225:CTO Fitzpatrick
+@entity227:Wi-Fi hotspot
+@entity168:Bluetooth
+@entity46:Chapin
+@entity47:South Carolina
+@entity68:Georgia
+@entity43:Fran Hanna
+@entity67:Alpharetta
+@entity64:Brian Fitzpatrick

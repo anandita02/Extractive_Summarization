@@ -1,0 +1,74 @@
+http://web.archive.org/web/20120917215937id_/http://edition.cnn.com/2012/05/11/tech/web/fbi-pop-up-windows/index.html
+
+-- if you 're traveling abroad , your laptop could be attacked			0
+that much , is certain , according to the @entity4 , which warned this week that hackers are " targeting travelers abroad through pop - up windows while establishing an internet connection in their hotel rooms			1
+" the warning comes from the @entity4 's @entity11 , or the @entity12			1
+but it lacks so many key details that security experts wonder if it 's of any use			1
+it does n't say where these attacks have occurred , how prevalent they are , or how exactly they work			2
+@entity20 , a blogger with antivirus vendor @entity21 , found the lack of details peculiar			2
+" what 's fascinating about the advisory is what it does n't say , " he wrote on his blog thursday			0
+" and without more information it 's hard to know how computer users are supposed to take meaningful action to protect themselves			2
+" @entity34 reported late last year of a widespread hacking effort that hit @entity36 , including at least one hotel network service provider			0
+networks were hit in " more than a dozen countries , including @entity40 , @entity41 , @entity42 , @entity43 and @entity44 , " @entity34 said			0
+the @entity12 report comes months after the @entity34 story , but then the @entity4 is n't exactly known for being ahead of the curve when it comes to security warnings			1
+here 's the key passage : recently , there have been instances of travelers ' laptops being infected with malicious software while using hotel internet connections			1
+in these instances , the traveler was attempting to setup the hotel room internet connection and was presented with a pop - up window notifying the user to update a widely - used software product			1
+if the user clicked to accept and install the update , malicious software was installed on the laptop			2
+the pop - up window appeared to be offering a routine update to a legitimate software product for which updates are frequently available			1
+but pop - up windows that instruct users to do bad things -- installing adware or fake antivirus products or malicious trojan horse programs , for example -- have been around for years			1
+they happen everywhere in the internet , not just in untrustworthy hotel and public @entity82 networks			1
+" nobody has cited evidence specifically tying this to hotel rooms , " says @entity83 , ceo of security consultancy @entity84			2
+" my advice for travelers is that there is nothing you need to do for traveling that you should n't already be doing anyway			0
+" reached thursday , @entity4 spokeswoman @entity94 could n't cite any public reports detailing these attacks			1
+" we do n't ' have much more guidance to offer the public beyond what was shared in the alert , " she said			0
+security experts generally acknowledge that hotel networks â € ” especially open @entity82 networks â € ” are untrustworthy minefields			1
+@entity107 , a technology consultant based in @entity109 , says he 's seen this type of attack described in the @entity12 report in hotel and public @entity82 networks in @entity115 , @entity116 , and @entity117			1
+" the user gets a pop up or a browser window that states in order to login please allow us to update your browser , then they download the payload and are infected , " he says			2
+in some cases , the update looks like it 's from @entity129 , @entity107 says			0
+for corporate users , or those who are technically savvy , a virtual private network is often the best way to boost security			2
+another option : use your mobile carrier 's network			0
+that 's what @entity141 did recently on a trip to @entity144			0
+instead of paying for a hotel network , he simply grabbed his @entity146 and connected to his carrier 's @entity147			0
+" there are other performance reasons too , " he says , " but security drives a portion of my concern			0
+" for @entity83 , that means full disk encryption , to make your laptop unreadable in case it gets stolen			0
+he also says that travelers should be up - to - date with their software patches and use secure @entity162 connections whenever they 're on the @entity163			1
+" and stop clicking on @entity164 , " he adds " if you do n't do this already , then there 's really no hope for you anyway			0
+subscribe to @entity169 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity173 .			0
+
+@entity4 says overseas travelers at risk to attacks through pop - up windows
+security *analysts* note warning is short on details
+attack is a pop - up asking users to update a popular piece of software
+it has happened on hotel @entity82 *systems* , @entity4 says
+
+@entity20:Graham Cluely
+@entity21:Sophos
+@entity129:Adobe Systems
+@entity117:Indonesia
+@entity116:Malaysia
+@entity115:China
+@entity83:Graham
+@entity84:Errata Security
+@entity12:IC3
+@entity173:Wired.com
+@entity0:CNN
+@entity4:FBI
+@entity144:Las Vegas
+@entity34:Bloomberg
+@entity11:Internet Crime Complaint Center
+@entity36:ISPs
+@entity107:Kine
+@entity109:Jakarta
+@entity94:Jenny Shearer
+@entity162:SSL
+@entity163:Web
+@entity146:iPad
+@entity147:4G network
+@entity141:Searl Tate
+@entity164:Trojans
+@entity169:WIRED magazine
+@entity82:Wi-Fi
+@entity44:Russia
+@entity40:Canada
+@entity41:Switzerland
+@entity42:Bangladesh
+@entity43:Venezuela

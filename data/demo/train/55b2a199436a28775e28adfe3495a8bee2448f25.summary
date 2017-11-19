@@ -1,0 +1,69 @@
+http://web.archive.org/web/20141012032041id_/http://www.cnn.com:80/2012/03/29/tech/super-computer-exa-flop
+
+-- a new era in computing that will see machines perform at least 1,000 times faster than today 's most powerful supercomputers is almost upon us			1
+by the end of the decade , @entity7 computers are predicted to go online heralding a new chapter in scientific discovery			1
+the @entity12 , @entity13 , @entity14 , the @entity15 and @entity16 are all investing millions of dollars in supercomputer research			2
+in february , the @entity15 announced it was doubling investment in research to â ‚ ¬ 1.2 billion ( $ 1.6 billion )			2
+see also : @entity21 telescope to search for secrets of universe what is an @entity7 ? computer scientists measure a supercomputer 's performance in @entity28 , an acronym for @entity28 , while " exa " is a metric prefix which stands for quintillion ( or a billion billion )			1
+an exascale computer could perform approximately as many operations per second as 50 million laptops			1
+" it is the next frontier for high - performance computing , " says @entity35 , professor at the @entity36 at the @entity38 's @entity37			2
+how fast are today 's supercomputers ? today , the fastest supercomputers operate at the @entity28 level says @entity35 , performing in excess of one quadrillion ( or a million billion ) operations per second			1
+the first computer to break through the @entity28 barrier was @entity50 's @entity49 in 2008			1
+but its reign as the fastest computer in the world did n't last long , with the @entity54 installed at @entity55 in the @entity12 becoming the quickest with a performance of 1.75 @entity28 in 2009			1
+today , the crown is held by is @entity14 's k computer developed by @entity59 and @entity60 , according to @entity61 -- a project that tracks trends in high - performance computing			1
+the machine , installed at the @entity66 , in @entity67 , @entity14 , currently operates at over 10 @entity28			0
+it is more than four times faster than its nearest rival , @entity13 's @entity73 computer ( 2.57 petaflops )			1
+how big are they ? " the kind of space that you need is similar to that of a football field			0
+you 're talking about many , many lanes of computer racks and thousands of processors , " says @entity35			2
+the k computer contains a mind - boggling 88,128 computer processors and is made up of 864 refrigerator - sized cabinets			2
+physically , exascale computing wo n't get any bigger , says @entity35 , and might even get a little smaller			0
+but the amount of processors will rise substantially to anywhere between one million and 100 million			0
+see also : $ 35 @entity91 size of a credit card what are the challenges of reaching exascale ? @entity35 says " severe technology barriers " remain , the most important being power			1
+" power consumption of supercomputers in general is not sustainable , " he says			1
+" the current projections suggest that power consumption of exascale computers will be 100 megawatts			1
+it 's impossible to build a suitable facility and have enough power			1
+" historically , a computer 's processor has used the most power ( around 40 - 50 % of the total ) @entity35 says , but memory is rapidly catching it up			1
+" changing materials and also the architecture of processors and memories is critical to exascale 's success , " he says			2
+" we are beginning to understand the challenges of exascale in terms of hardware , software and applications			0
+we are at the stage where we can make mental projections and set up directions for research			0
+" what benefits could exascale computing bring ? it will enable discovery in many areas of science , says @entity35			0
+" aerospace engineering , astrophysics , biology , climate modeling and national security all have applications with extreme computing requirements , " @entity35 said			0
+see also : mapping the brain 's secrets @entity145 , public information officer at @entity55 , says exascale will attempt to tackle very serious challenges in energy supply and sustainability			2
+" these are very difficult problems and will require the development of new forward - thinking technologies to deal with them , " @entity145 said			0
+" we are bringing all our resources to bear on these problems , " he added			0
+social sciences could also profit , says @entity35			0
+" more and more people are interested in understanding the behaviors of societies as a whole			0
+these require simulations -- how people interact , communicate , how they move			0
+that will require exascale computing , " he said .			0
+
+*exaflop* supercomputers will perform a billion , billion operations every second
+@entity172 computer would be 1,000 times faster than today 's quickest machines
+issues over power consumption remain stumbling block to their creation
+@entity7 computers expected to go online around 2020
+
+@entity21:Super
+@entity28:petaFLOPS
+@entity35:Nikolopoulos
+@entity172:Exascale
+@entity7:First exaFLOP
+@entity50:IBM
+@entity55:Oak Ridge National Laboratory
+@entity54:Cray Jaguar
+@entity59:RIKEN
+@entity73:NUDT YH MPP
+@entity16:Russia
+@entity15:EU
+@entity14:Japan
+@entity13:China
+@entity12:United States
+@entity37:Queen 's University of Belfast
+@entity36:School of Electronics
+@entity38:UK
+@entity0:CNN
+@entity91:PC
+@entity145:Cabbage
+@entity66:RIKEN Advanced Institute for Computational Science
+@entity67:Kobe
+@entity49:Roadrunner
+@entity60:Fujitsu
+@entity61:TOP500

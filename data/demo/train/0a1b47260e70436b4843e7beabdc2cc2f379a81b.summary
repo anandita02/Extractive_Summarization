@@ -1,0 +1,31 @@
+http://web.archive.org/web/20120701174831id_/http://edition.cnn.com:80/2007/BUSINESS/12/21/starbucks.facts/index.html?iref=allsearch
+
+-- @entity1 is the leading retailer , roaster and brand of specialty coffee in the world , with more than 6,000 retail locations in @entity7 , @entity8 , @entity9 , the @entity10 and the @entity11			1
+the first @entity1 opened in 1971 , in @entity12 , @entity13			1
+the name comes from @entity16 's @entity15 , a classic @entity18 novel about the 19th century whaling industry			0
+the seafaring name seems appropriate for a store that imports the world 's finest coffees to the cold , thirsty people of @entity12			0
+@entity25 joined @entity1 in 1982			2
+while on a business trip in @entity27 , he visited @entity29 's famous espresso bars and was impressed with their popularity and culture			0
+in the 1990s the demand for high quality coffee allowed @entity1 to expand beyond @entity12 , first to the rest of the @entity18 , then further afield			1
+after becoming one of the first companies to offer stock options to its part - time employees , @entity1 became a publicly traded company			0
+
+the first @entity1 coffee *house* opened in 1971 , in @entity12
+today there are more than 6,000 retail locations across the world
+*current* *ceo* @entity49 joined the company in 1982
+
+@entity16:Herman Melville
+@entity1:Starbucks
+@entity0:CNN
+@entity7:North America
+@entity12:Seattle
+@entity11:Pacific Rim
+@entity25:Howard Schultz
+@entity9:Europe
+@entity10:Middle East
+@entity15:Moby Dick
+@entity18:U.S.
+@entity49:Charles Schultz
+@entity29:Milan
+@entity13:Washington
+@entity8:Latin America
+@entity27:Italy

@@ -1,0 +1,54 @@
+http://web.archive.org/web/20100419110855id_/http://www.cnn.com:80/2009/TECH/07/27/conficker.update/
+
+-- remember @entity1 ? about 5 million computers still are believed to be infected with the @entity1 worm			1
+the hugely talked - about computer worm seemed poised to wreak havoc on the world 's machines on @entity8			1
+and then ... nothing much happened			0
+but while the doom and gloom forecast for the massive botnet -- a remotely controlled network that security experts say infected about 5 million computers -- never came to pass , @entity1 is still making some worm hunters nervous			1
+@entity16 , program director at @entity17 , a nonprofit research group , said @entity1 infects millions of machines around the world			2
+and the malware 's author or authors could use that infected network to steal information or make money off of the compromised computer users			2
+" @entity1 does stand out as one of those bots that is very large and has been able to sustain itself on the @entity31 , " which is rare , said @entity16 , who also is a member of the international group tracking @entity1			2
+still , computer users , even those infected with @entity1 , have n't seen much in the way of terrifying results			1
+after the botnet relaunched april 1 , it gained further access to an army of computers that the program 's author or authors could control			0
+the only thing the author or authors have done with that power , though , is to try to sell fake computer - security software to a relatively small segment of @entity1 - stricken computers , @entity16 said			1
+the lack of a major attack has led some people in the security community to assume that the worm is basically dead			1
+@entity56 , chief research officer with @entity57 , an internet security company , says the people who created @entity1 would have launched a major offensive by now if they were going to			1
+@entity56 , who is scheduled to speak about the @entity1 botnet next week at @entity60 , a major computer security conference , said he thinks whoever made @entity1 did n't mean for the worm to get so large , as the size of the botnet drew widespread attention from the security community and the media			1
+" this gang , they knew their stuff			0
+they used cutting - edge technology that we had never before			0
+... i 've been working in viruses for 20 years , and there were several things that i 'd never seen at all , " he said			0
+" that , to me , would tell that perhaps this is a new group or a new gang , someone who tried it for the first time			0
+" he added , " the more experienced attackers do n't let their viruses or their worms spread this widely			0
+they , on purpose , keep their viruses smaller in size in order to keep them from headlines			0
+" veteran botnet creators tend to hold the size of the malicious networks to about 2,000 to 10,000 computers to keep from being noticed , he said			2
+" even if the [ @entity1 ] gang would want to continue operations , most likely they would drop the current botnet and start something new , " he said			2
+@entity101 , director of threat research for @entity103 , an information technology company , said researchers are still watching @entity1			1
+" it 's still being tracked , so it is still active out there , but certainly the threat has been mitigated by all of the attention and focus that it has received , " he said			2
+@entity101 said the press hyped the @entity1 story because it was tied to @entity8 and because it made so many computers vulnerable to attack			1
+he said other viruses and botnets pose more serious threats			0
+@entity120 , senior technology consultant at @entity121 , a computer security company , said the infected @entity1 network is still growing			1
+" the interesting thing is , the hackers never really did much with the botnet that they created			0
+so they created an army of lots and lots of computers ... but they 've never really done anything with it , " he said			0
+" they were almost frightened off doing it			0
+" others disagree with that assessment			0
+@entity56 said @entity1 was not hype ; it was the largest network of its kind seen since 2003 and deserved the attention it got from the security community and from the public			1
+@entity16 said theories about the the motives of @entity1 's creator are based on speculation			0
+the important thing , he said , is that security experts will continue to work to reduce the number of computers infected with the worm .			1
+
+@entity1 , a *feared* computer worm , has n't caused much *damage* yet
+security experts disagree about whether @entity1 threat has passed
+worm made news because of an supposed @entity8 attack
+some infected computers have received malicious *anti-virus* software
+
+@entity17:SRI International
+@entity16:Porras
+@entity1:Conficker
+@entity0:CNN
+@entity8:April Fool 's Day
+@entity101:DeBolt
+@entity103:CA
+@entity57:F-Secure
+@entity56:Hypponen
+@entity31:Web
+@entity60:Black Hat
+@entity120:Graham Cluley
+@entity121:Sophos

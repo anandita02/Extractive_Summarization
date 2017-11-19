@@ -1,0 +1,41 @@
+http://web.archive.org/web/20130207011052id_/http://www.cnn.com/2011/WORLD/europe/03/02/germany.politics/index.html
+
+@entity0 -- @entity3 chancellor @entity2 reshuffled her cabinet wednesday , moving interior minister @entity5 to the @entity6 and naming parliamentary whip @entity8 head of the @entity10			1
+@entity2 made the announcement a day after defense secretary @entity12 resigned amidst a scandal involving alleged plagiarism in his doctoral dissertation			1
+@entity12 had been considered a rising star in @entity2 's government			1
+@entity2 said the moves would be confirmed by @entity3 's federal president @entity19 on thursday			2
+she described @entity5 as a close personal and political friend , and said she believes he will quickly win the support of members of the @entity3 armed services			0
+@entity26 " will see through the reform of the armed forces efficiently and thoroughly , " @entity2 promised			0
+@entity12 , who had been defense minister since october 2009 , said tuesday he was stepping aside because the controversy surrounding the plagiarism allegation was becoming a distraction			1
+" when i become the center of attention on the backs of the soldiers who i 'm responsible for , then i can not justify remaining in office , " he said			0
+" because the @entity3 army , the academic community , and the parties who back me are in danger of being damaged , i am taking the step that i would expect others to take , " he concluded			0
+@entity2 said tuesday she had " accepted @entity43 's resignation with a heavy heart			0
+" @entity12 , 39 , is a member of the @entity46 party , which is closely allied with @entity2 's @entity47			1
+he studied law and politics in @entity50 and @entity51 , according to his official biography			0
+@entity54 is investigating whether @entity12 's alleged plagiarism was intentional , university president @entity53 said tuesday .			2
+
+new : @entity2 *appoints* interior minister @entity57 to *replace* @entity12 as defense minister
+new : parliamentary whip @entity8 is named head of the @entity10
+@entity62 resigned over a plagiarism scandal
+@entity12 was a rising star in a party closely *aligned* to chancellor @entity2 's @entity47
+
+@entity3:German
+@entity2:Merkel
+@entity1:CNN
+@entity0:Berlin
+@entity26:De Maziere
+@entity6:Ministry of Defense
+@entity5:de Maziere
+@entity10:Interior Ministry
+@entity8:Hans Peter Friedrich
+@entity46:Christian Social Union
+@entity19:Christian Wulf
+@entity43:Karl-Theodor
+@entity53:Rudiger Bormann
+@entity51:Munich
+@entity50:Bayreuth
+@entity57:Thomas de Maziere
+@entity47:CDU
+@entity62:Karl-Theodor Freiherr zu Guttenberg
+@entity54:Bayreuth University
+@entity12:Guttenberg

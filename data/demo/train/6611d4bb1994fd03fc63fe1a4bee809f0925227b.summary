@@ -1,0 +1,25 @@
+http://web.archive.org/web/20140716032740id_/http://www.cnn.com/2011/US/09/10/minnesota.coach.seizure/index.html
+
+-- @entity3 head football coach @entity2 is in stable condition after suffering a seizure on the sideline of a game against @entity8 on saturday in @entity9 , the team doctor said			1
+" coach @entity2 has a history of seizures and he is stable			1
+he has been transported to the hospital and there will be updates thereafter , " said @entity13 team doctor @entity12			1
+" he has a history of them since his cancer , which has been well controlled through medications , " @entity12 said			0
+@entity0 affiliate @entity21 in @entity22 reported that @entity2 suffered the seizure during the final seconds of the game , which @entity8 would win , 28 - 21			2
+he was taken off the field by emergency responders			0
+" there is a history of trouble with dehydration and heat seems to kick that up			2
+it was very hot and humid today			0
+we have to do a better job as a medical staff keeping him hydrated , " @entity12 said .			0
+
+@entity13 coach @entity2 suffers a seizure during a game
+he has a history of seizures , the team doctor says
+the doctor says dehydration and heat could have played a role
+
+@entity3:University of Minnesota
+@entity2:Jerry Kill
+@entity0:CNN
+@entity13:Gophers
+@entity12:Smith
+@entity9:Minneapolis
+@entity8:New Mexico State
+@entity22:Minnesota
+@entity21:WCCO

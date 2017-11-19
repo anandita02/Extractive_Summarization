@@ -1,0 +1,109 @@
+http://web.archive.org/web/20141106144012id_/http://www.cnn.com:80/2010/TECH/01/05/cnet.smartphones.security/
+
+-- smartphones are n't just smart , they 're personal computers			1
+unlike a desktop or even a laptop pc , those devices and other mobile phones can easily slip out of a pocket or purse , be left in a taxi , or get snatched off a table			1
+they let you store photos , access e-mails , receive text messages , and put you one browser click away from potentially malicious web sites			2
+in effect , gadgets like the @entity18 and those running @entity22 's @entity21 software can be as risky to use as pcs , except that the wide variety of mobile platforms has deprived malicious hackers of one dominant software element to target , such as they have with @entity31 's @entity30 operating system on desktops and laptops			1
+here is a look at the different types of threats that affect smartphone users and what people can do to protect themselves			2
+what 's the biggest security threat to my mobile phone ? losing it			1
+" you are way more likely to leave it in the back of a taxi than to have someone break into it , " @entity46 , a principal analyst at consultancy @entity47 , said in a recent interview			0
+the best way to protect data in the event of losing a device is to not store sensitive information on it , he said			1
+if you must store sensitive information on it , use a password on the phone and encrypt the data			0
+devices can be configured so that they ask for a password every time e-mail or a vpn is accessed			1
+use a strong enough password that a stranger ca n't guess it			1
+and back up your data frequently			0
+there are also ways to lock the phone remotely or wipe the data if it is stolen			0
+@entity81 spokesman @entity80 said users who lose their phone should call the company immediately and " with just a keystroke , we can prevent anyone else from using the phone -- and from running up charges			0
+" a number of companies offer software and services to protect mobile phones			1
+one of them is a start - up called @entity93 that offers a web - based service that backs up the data , remotely wipes the data if stolen , can help locate the device , and includes antivirus and firewall protection			0
+mobile device users should also be careful about leaving the phone unattended , or loaning it to people			1
+spyware can be installed without you knowing it if someone has physical access to the device and knows your password -- if you have one set			0
+for instance , the @entity111 program can be used with @entity114 devices to remotely turn the microphone on to eavesdrop on nearby conversations			0
+however , a spokesperson for @entity114 maker @entity118 points out that if the application is installed , the user would be able to see it running and could then remove it			0
+can mobile phones get viruses ? yes			1
+@entity126 viruses , worms and @entity128 have been around for years			1
+they typically arrive via e-mail but can also spread via sms and other means			1
+mobile phone users should be diligent in installing security software and other updates for their devices			1
+all the major desktop security vendors have mobile antivirus and related offerings			1
+in november , several worms hit the @entity18 , but only devices that had been jailbroken so they can run apps other than those approved by @entity146			1
+one worm changes the wallpaper on affected devices to a photo of 80s pop singer @entity152 of " @entity154 " fame			0
+the second , more dangerous worm attempts to remotely control affected iphones and steal data such as bank login ids			1
+jailbroken iphones have also been directly hacked via sms , including by one @entity161 hacker who was demanding $ 7 from victims for information on how to secure their iphones			1
+@entity46 says : " do n't jailbreak your phone			1
+it breaks all the security , basically			1
+" if you simply must jailbreak it , you should change the default root password and not install @entity172 ( @entity172 network protocol )			0
+what are other types of attacks ? just like with computer users , smartphone users are vulnerable to e-mail and web - based attacks like phishing and other social - engineering efforts			2
+all attackers have to do is create a malicious web page and lure someone to visit the site where malware can then be downloaded onto the mobile device			2
+people should avoid clicking on links in e-mails and text messages on their mobile device			2
+read faq : recognizing phishing e-mails @entity131 offers another avenue for attack			0
+last year , researchers demonstrated several ways of attacking phone using sms messages			2
+in one , they exploited a vulnerability in the way the @entity18 handles @entity131 messages			0
+researchers also showed how an attacker could spoof an sms to make it look like it comes from the carrier to get the target to either download malware or visit a site hosting it			1
+in another proof - of - concept attack , a text message was used to launch a web browser on a mobile device and direct it to a site that could host malware			2
+when the attack is used to phish for personal information it is referred to as " @entity222			0
+" is it safe to use @entity224 and @entity225 ? yes and no. if you are doing something sensitive on your phone , like checking a bank account or making a payment , do n't use the free @entity224 at a coffee shop or other access point			1
+use your password - protected @entity224 at home or the cellular network to avoid what is called as a man - in - the - middle attack in which traffic is intercepted			1
+pairing a mobile phone with another @entity225 - enabled device , like a headset , means any device that can " discover " another @entity225 device can send unsolicited messages or do things that could lead to extra fees , data being compromised or corrupted , data stolen in an attack called " bluesnarfing , " or the device being infected with a virus			2
+in general , disable @entity224 and @entity225 unless you absolutely need to use them			1
+which is safer : the @entity18 or @entity21 ? @entity146 vets all the apps that are used on the @entity18 , and that tight regulation of the apps store has kept users safe from malicious apps so far			0
+nothing is foolproof , however			0
+once apps are approved they can do any number of things			0
+for instance , @entity146 removed free games in november developed by @entity265 that were found to be collecting users ' phone numbers			2
+from an architecture standpoint , @entity21 offers more granular access control			0
+but the open - source nature of the @entity21 platform means apps are n't as controlled as they are on the @entity18 and holes can be introduced by any number of parties			2
+for instance , @entity46 found a vulnerability in the @entity21 mobile platform last year that could have allowed an attacker to remotely take control of the browser , access credentials , and install a keystroke logger if the user visited a malicious web page			2
+the hole was not in code written by @entity22 , but was contributed by a third party to the open - source @entity289			0
+however , any risk was mitigated by an application sandboxing technique @entity22 uses that is designed to protect the device from unauthorized or malicious software that gets onto the phone , @entity22 said			0
+@entity46 recommends that @entity21 users only download software from trustworthy vendors and reputable sites			0
+are standard mobile phones safe ? obviously regular mobile phones do n't pose the web - based threats that smartphones do			1
+but they are still used to store sensitive information that can be accessed by gaining access to the device			0
+for instance , the inbox and outbox for text messages can contain information that can be used for identity fraud , said @entity315 , a senior analyst for consumer mobility at @entity317			0
+" regardless of what type of cell phone , the most dangerous current threat is through a cellphone 's in / out message boxes , " he said			1
+" @entity323 ( them ) out regularly			0
+do not transmit full account numbers , pin or passwords within a text message unless you immediately delete the out box message			0
+" standard phones that support @entity332 can be susceptible to certain threats that smartphones are			2
+for instance , scammers in @entity336 and @entity337 are hiding a @entity128 in pirated software that surreptitiously sends sms messages to premium rate numbers - costing as much as $ 5 each , thus racking up huge bills , said @entity343 , a senior antivirus researcher at @entity344 and what about spam ? that 's a growing problem on mobile devices			1
+to learn more about spam , read " faq : how to vanquish mobile spam			2
+" © 2010 @entity353 all rights reserved			0
+@entity0 , @entity0 and the @entity0 logo are registered trademarks of @entity353 used by permission .			0
+
+what 's the biggest security threat to mobile phones ? losing it
+@entity126 viruses , worms and @entity128 arrive via e-mail and sms
+do n't bank or make payments using free @entity224 , *columnist* advises
+
+@entity22:Google
+@entity21:Android
+@entity80:Mark Siegel
+@entity81:AT&T
+@entity114:BlackBerry
+@entity111:PhoneSnoop
+@entity332:Java
+@entity152:Rick Astley
+@entity337:Indonesia
+@entity336:Russia
+@entity353:CBS Interactive Inc.
+@entity118:RIM
+@entity0:CNET
+@entity315:Mark Beccue
+@entity317:ABI Research
+@entity131:SMS
+@entity154:Rickrolling
+@entity126:Mobile
+@entity161:Dutch
+@entity31:Microsoft
+@entity30:Windows
+@entity18:iPhone
+@entity172:Secure Shell
+@entity128:Trojans
+@entity265:Storm8
+@entity344:Kaspersky Lab.
+@entity93:Lookout
+@entity343:Roel Schouwenberg
+@entity146:Apple
+@entity222:SMiShing
+@entity225:Bluetooth
+@entity224:Wi-Fi
+@entity323:Clear
+@entity46:Miller
+@entity47:Independent Security Evaluators
+@entity289:Android Project

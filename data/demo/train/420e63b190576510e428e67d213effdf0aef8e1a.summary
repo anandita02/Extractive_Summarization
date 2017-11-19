@@ -1,0 +1,70 @@
+http://web.archive.org/web/20150404044147id_/http://www.cnn.com/2013/10/23/politics/congress-obamacare-website/
+
+contractors who helped develop the embattled @entity7 website blame each other and the government , but not themselves , in testimony prepared for thursday 's first congressional hearing on the problems engulfing the online enrollment system			1
+@entity10 members will grill officials from @entity12 , @entity14 / @entity13 , @entity15 and @entity16 at the hearing to examine technological problems faced by people trying to buy health insurance under president @entity22 's signature reforms			2
+complaints of inability to log in , lengthy delays , incorrect information relayed to insurance companies and other problems have plagued the website since it opened to much fanfare on october 1			1
+@entity32 video makes @entity7 issues seem simple in the first detailed account of what happened , the prepared testimony describes a convoluted system of multiple companies designing parts of the website under oversight of the federal @entity42 , a part of the @entity44			1
+according to the advance statements , the system had been tested as required but still buckled under an unanticipated flood of visitors when it opened			2
+@entity49 , senior vice president at @entity12 , will tell the panel that testing of the site met industry standards and " passed eight required technical reviews prior to going live on october 1 , " according to her prepared testimony			0
+@entity56 on the spot in @entity59 website fiasco " unfortunately , in systems this complex with so many concurrent users , it is not unusual to discover problems that need to be addressed once the software goes into a live production environment , " @entity49 's advance testimony says			2
+" this is true regardless of the level of formal end - to - end performance testing -- no amount of testing within reasonable time limits can adequately replicate a live environment of this nature , " she added			0
+@entity49 blames initial problems on the " enterprise identity management " function known as @entity78 that serves as the entry portal to the website			1
+the @entity78 tool designed by another contractor , which @entity49 's advance testimony does n't name , " created a bottleneck that prevented the vast majority of users from accessing " @entity7 when it opened , according to @entity49			1
+@entity88 : 5 surprises from @entity56 interview however , @entity91 of @entity14 , which designed the @entity78 tool , says in his prepared testimony that an unexpected high volume of people registered at the start and overwhelmed the entry portal and other aspects of the website			1
+he puts the blame on the government , saying : " it appears that one of the reasons for the high concurrent volume at the registration system was a late decision requiring consumers to register for an account before they could browse for insurance products			1
+" " this may have driven higher simultaneous usage of the registration system that would n't have occurred if consumers could ' window shop ' anonymously , " @entity91 's testimony says , adding that the @entity78 tool was able to process the high volumes with low to zero error rates by october 8			2
+a third contractor , @entity119 , says its role providing " real time verification of income and employment " information submitted by applicants has worked properly , according to the advance testimony by its corporate counsel , @entity123			0
+@entity15 conducted " multiple load and stress tests " that showed it could process up to 120,000 verification requests per hour or more , which it estimated as more than any peak period would demand , @entity123 's testimony says			0
+insurers pledge to help solve website problems @entity49 also says in her prepared testimony that improvements to the @entity78 tool have allowed more users to proceed to the website 's main function of providing a range of choices and information on available subsidies for them to choose health insurance required by law			1
+" more individuals have enrolled in qualified insurance plans ; however , the increased number of transactions ... have caused system performance issues ( such as slow response times or data assurance issues ) that now need to be addressed through tuning , optimization and application improvements , " her testimony says			2
+the @entity32 and @entity44 secretary @entity56 make the same argument , saying the initial problems in accessing the website have eased			1
+@entity56 : website problems blindsided president @entity56 has brought in tech experts from @entity163 and elsewhere to work with the contractors on eliminating problems , with acting @entity167 director @entity166 overseeing the effort			1
+" the work of constantly improving the website will continue day by day , " @entity32 spokesman @entity169 said wednesday			1
+" a week from now , it 's going to be better than it is today			0
+" the @entity10 is n't the only one probing @entity59 in light of its issues			0
+so , too , is the @entity177 and the @entity178			0
+the latter sent an eight - page letter wednesday night to 11 contracting firms involved in putting together @entity7 giving them two days to provide documents , meeting lists and all communications with the @entity22 administration on the project , committee spokeswoman @entity179 said			2
+the fact all three committees are in the same chamber -- which is led by @entity191 -- is likely no coincidence			0
+the @entity193 has and continues to be staunchly opposed to @entity59 , even trying unsuccessfully to make defunding or delaying it requirement before it would fund the government			0
+the @entity32 has been pushing back against not just @entity191 , but some @entity197 who have urged an extension of the open enrollment period beyond march 31 and / or a delay in penalties for those who do n't sign up for insurance on time because of the website issues			1
+the @entity22 administration is moving to clarify confusion on when people need to sign up for health care , and it has plans to issue new guidelines to this point soon			0
+still , @entity44 spokeswoman @entity213 insisted " the individual mandate timing " -- i.e. the requirement for a person to have insurance by march -- " has not changed			0
+... it was true this morning			0
+" @entity219 pushes back on extending @entity59 deadline			0
+
+a third @entity32 committee is *investigating* the @entity7 website issues
+a @entity32 committee holds the first hearing on website problems thursday
+developers blame each other and the government , but not themselves
+a problem with the entry portal *clogged* up the system when it opened , they say
+
+@entity22:Obama
+@entity14:Optum
+@entity88:Gupta
+@entity119:Equifax Workplace Solutions
+@entity7:HealthCare.gov
+@entity177:House Ways and Means Committee
+@entity213:Joanne Peters
+@entity179:Caitlin Carroll
+@entity178:House Oversight and Government Reform Committee
+@entity193:GOP
+@entity219:Pelosi
+@entity191:Republicans
+@entity56:Sebelius
+@entity59:Obamacare
+@entity78:EIDM
+@entity16:Serco
+@entity15:Equifax
+@entity32:House
+@entity13:QSSI
+@entity12:CGI Federal
+@entity10:Energy and Commerce Committee
+@entity123:Spellecy
+@entity91:Slavitt
+@entity163:Silicon Valley
+@entity166:Jeff Zients
+@entity167:Office of Management and Budget
+@entity169:Jay Carney
+@entity44:Health and Human Services
+@entity197:Democrats
+@entity42:Centers for Medicaid and Medicare Services
+@entity49:Campbell

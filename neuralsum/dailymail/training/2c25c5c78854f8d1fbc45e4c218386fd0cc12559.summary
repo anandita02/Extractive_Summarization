@@ -1,0 +1,79 @@
+http://web.archive.org/web/20130216081610id_/http://www.dailymail.co.uk/sciencetech/article-2263322/Operation-Red-October-revealed-The-astonishing-hacker-attack-infiltrated-55-000-high-level-government-computers.html
+
+by @entity0 published : 09:39 est , 16 january 2013 updated : 09:56 est , 16 january 2013 a major cyber-attack that has been stealing information from high level government computers around the world since 2007 has been discovered			1
+@entity6 , which made the discovery , said in addition to diplomatic and governmental agencies of various countries across the world , @entity5 also targeted research institutions , energy and nuclear groups , and trade and aerospace targets			1
+the firm even said the malware was used to infiltrate smartphones of government workers to electronically steal information			2
+the full extent of the @entity5 operation is revealed in this infographic , showing how it has hit countries across the globe the main objective of the attackers was to gather sensitive documents from the compromised organisations			1
+this included geopolitical intelligence , credentials to access classified computer systems , and data from personal mobile devices and network equipment			1
+overall , @entity38 said over 7 terabytes , or 7,000gb data has been stolen			1
+the primary focus of the campaign was targeting countries in eastern @entity43			2
+' @entity44 and countries in @entity46 were targeted , although victims can be found everywhere , including @entity43 and @entity48 ' , said @entity6 , an antivirus software firm which made the discovery			1
+' the main objective of the attackers was to gather sensitive documents from the compromised organisations , which included geopolitical intelligence , credentials to access classified computer systems , and data from personal mobile devices and network equipment , ' @entity5 , which has been active since at least 2007 , appears to collect files encrypted with software used by several entities from the @entity59 to @entity60			1
+@entity38 said @entity5 also infected smartphones , including @entity62 , @entity63 and @entity65 handsets			0
+it is believed to be still operating , although since the research was published , the attackers are believed to have started dismantling the system to protect their identities			1
+' the project started in october 2012 , we received a suspicious executable from a partner , ' @entity75 , chief malware expert at @entity6 told @entity77			0
+' we checked and began to understand what we had was quite massive - we found 1,000 different files in a few weeks , each of them a personalised email			1
+' mr @entity75 said the attacks were highly customised			2
+' there are a very limited number of machines , around 1,000 around the world , but every target is carefully selected			0
+' ' we extracted language used and found @entity91 was used , with @entity93 words thrown in , such as @entity94 , commonly used among @entity93 programmers			1
+' however , we are not pointing fingers at @entity97 - just that @entity93 language has been spotted			1
+' it could be any organisation or country behind this , it could be nation states or a private business or criminal group			2
+one of the fake emails used to infect computers @entity5 is a malware attack			0
+initially the malicious code was delivered via e-mail as attachments ( @entity111 , @entity112 and , probably @entity114 documents ) which were rigged with exploit code for known security vulnerabilities in the various applications			0
+intended targets received personalised correspondence based on gathered intelligence on individual people ( an example is on the right )			0
+these attacks comprised of two major stages : initial infection : right after the victim opens the malicious document on a vulnerable system , the embedded malicious code initiates the setup of the main @entity5 software on the machine			0
+this handles further communication with the master servers run by the hackers , and can survive the computer being restarted			0
+spying : next , the system receives a number of additional spy modules from the hacker 's server , including modules to handle infection of smartphones - the team said @entity62 , @entity150 phones and @entity65 handsets were seen on the network			2
+the specific modules are customised for each mobile depending on the infomration the hackers wanted			0
+the main purpose of the spying modules is to steal information			0
+all gathered information is packed , encrypted and only then transferred to the @entity5 command servers			0
+other modules were designed to target files encrypted using a system known as @entity164 - an encryption standard that used to be in widespread use by intelligence agencies but is now less common the campaign , identified as ' @entity169 ' , short for ' @entity5 ' , is currently still active with data being sent to multiple command - and - control servers , through a configuration which rivals in complexity the infrastructure of the @entity176 malware			1
+@entity38 's research indicated there were 55,000 connection targets within 250 different ip addresses			2
+most infection connections were found coming from @entity182 , followed by @entity183 and @entity184			0
+' there is senstitive geopolitical information being stolen , which is very valuable , ' said mr @entity75			0
+@entity189 estimate there were 20 - 30 developers working full time on this , and all were ' very experienced programmers '			0
+' over the course of the last five years , we believe several terabytes of data was stolen - it 's massive			1
+' since we published the report , we have seen some of the servers are no longer responding			0
+' the firm is now working with law enforcement agencies to shut down the remaining servers			2
+@entity5 , which is named after the @entity93 submarine featured in the @entity206 novel @entity207 , also has what @entity6 called a unique ' resurrection ' module that hid in @entity212 and @entity213 programmes that allowed the attackers to regain access if the virus was discovered and removed .			1
+
+researchers say the cyber attack has been in operation since 2007 - and is still running
+@entity222 described as ' massive ' and has stolen ' several terabytes ' of data
+security firm which discovered the attacks claims there is ' strong technical evidence the attackers have @entity93 - speaking *origins* ' - but say a private firm or rogue nation could be behind the network .
+targets included diplomatic and governmental agencies of various countries across the world , research institutions , energy and nuclear groups , and trade and aerospace firms
+
+@entity183:Kazakhstan
+@entity114:PDF
+@entity112:Word
+@entity111:Microsoft Excel
+@entity150:Windows
+@entity0:Mark Prigg
+@entity6:Kaspersky Lab
+@entity5:Red October
+@entity213:Microsoft Office
+@entity93:Russian
+@entity206:Tom Clancy
+@entity75:Kamluk
+@entity59:European Union
+@entity38:Kaspersky
+@entity97:Russia
+@entity94:Proga
+@entity207:The Hunt For Red October
+@entity77:MailOnline
+@entity91:Broken English
+@entity189:Kaspersky
+@entity222:Operation
+@entity169:Rocra
+@entity212:Adobe Reader
+@entity164:Cryptofiler
+@entity62:iPhones
+@entity182:Switzerland
+@entity176:Flame
+@entity184:Greece
+@entity44:Former USSR Republics
+@entity46:Central Asia
+@entity43:Western Europe
+@entity65:Nokia
+@entity48:North America
+@entity63:Windows Mobile
+@entity60:Nato

@@ -1,0 +1,56 @@
+http://web.archive.org/web/20141021054749id_/http://www.cnn.com:80/2011/09/13/tech/mobile/facebook-mobile-safety
+
+-- configuring your @entity2 settings from a laptop is confusing enough , but try monitoring your @entity2 privacy and security setting on a mobile phone			1
+it 's even more of a mess			0
+there 's some help on the way , however			0
+on tuesday , the nonprofit group @entity13 published its list of tips for using mobile @entity2 more safely			1
+about one - third of @entity2 's 750 million active users worldwide access the service via mobile phones			1
+@entity13 's mobile @entity2 guide is written with activists in mind ( especially in light of the key role that @entity2 played in many @entity25 uprisings ) , but it 's useful for any @entity2 user			1
+some @entity2 - related mobile security risks have to do with how you use @entity2 in general			1
+others relate to how your phone and its various mobile communication channels handle security when you 're using a @entity35 connection rather than your carrier 's data network			1
+for instance , many people set their phone to use a @entity35 connection whenever possible , in order to curb their data usage , which can get expensive			2
+if you use @entity35 on your phone , depending on how your mobile browser or @entity2 app handles security , someone might snoop on your login credentials ( " sidejacking " ) and use them to impersonate you on @entity2			1
+they could even lock you out of your own account			0
+@entity53 is a @entity35 - related risk for many online services , not just @entity2			1
+the main way you can protect yourself is to always use a secure connection ( urls that begin with " https " rather than " http " ) when logging in to an online account from any device , including your phone			0
+you can configure your @entity2 account to always use " https			2
+" however , @entity13 cautions : " be aware that this setting is not applied when browsing from a phone ! you may also notice that some applications warn you that you can not access them using @entity70			2
+if you use such applications , be aware that they may turn the ' always use @entity70 ' setting off -- you will need to go back into your account settings and turn it back on every time			0
+" so this means that using @entity2 's mobile website could be more secure than using a @entity2 app -- when you 're on @entity35			1
+and the same would be true for @entity78 , @entity79 and other services			0
+it 's a good idea to bookmark the mobile websites for the services you use -- the @entity85 versions that start with " https , " of course -- on your phone 's browser			2
+then use those sites ( rather than service - specific apps ) when accessing them over an open or shared @entity35			2
+also , check that your mobile browser really can make a secure web connection			0
+@entity13 notes that some older or more primitive browsers ( probably including many browsers that come pre-installed on feature phones ) may revert the connection to " http , " which is not secure			2
+so once you 've tried to access a site using " https , " after the page loads , double - check the location bar in your browser to make sure it still says " https			0
+" if you prefer to use @entity2 apps , it 's safer to turn off @entity35 access on your phone while you 're using them			1
+your carrier 's data connection is more secure			0
+this is especially important if you use your @entity2 account to log in to additional sites , via the @entity117 service ; it would be bad enough just getting your @entity2 account hacked , let alone everything else you 've connected that account to			0
+@entity13 also notes that @entity2 provides extra options to help you control which devices can access your account			1
+" log - in notifications warns you every time your account is accessed from a new device ( both computers and phones )			0
+log - in @entity129 takes things a step further by requiring you to enter a code sent to your mobile phone every time you access the site from a new device			1
+and in the @entity138 , @entity2 users can send a text message to a predefined number to request a one - time password			0
+" @entity13 's guide did not address third - party services ( such as @entity144 ) that can be used to post photos or video to @entity2 , @entity147 and other services			1
+but in general , if you use these tools , be aware of the various audiences and level of privacy each service affords			0
+before you upload a photo , make sure it 's getting cross-posted only to the services you wish to use .			0
+
+managing @entity2 security and privacy is *difficult* from a mobile phone
+@entity13 releases a guide to mobile security on the *social* network
+guide says it may be safer to use @entity2 's mobile site than its app
+@entity35 connections may *present* their own security concerns
+
+@entity144:PicPlz
+@entity2:Facebook
+@entity0:CNN
+@entity13:MobileActive
+@entity25:Arab Spring
+@entity53:Sidejacking
+@entity117:Facebook Connect
+@entity147:Foursquare
+@entity79:Tumblr
+@entity138:U.S.
+@entity129:Approvals
+@entity85:URL
+@entity35:Wi-Fi
+@entity70:HTTPS
+@entity78:Twitter

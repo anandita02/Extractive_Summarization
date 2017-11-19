@@ -1,0 +1,25 @@
+http://web.archive.org/web/20090907042310id_/http://www.cnn.com:80/2009/BUSINESS/06/25/toyota.president/index.html
+
+-- @entity2 must start again , " from the bottom up , " new president @entity1 said thursday			1
+new @entity2 boss @entity1 says he will cut his salary by 30 percent			1
+speaking at a news conference in @entity8 , the grandson of @entity2 ' founder said the company will focus on tailoring its product lines to customer demand in each region			2
+toward that end , @entity1 named an executive vice president to head each region			0
+the company was not wrong to expand its business earlier this decade , @entity1 said , but he acknowledged that it might have overextended			2
+moving forward , the company 's focus will be on products , rather than profits , he said			0
+taking responsibility for the company 's $ 4.4 billion net loss in the most recent fiscal year , @entity1 said he would cut his salary by 30 percent			1
+there are no current plans to close factories , a company executive said			0
+analysts say @entity1 must drastically cut costs , but he offered no hints as to how or even whether that would be done at his first news conference as president			1
+the company board formally approved @entity1 , 53 , for the job on tuesday			0
+he has been with @entity2 for 24 years			2
+his grandfather slightly altered the family name when christening the company " @entity2 , " which has eight brush strokes in @entity41 -- a fortuitous number .			0
+
+@entity1 is the grandson of company founder @entity44
+@entity1 has been with the firm 24 years , says will cut his salary by 30 percent .
+analysts say @entity1 must drastically cut costs -- he offers no hints as to how
+
+@entity2:Toyota
+@entity1:Toyoda
+@entity0:CNN
+@entity8:Tokyo
+@entity44:Kiichiro Toyoda
+@entity41:Japanese

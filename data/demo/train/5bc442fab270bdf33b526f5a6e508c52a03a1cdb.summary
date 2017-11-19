@@ -1,0 +1,66 @@
+http://web.archive.org/web/20131217100220id_/http://www.cnn.com/2013/03/18/tech/web/florida-election-cyberattack
+
+-- it 's a fear that keeps cybersecurity experts up at night : an attack on an online election system			1
+apparently , it 's now come to pass			2
+according to a grand jury report about problems in an august 14 , 2012 , primary election in @entity9 , @entity15 , " someone created a computer program that automatically , systematically and rapidly submitted to the @entity9 's @entity8 numerous bogus on - line requests for absentee ballots			1
+" it 's the first documented attack on a @entity18 election , said computer scientist @entity19 , who is on the board of the @entity21 and the @entity22 , in an interview with @entity0			1
+the report notes that 2,500 fraudulent requests were submitted			1
+( for perspective , @entity9 mailed out 139,047 absentee ballots last july and another 174,919 in october			1
+) with voting by mail increasing , the fact that the system was challenged is worrisome for cybersecurity experts			0
+" the computer scientists have been saying for many years now that this is going to be possible , and one of the counters to us has been , ' how come it has n't happened ? ' we always say , we do n't know if it 's happened , because it might happen without leaving any evidence , " said @entity32 , a @entity33 computer science professor who is an expert in cybersecurity			2
+" and now we 're finally starting to see proof that it actually does happen			0
+" @entity19 , who classified the attack as " weak , " nevertheless highlighted several reasons to be concerned			1
+" it 's clear that the attackers knew what they were doing , did it deliberately ( and ) tried to cover their tracks -- they were deliberately hiding their actions , " he said			1
+moreover , he added , " it is not at all clear what their motives were			2
+" according to the report , @entity9 's online ballot request system had " very low " security , with no user - specific logins or passwords			2
+a concerned election vendor noted the influx of requests and flagged them , said the report			1
+" the vendor hired by @entity68 officials ... became suspicious when it appeared that an extraordinary number of absentee ballot requests 1 ) appeared to be submitted from the same group of computers ; and 2 ) were being submitted at a rate that was not humanly possible if the data on the screen was being entered by a person , " the report said			1
+the requests came from @entity78 addresses primarily located overseas , the report added , " although there was at least one fraudulent request from inside the @entity18			1
+" the grand jury report is dated december 19 , 2012			1
+its findings were reported last month by the @entity84 , although they did not receive widespread national attention until now			0
+@entity15 , of course , is no stranger to electoral snafus			2
+in 2012 alone , the state endured long lines , chaotic polling places and disputes over legislative actions that shortened the number of days and hours for early voting			2
+but @entity19 says that , in terms of online issues , the state is far from the worst			2
+he said he and his colleagues in the cybersecurity community found two states that had " serious vulnerabilities " in their online registration systems : @entity105 and @entity106			0
+" those dangers were so severe because it would not take a lot of skill to change the registrations of thousands of voters , online , while sitting in , say , @entity114 , " he said			0
+with hackers getting increasingly sophisticated , @entity32 expects there will be more cyberattacks in the future			0
+indeed , even putting elections aside , reports of denial - of - service attacks , stolen passwords and other cases of internet invasion are regular occurrences in the news -- and they 've affected major corporations , government agencies and even security companies , @entity19 observes			2
+that does n't mean we have to revert back to dropping paper ballots in an old wooden box			0
+@entity32 believes that election authorities " do a pretty good job at understanding their threats			0
+" it 's just that voting is such a sensitive issue that they should have to plan for the worst -- and be prepared to handle it			0
+" the first thing to do is have a realistic understanding of the threat , so that before you offer a service on the internet you know how you 're going to respond when you 're attacked -- and i say ' when ' and not ' if ' you 're attacked , " he said			0
+indeed , @entity19 hopes that the @entity9 report serves as a wake - up call for authorities who have scoffed at computer scientists ' concerns			1
+" for me , of course , this is no surprise			0
+i 've seen this and much worse in many circumstances , " he said			0
+" but because this is the first real documented attack in a @entity18 election , it has outsized importance			1
+we can now say we do have an example in a @entity18 election of a bona fide cyberattack			1
+you do n't have to believe us -- we did n't write that grand jury report			1
+" cyberthreats getting worse , @entity171 intelligence officials warn @entity173 , senior managing director for @entity174 , is optimistic that the wake - up call will be received promptly			0
+" if you look back , 20 , 25 years , ( legislators ) had no real understanding of computers			0
+but over time , it 's kind of a rising tide " of comprehension , he says			0
+" as you get more specialists in a field like this , i think the risks become more evident , and it becomes more urgent for them to do something about it			0
+
+a grand jury report *outlines* problems in an august 14 , 2012 , primary election in @entity15
+someone created a computer program that made 2,500 bogus requests for absentee ballots
+it 's the first documented attack on a @entity18 election , said computer scientist @entity19
+@entity19 : " it 's clear that the attackers knew what they were doing "
+
+@entity22:California Voter Foundation
+@entity171:House
+@entity15:Florida
+@entity0:CNN
+@entity106:Maryland
+@entity105:Washington
+@entity32:Rubin
+@entity9:Miami-Dade
+@entity8:Department of Elections
+@entity173:Alan Brill
+@entity19:Jefferson
+@entity18:U.S.
+@entity21:Verified Voting Foundation
+@entity84:Miami Herald
+@entity78:IP
+@entity68:Election
+@entity33:Johns Hopkins
+@entity114:Bulgaria
+@entity174:Kroll Advisory Solutions

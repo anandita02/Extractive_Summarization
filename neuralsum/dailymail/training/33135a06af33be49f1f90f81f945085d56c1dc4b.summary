@@ -1,0 +1,41 @@
+http://web.archive.org/web/20150711083736id_/http://www.dailymail.co.uk/sciencetech/article-2891856/Is-iPen-coming-Apple-patents-smart-digital-stylus-capture-handwriting-drawings.html
+
+@entity0 has patented a ' smart pen ' that can capture handwriting and drawings and send them to an @entity5 or @entity6			1
+the ' communicating stylus ' application outlines a pen that uses accelerometers , wireless communication hardware and onboard storage to transfer hand - written notes and drawings to a tablet			1
+the @entity16 drawings , revealed today , show the pen could be used in a meeting to automatically send images to all participant 's phones , for instance			1
+@entity0 's pen would capture writing and pictures and send them to an @entity5 or @entity6 @entity0 's stylus is based on efficient accelerometers or other motion - sensing hardware			1
+in practice , @entity0 's pen activates only when picked up , its nib is pressed to paper , withdrawn from a dock or manually turned on by the user			2
+from there , onboard sensors track position changes in relation to an initial zero point , allowing the device to send realtime data for translation and graphical representation on an @entity44 device 's screen			1
+' the technology to build a ' communicating stylus ' has long been available should @entity0 decide to build such a device , ' said @entity48 , which discovered the patent			2
+' indeed , most of the hardware mentioned in the patent are already being used in current - generation iphones and @entity5			1
+' several companies already sell similar products , most notably @entity58 's ' smartpen , , whch uses an infrared camera located in its tip to capture handwriting			1
+this is then stored on the pen 's own memory , or sent via wifi , although it needs specialized paper			2
+@entity0 's stylus is based on accelerometers or other motion - sensing hardware			0
+it activates only when picked up , its nib is pressed to paper , withdrawn from a dock or manually turned on by the user , according to the filings			0
+from there , onboard sensors track position changes in relation to an initial zero point , allowing the device to send realtime data for translation and graphical representation on an @entity44 device 's screen			2
+however , @entity0 founder @entity87 famously despised stylus pens			0
+' who wants a stylus ? ' @entity87 said at the 2007 @entity92 conference			0
+' you have to get ' em , and put ' em away			0
+you lose ' em. yuck			0
+' despite this , @entity0 's filing shows the stylus can be configured to transmit movement data after a certain amount is collected , at predefined intervals or continuously , depending on user need			0
+the stylus could be used with different nibs or pen heads to write on different materials another option is sending out stylus data to multiple devices , perhaps as meeting notes			1
+the patent also includes details of how the stylus could be used with different nibs or pen heads to write on different materials , so that it can be used with ink in notebooks , or with graphite for pencil drawings , or with markers for whiteboards			0
+@entity0 's invention can even be fitted with multiple accelerometers to measure movement in three dimensions , thus producing an accurate digital copy of stylus motion at any angle , whether it be on a desk , wall or in the air			0
+@entity0 says users can transmit data to a computing device that remains in their pocket or bag , a seamless solution for saving digital backups of physical notes			2
+a capacitive version that can be used as a traditional @entity5 stylus is also mentioned			1
+@entity0 's smart pen patent was first filed for in january 2010 and credits @entity143 as its inventor .			0
+
+@entity146 would capture writing and pictures and send to an @entity5 or @entity6
+could even send notes to all participants in a meeting
+
+@entity16:U.S. Patent and Trademark Office
+@entity146:Pen
+@entity0:Apple
+@entity6:iPhone
+@entity5:iPad
+@entity143:Aleksandar Pance
+@entity44:iOS
+@entity87:Jobs
+@entity58:Livescribe
+@entity48:Apple Insider
+@entity92:MacWorld

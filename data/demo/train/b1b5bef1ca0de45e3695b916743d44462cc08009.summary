@@ -1,0 +1,18 @@
+http://web.archive.org/web/20101228222722id_/http://edition.cnn.com:80/2010/WORLD/meast/10/17/iran.hugo.chavez.visit/index.html?hpt=T2
+
+-- @entity2 president @entity1 is set to arrive in @entity3 on monday to discuss the expansion of relations between the two countries , according to @entity3 's semiofficial @entity7			1
+@entity1 will stay for two days in @entity8 , and will be accompanied by a @entity2 delegation , @entity7 said			0
+he will meet with @entity3 president @entity10 and other officials			2
+@entity1 and @entity10 are also expected to discuss regional and international issues , @entity12 said .			0
+
+@entity1 is expected to arrive in @entity8 , @entity3 , on monday for a two - day trip
+he and @entity3 president @entity10 will talk about *expanding* relations
+
+@entity3:Iranian
+@entity2:Venezuelan
+@entity1:Hugo Chavez
+@entity0:CNN
+@entity7:Fars
+@entity12:Fars
+@entity10:Mahmoud Ahmadinejad
+@entity8:Tehran

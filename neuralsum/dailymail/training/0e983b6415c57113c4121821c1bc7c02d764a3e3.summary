@@ -1,0 +1,40 @@
+http://web.archive.org/web/20121126005913id_/http://www.dailymail.co.uk:80/sciencetech/article-2201611/If-steal-films-music-copyright-companies-IP-address-hours.html?
+
+by @entity0 published : 09:21 est , 11 september 2012 updated : 01:55 est , 12 september 2012 if you use popular file - sharing programs to download films and music from the internet , the chances are that your computer 's virtual address has been logged , a study has claimed			1
+computer scientists at the @entity11 monitored what is perhaps the largest file sharing site , @entity14 , over the last three years			1
+the team discovered that the most popular files on the site , often illegal copies of hit tv shows or films , were monitored by , on average , three secretive parties - including copyright enforcement agencies , security companies and even government research labs			1
+the monitors are believed to be logging the ip address of the user - potentially identifying where the file is downloaded to			1
+a user downloads files from @entity14 ( posed image ) : research at the @entity11 suggests there users are being logged on behalf of copyright holders however , for anyone now worried about a knock at the door , the researchers say it is unlikely the evidence gathered would be sufficient to lead to court proceedings			1
+when a user chooses to download a file , the users join a ' swarm ' of other users who are either downloading the file , of have successfully received it			0
+but by downloading a file , the user 's ip address is available to other members of the swarm , and the @entity11 team found monitors actively grabbing this information			1
+the researchers found that : the research was carried out by developing software that acted like a @entity62 file sharing client , and logging all the connections made to it			2
+the team say careful analysis of the logs revealed the presence and behaviour of file - sharing monitors			0
+a torrent file by itself is just a small document , smaller than a @entity74 document			0
+but when you download a torrent , you are then connected to a ' swarm ' of other users who are either downloading the file , of have successfully received it			0
+as the users downloads , he or she in turn uploads the file back to other users , a clever innovation which , when used for legal purposes , ensures files stay available and that people can get the best download speed possible			0
+but by downloading a file , the user 's ip address is available to other members of the swarm , and the @entity11 team found monitors actively grabbing this information			1
+proponents of the technology praises its speed , and there are plenty of legitimate uses , from downloading large software updates to non-copyrighted materials			0
+but , with media companies being slow on the digital uptake , many users turned to the technology for both the ease - of - use and the lack of a price - tag			0
+the report said : ' most large - scale monitors hide their identity by using third party hosting companies to run the searches for them , but other monitors are identifiable as copyright enforcement organisations , security companies and even government research labs			0
+' the researchers also found that the use of third party hosting companies allowed the monitors to avoid " block lists " , that attempted to stop known monitors from connecting to file sharers			0
+' dr @entity131 , researcher at the @entity132 , said : ' this work reveals the full scale of the monitoring of illegal file sharers			2
+' almost everyone that shares popular films and music illegally will be connected to by a monitor and will have their ip address logged			1
+what is done with this information in the long term only time will tell '			2
+with the number of prosecutions of file sharers increasing there is a legitimate concern of the standard of evidence used in these cases			0
+dr @entity131 added : ' all the monitors observed during the study would connect to file sharers believed to be sharing illegal content and verify that they were running the @entity62 software , however they would not actually collect any of the files being shared			1
+' therefore , it is questionable whether the monitors observed would actually have evidence of file sharing that would stand up in court			2
+
+@entity11 's three - year study shows an average of ' three secretive monitors ' watching you download
+' almost everyone that shares popular films and music illegally will be connected **...** and will have their ip address logged '
+' **...** what is done with this information in the long - term only time will tell '
+*massive* monitoring of all of the most popular illegal downloads from the @entity14 has been taking place over the last three years .
+on average an illegal file sharer , using @entity62 to download the most popular content , will be connected to and have there ip address logged within 3 hours of starting a download .
+poor collection *methods* mean the evidence collected by monitors may not stand up in court .
+
+@entity14:PirateBay
+@entity11:University
+@entity131:Chothia
+@entity0:Eddie Wrenn
+@entity74:Word
+@entity62:BitTorrent
+@entity132:School of Computer Science

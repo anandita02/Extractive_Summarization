@@ -1,0 +1,55 @@
+http://web.archive.org/web/20140301024617id_/http://www.dailymail.co.uk/sciencetech/article-2569096/Is-4G-putting-mobile-risk-Super-fast-networks-not-secure-older-slower-systems-claims-expert.html
+
+by @entity0 published : 05:48 est , 27 february 2014 @entity2 : 08:24 est , 27 february 2014 @entity3 covers a wider range of frequencies than slower @entity6 and 3g networks , and uses an open protocol , making it more susceptible to hackers and viruses almost every phone launched at this week 's @entity12 was sold on the promise of having super-fast speeds thanks to built - in @entity3 technology			1
+@entity3 , also known as @entity16 , officially launched in the @entity17 last year , but it ’s been growing in popularity globally for the past five years			1
+the technology covers a wider range of frequencies and has the potential to be up to 100 hundred times faster than slower @entity6 and 3g networks , but a software and security expert has told the @entity25 this increased speed comes at a price - security			1
+both @entity6 and 3g networks were primarily designed for feature phones ; for voice calls and texts , rather than data			1
+however , @entity16 was designed especially for sending and receiving data , making it more equipped for the job			2
+@entity35 , senior director of strategic solutions at @entity37 told the @entity25 that while this makes it faster , the methods taken to achieve these speeds also make it more vulnerable			2
+' what the industry has done with @entity42 is taken a self - contained telephone network , secured primarily by virtue of being separate from the internet , and then bolted - on internet capabilities which were never designed to prevent eavesdropping , ' said @entity35			0
+put simply , 3g networks use a protocol called @entity51 to send signals , this protocol is notoriously difficult to penetrate			1
+@entity3 networks , on the other hand , use systems such as @entity56 , an open protocol that sends signals based on the ip addresses of networks			2
+this makes it faster , and can handle more traffic than @entity51			2
+however , because this is an open protocol , it makes it easier to penetrate			0
+it is also responsible for managing the data sent for billing and authentication			0
+the majority of new handsets released worldwide have @entity3 technology built in that helps them connect to super-fast 4g networks , including the @entity76 unveiled on monday , pictured			1
+experts have warned operators need to do more to protect users against attacks directed straight at these faster networks research from @entity37 found security is among the top three features people use to choose a mobile operator , after pricing and network coverage			1
+two thirds of respondents said security is more important to them than access to the latest devices			0
+but despite this , around half ( 49 per cent ) admitted that they do n’t know how to protect their phones from malicious threats			0
+mobile users are more than three times as likely to blame their mobile operators ( 35 per cent ) for security breaches , than the providers of services such as @entity103 , @entity104 or banking apps ( 10 per cent ) or handset manufacturers ( 4 per cent )			2
+more than half of consumers said they 'd switch providers after a major data breach			0
+this means it ’s easier to access , and carries highly - sensitive and personal information such as passwords , location data , network addresses and cryptographic keys			0
+‘ lte networks are inherently less secure than their 3g and @entity6 predecessors , ' said @entity35			1
+' this can open mobile networks up to a greater number of very real threats , meaning the onus will be on mobile operators to increase their efforts to protect users , network and applications			0
+' ‘ the main security problem with @entity16 networks is that user information can become easily available to hackers via , for instance , ‘ man - in - the - middle ’ attacks , and hackers can compromise new services like mobile health or mobile commerce , ’ continued @entity35			1
+attackers can place themselves either between two unsuspecting victims , or between the user and the app , or even between two machines			0
+this gives the attackers full access to the data being sent over the network , and some hackers could even be able to control it			0
+@entity35 added that the main problem is there 's no protection between the phone and the network it ’s connected to , and the core network controlled by the operator			0
+networks do use secure systems , such as @entity162 and @entity163 , to secure certain parts of the sensitive data , but @entity37 warned operators need to do more to protect users against attacks directed straight at the mobile network			1
+' there needs to be more understanding of the user , the network , the app , and what people are trying to do when using their mobile devices , ' said @entity35			0
+' the message is clear : comprehensive multi-layer security should be an integral part of any @entity3 to deliver the level of security consistent with the many advantages of @entity16 - like lightning fast video downloads - that make up a great customer experience			1
+
+research has found security is among the top *concerns* for phone users
+most high - end phones now work on @entity16 , also known as @entity3 technology
+@entity3 covers a wider range of frequencies than previous @entity6 and 3g networks
+it transmits data in a way that gives it the potential to be 100 times faster
+but experts warn this method also makes the technology less secure
+
+@entity3:LTE
+@entity2:UPDATED
+@entity0:Victoria Woollaston
+@entity35:Burakovsky
+@entity6:2G
+@entity37:F5
+@entity16:4G
+@entity163:TLS
+@entity17:UK
+@entity51:SS7
+@entity162:IPsec
+@entity103:Facebook
+@entity104:Gmail
+@entity56:Diameter
+@entity42:4G/LTE
+@entity76:Samsung S5
+@entity25:MailOnline
+@entity12:Mobile World Congress

@@ -1,0 +1,83 @@
+http://web.archive.org/web/20150611203912id_/http://www.dailymail.co.uk/sciencetech/article-2337283/Forget-passwords--soon-unlocking-phone-wrinkling-nose-sticking-tongue.html
+
+@entity0 has filed a patent that could let users unlock their smartphones and tablets using facial expressions rather than typing in passwords			1
+the latest @entity8 devices already have a built - in @entity10 feature that uses facial recognition to unlock their handsets , but this patent would take the technology a step further adding additional ' liveness ' features			1
+when @entity0 launched @entity10 in 2011 , as part of @entity19 , it was criticised by security experts because it could be bypassed by holding static photos up to the phone or tablet 's camera			1
+if a patent filed by @entity0 is approved , it could mean users would be able to unlock their smartphones by pulling faces such as frowning , smiling , poking out their tongue , wrinkling their nose , blinking and so on			1
+the technology would compare the facial expression pulled with a previously captured photo and if the expressions matched , the user would be allowed access to their device in the update to @entity42 in july 2012 , @entity0 added a ' liveness ' check in an attempt to prevent these static images being used to gain access to devices			1
+this meant a user would have to blink while using @entity10 to prove they were alive			2
+however , even this could be bypassed using clever photo editing tricks			0
+according to @entity0 's latest @entity55 patent , the new system would require users to pull a specific , predeterminded facial expression			1
+to get access to a device the user would have to pull a specific predeterminded facial expression			1
+the expression would then be scanned and compared to a previously captured photo to confirm the user 's identity			0
+facial expressions listed include blinking , frowning , smiling , sticking out a tongue , wrinkling a nose and raising an eyebrow			1
+the patent explains there would be a small margin of error but the user 's expression would have to match the original photo as closely as possible			1
+the technology would then check for ' liveness ' - a signal that shows the user is alive and moving and not a static image			1
+it would scan for changes in pixels and light to monitor and recognise the changes in the location of the facial features			1
+for example , if a blink is used to gain access the technology would record the light from the eye and then monitor if this light changes , suggesting the eye has been closed			1
+this ' live ' movement is then given a score based on how similar it is to the original image			0
+if the score reaches the minimum security threshold , the phone is unlocked			0
+if it does n't the user is denied access and has to try again			0
+the expression would then be scanned and compared to a previously captured photo to confirm the user 's identity			0
+the patent said : ' the anti-spoofing techniques herein may use facial gestures such as blinks , winks , and other gestures that may be performed within the confines of a human face			1
+' [ the device ] may detect facial gestures associated with various facial features			1
+examples include one or both eyes ( e.g. , for blinks , winks , etc. ) , the mouth area ( e.g. , for gestures including smiling , frowning , displaying a user 's teeth , extending a user 's tongue , etc. ) , the nose ( e.g. , for a nose wrinkle gesture , etc. ) , the forehead ( e.g. , for a forehead wrinkle gesture , etc. ) , one or both eyebrows ( for eyebrow raise and compression gestures , etc. ) , and various others			1
+' @entity0 already lets its users enable two - step verification for their online accounts , and offers face unlock on @entity8			1
+with @entity10 , pictured , @entity8 users can use their face to unlock their smartphone or tablet , in place of a pin or a pattern the patent explains there would be a small margin of error but the user 's expression would have to match the original photo as closely as possible			1
+a chart in the patent shows that the technology would capture the first facial image and compare it to the photo on file			1
+it would then check for ' liveness '			0
+according to the patent : ' in the example of the blink gesture , corresponding pixel locations of the first and second sub-images may represent portions of the corneas and the eyelids , respectively			1
+' additionally , the eyelids may include less pixel transitions than the corneas			0
+' more specifically , a cornea may display pixel transitions ( e.g. , contrasting colors ) with respect to two or more of the sclera , iris , and pupil			0
+images in the @entity0 's patent , pictured , filed to the @entity181 , show that the technology scans the eyes and other features for changes in pixels and light fluctuations			1
+these changes can be used to track movement			0
+if the changes caused by the facial expression do n't match the photo on file the user will be denied access to their device ' conversely , an eyelid may display pixel transitions only at its upper bound ( relative to the eyebrow ) and lower bound ( relative to the eyelash )			2
+' this means the device would check for the location of light and pixels relative to a person 's face and their facial features			2
+if a blink is used to gain access , for example , the technology would record the light from the eye and then monitor if this light changes , suggesting the eye had been closed			2
+@entity0 added a ' liveness ' check feature to @entity42			1
+this means users have to blink when using @entity219 to prove they are not a photo in order to get access to their device this ' live ' movement is then given a score based on how similar it is to the original image			0
+if the score reaches the minimum security threshold , the phone is unlocked			0
+if it does n't the user is denied access and has to try again			0
+the patent does n't explain how many times a user can try to access the device before it is permanently locked , not does it say if there is a failsafe technique if the user ca n't get in			2
+the patent is still waiting for approval and @entity0 declined to comment on the plans , including when its likely to be available if it gets approval			1
+@entity244 announced in may it was also looking at alternatives to the traditional passwords using physical authentication			2
+among the ideas discussed at the @entity250 conference in @entity251 were electronic tattoos and pills that people swallow			2
+the tattoos , developed by @entity257 - based engineering firm @entity256 , contain flexible electronic circuits that are attached to the wearer 's skin using a rubber stamp			0
+@entity244 claimed that the circuits , which also contain antennae and built - in sensors , could be adapted to work with mobile phones and tablets			2
+this image shows the various parts that make up the @entity256 electronic tattoo called the @entity270			0
+it can be stuck to the body using a rubber stamp , and protected using spray - on bandages			0
+the circuit can be worn for two weeks and @entity244 believes this makes it perfect for authentication purposes the mobile devices could then be used to confirm the owner 's identity and log them in to accounts automatically			2
+another idea presented during the keynote talk at the @entity285 conference with head of @entity244 @entity287 and senior vice president for advanced technology and products , @entity288 , was a swallowable pill			2
+the @entity292 pill has already been approved by the @entity55 @entity293 and was given @entity295 regulatory approval in 2010			0
+it contains a computer chip that can be powered like a battery using the acid in the wearer 's stomach			0
+once swallowed the ' vitamin authentication pill ' creates an 18 - bit @entity304 - like signal inside the wearer 's body that can be picked up by mobile devices and authentication hardware outside			0
+this could be used verify the wearer is the correct owner of the device or account			2
+a similar idea teased by @entity244 during talk last year was a swallowable pill ( picutred )			0
+it contains a computer chip powered like a battery using the acid in the wearer 's stomach			0
+once swallowed the ' vitamin authentication pill ' creates an 18 - bit @entity304 - like signal that can be picked up by mobile devices			0
+
+@entity0 has filed a patent that could let phones recognise its owner using facial expressions
+the technology can register blinks , frowns , wrinkled noses and smiles
+it has been filed to stop people being able to bypass facial recognition passwords using photos
+
+@entity0:Google
+@entity42:Android Jelly Bean
+@entity256:MC10
+@entity304:ECG
+@entity10:Face Unlock
+@entity181:U.S Patent and Trademark Office
+@entity8:Android
+@entity219:Face Unlock
+@entity19:Android Ice Cream Sandwich
+@entity250:D11
+@entity251:California
+@entity244:Motorola
+@entity287:Dennis Woodside
+@entity292:Proteus Digital Health
+@entity55:U.S.
+@entity257:Massachusetts
+@entity295:European
+@entity270:Biostamp
+@entity288:Regina Dugan
+@entity285:Wall Street Journal
+@entity293:Food and Drug Adminstration

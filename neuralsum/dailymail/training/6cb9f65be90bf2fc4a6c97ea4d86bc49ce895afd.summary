@@ -1,0 +1,70 @@
+http://web.archive.org/web/20150712121923id_/http://www.dailymail.co.uk/sciencetech/article-2899243/Moonpig-security-flaw-exposes-details-3-MILLION-customers-Greeting-card-website-suspends-apps-reports-bug.html
+
+online greeting card service @entity0 has suspended its mobile apps following claims that a security flaw allowed access to any of its three million customer accounts			1
+mobile app developer @entity8 discovered the apparent bug while examining the security settings of the code @entity0 uses in its @entity14 and @entity15 applications			1
+he claimed that when submitting requests to the website through its app , it failed to authenticate the customers username and password			0
+this would allow potential hackers to place orders , retrieve portions of their credit card details and obtain other personal information from their account			1
+18 august 2013 : @entity8 says he emailed @entity0 to alert them to the flaw he claims he found in the @entity47 used by their app to communicate with the company 's server			1
+he says he received a few emails back before they finally said it was legacy code and that they would ' get right on it '			0
+26 september 2014 : mr @entity8 sends a follow up email to @entity0 saying the issue had still not been resolved			1
+@entity0 replies to say it will be ' before @entity58 '			0
+5 january 2015 : vulnerability still exists			0
+mr @entity8 decides to go public and publishes blog post about the flaw he discovered			2
+he said : ' initially i was going to wait until they fixed their live endpoints but given the timeframes i 've decided to publish this post to force @entity0 to fix the issue and protect the privacy of their customers			2
+17 months is more than enough time to fix an issue like this			0
+it appears customer privacy is not a priority to @entity0			2
+' 6 january 2015 : @entity0 suspends access to its mobile apps and posts a statement on its website			1
+he said he first discovered the problem in 2013 and when he contacted @entity0 they replied they would ' get right on it '			0
+writing on his blog , mr @entity8 said that as of 5 january , the glitch was still in place and he decided to go public			0
+@entity0 , which allows customers to order and send personalised greeting cards , responded by immediately shutting down access to its mobile apps and launching an investigation into the claims			1
+@entity0 's mobile apps , which are used by 1.5 million customers , carried a message urging customers to use its normal website instead , which is unaffected			1
+the company , which was bought by @entity98 for £ 120 million in 2011 and sells around 12 million cards a year , said all customer password and payment information was safe			1
+in a statement posted on its website , @entity0 said : ' we are aware of the claims made this morning regarding the security of customer data within our apps			1
+' we can assure our customers that all password and payment information is and has always been safe			0
+' the security of your shopping experience at @entity0 is extremely important to us and we are investigating the detail behind today ’s report as a priority			2
+@entity0 is the market leader in online personalised greeting cards and dispatched six million cards last year @entity0 said that it had temporarily removed its app from @entity125 's @entity124 while it investigated the claims ' as a precaution , our apps will be unavailable for a time whilst we conduct these investigations and we will work to resume a normal service as soon as possible			1
+' the desktop and mobile websites are unaffected			0
+' although a message on @entity0 's website said it had removed its app from @entity125 's app store , it was still available for download			1
+however the app carried a message saying it could not take orders			0
+mr @entity8 said he found the problem when looking at application programming interface that @entity0 's mobile apps use to communicate with the company 's servers			1
+he found that rather than sending information protected by a username and password , it tended to send static credentials that read ' * redacted * : * redacted * '			0
+he said he created a second account , added an address and entered the new customer id into the app and found he could access this and the saved address			1
+the statement posted on @entity0 's website insisted that payment information had not been compromised @entity0 's apps have helped the company capture 90 per cent of the @entity163 's personalised greeting card market he said : ' i 've seen some half - arsed security measures in my time but this just takes the biscuit			1
+' ' there 's no authentication at all and you can pass in any customer id to impersonate them			1
+' an attacker could easily place orders on other customers accounts , add / retrieve card information , view saved addresses , view orders and much more			2
+' he also found he was able to obtain the credit card expiry date , the last four digits from the credit card and the name on the card when he carried out his test			1
+passwords were not leaked nor enough credit card data to make a full purchase			2
+he said : ' i hit my test users a few hundred times in quick succession and i was not rate limited			0
+' given that customer ids are sequential an attacker would find it very easy to build up a database of @entity0 customers along with their addresses and card details in a few hours - very scary indeed			1
+' it is not the first problem with a greeting card website that mr @entity8 has found			2
+in october 2013 mr @entity8 exposed a vulnerability in the website of another greeting card company @entity208			2
+this allowed an attacker to take over a user 's account and gain access to personal data			0
+this was fixed within a week			0
+mr @entity8 said he first contacted @entity0 about the fault in august 2013 and they responded to say it had been legacy code			2
+he said he followed up with an email in september 2014 and was promised it would be fixed by @entity58			0
+however as of 5 january 2015 the vulnerability still existed , he said			0
+perhaps embarassingly for @entity0 , the company has also been recently advertising for an it security officer			0
+the advert was taken off its website after mr @entity8 reported the flaw			0
+@entity227 , principal security researcher at internet security consultancy @entity228 , said : ' as we understand it , the reported vulnerability has not so far been used to steal personal information of @entity0 customers			1
+' however , it seems that the vulnerability , if confirmed , would allow an attacker to access the account details of other customers			0
+' it 's important that companies take information about a vulnerability in their products very seriously			0
+' if this vulnerability is confirmed , and it 's true that @entity0 has previously failed to take any action to protect their customers for almost a year and a half , this is alarming - especially for a provider of an online shopping application used to transmit highly sensitive data			2
+
+app developer @entity8 claims to have found a flaw in the software used by @entity0 's mobile apps to communicate with the company 's servers
+*loophole* would give hackers access to credit card details and personal information of @entity0 's customers simply by using their customer id
+@entity0 is investigating the claims and has shut down its mobile apps
+@entity0 's @entity14 and @entity15 apps are used by 1.5 million customers
+
+@entity163:UK
+@entity15:iOS
+@entity14:Android
+@entity227:David Emm
+@entity228:Kaspersky Lab
+@entity8:Paul Price
+@entity47:API
+@entity0:Moonpig
+@entity58:Christmas
+@entity98:Photobox
+@entity124:App Store
+@entity125:Apple
+@entity208:Funky Pigeon

@@ -1,0 +1,63 @@
+http://web.archive.org/web/20100103145132id_/http://www.cnn.com:80/2009/TECH/biztech/04/27/cnet.facebook.developers/index.html
+
+update from the social network that was first reported on sunday night , which it 's calling the @entity6			1
+the " @entity6 " was front - and - center with @entity3 's controversial redesign earlier this year			1
+it 's the first major implementation of an emerging ( read : brand new ) open standard called @entity14 , on which @entity3 has been collaborating with developers for the past few months			1
+basically , what it means is that third - party developers will have access to a feed of all content posted to news feeds -- notes , photos , videos , links , " likes " and comments , and activity from other applications built on the social network 's platform			1
+" we 've officially moved away from the web of just blog posts , which a lot of these formats were originally designed for , " said open - source developer and advocate @entity34 , who has been spearheading the development of @entity14 for about a year now			1
+" over time , what i think will happen is ( that ) you 'll see something toward the type of cleverness and ingenuity that has surfaced around the @entity48 community , but in a way that is even more expressive and rich , " @entity34 said			0
+" in the case of @entity48 , you 're just talking about status updates ; in the case of @entity3 you 're talking about a lot of different activities			1
+" previously , only status updates -- the most @entity48 - like part of @entity3 -- were accessible to developers			1
+that 's why this announcement likely makes the biggest difference to the creators of social feed aggregation applications like @entity63 and @entity64			0
+but because @entity14 is an open standard , other social - networking and media - sharing applications will be able to use it too			0
+this means that there could be , say , an @entity72 - based desktop application that brings in updates across photo - sharing applications like @entity3 , @entity75 , and @entity76			1
+@entity3 is also targeting different types of developers -- specifically mobile and desktop -- rather than strictly the web app developers whose creations made @entity3 's platform such a wild success when it debuted two years ago			2
+" one of the most important stories to tell here is this is the first time that we 've ever opened the core @entity3 product experience , which was previously called the ' feed ' and which we 're now calling the ' stream , ' " @entity3 senior platform manager @entity84 explained to @entity0			1
+" we 're especially excited to see the types of desktop applications and the types of mobile applications which developer are going to build for the stream			2
+we 've sort of never really allowed this before , so we 're pretty excited to see what developers come up with			0
+" @entity3 will be holding an event on monday afternoon in @entity102 , @entity103 , to introduce developers to the new api			2
+presenting at the event will be representatives from @entity107 , which is building a @entity3 application in its air runtime environment , and @entity110 , which is doing the same in @entity112 ; contact management system @entity113 and third - party app @entity64 ( which already has unveiled its support for the @entity6 ) are also presenting			1
+the " stream " took front - and - center with @entity3 's controversial redesign earlier this year			1
+inspired by the likes of @entity48 , the revamped design marked a shift in strategy for @entity3 from static profiles to a real - time flow of information			2
+at the same time , it proved unpopular among some users			0
+but @entity3 is n't the only big social - networking player to be implementing @entity14			2
+the emerging standard was behind the upgrades to @entity134 's @entity133 product that the @entity136 - owned service launched in march at the @entity137			0
+" it was sort of one of the earlier opportunities we had to take a nascent spec and see it all the way through to launch , " @entity133 product lead @entity138 told @entity0 , adding that his team first started working on @entity14 last september			0
+it 's what powers a new @entity134 " gadget " for @entity151 as well as its feeds ' presence on the upcoming @entity155 homepage redesign			0
+" it 's getting where we need it to be , which is like e-mail : where you can write a @entity165 client and know ( that ) it works , " @entity138 said			0
+" it 's not even a full standard yet , so it 's sort of exciting to see so many people get behind something so quickly , and it 's definitely indicative of the general momentum of people who are saying we 'd rather work open than work closed			0
+" © 2009 @entity178 all rights reserved			0
+@entity0 , @entity0 and the @entity0 logo are registered trademarks of @entity178 used by permission .			0
+
+a post on the @entity3 developer blog announces the @entity6
+third - party developers will have access to feed of all news feed content
+previously , only status updates were accessible to developers
+blog : @entity6 users will be able to use applications to interact with their stream
+
+@entity84:Dave Morin
+@entity112:Silverlight
+@entity110:Microsoft
+@entity134:MySpace
+@entity137:South by Southwest Interactive Festival
+@entity136:News Corp.
+@entity151:Google
+@entity155:Yahoo
+@entity3:Facebook
+@entity0:CNET
+@entity6:API
+@entity178:CBS Interactive Inc.
+@entity133:MySpaceID
+@entity75:Flickr
+@entity76:Photobucket
+@entity72:Adobe Air
+@entity14:Activity Streams
+@entity34:Messina
+@entity102:Palo Alto
+@entity103:California
+@entity107:Adobe
+@entity165:POP
+@entity113:Plaxo
+@entity64:Seesmic Desktop
+@entity48:Twitter
+@entity63:TweetDeck
+@entity138:Engel

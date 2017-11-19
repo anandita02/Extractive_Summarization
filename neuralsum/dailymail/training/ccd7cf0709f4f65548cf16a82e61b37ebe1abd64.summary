@@ -1,0 +1,49 @@
+http://web.archive.org/web/20150612142619id_/http://www.dailymail.co.uk/sciencetech/article-2356696/900-million-Android-devices-risk-bug-allows-hackers-hijack-phones-steal-data.html
+
+a ' master key ' that could give hackers complete access to mobile phones and tablets running @entity7 's @entity6 software has been revealed a ‘ master key ’ that could give hackers complete access to mobile phones and tablets running @entity7 ’s @entity6 software has been revealed			1
+the bug could allow hackers to hijack phones , allowing them to steal data , listen in to calls or send junk email and text messages			1
+researchers say the loophole has been present since 2009 , and claim around 900 million devices are at risk			1
+@entity25 of @entity26 , the firm which uncovered the key , said the implications of the discovery were ‘ huge ’			0
+‘ it can essentially take over the normal functioning of the phone and control any function thereof , ’ he wrote on the firm ’s blog			0
+@entity25 said the firm made @entity7 aware of its finding in february			2
+however , the firm did not respond to @entity38 ’s request for a comment			0
+the bug takes advantage of the way @entity6 handles cryptographic verification of the apps installed on the phone			1
+@entity6 uses the cryptographic signature as a way to check that an app or program is legitimate and to ensure it has not been tampered with			2
+the @entity26 team found a way to bypass these checks , tricking @entity6 so malicious changes to apps go unnoticed			2
+any app or program written to exploit the bug would enjoy the same access to a phone that the legitimate version of that application enjoyed			0
+‘ installation of a @entity65 application from the device manufacturer can grant the application full access to @entity6 system and all applications ( and their data ) currently installed , ’ wrote @entity25			1
+‘ the application then not only has the ability to read arbitrary application data on the device ( email , sms messages , documents , etc ) , retrieve all stored account & service passwords , it can essentially take over the normal functioning of the phone and control any function thereof ( make arbitrary phone calls , send arbitrary sms messages , turn on the camera , and record calls )			0
+‘ finally , and most unsettling , is the potential for a hacker to take advantage of the always - on , always - connected , and always - moving ( therefore hard - to - detect ) nature of these “ zombie ” mobile devices to create a botnet			0
+’ researchers say the loophole has been present since 2009 and claim around 900 million devices are at risk			1
+one third party device , the @entity98 ( pictured right ) , already has a fix for the flaw , but that @entity7 ’s own @entity103 handset ( left ) does not @entity25 is planning to reveal more information about the problem at the @entity107 hacker conference being held in august this year , and said the bug could have huge implications for firms who allow people to connect their @entity6 phones and tablet to secure company networks			1
+he confirmed that one third party device , the @entity98 , already has a fix for the flaw , but that @entity7 ’s own @entity103 handset did not			1
+however , experts say that there is currently no evidence that the flaw has been exploited			2
+‘ i imagine that @entity7 would move quickly to add some logic to look for such attacks , ’ @entity123 , a professor specializing in @entity6 security in the computer science department of @entity126 , told the @entity128 website			1
+‘ without that available to an attacker , this is likely to only be relevant for @entity6 users who use third - party app stores ( which have lots of other problems )			0
+’ @entity138 has identified a new @entity139 embedded in a pirated copy of an exclusive app from rapper @entity142 on the surface , the malware app functions identically to the legitimate app. however , in the background , the malware sends info about the infected device to an external server every time the phone restarts the malware then attempts to download and install additional packages the only visible indication that a user is infected comes via a time - based trigger that is set to activate on 4th july , @entity155 in the @entity156 on that day , the malware will replace the wallpaper on the infected device with an altered image of president @entity159 that comments on recent events in the @entity156 the security company thinks that there is a hacktivist agenda behind the @entity65 but has not ruled out the possibility that additional malware may target financial transactions or other data a new @entity139 embedded in a pirated copy of an app ( pictured ) from rapper @entity142 has been identified			0
+on the surface it works like the real app but is actually trying to install additional packages to an individual 's phone			0
+it 's real identity only became clear on 4 july			0
+
+a bug that has been present since 2009 allows hackers to listen in to calls and send junk emails from @entity6 devices
+one research firm claims over 900 million @entity6 devices are at risk from the bug that takes advantage of the way the operating system handles cryptographic verification of apps installed on phones and tablets
+@entity98 handsets have a fix , but @entity7 's @entity103 phones remain at risk
+there is no evidence that the flaw has been exploited yet
+
+@entity26:Bluebox
+@entity6:Android
+@entity142:Jay Z
+@entity25:Forristal
+@entity38:MailOnline
+@entity98:Samsung Galaxy S4
+@entity123:Dan Wallach
+@entity159:Obama
+@entity103:Nexus
+@entity139:Android Trojan
+@entity138:McAfee Mobile Security
+@entity128:Ars Technica
+@entity107:Black Hat
+@entity126:Rice University
+@entity7:Google
+@entity65:Trojan
+@entity156:US
+@entity155:Independence Day

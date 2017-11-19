@@ -1,0 +1,56 @@
+http://web.archive.org/web/20150318025539id_/http://www.dailymail.co.uk/sciencetech/article-2735856/The-physics-WIFI-ROUTER-Scientist-proves-centre-home-best-signal-strength.html
+
+deciding where to place a @entity2 router at home to minimise signal blackspots is a fine art. but a physicist has attempted to tackle the problem by mathematically working out the optimum position for a router			1
+he studied how walls and reflections affected signal strength and concluded that , as common sense might suggest , there ’s just no beating the centre of a house for router location			1
+@entity18 at @entity19 simulated @entity2 router locations ( shown above in the diagram of mr @entity18 's flat )			1
+he found that the best location , as common sense might suggest , was in the centre of a home			2
+he had grown frustrated after finding blackspots in his flat the ' complex ' research was carried out by @entity18 , a phd physics student at the @entity29 at @entity19			1
+@entity2 signals use very low intensity radio waves			0
+whilst similar in wavelength to domestic microwave radiation , the intensity of @entity2 radiation is 100,000 times less than that of a domestic microwave oven			0
+the type of radiation emitted by radio waves ( @entity2 ) , visible light , microwaves and mobile phones has been shown to raise the temperature of tissue at very high levels of exposure - but that 's much higher than what people are subjected to on a regular basis			2
+this is called a thermal interaction , but researchers are divided as to whether the radiation we receive daily can cause damage			0
+the @entity59 @entity58 ( @entity58 ) has been monitoring the safety of @entity2			0
+it says people using @entity2 , or those in the proximity , are exposed to the radio signals it emits - and some of the transmitted energy in the signals is absorbed in their bodies			2
+however , the signals are very low power			0
+sitting in a @entity70 for a year results in receiving the same dose of radio waves as making a 20 minute mobile phone call			0
+frustrated at finding numerous @entity2 blackspots around his flat , mr @entity18 turned to mathematics to find out how he could improve his internet connection			1
+the detailed research can be seen in his initial study and a more in - depth follow - up			0
+using something known as the @entity84 equation , which can resolve physical problems in both space and time , mr @entity18 simulated his flat in a program called @entity88			2
+in the simulation he mapped out his flat and then created a virtual router and computer			0
+he then tested out what happened to the router ’s signal when it was placed in different locations around his flat			2
+he found that , when confined to one side of the flat , the waves were hindered not only by walls and closed doors but also when they went around corners			2
+this , he says , is because the signal loses strength when it bounces off objects			0
+‘ i suspected that the thick @entity108 walls were absorbing the radiation or scattering it away from my computer , ’ mr @entity18 tells @entity106			1
+‘ i found an equation which approximates the behaviour of high - frequency electromagnetic waves such as @entity2 , and tried to solve it by placing a virtual router in the floor plan of my flat			1
+‘ after crunching numbers for a few minutes i was able to generate maps of @entity2 signal strength inside the flat , showing poor signal near my computer			1
+‘ i can now test putting the router in different positions to improve the situation			0
+’ walls , doors and corners were found to greatly decrease signal strength ( shown )			1
+mr @entity18 found there was no substitute for direct line - of - sight to the router , especially when it was place at one side of his flat			1
+the simulations were created in a program called @entity88 in order to get the best signal strength around a home , mr @entity18 says nothing beats placing the router at the centre ( simulation shown )			1
+while he has yet to test the simulations in real life yet , some commenters on his website suggested he tape an antenna to a robot vacuum cleaner by showing how weakened the signal can be when it moves across the flat , mr @entity18 found that no matter where his router was placed at one side of the flat , there would always be blackspots elsewhere			1
+instead , he suggests that the only solution to ensure as few blackspots as possible is to place the router in the middle of the flat			2
+‘ it turned out that the model i developed was very sensitive to every little detail , so it was difficult to say other than the common sense advice : direct line - of - sight to the router is best , ’ he explains			1
+‘ there is also some reflection of the signal around corners , but engineers tell me reflections are bad too			0
+‘ in my case , the best position was as central as possible , preferably near open doorways			0
+’ he says he has n’t tried any physical tests of the simulation yet , but has been given suggestions by commenters on his website			0
+‘ some inspired online commenters have suggested taping an antenna to a robot vacuum cleaner and letting it sniff around the flat , ’ he says			1
+‘ there have been many other helpful comments which will no doubt improve the methodology in the future , and a surprising number of people asking for an app to test their own houses or offices , so there 's plenty of work to do			0
+
+@entity18 at @entity19 simulated @entity2 router locations
+through complex equations he proved the centre of a home was the best place for optimum connection
+he had been frustrated by blackspots in his flat when *accessing* the internet
+walls , doors and corners were found to greatly decrease signal strength
+his simulation found there was no substitute for line - of - sight to the router
+while he has not tried the simulation in the real world yet , he tells @entity106 some people have suggested ' taping an antenna to a robot vacuum cleaner '
+
+@entity2:Wi-Fi
+@entity29:John Adams Institute
+@entity19:Imperial College London
+@entity18:Jason Cole
+@entity88:Matlab
+@entity84:Helmholtz
+@entity106:MailOnline
+@entity108:Victorian
+@entity59:UK
+@entity58:HPA
+@entity70:Wi-Fi hotspot

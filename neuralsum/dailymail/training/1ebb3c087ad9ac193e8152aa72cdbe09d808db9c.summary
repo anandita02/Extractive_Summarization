@@ -1,0 +1,68 @@
+http://web.archive.org/web/20150719042145id_/http://www.dailymail.co.uk/sciencetech/article-2960934/Is-music-player-really-random-Spotify-says-users-convinced-strange-patterns-shuffle-playlists.html
+
+you 're listening to a playlist on ' shuffle ' when you notice three @entity4 songs have played back to back - what are the chances ? while some dismiss this as a coincidence , others claim that so - called ' random ' playlists are n't random at all			1
+instead , they say , music services are conspiring against listeners to promote tracks			1
+it 's a criticism that @entity15 has faced , and as a result the music service has had to change its algorithms to fit the human brain 's warped idea of ' random '			1
+@entity21 - based @entity15 admits it had to change its playlist algorithm to be less random in order to trick its users into hearing what the believed to be random songs			1
+the graphic shows different genre songs ( labelled in various colours ) spread out evenly to fit the human expectation for ' random ' in @entity15 's new algorithm ' on my 442 song playlist , the same 30 or 35 tracks play over and over again and the other 400 songs i have barely heard once , ' one user wrote on a @entity15 forum			1
+' it 's almost unbelievable to me that such a simple process is broken , ' another user wrote			2
+' the only remaining explanation i can give is that @entity15 deliberately chooses the songs that are cheaper for @entity15 to pay royalties			1
+' but @entity15 has denied these allegations			1
+instead , it says , it 's all in our heads			2
+' our brain is an excellent pattern - matching device , ' said @entity49 , a lead developer at @entity15 , in an interview for @entity51 on the @entity52			1
+' it will find patterns where there are n't any			2
+' @entity15 realised that our brains actually want to see what we consider ' random ' – or different genres of music spread evenly over a playlist			1
+@entity15 's algorithm – which is anything but random – uses the length of a playlist and records how many of each type of song it contains the human brain is designed to notice coincidences			1
+it is also programmed to expect something to happen if it has n't occurred in a while			0
+for instance , people often think that if they have n't won anything in a scratch card lottery a couple of times in a row , they should have bigger chance of winning the next time			2
+this phenomenon is called @entity83 's fallacy and it 's the same fallacy that lead to the mistake about playlists not being random			1
+' if you just heard a song from a particular artist , that does n't mean that the next song will be more likely from a different artist in a perfectly random order , ' says @entity15 on its blog			1
+' the problem is that , to humans , truly random does not feel random , ' said @entity96 , a @entity15 software engineer , in a response on the question - and - answer site @entity99			1
+ask one to flip a coin 30 times and write down the sequence of heads and tails			0
+the other will imagine flipping a coin 30 times and also write the sequence of results			0
+they do this in secret , so you do n't know who has flipped the real coin and who has flipped the imaginary one			0
+the ' wow ' moment comes when you 're presented with the two lists of heads and tails and it 's usually instantly obvious which is which			0
+the first list is properly random			0
+the second is a human attempting to be random			0
+you can tell the difference because humans are very , very bad at faking randomness			0
+we just ca n't do it			0
+there are different ways to tell the fake and real randomness apart , but the most obvious is to look for runs of straight heads , or straight tails			0
+if one of the lists has a run of five heads or tails in a row , you can be pretty sure that 's the real coin			0
+in a list of 30 coin flips you 're reasonably likely to get a run of five			0
+when someone is imagining coin flips , however , they almost never imagine a run of five straight heads or tails			0
+this is because after two or three heads our brains tend to think , ' ok , time for a tails now			0
+' our brains are implementing an order , a ' coin memory ' , whereas in fact true randomness has no memory of what came before			0
+@entity165 creates counter-intuitively large clusters , such as a run of five heads in 30 flips of a coin , which leads to unexpected results			0
+' so we got tons of complaints from users about it not being random			0
+' last year , we updated it with a new algorithm that is intended to feel more random to a human			2
+' @entity15 realised that our brains actually want to see what we consider ' random ' – or different genres of music spread evenly over a playlist			1
+@entity15 's algorithm – which is anything but random – uses the length of a playlist and records how many of each type of song it contains			1
+if there are five @entity193 songs in the playlist , they will appear at 20 per cent intervals			2
+perfectly random means that the following two orders are equally likely to occur ( different colours represent different artists )			0
+however , to the human brain the bottom row does not appear random for artist 's that only have one song in the playlist , the algorithm makes sure they appear at random intervals , rather than all at the start			1
+the algorithm also shuffles songs by the same artist among each other to prevent songs from the same album playing too close together			2
+@entity15 is n't the only one who has had to make its playlists less random in order to appear more random			1
+in response to complaints from users , @entity219 chief executive @entity218 changed the programming behind its ' shuffle ' feature to make sure each song was significantly different from the last			0
+but despite this , some people still see patterns in their playlists			2
+' working at @entity15 has taught me a few things , one of them being is that it 's really , really , really hard to build something that a human will genuinely feel is shuffled			1
+' people still constantly come up to me at parties and tell me that the shuffle functionality is not random			2
+
+@entity15 was *accused* of making deal with labels to promote songs
+but it said patterns people see are *due* to warped *concept* of random
+our expectations are based on something known as ' *gambler* 's fallacy '
+the group *decided* to change its playlist algorithm to be less random
+this meant tracks from different genres were spread evenly when played
+
+@entity15:Spotify
+@entity21:New York
+@entity165:Randomness
+@entity218:Steve Jobs
+@entity4:Katy Perry
+@entity193:Pulp
+@entity219:Apple
+@entity52:BBC World Service
+@entity51:Tech Tent
+@entity83:Gambler
+@entity99:Quora
+@entity96:Johansson
+@entity49:Babar Zafar

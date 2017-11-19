@@ -1,0 +1,68 @@
+http://web.archive.org/web/20090605114945id_/http://edition.cnn.com:80/2009/TRAVEL/06/01/airline.ticket.typo/index.html?
+
+-- @entity1 buys two tickets to @entity3 on @entity4			1
+but when an agent misspells his wife 's name , he must embark on an odyssey to ensure she 'll be allowed to use her tickets			1
+will he be successful ? q : i recently bought tickets to @entity3 by calling @entity4			1
+i spelled my wife 's first name to the agent			1
+that afternoon we left town for a trip			0
+when we returned the tickets were at the front door and a confirmation e-mail was waiting			1
+my wife 's first name was spelled @entity23 instead of @entity24			1
+i immediately called @entity4 , and was told i should have contacted them the day the e-mail was sent to me and that there would be a $ 150 re-ticketing fee			1
+after several more calls and being put on " hold " for more than half an hour , a supervisor told me that there was nothing they could do			0
+they could n't even change the name on the ticket			2
+i contacted the airline directly and they told me they would make a note on my wife 's passenger record			1
+my wife 's tickets are still wrong and i 'm afraid we may have a problem with our connecting airline or with customs			1
+what can i do ? -- @entity48 , @entity49 , @entity50 a : @entity4 should have spelled your wife 's name correctly			1
+when it was clear that the company had made an error , it should have done everything in its power to fix it instead of giving you the runaround and forcing you to deal directly with your airline			2
+then again , it should have never come to this			0
+first , why are you phoning an online travel agency to buy tickets ? it may be more convenient , but online agencies are built to handle your purchases online			1
+it 's more efficient and reduces the chance of an error being introduced -- like misspelling a passenger 's name			1
+second , you should always check your verification e-mail immediately			0
+@entity4 could have made a change to your ticket if you had caught the mistake earlier			1
+it 's essential that you review your itinerary as soon as possible			2
+believe me , i know			0
+i just made this mistake and had to spend an extra day at my destination because i put the wrong date in my reservation			0
+( see ? it can happen to anyone			0
+) i 've dealt with too many wrong - name cases to count , and here are a few things i 've learned			0
+passengers are n't turned away at the gate because of a typographical error on their tickets			2
+reservations systems have limitations that sometimes truncate last names or render @entity102 names in funny characters			0
+last names and first names are frequently flip - flopped			0
+ticket agents , gate agents and security screeners know that , and will let you through			2
+i have n't heard of anyone being denied boarding because of a one - character difference in a name			0
+i 'm reasonably sure your wife would have been allowed to travel using her ticket , even if this had happened after the may 15 implementation of the first phase of the @entity119 's " @entity124 " initiative , which requires that you provide your full name as it appears on your government - issued identification			1
+incidentally , the " notation " in her reservation would have almost certainly been visible to any connecting airline			2
+and a customs agent would n't even pay attention to your ticket under normal circumstances			2
+it 's your customs form and passport that matter to them			2
+next time you buy tickets by phone -- and i hope there 's no next time -- do yourself a big favor : when you offer your name to the agent , ask to have it spelled back			1
+that way , you 'll catch any errors before the transaction goes through			0
+once you have a reservation , it becomes much more difficult ( or even impossible ) to make a change			0
+it should n't be that way			0
+in an ideal world , you 'd be able to change a name on a ticket			2
+airlines say they ca n't allow name changes for " security reasons " but i 'm inclined to believe it has more to do with the fact that they would lose lots of money if passengers could give their tickets to friends and family			0
+i contacted @entity4 on your behalf , and it issued a new ticket with your wife 's name spelled correctly			1
+@entity174 is the ombudsman for @entity177 magazine			0
+copyright 2009 @entity180 , @entity181 , @entity182			0
+
+passenger purchased airline tickets from @entity4 by phone
+when he received the tickets , his wife 's name was misspelled
+**troubleshooter** urged him to purchase online and to verify *information*
+@entity4 issued a corrected ticket when contacted by the **troubleshooter**
+
+@entity3:Italy
+@entity23:Crista
+@entity1:Frank Santa Maria
+@entity0:Tribune Media Services
+@entity174:Christopher Elliott
+@entity24:Christa
+@entity4:Expedia
+@entity179:celliott@ngs.org
+@entity181:DISTRIBUTED BY TRIBUNE MEDIA SERVICES
+@entity182:INC.
+@entity177:National Geographic Traveler
+@entity180:CHRISTOPHER ELLIOTT
+@entity102:non-English
+@entity50:Texas
+@entity124:Secure Flight
+@entity48:Frank Santa Maria
+@entity49:New Braunfels
+@entity119:Transportation Security Administration

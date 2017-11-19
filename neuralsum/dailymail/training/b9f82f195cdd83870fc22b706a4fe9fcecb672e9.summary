@@ -1,0 +1,56 @@
+http://web.archive.org/web/20121104094634id_/http://www.dailymail.co.uk:80/sciencetech/article-2192554/Privacy-concerns-scary-site-publishes-twitter-users-home-addresses.html
+
+by @entity0 published : 09:54 est , 23 august 2012 updated : 01:40 est , 24 august 2012 a controversial web site that publishes twitter users home addresses online has come under fire from security experts			1
+the site uses location information it says many people unwittingly transmit every time they send a tweet			2
+it then matches this to their home address , even providing a @entity16 image of their home in some cases			0
+@entity19 checks for users who have included the work home in a tweet and have transmitted their location			2
+it then displays their address , and even a picture many mobile phone twitter apps can transmit a user 's location			1
+the site looks for this location in any tweet containing the word ' home '			2
+when it finds a match , it uses @entity39 to match the location with an address			0
+after removing the most sensitive parts of the address , it it published on the web site the creators of @entity47 say they are providing a service by alerting users to the location feature			1
+they describe the site as ' an experiment '			2
+they also claim similar privacy issues exist with other services such as @entity56 and @entity16 's @entity57			2
+' our advice is do n't check in at your own home , whether using @entity65 with locations , @entity56 , @entity57 , or any other location - aware service , because you 're telling the world exactly where you live , ' the team say on the site			1
+' this website simply takes that , runs it through a geocoder to turn it into a human readable address , and links it with @entity16			0
+' the team even boast of how simple the site was to set up			2
+' the code is not particularly complicated either , and is done completely automatically			0
+' the site says it deletes user 's data after an hour , and also offers user an option to opt out of the site			0
+the site displays a constantly rolling list of usernames and addresses , with full details removed to retain some privacy for users			1
+security experts have described the site as ' scary '			1
+' the site promises that it only keeps the last hour of data , and then fully deletes it , but it 's scary to see how much information can be compiled against someone so quickly , using information that is freely available , ' said @entity98 of security firm @entity99			1
+the site also explains how to switch off location capabilities in twitter software on mobile phones			1
+the site 's creators say it was built as a warning to users			1
+' the idea is simple : many people tweet about being at home , and some even attach their location to it			0
+' this is represented as the latitude and longitude , and is completely open for any website or application to access			0
+' @entity120 , director of privacy campaign group @entity121 , believes the site could actually help users by drawing attention to the location information			1
+' the simple truth is that mobile phones are tracking devices that let us make calls , ' he said			0
+' many people are sharing their location with a whole range of services without realising just how seriously they are compromising their privacy			0
+' as this website shows , the number of people who share information that could identify where they live continues to be a major cause for concern and it ’s a very useful tool to highlight just how big a problem this is			0
+' it further highlights the need for much stronger regulation of what happens with our personal information , particularly geolocation data			0
+' he also called on technology firms such as @entity16 , @entity154 and @entity65 to be more open about their capabilities and help educate users			1
+' equally , the organisations involved need to do much more to educate consumers about what data is being shared and how they can take control of it			0
+' mobile phone user 's could be accidentally revealing their home address when they tweet , a controversial website that publishes twitter user 's location online claims			1
+mr @entity120 fear that as firms begin to harness the potential of using mobile phone user 's location data to target them with adverts , the problem could get much worse			1
+' however , when profit from targeted advertisements relies on using location data , consumers are seeing the perils of companies putting profit before privacy			0
+' @entity65 initially suspended the @ @entity183 account earlier this week , temporarily cutting off its access to tweets			1
+however , the account appeared to have been reinstated today , and the site was working normally			0
+@entity65 did not respond to requests from @entity188 to clarify its position .			2
+
+controversial site claims it is alerting users to the security risks of @entity65
+privacy experts warn of *increasing* number of mobile phone apps that reveal your locations
+
+@entity188:MailOnline
+@entity16:Google
+@entity121:Big Brother Watch
+@entity0:Mark Prigg
+@entity39:Google Maps
+@entity183:WeKnowYourHouse
+@entity19:weKnowYourHouse.com
+@entity47:WeKnowYourHouse.com
+@entity57:Google Latitude
+@entity56:Foursquare
+@entity99:Sophos
+@entity98:Anna Brading
+@entity65:Twitter
+@entity120:Pickles
+@entity154:Apple

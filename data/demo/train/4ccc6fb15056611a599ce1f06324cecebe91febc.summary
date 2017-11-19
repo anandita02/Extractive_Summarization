@@ -1,0 +1,55 @@
+http://web.archive.org/web/20150710150033id_/http://www.cnn.com/2014/03/16/opinion/palmer-malaysia-flight-370/
+
+those trying to draw conclusions from the information trickling from the investigation into the disappearance of @entity5 should go carefully			2
+it is plausible that , as @entity12 's prime minister asserted , the plane 's flying for hours after losing contact with air traffic control was " consistent with deliberate action , " but it 's not the only logical explanation of the airplane 's bewildering trajectory			1
+statements that the @entity19 and @entity20 was intentionally disabled , for example , leave out the fact that the @entity22 is required to send the satellite contact requests ( so - called " handshakes " ) that , according to news reports , were reported to have occurred for hours after the flight 's disappearance			1
+the plane has multiple functions and channels connected to the @entity22 and at least some of it must have still been working			1
+for example , one part of this communications system is used for messages between the airplane and air traffic control ( clearances , position reports , etc )			0
+another is used to communicate , essentially with text messages , between the airplane and the airline			0
+messages can also be sent automatically for maintenance functions such as reporting faults and sending routine engine data			0
+the range of functions that would have been available for someone to disable is not yet clear			2
+and at least one news report described altitude excursions between 45,000 feet and 23,000 , which one pilot suggested might have been done willfully to render passengers unconscious			0
+but this strikes me as behavior that would also be consistent with the airplane flying completely unattended with the autopilot off			1
+though these oscillations are larger than i might expect , it would be a natural behavior for the airplane to fly relatively large but gentle pitch oscillations			2
+this would be true especially if the airplane 's auto - throttles were also for some reason disabled			1
+there have been statements made that such changes could only be made by a skilled aviator , but what " skilled aviator " can not hold altitude within 20,000 feet ? incapacitation or something else that could prevent the crew from controlling the plane -- fire , collision , explosive depressurization -- could also be indicated , which would n't necessarily mean the cockpit was breached by anyone			0
+the airplane reportedly made " suspicious turns			0
+" however , it is the nature of those turns that will reveal if it was deliberate " heading " ( directional ) changes or if nobody was flying the airplane at all			2
+if the autopilot was off and the airplane was essentially flying on its own , i would expect a variety of heading changes			2
+these changes could be initiated by turbulence during flight			2
+if the airplane 's routes were controlled intentionally by selecting the heading or by programming the flight management computer , the flight path would be very straight , then a turn that would last usually from 10 to 30 seconds , followed by more straight flight			1
+while a close - up analysis of the flight path would be required to determine the case , it seems that officials are not even sure if the flight path headed northwest toward @entity114 or southwest into the vast @entity115			1
+on the technical side , the @entity116 is a fly - by - wire airplane -- that is , movement of the controls is converted into electrical signals that interact with flight - control computers and instruct the plane 's control surfaces on the wings and tail			1
+its characteristics may be able to explain much of the airplane 's behavior			1
+with the autopilot off , the airplane will adjust the pitch ( the up or down movement of the nose of the plane ) to maintain a speed set by the pilot			0
+it will pitch up if it 's going faster than the desired speed and pitch down if slower			0
+this is called pitch trim			0
+anyone who has flown even a small aircraft will be familiar with this concept			0
+therefore , when disturbed , it will fly a series of pitch changes as it settles down on the trimmed airspeed			0
+pitch protections built into the system ensure that the airplane never goes too fast or too slow			0
+temporary input on the control wheel , or changes in the airplane 's weight as it burns off fuel , temperature and other normal atmospheric changes along the course can initiate the altitude changes as the airplane continues to seek its trimmed speed			0
+heading changes are also what i would expect to see in an autopilot - off situation			2
+the 777 's fly - by - wire roll control law controls the tilt of the wings			1
+the airplane would be subject to atmospheric disturbances that could act to tip a wing up every now and then , but built - in protections prevent the plane from exceeding bank angles in excess of 35 °			1
+while a conventional airplane would tend to spiral down in that situation , the 777 incorporates automatic pitch compensation , so the airplane could easily hold its altitude in these turns			0
+the fly - by - wire control system on the 777 makes it a very stable airplane , capable of flying for hours with the autopilot off without crashing			1
+if the flight path can be shown to be very straight lines with neat turns followed by another straight line , then i would throw out the " autopilot - off " theory , but it seems as though officials ca n't even determine where the plane was heading , much less the nature and cause of some heading changes			1
+the consistent theme in the mystery of this flight has been very little data , and the exact nature of that scant data is vague and changing			0
+whatever exact scenario can account for the possible incapacitation or deliberate actions of the crew , the loss of the transponder and other communications and the airplane 's mysterious flight path is likely to be a situation we have not seen before			1
+i would urge that we not jump to conclusions based on inconclusive evidence			0
+the evidence we have may be " consistent with deliberate acts , " but it is also consistent with other explanations as well .			1
+
+@entity222 : deliberate acts are not the only possibility in disappearance of @entity12 flight
+he says it 's not clear what systems , such as @entity22 , were turned off and when
+@entity222 : descent reported might be from 777 adjusting to no autopilot , not deliberate act
+@entity222 : much of 777 behavior could be from built - in systems *reacting* ; *guessing* *inadequate*
+
+@entity22:ACARS
+@entity20:Reporting System
+@entity222:Palmer
+@entity12:Malaysia
+@entity5:Malaysia Airlines Flight 370
+@entity19:Aircraft Communications Addressing
+@entity116:Boeing 777-200ER
+@entity115:Indian Ocean
+@entity114:Pakistan

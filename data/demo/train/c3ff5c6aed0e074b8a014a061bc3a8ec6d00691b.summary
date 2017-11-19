@@ -1,0 +1,87 @@
+http://web.archive.org/web/20120621125935id_/http://edition.cnn.com:80/2009/TECH/biztech/08/05/short.links/index.html
+
+-- on the surface , a fast - growing service called @entity2 performs a small task : it shortens urls			1
+short urls are booming thanks to social network tools like @entity9 with character limits			1
+that 's useful when you want to share links on social networking sites like @entity9 that limit the size of your messages , which helps explain why url shortening services in general are proliferating			1
+there are now well over a hundred			0
+but @entity2 , a startup that 's part of the @entity24 - based incubator @entity25 , goes further than many of its peers			1
+in addition to short links , it offers free analytics on the traffic related to those links			1
+and it has bigger plans in store			0
+with little effort , regular users can see -- in real time -- the number of clicks received by their @entity2 link , the location of the person clicking , and the service used at the time of the click ( @entity46 , @entity9 , etc. )			1
+launched about a year ago , @entity2 is now being used to shorten 8 to 10 million links a day , according to general manager @entity48			2
+there are plenty of other web analytics offerings , of course , but they tend to target more technical users or , as with @entity55 , marketers			1
+" you do n't need a tech team to use @entity2 , " said @entity48			2
+" it 's a tool that 's immediately accessible to regular people			0
+" a few months ago , @entity9 quietly replaced @entity61 , one of the early shorteners , with @entity2 as its default			1
+there are now rumors that @entity9 will buy @entity2 outright , but @entity48 wo n't comment on rumors			1
+@entity2 benefits from the @entity9 arrangement on multiple levels			1
+there 's all the traffic , of course , and the demand created in the first place by the 140 - character limit			2
+more broadly , the growth of @entity9 and other social networking sites means more people are communicating one - to - many -- or , in essence , acting like broadcasters			2
+and as do broadcasters , many wonder how widely their message is being received			0
+that favors tools that give regular users statistical feedback on the " audience			0
+" other ventures are tapping into this			0
+fast - growing @entity91 , which helps users build blogs and web sites , offers real - time visitor stats for each page			1
+and tr.im , another url shortener , also offers statistics on things like a user 's location , referring web sites , and the number of clicks received			2
+but @entity2 is perhaps more interesting for where it 's going			2
+about 200 million @entity2 links are clicked on in a typical week , and the number is growing fast ( it 's doubled over the past few months )			1
+that kind of volume can yield analysis that 's relevant to the web at large			0
+the startup detected , for instance , that the video of @entity117 protestor @entity116 would become news well before reports came out in newspapers and on tv , according to @entity48			0
+it was apparent , he notes , from the increasing velocity with which the video was being shared			0
+the company is working on a series of projects -- internally dubbed " @entity129 " -- that will help users predict and rank popular content			2
+among them is an upcoming web site that might compete with services like @entity135 and @entity136			2
+with those sites , and others like them , content is ranked by user votes			0
+vote - based services , though , have been gamed in the past so that something is made to appear more popular than it actually is			0
+a click - based system might have advantages in this regard , but @entity48 's team is looking at ways to strengthen the system against such attempts			0
+@entity2 is still exploring business models , but one thing it wo n't do , according to @entity48 , is inject advertisements when users click on a link			1
+" early on , we made a decision never to frame content , and never to run interstitial advertising , " he said			0
+" everything we do has to go with the grain of the product and community			0
+" that 's not stopping others , though			0
+a service called @entity167 , which works with @entity2 and @entity61 links , entices users to " shorten any url and make money			1
+" the service will pay @entity9 users who get followers to click on a short url and then either interact with framed ads or make purchases at supported merchants			1
+that 's just one example of opportunistic middlemen taking advantage of shortened urls			0
+fraudsters have been targeting @entity9 with links that are supposedly related to trending topics but that actually lead to malicious sites			2
+@entity2 is taking a few approaches to combat this			2
+it uses real - time spam - filtering services , like @entity190 and @entity191 , so that if you are directed to such a site , a warning will pop up warning you about it			0
+earlier this week , @entity9 itself started to offer similar warnings , but not for shortened urls			1
+@entity2 also offers a browser plug - in that can reveal the full url			1
+another company offers a useful browser add - on for @entity201 called @entity202			0
+it 's added full - url - reveal to its long list of capabilities , and it works for most ( though not all ) brands of shortened url			1
+@entity2 and others , including tr.im , let outside applications tap their application programming interfaces ( @entity209 ) , so one thing they can do is offer full @entity198 preview in their own programs			1
+for instance with @entity216 , a popular app for organizing tweets , you can see the full url behind a @entity2 link			1
+whatever improvements @entity2 and its peers make , there will likely remain some internet users who largely avoid short urls for reasons of their own			1
+" i rarely click on @entity2 links , " commented one reader of the social media blog @entity228			2
+" just not comfy with the big brother - ish tracking stuff			0
+" interestingly , she did n't mind if it was @entity191 doing the tracking			0
+she minded if it was somebody she knew , like a business associate -- even though the data is anonymous			0
+some things , like the quirks of human psychology , can probably never be addressed .			0
+
+shortened url services growing in popularity thanks to services like @entity9
+@entity198 company @entity2 developing to allow web traffic tracking and a free analytics
+other link shorteners allow for ads as new form of revenue model
+many web users remain wary of clicking on shortened @entity256
+
+@entity24:New York
+@entity25:Betaworks
+@entity117:Iranian
+@entity116:Neda Agha-Soltan
+@entity256:URLs
+@entity135:Digg
+@entity136:StumbleUpon
+@entity2:Bit.ly
+@entity216:TweetDeck
+@entity0:CNN
+@entity198:Short URL
+@entity9:Twitter
+@entity191:Google
+@entity190:SURBL
+@entity55:Google Analytics
+@entity209:API
+@entity129:Bit.ly Now
+@entity202:Hyperwords
+@entity201:Firefox
+@entity91:Squarespace
+@entity167:Tweetbucks
+@entity228:Mashable.com
+@entity46:Facebook
+@entity48:Cohen
+@entity61:TinyURL

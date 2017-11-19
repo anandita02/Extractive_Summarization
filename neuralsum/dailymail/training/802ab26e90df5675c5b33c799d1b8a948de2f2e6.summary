@@ -1,0 +1,32 @@
+http://web.archive.org/web/20130415092535id_/http://www.dailymail.co.uk/sciencetech/article-2307497/Secretbook-lets-users-hide-ANY-message-Facebook-picture.html
+
+by @entity0 published : 10:44 est , 11 april 2013 updated : 10:44 est , 11 april 2013 a 21 - year - old student has found a way of allowing @entity4 users to encode pictures with secret messages			1
+@entity7 , a computer science student at @entity8 , has created a browser extension that allows people to share secret messages on the social networking site			2
+@entity13 allows anyone with access to @entity16 to hide 140 character long messages in @entity20 images uploaded to @entity4 and these messages can only be unlocked using a personal password			1
+@entity13 allows anyone with access to @entity16 to hide 140 character long messages in jpeg images uploaded to @entity4 it works by hiding messages amongst the millions of images that are uploaded to @entity4			1
+it does this by changing a pixel to a different colour and then replicating it in many different pictures to spell out a message			0
+this message is then only revealed to someone who knows the password and knows which pixel to look for			0
+according to @entity35 , mr @entity7 spent two months designing the programme as part of a university project			0
+it is the first time that anyone has managed to work out how to hide messages in computer files and it is very difficult for @entity4 to detect as it operates through a @entity16 web extension platform			1
+@entity13 works by hiding steganographic messages where no one would think to look – in this case , among the millions of images that are uploaded to @entity4			1
+mr @entity7 told @entity35 : ‘ many tools for steganography in jpegs have existed in the past although they have always required that the images are transmitted exactly as they are			0
+’ for example , this could be one pixel which has been changed to a different colour and then replicated in many pictures to spell out a message – to see this message you have to know the password and which pixel to look for			2
+however , when a picture is uploaded to @entity4 the image is automatically formatted which would render any message incomprehensible			2
+it is the first time that anyone has managed to work out how to hide messages in computer files and it is very difficult for @entity4 to detect as it operates through a @entity16 web extension platform as a result , mr @entity7 had to copy the sites recompression algorithm so that the encoded message is automatically compressed meaning that it does not change when recompressed by @entity4			1
+mr @entity7 accepts that the technology could be used by terrorists but he believes that they would not use his method of steganography as it is not entirely secure			0
+when @entity35 approached @entity4 a spokesperson declined to comment on @entity13 .			0
+
+@entity82 *'s* *plugin* allows encoding of pictures with messages
+it allows people to hide 140 character notes , which can only be unlocked using a password , in pictures that are uploaded to @entity4
+first time anyone has worked out how to hide messages in computer files - it works by placing messages where people would *n't* think to look
+there is a fear that the technology could be used by terrorists
+
+@entity16:Google Chrome
+@entity20:JPEG
+@entity0:Emma Innes
+@entity13:Secretbook
+@entity4:Facebook
+@entity8:Oxford University
+@entity82:Owen Campbell-Moore
+@entity7:Campbell-Moore
+@entity35:Wired.com

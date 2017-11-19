@@ -1,0 +1,65 @@
+http://web.archive.org/web/20150722015624id_/http://www.dailymail.co.uk/sciencetech/article-3012732/Get-battery-boosting-tips-tailored-App-learns-behaviours-offer-personalised-ways-save-energy.html
+
+you may be mystified as to why your phone ’s battery can drain in a matter of hours			0
+and while mobiles have a large number of adjustable settings which can be tweaked to prolong battery life , they are often tricky to understand			0
+now there ’s a free app that offers users personalised advice about how to boost their phone ’s battery life			1
+a free @entity15 and @entity17 app called @entity18 offers frustrated smartphone users personalised advice to boost their phone 's battery life			1
+a screenshot showing distribution information is shown left , and a @entity23 , which indicates how a device ’s battery life compares with others running @entity18 , is shown right called @entity18 , it uses crowdsourced measurements to work out how much of an impact certain settings and apps are having on a specific battery , before advising users what to do			1
+after using their phone normally for around a week , people who download the app will start to receive personalised recommendations for improving battery life			2
+this is because the app intermittently takes measurements about the device and how it is being used			0
+these measurements are sent to @entity18 ’s servers and ‘ thrown into a statistical stew ’ so that the measurements can be used as a benchmark to compare how power - hungry a certain device is			1
+@entity18 uses crowd - sourced measurements ( illustrated ) to work out how much of an impact certain settings are having on the battery and what users can do about it			1
+users who download the app can use their phone normally , and after a week , will start to receive personalised recommendations for improving their battery life @entity18 analyses a specific phone 's energy use , drawing upon crowd sourced information			1
+it offers users recommendations on how to boost the battery life of their device			0
+for example , it might point out that @entity70 is using an unusually large amount of power compared to on other phones , indicating that either an individual is hooked on the social media app , or that it could contain an energy - sapping bug			1
+an ‘ action list ’ is shown on the main screen of the app , with instructions such as ‘ @entity80 ’ or ‘ @entity81 ’ along with an estimate of how much battery life will improve if a user takes the recommendation			0
+a j - score is also given that indicates how a device 's battery life compares with other @entity18 users ' devices			1
+a @entity93 section advises which apps to close , while a @entity95 section points out those that are in a bad state			0
+non-identifiable information from phones is collected to build up the main database used as a benchmark for energy consumption			1
+the results of the analysis are then sent back to the app , in order to give users instructions on what to do to improve the life of their phone			2
+for example , it might point out that @entity70 is using an unusually large amount of power compared to on other phones , indicating that either an individual is hooked on the social media app , or that it could contain an energy - sapping bug			1
+an ‘ action list ’ is shown on the main screen of the app , with instructions such as ‘ @entity80 ’ or ‘ @entity81 ’ along with an estimate of how much battery life will improve if a user takes a recommendation			0
+‘ the information displayed by @entity18 changes over time as it learns - the longer you use it , the better the results get , ’ according to the researchers behind the app. users will also see a ‘ @entity87 , ’ which indicates how a device ’s battery life compares with others running @entity18			1
+it 's expressed as a percentage , so a j - score of 75 means a device has a better battery life than three out of four smartphones - and users can get a score for a comparable model too			2
+apps listed under the title of ‘ @entity93 ’ are shown to be energy - hungry and closing them could result in battery life			2
+similarly , @entity18 lists some apps under ‘ @entity95 , ’ which are associated with increased energy use on an individual user ’s phone			1
+‘ in other words , it may be that your instance of the app is caught in a bad state or has a bad configuration , ’ the researchers behind the app wrote			0
+apps and settings listed under the title of ‘ @entity93 ’ ( shown left ) are shown to be energy - hungry and closing such apps could result in battery life			2
+the confidence level ( shown right ) indicates how likely it is that closing an app will make a difference to battery life ‘ restarting the app may help if it 's a transient problem , but , if not , you may need to close and avoid the app. ’ as well as being a tool for consumers , @entity18 is a research project run by computer scientists at the @entity177 and @entity178			1
+‘ we want to know whether it is possible to take sparse , incomplete measurements from a large community of mobile devices and figure out which apps are abusing the battery , ’ they said			2
+‘ we want to find bugs and simultaneously help users mitigate their ill effects and help developers fix them			0
+while it 's relatively easy to find a link between energy consumption and screen brightness and connectivity , the experts are unravelling the energy impact of the combination of roaming , high operating temperature , and bad signal strength , for example			1
+recommendations could lead to less charging ( stock image ) while it is relatively straight forward to find a link between energy consumption and screen brightness and connectivity , the experts are unravelling the energy impact of the combination of roaming , high operating temperature , and bad signal strength , for example			1
+the researches have so far found that @entity214 signal strength dropping one bar can cause 13 per cent battery loss , and high temperature can cause 50 per cent battery life loss , even if the heat does n’t come from the cpu inside a smartphone or tablet			0
+automatic screen brightness is in most cases better than the manual setting and together , battery temperature and distance travelled ,			0
+offer a good predictor of battery lifetime			0
+‘ we believe that , as our dependence on mobile devices increases , energy bugs will rise to prominence , and we want to begin developing tools and techniques for detecting and fixing them			2
+’ their research is based on a large dataset that currently consists of device usage data gathered from more than 150,000 smartphones and tablets			2
+it covers life daily usage patterns and , together with laboratory based specific high precision measurements , serves as the basis for the research work			0
+while it is relatively straight forward to find a link between energy consumption and screen brightness and connectivity , the experts are unravelling the energy impact of the combination of roaming , high operating temperature , and bad signal strength , for example			1
+the researches have so far found that @entity214 signal strength dropping one bar can cause 13 per cent battery loss , and high temperature can cause 50 per cent battery life loss , even if the heat does n’t come from the cpu inside a smartphone or tablet			0
+automatic screen brightness is in most cases better than the manual setting and together , battery temperature and distance travelled ,			0
+offer a good predictor of battery lifetime .			0
+
+@entity18 app , for @entity15 and @entity17 devices , was produced by @entity276 and @entity178 , @entity278 computer scientists
+uses crowdsourced data to *investigate* a phones ' energy consumption
+*monitors* phone usage over a week , feeding data to a central server
+information is analysed and personal power - *saving* tips given to users
+**suggestions** *include* shutting certain apps down or *upgrading* *software*
+the longer the app is used , the more *tailored* the **suggestions** become
+
+@entity17:Android
+@entity23:J-Score
+@entity15:iOS
+@entity177:Universities of Helsinki
+@entity178:University of California
+@entity18:Carat
+@entity80:Kill App X
+@entity81:Upgrade OS
+@entity214:Wi-Fi
+@entity278:Berkeley
+@entity87:J-Score
+@entity276:University of Helsinki
+@entity95:Bug Report
+@entity93:Hog Report
+@entity70:Twitter

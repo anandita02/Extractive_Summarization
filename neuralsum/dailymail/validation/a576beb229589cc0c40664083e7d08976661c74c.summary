@@ -1,0 +1,67 @@
+http://web.archive.org/web/20150720025607id_/http://www.dailymail.co.uk/sciencetech/article-2975796/Google-rank-search-results-based-accuracy-web-pages.html
+
+@entity0 wants to rank internet pages based on the quality of the facts they contain			1
+a new paper published by a group of software engineers suggests that the internet search giant may be preparing to change the algorithms it uses to scour the web			1
+currently searches appear according to a complex combination of key words and links with other websites , but this fails to weed out inaccurate information			1
+@entity0 may be about to change the way it delivers search results to users by ranking results by accuracy instead a @entity0 research team has developed a way of measuring the trustworthiness of the information contained on an internet page			1
+if implemented it could mean that currently popular sources that regularly get facts wrong could fall foul of the new search technique			2
+not one to be outdone by its rivals , @entity0 is reportedly working on a mobile payment service called @entity36			2
+the firm is expected to officially announce the service at its developer conference later this year			0
+it will create a way for companies to accept transactions through their apps without having to introduce their own individual payment services			0
+@entity36 users will then be able to upload credit card or debit card information to a single secure location but use it to pay for items across apps			0
+and customers will be able to use it to pay for in - app purchases , goods or services with a single tap			0
+@entity0 is also expected to allow companies to use its @entity59 to enable tap - to - pay options in physical stores using @entity63 readers , for example			2
+in a paper to be published in the @entity67 , the @entity0 researchers said webpages would be allocated trustworthiness scores			1
+they said : ' quality assessment for web sources is of tremendous importance in web search			1
+' it has been traditionally evaluated using exogenous signals such as hyperlinks and browsing history			0
+' for example , the gossip websites listed ( see image below ) mostly have high pagerank scores , but would not generally be considered reliable			0
+' conversly , some less popular websites nevertheless have very accurate information			2
+' ' we address the fundamental question of estimating how trustworthy a given web source is			0
+' informally , we define the trustworthiness or accuracy of a web source as the probability that it contains the correct value for a fact ( such as @entity94 's nationality ) , assuming that it mentions any value for that fact			0
+' currently web searches are ranked by , among other things , the number of incoming links to a page to help @entity0 's search bots determine the quality of the link			1
+this , however , is really only a measure of the popularity of a webpage rather than the accuracy of the information it contains			0
+@entity0 researchers have developed a new algorithm that looks for facts and inaccuracies on web pages webpages containing inaccurate information can be widely shared and linked to by blogs and other external sites , causing them to feature high up in @entity0 search results			1
+however , @entity123 , @entity124 and colleagues at @entity0 have designed a way of automatically extracting information from webpages and ranking them for trustworthiness			2
+they use a system they have called @entity134 , which pulls facts from many pages and then jointly estimates the correctness and accuracy of these			2
+it then counts the number of incorrect facts on a page to give it a trust score			1
+to help the software the team has developed draws on @entity0 's fast @entity148 - a store of facts that have been pulled off the internet and are unanimously agreed on as being true			1
+the software extracts what are known as ' knowledge triplets ' - such as @entity94 , nationality , @entity156			0
+the list of the top five gossip sites above currently rank in the top 15 per cent of search results but @entity0 researchers say that using their new algorithm these will be religated to the bottom half of search results websites that contain contradictory information are then moved down the rankings on internet searches			1
+in a test of their system , the researchers applied their model to 2.8 billion pages on the internet and were able to reliably predict the trustworthiness of 119 million pages and 5.6 million websites			1
+giving an example of the nationality of @entity156 president @entity94 , they say their system can distinguish between sources that are correct , those that are wrong and those read incorrectly by information extraction software			0
+when the team applied their algorithm to a list of top 15 gossip websites including @entity186 ! , @entity187 , @entity188 , and @entity189 they found that they ranked in the bottom 50 per cent of searches			1
+the researchers said : ' in other words , they are considered less trustworthy than half of the websites			2
+' however , under the current search system used by @entity0 , they rank among the top 15 per cent			1
+in another example the paper describes how forums are also another source of poor information			0
+they said : ' for instance , we discovered that @entity205 says that ' @entity206 is from @entity207 ' , although she was born in @entity208 according to @entity209			0
+' a spokesman for @entity0 said there were no specific plans to use the algorithm in their public search engine yet			2
+he said : ' this was research - we do n’t have any specific plans to implement it in our products			0
+we publish hundreds of research papers every year			0
+
+@entity0 researchers have developed new algorithms for searching out facts
+web pages are given a @entity228 score based on how accurate it is
+the more incorrect facts on a page the lower it is ranked in search results
+current searches use links from other websites to determine page quality
+the research suggests @entity0 is to change the way it scours the internet
+
+@entity188:E Online
+@entity59:Android Pay API
+@entity0:Google
+@entity36:Android Pay
+@entity228:Knowledge Trust
+@entity206:Catherine Zeta-Jones
+@entity189:Gawker
+@entity148:Knowledge Vault
+@entity209:Wikipedia
+@entity186:Yahoo! OMG
+@entity187:TMZ
+@entity123:Xin Luna Dong
+@entity208:Wales
+@entity67:Proceedings of the Very Large Database Endowment
+@entity134:Knowledge-Based Trust
+@entity124:Wei Zhang
+@entity94:Barack Obama
+@entity207:New Zealand
+@entity156:US
+@entity205:answers.yahoo.com
+@entity63:NFC

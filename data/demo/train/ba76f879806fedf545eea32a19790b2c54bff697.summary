@@ -1,0 +1,88 @@
+http://web.archive.org/web/20100628015515id_/http://www.cnn.com:80/2010/TECH/web/06/01/openstreetmap/
+
+-- @entity2 's " crowdsourced knowledge " model has created a spectacular resource , but everyone knows the big caveat : if the data 's important , do n't trust the online encyclopedia without verifying it first			1
+so how well would a similar crowdsourcing model work for a detailed street - level map of the world ? several years ago , that question led to the creation of @entity15 , a wiki - style world map that anyone can edit			1
+several friends in the @entity20 got fed up with the government 's stingy approach to data distribution ( @entity24 has crafted ultra-detailed maps of the @entity20 with public funds , but that data must be licensed for private use ) , and decided to do something about it			1
+the obvious question was " why bother ? " terrific maps from @entity33 , @entity34 , and others already had a significant lead and were often free ( as in beer ) to embed and use			1
+but location services were exploding , and all were premised on mapping data			2
+the lack of any high - quality , worldwide , free , and open - source map remained a problem			1
+" most hackers around the world are familiar with the difference between ' free ' as in ' free beer ' and as in ' free speech , ' " says @entity15 in its list of frequently asked questions			1
+" @entity52 are free as in beer , not as in speech			2
+if your project 's mapping needs can be served simply by using the @entity58 , all to the good			2
+but that 's not true of every project			2
+we need a free dataset which will enable programmers , social activists , cartographers and the like to fulfill their plans without being limited either by @entity33 's api or by their @entity70			1
+" a street - level map of the world might sound audacious , but @entity15 has exploded in popularity - after starting with a few friends , more than 250,000 have now contributed mapping data to the project			1
+soon , the map achieved amazing accuracy , especially in @entity79 where it originated			2
+take a look at @entity82 , for instance , where open mapping has become a craze			0
+the @entity86 ( the @entity86 ) exists in @entity52 , of course , but it has little detail ( though it does have satellite maps , which @entity15 lacks )			1
+dedicated locals have used @entity15 's tools to do @entity33 one better by mapping all of the zoo 's animals ; if you want to plot your visit to the lair of the " @entity97 , " you can			1
+even restroom locations are helpfully plotted			0
+as the map took off , it became clear that something more was needed to truly enable developers			2
+the map data alone was valuable , but how much more valuable would it be to create a mapping platform that could handle commercial loads , provide back - end routing services , handle geocoding and reverse geocoding , and build tools for working with the data and crafting new apps from it ? thus @entity114 was born			1
+after a year of building out the platform ( with much of the work being done by @entity118 developers ) , @entity114 now has 10,500 developers using its mapping platform			0
+every week , the platform pulls the newest data from @entity15 , creating something new : the ability for frustrated map users to correct those annoying local errors , then see the changes propagate out to apps within a week			1
+corrections are made " by people who know their area , " says @entity114 vp @entity132			0
+and while one might assume that the bulk of the work being done is in places like the @entity136 or @entity79 , @entity132 says that " 67 percent of all the mapping being done right now is outside of those markets			0
+" @entity114 hopes to profit by offering free access to its platform in exchange for a cut of ad revenue from free applications ( devs can also pay upfront if they want )			2
+where available , baseline map data was imported from open datasets , like the @entity136 government 's tiger data from the @entity152			1
+but in many places like @entity79 , most of the map was handcrafted and began with a blank canvas			2
+the results are impressive : a spin around the map shows fairly detailed work already done on places like @entity162 and @entity163 , though truly remote locations like @entity166 island have no features yet			0
+unexpected challenges popped up along the way			0
+in @entity172 , for instance , the state puts tough limits on private mapping			0
+" doing business in @entity172 is challenging " says @entity132			0
+and the occasional edit fray breaks out over sensitive maps , such as those depicting the divided island of @entity180			0
+but @entity132 believes that the crowdsourced approach to the underlying data works well - better than commercial alternatives , in fact			1
+" @entity190 wins , " he says , noting that pro mapping companies might send data collectors into an area once a year or so and update their maps even less frequently			1
+when local users are involved , local changes are made quickly			0
+clean up your neighborhood the accuracy of the data was put to the test last week when a company called skobbler released a free turn - by - turn , gps - based map program for the @entity202 based on the @entity114 platform			1
+given the price of competing gps navigation software , this sounds like a revolution			0
+sadly , the program does n't work well			0
+crashes were common in our testing , response could be slow , and the interface was non-intuitive			0
+users have given it a two - star rating			2
+even the official press release featured a telling quote : " although we know we 're not quite ready to challenge the expensive premium navigation solutions , we 'll quickly get there , " said skobbler co-founder @entity222			0
+such problems can be fixed			0
+but there 's a deeper issue : will consumers trust a mapping program that encourages them to tap a " ladybug button " every time they run into a map problem ? ( the button sets a flag in @entity15 that locals can use to investigate and correct errors			1
+) users may balk at helping to create the map they 're relying on , but people once said the same thing about @entity2			1
+certainly , the underlying maps are getting a workout ; @entity114 says that 7,017 edits are made every hour			0
+a quick look at my own neighborhood revealed a tiny error - a road mistakenly extended up a private driveway about a block away			0
+i created an account at @entity15 , zoomed into the problem area , and hit " edit			2
+" a flash - based map editor popped up , overlaying @entity15 data on a satellite picture of the area pulled from @entity256			1
+fixing the area was a simple matter of dragging and clicking , and voila - i had made a small difference in the world			2
+twenty minutes later , after cleaning up pond boundaries at a nearby park , adding a fire station , and fixing a road that mistakenly drove through some homes , i reluctantly moved on to other things			0
+the map 's level of detail is already superb , and editing was enjoyable			1
+having such a free and open resource on the @entity271 seems like a good thing			0
+now , if @entity114 can partner with some truly outstanding developers and turn out some well - written code , it could soon be an extremely useful thing , too			0
+
+@entity15 aims to let users create map data free for anyone
+more than 250,00 users have added or edited street - level maps of the world
+the map 's @entity202 app has some issues , however
+
+@entity20:UK
+@entity256:Yahoo
+@entity24:Ordnance Survey
+@entity33:Google
+@entity97:Gro_er Panda
+@entity82:Germany
+@entity114:CloudMade
+@entity86:Berlin Zoo
+@entity152:Census Bureau
+@entity136:US
+@entity118:Ukrainian
+@entity132:Petersen
+@entity2:Wikipedia
+@entity0:ARSTECHNICA.COM
+@entity190:Passion
+@entity52:Google Maps
+@entity79:Europe
+@entity58:Google Maps API
+@entity70:Terms of Service
+@entity15:OpenStreetMap
+@entity34:Microsoft
+@entity172:China
+@entity271:Web
+@entity202:iPhone
+@entity162:Mumbai
+@entity163:La Paz
+@entity222:Marcus Thielking
+@entity166:South Georgia
+@entity180:Cyprus

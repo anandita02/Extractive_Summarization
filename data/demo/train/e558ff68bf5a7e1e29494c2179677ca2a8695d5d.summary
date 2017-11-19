@@ -1,0 +1,24 @@
+http://web.archive.org/web/20140930172512id_/http://edition.cnn.com/2007/BUSINESS/11/22/dubai.golf/index.html
+
+-- @entity1 is adept at attracting investment and this month it has laid claim to the world 's richest ever golf tournament			1
+@entity6 competes in @entity7 at the @entity8 on sept. 30 , 2007			0
+the @entity9 will be contested in 2009 with a total prize pot worth $ 10 million			1
+it will be played at at @entity11 , a residental golfing community currently under construction			0
+the @entity15 's @entity14 is currently the world 's richest single golf competition , offering prize money of $ 9 million			2
+
+@entity23 's richest golf tournament to be held in @entity1 in 2009
+total prize pot worth $ 10 million , *trumping* the @entity27 @entity26
+to be played at @entity11 , currently under construction
+
+@entity23:World
+@entity1:Dubai
+@entity0:CNN
+@entity7:The Presidents Cup
+@entity6:Tiger Woods
+@entity11:Jumeirah Golf Estates
+@entity9:Dubai World Championship
+@entity8:Royal Montreal Golf Club
+@entity15:U.S. Tour
+@entity14:Players Championship
+@entity26:Player 's Championship
+@entity27:U.S.

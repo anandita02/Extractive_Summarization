@@ -1,0 +1,25 @@
+http://web.archive.org/web/20131210075005id_/http://www.cnn.com:80/2013/12/05/world/europe/madrid-plane-turns-back/index.html
+
+-- a @entity3 - bound plane left @entity4 in @entity5 only to return , where it ran off the runway but did not crash , an airport spokesman said			1
+there are no reported injuries			2
+the pilot of @entity11 flight 415 , which was headed to @entity12 , reported to the control tower there was a mechanical problem with the @entity17 jet and requested to return to the airport			1
+the plane is on a taxiway being inspected and repaired			0
+@entity5 newspaper @entity21 reported the problem was related to the hydraulic system			1
+@entity11 issued a statement saying the plane turned around " for precautionary reasons			2
+" " the flight landed normally and the passengers deplaned normally , " it said			0
+asked whether the plane went off the runway , a @entity11 spokeswoman said she could n't comment beyond the statement			0
+the airline has put most , if not all , of the passengers in hotels , she said .			0
+
+@entity11 flight 415 returned to @entity36 *shortly* after *takeoff* ; no injuries reported
+airline says return was " precautionary , " while airport reports mechanical problem
+@entity5 newspaper @entity21 says problem was related to hydraulic system
+
+@entity3:New York
+@entity17:Boeing
+@entity0:CNN
+@entity12:JFK International
+@entity11:Delta
+@entity5:Spanish
+@entity4:Madrid-Barajas Airport
+@entity36:Madrid
+@entity21:El Pais

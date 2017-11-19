@@ -1,0 +1,22 @@
+http://web.archive.org/web/20110822161525id_/http://edition.cnn.com:80/2011/WORLD/americas/07/19/honduras.president.threat/index.html
+
+-- @entity2 president @entity1 has said that there are " high up " forces in his country that want him killed , but declined to give details			1
+at an impromptu press conference at an event monday , @entity1 was asked by reporters why the presidential home was undergoing security upgrades , including the installation of a perimeter wall			1
+" it 's unfortunate , but these safety measures must be taken , even more so when they are threatening me , " @entity1 said			1
+" they say that they should n't remove ( me ) because it 's too problematic			0
+better to send someone to kill him			0
+" the president added that he knows " who they are and they are not low down , they are high up			0
+" the threats stemmed from a new security tax that would be collected and used to fund police operations , @entity1 said			1
+the tax would collect about $ 78 million			0
+the wall being built around the presidential home was being donated by the @entity32 government , he said			2
+@entity1 assumed the presidency in 2010 , the first leader elected after a 2009 coup that ousted former president @entity36 .			2
+
+there are *people* who want him dead , the president says
+@entity1 says he has been threatened
+@entity1 's home is getting security upgrades , including a perimeter wall
+
+@entity2:Honduran
+@entity1:Lobo
+@entity0:CNN
+@entity32:Taiwanese
+@entity36:Manuel Zelaya

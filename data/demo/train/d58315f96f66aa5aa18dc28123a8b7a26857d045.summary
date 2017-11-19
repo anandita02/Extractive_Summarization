@@ -1,0 +1,66 @@
+http://web.archive.org/web/20130820145818id_/http://www.cnn.com:80/2012/01/20/tech/mobile/apps-web-gahran
+
+-- phone and tablet owners used to spend most of their time surfing the @entity4			1
+now they 're using apps , according to data from @entity8			2
+a year and a half ago , mobile users tended to spend considerably more time -- an average of 64 minutes per day -- using the web browser on their phone or tablet			1
+by comparison , they spent only 43 minutes per day in apps			1
+now mobile users now spend an average of 94 minutes per day using apps , but just 72 minutes browsing the mobile web , according to @entity22 's report , which was released earlier this month on the company 's blog			1
+this does n't necessarily mean mobile users are spending nearly three hours per day looking at their phones			1
+@entity22 's web and app statistics came from different sources			1
+but , overall , we do appear to be spending much more time looking at our phones than we used to			2
+what 's driving the growth in time spent in mobile apps ? according to @entity22 , consumers are using their apps more frequently			1
+that is , the number of daily sessions is growing , although the duration of those sessions is not			0
+flurry predicts that smartphone users will continue to spend even more time proportionally with apps vs. the mobile web -- and in fact , from june to december 2011 , they observed that average daily time spent on the mobile web decreased slightly			1
+" users seem to be substituting websites for applications , which may be more convenient to access throughout the day , " the report said			2
+why is the mobile web holding our attention less ? according to @entity22 , it might be because @entity59 's app is so popular			1
+" this drop appears to be driven largely by a decrease in time spent on ( @entity59 's mobile website )			1
+in june 2011 , the average @entity59 user spent over 33 minutes on average per day on the ( mobile ) website			1
+today , that number is below 24 minutes			0
+... ( @entity70 users ) are increasingly accessing ( @entity59 and other ) online services through mobile applications			2
+" once @entity59 is factored out of those statistics , @entity22 notes that average time spent elsewhere on the mobile web actually grew by about 2 % in the same time frame			1
+it 's worth noting that @entity22 is not a disinterested party here			0
+this company sells mobile application analytics and an advertising platform that can be incorporated into mobile apps			0
+advertisers are very interested in the amount of time that people might be exposed to their ads. but the mobile web , mobile browsers , and the nature of mobile apps are changing fast			1
+more and more sites are being built using the latest web markup language , @entity93 , which gives websites more app - like features			2
+for instance , @entity93 supports geolocation , makes web forms easier to fill out on your phone , supports coding scripts that enable custom features , and it also loads multimedia elements faster in web pages			0
+consequently , more and more mobile apps will actually be delivered through the mobile web browser -- making them web apps			0
+want to see this in action ? visit @entity111 or @entity112 via the web browser on your phone or tablet			2
+you 'll see a lot of conspicuously app - like functionality			0
+in november @entity120 announced that it was finally abandoning development of @entity122 for mobile browsers , and refocusing on @entity93 for delivering interactive features and video -- the death rattle of a long struggle in which @entity128 resisted letting @entity122 run on its @entity131 mobile operating system			0
+with this turnabout , many designers began converting flash - based websites ( especially ad - supported ones ) to @entity93			0
+the rise of @entity93 mobile web apps could also eat into profits from today 's leading app marketplaces			1
+@entity140 noted , " the mass migration to @entity93 will eliminate the need to rely on companies like @entity128 and @entity144 , which take up to 30 % of all revenues generated from applications			0
+" that 's a powerful financial incentive for app developers , digital publishers , and online services to start deploying more web apps			1
+there 's another bonus : " native " apps are built to run on a specific platform			0
+that 's why so many apps come in separate versions for the @entity160 , @entity161 and other mobile platforms			0
+building , updating and supporting all those separate pieces of software is fairly expensive and complex			0
+but @entity93 is inherently cross-platform -- which means you build it once and it can run on any mobile device with a sufficiently advanced browser			0
+and of course , users must download and install most native mobile apps in order to run them on their device			0
+that 's a considerable hurdle -- only one in four mobile apps really engages mobile users , and 26 % of all apps downloaded are opened only once and then never used again			2
+with @entity93 web apps , users do n't have to download , install , launch or update anything			2
+so apps as we have come to known them are in the midst of a radical change			0
+whether the rise of @entity93 will lead mobile users to start spending more time with their browsers than native apps remains to be seen -- but for many mobile users , and for many apps , that distinction may start to become irrelevant			1
+the opinions expressed in this post are solely those of @entity197 .			0
+
+phone , tablet users now spend an average of 94 minutes per day using apps
+people are using apps more frequently even though they 're not spending more time
+the drop in web *traffic* appears to be largely driven by @entity59 's app
+
+@entity22:Flurry
+@entity144:Google
+@entity160:iPhone
+@entity0:CNN
+@entity140:HTML5 Report
+@entity111:YouTube
+@entity4:Web
+@entity197:Amy Gahran
+@entity122:Flash
+@entity8:Flurry Analytics
+@entity161:Android
+@entity112:Twitter
+@entity128:Apple
+@entity93:HTML5
+@entity59:Facebook
+@entity131:iOS
+@entity70:Mobile
+@entity120:Adobe

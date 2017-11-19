@@ -1,0 +1,60 @@
+http://web.archive.org/web/20141214232543id_/http://www.dailymail.co.uk/sciencetech/article-2809927/Beware-Microsoft-Office-Software-contains-dangerous-bug-let-hackers-computer.html
+
+many of us know not to click random links that are sent in emails or on @entity4 , but now we ’re being warned to be on our guard against dangerous files , too			0
+@entity7 has discovered a vulnerability in its office software that affects every version of @entity11 , except @entity12			1
+and hackers are already exploiting the flaw to trick people into opening infected files and taking over their entire computer			2
+it affects every supported version of @entity11 , including @entity21 , 7 , and @entity22 on tablets , but not @entity12			1
+if a user opens an infected @entity27 file , a hacker could gain access to their computer			1
+@entity7 is currently working on an update in an official advisory notice , @entity7 said it is ‘ aware of a vulnerability affecting all supported releases of @entity11			1
+‘ the vulnerability could allow remote code execution if a user opens a specially crafted @entity27 file that contains an @entity39 object			1
+’ @entity39 ( @entity39 ) is a technology that allows applications to share data and functionality			0
+an attacker who successfully takes advantage of this vulnerability could gain the same user rights as the current user on any targeted computer			0
+it affects all supported versions of @entity11 , which includes @entity51 , @entity52 , @entity11 7 , @entity11 8 , @entity53 , and @entity22 what is the vulnerability ? in an official advisory notice , @entity7 said it is ‘ aware of a vulnerability affecting all supported releases of @entity11			1
+‘ the vulnerability could allow remote code execution if a user opens a specially crafted @entity27 file that contains an @entity39 object			1
+’ which versions of @entity11 are affected ? it affects all supported versions of @entity11 , which includes @entity51 , @entity52 , @entity11 7 , @entity11 8 , @entity53 , and @entity22 @entity64 is no longer supported - which means that when @entity7 issues updates , users running this operating system do n't receive them - however , that does n't mean it is guaranteed to be safe from attack			2
+what is @entity39 ? @entity39 ( @entity39 ) is a technology that allows applications to share data and functionality			0
+for example , a compound @entity76 document may contain an embedded @entity79 spreadsheet , known as an ole object			0
+this technology also enables in - place editing , so instead of launching a new application when an ole object is activated , the user instead can edit it inside their their existing application			0
+which files are at risk ? the current @entity27 flaw is already being exploited in a number of ‘ limited , targeted attacks ’ in which infected @entity94 files are being sent over email			1
+however , in theory , any @entity27 file is at risk , including @entity76 documents and @entity79 spreadsheets			2
+what might an attacker use the vulnerability to do ? an attacker who successfully takes advantage of this vulnerability could gain the same user rights as the current user			0
+if the current user is logged on with administrative user rights , an attacker could take complete control of an affected system			0
+an attacker could then install programs ; view , change , or delete data ; or create new accounts with full user rights			0
+how can i protect myself ? @entity7 has issued a temporary fix that users can install to protect themselves ahead of a wider security update			1
+it is also advising people not to open unidentified files			0
+@entity64 is no longer supported - which means that when @entity7 issues updates , users running this operating system do n't receive them - however , that does n't mean it is safe from attack			2
+the current @entity27 flaw is already being exploited in a number of ‘ limited , targeted attacks ’ in which infected @entity94 files are being sent over email			1
+however , in theory , any @entity27 file is at risk , including @entity76 documents and @entity79 spreadsheets			2
+@entity7 has issued a temporary fix that users can install to protect themselves ahead of a wider security update			1
+an attacker who successfully takes advantage of this vulnerability could gain the same user rights as the current user			0
+the flaw is already being exploited in a number of ‘ limited , targeted attacks ’ in which infected @entity94 files ( logo pictured ) are being sent over email			1
+however , in theory , any @entity27 file is at risk it is also advising people not to open unidentified files			2
+the attack can also only be launched if a user consents to opening the file , and users are advised to enable @entity162 ( @entity162 ) , where possible , to be prompted before opening links and files			2
+@entity165 from security firm @entity166 said : ‘ currently , @entity7 has not indicated whether a patch to solve this issue will be sent outside of the regular @entity170 cycle			0
+until more definitive information becomes available , we advise users to be careful about opening @entity27 documents that they have been sent , particularly if they come from parties that have not sent you documents beforehand			0
+
+@entity7 announced the flaw in a recent security advisory note
+it affects every supported version of @entity11 , except @entity12
+if a user opens an infected @entity27 file , a hacker can gain access to their *pc*
+hackers have already started exploiting the flaw with @entity94 files
+a temporary fix has been issued ahead of an official security update
+
+@entity22:Windows RT.
+@entity162:UAC
+@entity76:Word
+@entity21:Windows 8
+@entity7:Microsoft
+@entity12:Windows Server 2003
+@entity11:Windows
+@entity4:Facebook
+@entity39:Object Linking and Embedding
+@entity165:Jonathan Leopando
+@entity53:Windows Server 2012
+@entity52:Windows Server 2008
+@entity51:Windows Vista
+@entity79:Excel
+@entity170:Patch Tuesday
+@entity166:TrendMicro
+@entity64:Windows XP
+@entity94:PowerPoint
+@entity27:Office

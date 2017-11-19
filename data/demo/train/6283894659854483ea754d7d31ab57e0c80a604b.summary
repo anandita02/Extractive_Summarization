@@ -1,0 +1,48 @@
+http://web.archive.org/web/20131221221320id_/http://www.cnn.com/2013/03/26/tech/mobile/mobile-gps-privacy-study
+
+-- can you be identified only by where you take your phone ? yes , according to a new study , which finds it 's not very hard at all			0
+while most of us are free to go wherever we want , our daily and weekly movement patterns are pretty predictable			0
+we go to work , to school , to church , to our neighborhood gym , grocery store or coffee shop , and we come home -- all quietly tracked by the @entity15 in our phone			0
+and with nothing more than this anonymous location data , someone who wanted to badly enough could easily figure out who you are by tracking your smartphone			2
+patterns of our movements , when traced on a map , create something akin to a fingerprint that is unique to every person			1
+those are the findings of a report by researchers from @entity32 and elsewhere , published this week in the journal @entity34			1
+they say that , throughout history , people have always yearned for some degree of privacy , and there have always been others who wanted to keep an eye on them			2
+with modern technology , they say , tracking people is easier than ever			0
+" modern information technologies such as the @entity47 and mobile phones , however , magnify the uniqueness of individuals , further enhancing the traditional challenges to privacy , " they wrote			2
+" mobility data is among the most sensitive data currently being collected			0
+mobility data contains the approximate whereabouts of individuals and can be used to reconstruct individuals ' movements across space and time			2
+" the growing push to track your location indoors for the study , the research team studied 15 months of anonymous mobile data for roughly 1.5 million people			1
+what they found was that , if they got accurate hourly updates on a person 's whereabouts , tracked by their mobile carrier 's cell towers , four " data points " were all they needed to figure out the person 's identity 95 % of the time			1
+that 's the sort of thing that has privacy advocates , like the @entity83 , worried			1
+in a wrap - up of last year 's developments in mobile privacy , the group 's @entity84 and @entity86 noted that , in multiple cases , law enforcement has approached wireless carriers for mobile data to track users			1
+at least one court has ruled that users have no reasonable expectation of privacy regarding their cell phone data			1
+" ( @entity103 ) he government claims that cell phone users give up their privacy rights because they have voluntarily disclosed their physical location to the cell phone providers every time a phone connects to the provider 's cell tower , " @entity83 said in a statement related to an october court case			1
+" ... however , this theory undermines privacy in nearly any networked communication			0
+" increasingly , the makers of mobile operating systems are opening up anonymous location data to developers designing apps that do things like target local advertising to the users			1
+@entity123 , for example , states in its privacy policy that it can share anonymous mobile data with " partners and licensees			1
+" the study 's authors said keeping data anonymous is not necessarily enough to ensure real privacy			1
+" a simply anonymized dataset does not contain name , home address , phone number or other obvious identifier , " they wrote			0
+" yet , if individual 's patterns are unique enough , outside information can be used to link the data back to an individual			1
+" so , for example , say that you wake up at home every morning , head to the office five days a week , then hit the gym on three of those days			0
+that 's three data points already			2
+then maybe you go to the same church , or restaurant for brunch , every sunday			0
+there 's the fourth -- plenty to figure out who you are , the authors say			0
+every additional location you hit regularly just makes it that much easier			0
+like @entity83 , the study 's authors said that has troubling implications			0
+" these findings represent fundamental constraints to an individual 's privacy and have important implications for the design of frameworks and institutions dedicated to protect the privacy of individuals , " they wrote .			2
+
+report : it 's easy to identify smartphone users by their movements
+researchers from @entity32 and elsewhere tracked 1.5 million people for 15 months
+each mobile user 's daily movements are unique and create a " fingerprint "
+privacy advocates worry how law enforcement and others may use that data
+
+@entity15:GPS
+@entity0:CNN
+@entity34:Scientific Reports
+@entity103:T
+@entity83:EFF
+@entity84:Hanni Fakhoury
+@entity86:Marcia Hofmann
+@entity47:Internet
+@entity32:MIT
+@entity123:Apple

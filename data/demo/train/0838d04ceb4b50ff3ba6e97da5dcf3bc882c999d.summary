@@ -1,0 +1,56 @@
+http://web.archive.org/web/20120527134830id_/http://www.cnn.com/2012/05/20/business/nasdaq-facebook-gaff/index.html
+
+-- @entity2 's chief executive admitted he was " embarrassed " by the delay in the opening trade of @entity6 's initial public offering and revealed that the exchange was in talks with regulators over potentially millions of dollars of customer claims			1
+@entity11 said on sunday that the 20 - minute delay in trading of @entity6 's $ 16bn offering on friday had been caused by a millisecond systems blip due to the largest ipo auction " in the history of mankind "			1
+the exchange has found itself in the spotlight after @entity6 failed to deliver a first - day " pop " to investors , instead almost falling below its issuing price of $ 38			1
+the shares , having risen briefly , quickly fell away to close the day with a gain of just 0.6 per cent , at $ 38.23			2
+as a result of the trading delay , @entity2 was left with a position in @entity6 shares that it had to liquidate , according to its own rules , generating $ 10m for the group			1
+it plans to use that money to resolve disputes related to 30m shares that may have been the subject of improper trades , and has requested approval from the @entity38 to do so , said mr @entity11			0
+the @entity38 said on friday it would " review " the incident			0
+the glitch , coming just weeks after @entity41 was forced to withdraw its ipo after technical problems , highlighted the fragile nature of modern equity markets , in which exchanges must handle many thousands of messages a second transmitted by high - frequency traders			2
+mr @entity11 defended @entity2 's performance , citing its role in @entity6 's trading over the whole of the session , which saw more than 580m shares change hands , the largest ever number for an ipo			1
+" these problems are real and we have to improve from the performance we had on friday , " mr @entity11 said			0
+" we stand humbly embarrassed by that			2
+but the rest of the day ... the system performed well			0
+" @entity2 has now laid out the details of the glitch			2
+in spite of testing 1bn in trading volumes under 100 scenarios , the exchange was caught by surprise when cancellations of trades kept interrupting the computer system 's attempt to complete the auction and produce an initial price for @entity6 's opening			1
+@entity2 says it designed its " ipo cross " , the process of calculating the opening price , in such a way that would allow continuous trading through an auction at the behest of its customers and has used the system in previous ipos			1
+but in processing the huge volume of @entity6 trades , it added two milliseconds to the time it took to produce an opening price			1
+in that extra two milliseconds , orders to cancel the trades kept interrupting the auction process , or as mr @entity11 put it , " fitting in between the raindrops "			0
+mr @entity11 said : " on a real time basis with the pressure of the world upon us ... we intercepted this cross in a loop			0
+" he said there was no discussion at any point of cancelling the ipo			0
+@entity6 and @entity108 declined to comment on @entity2 's description of the events of the day			1
+as a result of the glitch the exchange decided to print the opening trade manually but was then forced to delay the process of confirming individual trades			1
+the mechanism has now been altered to prevent continuous quoting during @entity107 auctions , mr @entity11 said			0
+" we had a poor design for the @entity6 opening cross ipo			1
+we recognise the design has relative merit for investors where we give them maximum optionality , but it did n't ' work in this scenario			0
+" @entity2 has identified trading orders for some 30m shares that came in between 11.11am and 11.30am , when trading actually began			1
+it estimates that 50 per cent of those may have been orders not executed at the ipo price , as traders may have expected them to be			0
+but it is still investigating to determine how many grievances are legitimate			0
+mr @entity11 said @entity2 was " working very hard with customers to make sure about the accommodations we give to respective customers "			2
+@entity140 , executive vice-president at @entity2 , said there were no other " systematic " technical problems			2
+@entity2 's board of directors had been informed over the weekend of friday 's events , mr @entity11 said			1
+when asked if he thought his job was safe , he said : " i certainly hope so			0
+i obviously serve at the pleasure of the board			0
+" the exchange group had pushed hard to win the @entity107 from its rival @entity149 , as it seeks supremacy in listings for internet companies that make up one of the few vibrant sectors of the new issue market			0
+mr @entity11 responded directly to arguments that @entity2 's delay played a role in @entity6 's stock failing to " pop "			1
+some market participants have said the delayed confirmations caused confusion and prevented some buyers stepping in to the market to support @entity6 's stock price			1
+" you want to look at whether your position is moving up or down			0
+without that , there was a lot of pressure to liquidate , " said one trader at a market - making firm			2
+however , mr @entity11 said that the record did not support that theory , noting that after the delayed trades were made live at 1.50pm , traders did not buy at the $ 42.05 level that was the initial print			0
+" that would lead a reasonable person to conclude [ the opening cross print delay ] did n't have any impact on the stock price , " he said			2
+
+@entity2 's chief executive admitted he was " embarrassed " by the delay in the opening trade
+20 - minute delay in @entity6 trading had been caused by a millisecond systems blip
+
+@entity2:Nasdaq OMX
+@entity0:Financial Times
+@entity140:Eric Noll
+@entity6:Facebook
+@entity11:Greifeld
+@entity38:SEC
+@entity183:The Financial Times Limited
+@entity149:New York Stock Exchange
+@entity41:BATS Global Markets
+@entity107:Facebook IPO
+@entity108:Morgan Stanley

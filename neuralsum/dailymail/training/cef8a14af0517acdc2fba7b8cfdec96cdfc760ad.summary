@@ -1,0 +1,68 @@
+http://web.archive.org/web/20130814004734id_/http://www.dailymail.co.uk/sciencetech/article-2386834/Apple-iOS-7-feature-follows-mobile-users-produces-location-history-using-GPS.html
+
+by @entity0 published : 09:13 est , 8 august 2013 updated : 09:27 est , 8 august 2013 @entity1 is following @entity3 's lead by adding a feature to its upcoming operating system that can track a user 's every step			1
+@entity9 security firm @entity8 has found a setting in the fifth beta release of @entity1 's @entity13 software called feature locations that tracks a user 's gps coordinates over time and plots them on a map			1
+this news comes after code was discovered in @entity3 's @entity23 4.3 software that lets devices scan for nearby networks , in order to determine a person 's location , even when @entity29 is turned off			2
+@entity9 security firm @entity8 has found a setting in the fifth beta release of @entity1 's @entity13 software called feature locations that tracks a user 's gps coordinates over time and plots them on a map , pictured it is unclear if the @entity39 feature is turned on by default but it can be disabled the @entity1 feature is relatively hidden away on the @entity13 software - due to be released in october - in @entity43 , @entity44 , @entity45 , @entity46			1
+it is unclear whether the feature is turned on by default but according to the @entity8 security expert : ' [ the feature ] kept track of my complete movement profile ( location and time tracking ) without me knowing anything			2
+' he does continue , however , that the feature can be disabled			2
+@entity59 is part of a wider @entity1 feature called @entity62 set up to make the device 's built - in mapping technology more accurate			1
+apps such as @entity67 track locations in a similar way , but only when a user actively checks - in			0
+the maps created using frequent location can be used by people to see where they have been and the locations they visit most often			2
+@entity1 's disclaimer about the feature says : ' if you choose to enable @entity62 , @entity1 will collect the gps coordinates obtained through the frequent locations feature on your device and correlate them with the street address associated with your @entity1 @entity82			1
+a string of developer code discovered in the fourth beta release of @entity1 's @entity13 software , pictured , gives the strongest indication to date that either the @entity88 or the @entity89 could have a fingerprint scanner ' this will enable @entity1 to better approximate the geographic location of that and other addresses			1
+' @entity1 will only retain the resulting coordinates in an anonymous form to improve maps and other @entity1 location - based products and services			1
+' earlier this week , reports emerged that @entity3 's latest @entity23 phone operating system includes a feature that will scan for networks and track user 's locations even when @entity29 has been turned off			1
+the code used to build @entity23 4.3 claims that ' to improve location accuracy and for other purposes , @entity3 and other apps may scan for nearby networks even when @entity29 is off			2
+' a string of code discovered in the latest beta release of @entity1 's @entity13 software implies that either the @entity88 or @entity89 could come with a fingerprint scanner			1
+the code describes a user touching the home button with their thumb			0
+a fingerprint then appears on the screen , that changes colour - presumably to signify a match - and the ' recognition is complete '			0
+a folder called @entity129 was also found			0
+the @entity88 could additionally have a slow - motion camera			0
+more code discovered in @entity13 suggests phones running the software will be able to record video at a rate of 120 frames - per - second ( @entity137 ) rather than around 30 frames per @entity139 is fast enough to allow @entity89 users to create slow - motion films			1
+the @entity13 software also lets users swipe between menus , select apps and control the device 's screen using just head movements			1
+when the @entity150 feature is enabled , it will scroll through and highlight different onscreen sections - including individual menus and apps			0
+when the required section is highlighted , users can move their head to the left to select it			0
+other new features include @entity158 in @entity159 that responds to ambient light when you use it in the dark			0
+@entity164 audio can be used to make high - quality calls over a data network and @entity167 lets you dismiss a notification so that it is dismissed on all of your devices			0
+by identifying nearby @entity29 networks a device can determine a user 's location and it can be used as an alternative to @entity176			0
+@entity3 's feature is turned off by default and can be enabled , or disabled , in @entity43			2
+@entity1 's new @entity13 software was unveiled in june			1
+it has a ‘ flat design ’ , but critics say the dramatic new look could backfire , confusing users - while others claim it simply looks like @entity3 ’s rival @entity23 system			0
+it will be available for users to download from october but beta versions of the software are being rolled out to developers			2
+developers can use the software to build apps in preparation for when the operating system it officially released as well as test it for bugs			0
+a folder called @entity129 , pictured , was also found and the feature could be for security reasons to unlock the phone , or to authorise payments in the @entity202 and prevent people from stealing your phone , reading your messages or obtaining personal data			0
+
+@entity1 's @entity13 software includes a feature that collects gps coordinates
+these coordinates are mapped to show users where they *'ve* been
+the company says it will only use these coordinates to improve maps
+
+@entity23:Android
+@entity29:Wi-Fi
+@entity82:ID
+@entity158:Night Mode
+@entity139:second.This
+@entity88:iPhone 5S
+@entity89:iPhone
+@entity137:FPS
+@entity150:Switch Control
+@entity3:Google
+@entity1:Apple
+@entity0:Victoria Woollaston
+@entity176:GPS
+@entity9:German
+@entity8:Protecus
+@entity59:Frequent Locations
+@entity13:iOS 7
+@entity39:Frequent Location
+@entity129:Biometric Kit
+@entity202:App Store
+@entity167:Notification Sync
+@entity164:FaceTime
+@entity159:Maps
+@entity44:Privacy
+@entity45:Location Services
+@entity46:System Services and Frequent Locations
+@entity43:Settings
+@entity67:Foursquare
+@entity62:Improve Maps

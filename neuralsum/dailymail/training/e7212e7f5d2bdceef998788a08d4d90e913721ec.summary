@@ -1,0 +1,65 @@
+http://web.archive.org/web/20150327023631id_/http://www.dailymail.co.uk/sciencetech/article-2249303/Hackers-penetrate-home-Crack-Samsungs-Smart-TV-allows-attacker-seize-control-microphone-cameras.html
+
+@entity1 's @entity0 could used by hackers to watch everything that happens in your living room by gaining access to the device 's built - in camera and microphones , it has been claimed			1
+@entity11 - based security firm @entity10 posted a video showing how its researchers had learned to crack the television to access its settings - including any personal information stored on it			1
+' we can install malicious software to gain complete root access to the tv , ' they claim in the video			1
+vulnerable : @entity1 's @entity0 can be penetrated by hackers who can install malicious software on to the device to record whatever is picked up by its built - in microphones and cameras with such malware installed , hackers could use the @entity0 's built - in microphones and camera to hear and see everything in front of it			1
+@entity1 's @entity0 can be used to browse the internet , use social networks , watch net - based commercial film streaming services and play online games , among other things , from the comfort of your sofa			0
+the devices can also be controlled by voice commands and gestures , using their microphones and cameras to detect what is happening in front of them			1
+however , while the @entity0 's are connected to the internet they are vulnerable to hackers who can access the device and access files stored on them			1
+@entity59 , co-founder of @entity10 , says he has found a way to track down the ip address of the device and gain access to seize control and scour any drives connected to it			1
+the video appears to show he is able to access remote files and information like the viewing history , as well as siphon data from usb drives attached to a compromised set			1
+mr @entity59 told @entity73 : ' at this point the attacker has complete control over the device			1
+' so we are talking about applying custom firmwares , spying on the victim if camera and microphone are available , stealing any credential and account stored ... on the device , using his own certificates when accessing https websites , and tracking any activity of the victim ( movies , photos , music , and websites seen ) and so on			2
+' you become the tv			0
+' personal information : a video posted by @entity11 - based security company @entity10 reveals how once their researcher gained access to the @entity0 he was able to scour all connected drives and read data from them the research raises the possibility that owners of consumer devices connected to the @entity105 are exposing themselves to similar kinds of security threats that faced by users of personal computers , @entity73 notes			1
+the cable boxes of the future could be able to detect when viewers are cuddling on the sofa and automatically serve adverts for contraceptives			0
+@entity117 cable provider @entity116 has applied to patent a set - top box technology that can observe what 's going on in the room and show viewers adverts based on what it detects			0
+in @entity117 patent application 20120304206 the company suggests it could detect when people are ' cuddling ' then show ' a commercial for a romantic getaway vacation , a commercial for a contraceptive , a commercial for flowers [ ... ] etc. '			0
+the technology would integrate a range of sensors into their products , including thermal imaging cameras , microphones and motion sensors , to detect the mood their audience and tailor media content to suit			2
+@entity146 campaign group @entity145 called the new technology a ' privacy nightmare waiting around the corner ' and called for it to be reined in ' before consumers lose control for good '			2
+it has disturbing echoes of @entity154 's dystopia 1984 , where the population were constantly watched by authorities through cameras integrated in their television screens			0
+devices from lighting systems to air conditioners to computer games consoles now rely on online functionality , but their operating systems often do not have the same kinds of security measures now commonly deployed on @entity167 and @entity168 powered devices			2
+at the moment , @entity170 's exploit only works once hackers have managed to breach the network which the television is connected to			0
+as such , mr @entity59 told @entity175 , he expects the main danger is of hackers targeting specific companies or individuals			0
+' in our opinion , it ’s more interesting and realistic to think about attacks [ against ] specific targets reached via open / weak / hacked @entity185 or compromised computers of a network , instead of mass - exploiting via the @entity105 , ' he said			1
+' that ’s interesting due to the effects of the vulnerability ( retrieving information and the possibility of monitoring ) which are perfect for targeted attacks , from a specific person with a tv at home to a company with tvs in its offices			2
+' @entity202 plans to sell information on the vulnerabilities to the highest bidder , the @entity201 reported , claiming this will ' speed up ' fixes faster than merely reporting them to the manufacturer			0
+the company would not go into details about the flaws it has discovered			0
+the possibilities of such vulnerabilities are worrying with increasing numbers of consumer electronics devices being equipped with sensors , cameras and microphones to detect what is happening around them			1
+earlier this month it emerged that @entity117 cable provider @entity116 has applied to patent a set - top box technology that can observe what 's going on in the room and show viewers adverts based on what it detects			0
+in @entity117 patent application 20120304206 the company suggests it could detect when people are ' cuddling ' then show ' a commercial for a romantic getaway vacation , a commercial for a contraceptive , a commercial for flowers [ ... ] etc. '			0
+@entity238 , director of privacy campaign group @entity145 , said of that device : ' @entity242 with in - built cameras and microphones are a privacy nightmare waiting around the corner			1
+' it is only a matter of time before technology using facial recognition , audio analysis and monitoring what you watch is common place			0
+' what is essential is that consumers know exactly what they are buying and where the data is going			0
+' a spokesman for @entity1 said : ' we have discovered that only in extremely unusual circumstances a connectivity issue arises between @entity264 ’s released in 2011 and other connected devices			2
+we assure our customers that our smart tvs are safe to use			0
+' we will release a previously scheduled software patch in january 2013 to further strengthen @entity0 security			2
+we recommend our customers to use encrypted wireless access points , when using connected devices			1
+
+security experts reveal they have been able to gain access to the device and scour its hard drives and connected drives for information
+they claim to have ' complete root access ' allowing them to install malicious software that could monitor its cameras and microphones
+more and more devices that connect to the @entity105 are leaving *unwitting* consumers vulnerable to such hacking attacks
+
+@entity117:U.S.
+@entity116:Verizon
+@entity202:Revuln
+@entity154:George Orwell
+@entity170:ReVuln
+@entity1:Samsung
+@entity0:Smart TV
+@entity175:NBC News
+@entity238:Nick Pickles
+@entity59:Auriemma
+@entity73:Ars Technica
+@entity11:Malta
+@entity10:ReVuln
+@entity105:Internet
+@entity264:Samsung Smart TV
+@entity201:Register
+@entity145:Big Brother Watch
+@entity146:Privacy
+@entity167:Microsoft
+@entity168:Apple
+@entity185:Wi-Fi
+@entity242:Smart TVs

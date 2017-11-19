@@ -1,0 +1,78 @@
+http://web.archive.org/web/20100816061140id_/http://edition.cnn.com:80/2009/TECH/12/15/cnet.web.accessibility/
+
+-- @entity2 's @entity1 knows how much time web designers spend agonizing over color and font - width choices when laying out an application			1
+so when he started @entity2 's accessibility push two years ago , he had a tough time arousing sympathy for engineers grousing about how much extra time was needed to create accessibility features			1
+fortunately for @entity1 , @entity2 's accessibility manager , he 's running into that problem less and less			2
+web designers are starting to take accessibility as seriously as button placement or heading layout when they develop their products , improving the @entity22 experience not only for people like @entity1 -- who lost his sight at the age of five -- but for web users in general			1
+" we 're seeing a lot more awareness and involvement in web accessibility than we did a few years ago , particularly among big companies , " said @entity27 , director of the @entity28 ( @entity28 ) at the @entity29			1
+" it 's becoming a solid business expectation that web sites need to meet the needs of all users			0
+" at the two biggest @entity42 companies in the world , accessibility is seen as an increasingly important part of what they do			0
+@entity2 requires every new hire to receive accessibility training from @entity1 and @entity49 , senior policy director of special communities			0
+and it books engineering teams for tours of their @entity53 @entity55 recently rolled out a service that will let @entity58 users add captions to their videos , and believes that as the @entity22 moves more from an era of presentation to an era of two - way " data - driven " communication , accessibility becomes even more important , said @entity66 , accessibility program manager			2
+web accessibility has come a long way in the decade since many of these proposals were first floated			2
+it 's still a challenge , however , for the web community to remember that as it pushes forward with exciting new technologies like @entity76 that could reinvent the @entity42 experience , it must keep in mind the needs of those who ca n't type 60 words per minute , operate a mouse like a scalpel , or see the unobtrusive pop - up windows that point to the next destination on the page			1
+" as the @entity22 gets more and more dynamic , the accessibility requirements get more and more interesting , and sometimes challenging , to implement , " @entity87 said			0
+the challenges there are about 60 million people in the @entity92 who ca n't use a computer to get on the internet in the normal fashion , said @entity2 's @entity49			1
+for those people , a mix of screen reader software , keyboards with special buttons , and even motion - sensing web cameras must take the place of the mouse and qwerty keyboard			2
+that can cause problems for web designers who rely too heavily on mouse navigation , or who design pages with special multimedia whiz - bang effects that look cool only to the people that can see them			1
+" there can be an assumption of homogeneity on the @entity22 , " said @entity117 , technical program manager for @entity55			0
+users of screen readers -- software that essentially reads out loud a description of text , links , and buttons on a page -- are confounded the most by @entity129 and @entity131 web pages , according to a recent survey of screen - reader users conducted by @entity134			2
+but simple things like photos or images can also create problems if the web publisher does n't add alt text to those photos , or relies primarily on images as a way of explaining what is happening on the page			1
+and as web designers push forward with @entity147 and @entity149 - based technologies that overlay web content over the primary web page , there 's great potential to confuse screen readers			1
+the good news is that most of these problems are n't as much technology issues as design issues ; content created with things like @entity131 can be made accessible if designers start off with that principle in mind			1
+" there are a bunch of things ( in web design ) that are not features , " said @entity163 , principal front - end engineer for @entity2 's home page , meaning that while you can jazz up a page all you like with additional features , there are certain things that should be standard fare			0
+" performance is not a feature , internationalization is not a feature , and accessibility is not a feature			0
+" however , features can make the @entity22 more accessible			0
+as mentioned , @entity55 recently rolled out automatic captioning software for @entity58 videos , making it much easier for deaf people to enjoy the world 's largest collection of cute cat videos			0
+the automatic captioning technology is being rolled out first on @entity58 's educational channel , allowing deaf or hearing - impaired people to take advantage of distance learning programs or other educational systems			0
+it 's most definitely a work in progress , but with refinement could really add to the amount of knowledge that can be consumed by disabled people			2
+" i wanted this so badly ( that ) it 's good enough , i do n't care if there are some bad captions , " said @entity55 's @entity200 , a deaf software engineer who played an instrumental role in bringing the project to life			0
+the reasons there are no explicit laws that companies design web sites to be accessible to the disabled , but many disability experts and web companies believe that portions of the @entity92 @entity217 do apply to the @entity42 , despite having been written several years before the @entity22 emerged as a mainstream phenomenon			1
+and in order to do business with the @entity92 government , companies must comply with @entity223 , which insists that electronic and information technology products sold to government agencies be designed with disabled employees in mind , and that government services produced by contractors consider disabled citizens in equal measure			2
+but these are businesses , after all : @entity2 's @entity49 estimated that there 's about $ 220 billion in discretionary spending available to disabled people			0
+making a web site accessible to as many people as possible is n't just the right thing to do , it also makes business sense , he said			1
+also , with a rapidly aging population in many parts of the world -- notably the @entity92 -- accessibility requirements will become useful for today 's crop of baby boomers as they grow older			1
+people over 65 are increasing their use of the @entity42 , according to @entity249 , and features designed for accessibility could aid those who are n't technically disabled but would n't mind a little extra help			1
+the future the immediate challenge for those working on web accessibility is to ensure that accessibility standards are not trampled in the rush to finalize the @entity76 collection of standards that @entity55 and other web browser companies are currently debating			2
+@entity87 said it 's " extremely important to be sure that @entity76 can support accessibility fully , " and her group is working closely with the other parts of the @entity29 to realize that goal			0
+but beyond that goal , web accessibility advocates have reason to feel optimistic about their cause			2
+long - awaited technologies like sophisticated speech recognition are finally coming to fruition after decades of joking about how such capabilities were just two years away			1
+and 46 percent of respondents to the @entity134 survey reported that web content has become more accessible in recent years			0
+" anybody should be able to use anything on this page , " said @entity2 's @entity163 , keeper of the all - important @entity2 page			0
+" if anybody ca n't use it , it should n't be there			1
+" © 2010 @entity288 all rights reserved			0
+@entity0 , @entity0 and the @entity0 logo are registered trademarks of @entity288 used by permission .			0
+
+web designers are starting to take accessibility very seriously
+about 60 million people in @entity92 ca n't use the internet in the normal fashion
+photos or images can create problems if publisher does n't add alt text
+sophisticated speech recognition technologies are finally coming to fruition
+
+@entity22:Web
+@entity27:Judy Brewer
+@entity28:WAI
+@entity29:W3C
+@entity117:Naomi Bilodeau
+@entity87:Brewer
+@entity134:WebAIM
+@entity131:Flash
+@entity2:Yahoo.com
+@entity1:Tsaran
+@entity0:CNET
+@entity53:Accessibility Lab.
+@entity55:Google
+@entity76:HTML5
+@entity147:Javascript
+@entity217:Americans with Disabilities Act of 1990
+@entity129:Captchas
+@entity200:Ken Harrenstien
+@entity92:U.S.
+@entity249:Nielsen
+@entity163:Zakas
+@entity223:Section 508 of the Rehabilitation Act
+@entity58:YouTube
+@entity149:AJAX
+@entity42:Internet
+@entity66:Jonas Klink
+@entity288:CBS Interactive Inc.
+@entity49:Brightman

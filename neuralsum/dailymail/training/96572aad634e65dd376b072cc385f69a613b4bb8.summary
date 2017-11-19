@@ -1,0 +1,71 @@
+http://web.archive.org/web/20150428124008id_/http://www.dailymail.co.uk/sciencetech/article-2566675/Was-YOUR-iPhone-risk-hacked-Bug-Apple-update-left-mobiles-open-identity-theft-18-months-experts-claim.html
+
+@entity1 users have been blissfully unaware that for the past year - and - a half they could have been the victim of ' hi - tech eavesdropping ' @entity1 users have been blissfully unaware that for approximately a year - and - a half a software bug could have made them the victims of ‘ hi - tech eavesdropping ’			1
+security experts have warned that past iterations of @entity12 software - dating from as long ago as september 2012 - had a vulnerability that hackers could have exploited to see financial transactions , emails and @entity18 activity			1
+they have advised @entity1 users to download @entity19 as quickly as possible , which was rolled out by @entity20 on friday with a note about the patch			1
+a release note explained that the company has fixed the bug in which ‘ an attacker with a privileged network position may capture or modify data in sessions protected by @entity30 ’			0
+' @entity31 failed to validate the authenticity of the connection			0
+this issue was addressed by restoring missing validation steps , ' @entity20 said			2
+experts are trying to work out the exact @entity12 update the bug first appeared in , but it is thought that it cropped up around a year and a half ago			1
+there have been no reports of hacks			2
+@entity30 ( @entity30 ) ensures that communication between a browser and website servers are secure and @entity30 ( @entity30 ) is a newer way of doing the same thing , @entity43 explained			0
+while users might not be aware of them , ssl and tls mean that a browser and server can recognise each other to keep financial transactions and log - in information safe			2
+but @entity1 and @entity55 users have not had the full benefit of this as the bug meant that @entity59 could n’t recognise if the servers it was talking to were the valid account , leaving users open to what are known as ‘ @entity64 ’ attacks , or hi - tech eavesdropping			1
+security experts have warned that past iterations of @entity12 dating from as long ago as september 2012 , had a vulnerability that hackers ( illustrated ) could exploit to see financial transactions , emails and @entity18 activity experts suggest that anyone using an @entity12 device downloads 7.0.6 immediately			1
+@entity43 advised that anyone with an @entity78 downloads @entity12 6.1.6 instead			1
+there is currently no official fix for the vulnerability for @entity82 but @entity20 said one is coming ' very soon '			2
+in the meantime experts suggest that @entity86 users should use @entity87 or @entity88 to browse the web , which are not affected on @entity82 they also say that secure networks should thwart any attempts by hackers to perform ‘ man in the middle ’ attacks			2
+a man in the middle hacker can intercept the communication between a browser and website to see and record messages and financial transactions			0
+experts claim the @entity20 bug made it potentially easy for hackers to do just this – although it is not known whether the bug was exploited by anyone			1
+one @entity110 based security expert , @entity109 , wrote on @entity111 that @entity1 users have been susceptible to attacks since september 2012			1
+security experts have been cagey about revealing the ins and outs of the bug , but @entity118 , a @entity119 cryptography professor in @entity120 , @entity117 told @entity121 : ' the bug is as bad as you can imagine ’			1
+@entity20 said : ' for the protection of our customers , @entity20 does not disclose , discuss , or confirm security issues until a full investigation has occurred and any necessary patches or releases are available			0
+' experts said @entity20 has now fixed the problem for @entity1 and @entity55 users in its latest @entity135 release , but some users have reported teething problems in downloading it			1
+while it is not thought the problem is widespread , a handful of @entity140 and @entity142 owners took to @entity111 to vent their anger about how their devices were unable to function during and after they installed the update on the move , @entity138 reported			0
+the bug also affects @entity150 and currently there is not yet a fix for the vulnerability			0
+however , the @entity155 company told @entity121 that a fix for @entity158 computers ( pictured ) will be available ' very soon ' the @entity160 bug also affects @entity150 ’ @entity82 and currently there is not yet an official fix for the vulnerability			0
+however , the @entity155 company told @entity121 that a patch for @entity158 computers will be available ' very soon '			0
+@entity20 spokeswoman @entity165 said : ' we are aware of this issue and already have a software fix that will be released very soon			0
+' it is not known how @entity20 found out about the vulnerability , which has presumably gone unnoticed for some time			2
+@entity172 engineer @entity171 wrote on his personal blog that the flaw might not have shown up without complex and thorough testing			0
+' i believe that it 's just a mistake and i feel very bad for whomever might have slipped , ' he said .			0
+
+experts have advised @entity1 users to download @entity19 as quickly as possible , which was rolled out by @entity20 on friday
+is thought users of @entity12 devices could have been at risk to the vulnerability for up to a year - and - a - half but there have been no reports of hacks
+@entity119 cryptography professor in @entity120 , @entity117 said that the bug was ' as bad as you can imagine '
+
+@entity20:Apple
+@entity111:Twitter
+@entity110:New-York
+@entity117:Maryland
+@entity135:iOS 7.0.6
+@entity82:OS X
+@entity158:Mac
+@entity138:Techienews
+@entity86:MacBook
+@entity87:Google Chrome
+@entity88:Firefox
+@entity150:MacBooks
+@entity119:Johns Hopkins
+@entity118:Matthew Green
+@entity171:Adam Langley
+@entity1:iPhone
+@entity172:Google
+@entity78:iPod touch
+@entity55:iPad
+@entity59:Safari
+@entity31:Secure Transport
+@entity30:TLS
+@entity12:iOS
+@entity19:iOS 7.0.6
+@entity18:Facebook
+@entity109:Jeffrey Grossman
+@entity120:Baltimore
+@entity121:Reuters
+@entity160:SSL TSLS
+@entity140:iPhone 5S
+@entity142:iPad Air
+@entity165:Trudy Muller
+@entity43:Gizmodo
+@entity64:man in the middle
+@entity155:California

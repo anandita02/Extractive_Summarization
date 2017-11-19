@@ -1,0 +1,70 @@
+http://web.archive.org/web/20150723121641id_/http://www.dailymail.co.uk/sciencetech/article-3021640/Unlock-iPhone-SELFIE-Apple-wins-patent-automatically-scans-face-access-apps.html
+
+@entity0 offers a range of ways to unlock its devices from @entity5 to passwords and fingerprints			2
+but you could soon use a selfie to gain access to your apps and messages thanks to @entity0 's latest patent			2
+the filing details a system of scanning a user 's face with the front - facing camera when the handset is moved into a certain position , and automatically unlocking the device if the image matches one on file			1
+the patent ( illustrated ) was filed by the @entity27 - based firm in march 2011 and awarded earlier this week			1
+it details a method of scanning a user 's face using the front - facing camera each time the phone is moved into a certain position			1
+if the scanned face matches a previously taken photo , the phone unlocks automatically the patent was filed by the @entity27 tech giant in march 2011 and awarded earlier this week			1
+called ' locking and unlocking a mobile device using facial recognition ' , the patent explains that current methods of unlocking a device are ' inconvenient and time consuming '			2
+@entity0 's patent details a method for automatically unlocking a mobile device using a system comprising of ' capturing an initial image while the device is locked , monitoring a motion state of the mobile device to determine whether the device is moving or is motionless ; analysing the images to detect a user 's face and unlocking the device			1
+' android @entity56 users already have an almost identical feature known as trusted face in the @entity60 menu			1
+it is an extension of @entity62 that launched on @entity63			0
+once the screen is enabled and the camera is held in front of the face , the screen automatically unlocks			1
+this relies on the user pressing the power button to enable the screen			0
+by comparison it appears that @entity0 's proposed system would track the movement of the phone to determine whether it is being used , or is placed flat on a table			2
+@entity0 , instead , provides a method for automatically unlocking a mobile device using a system comprising of ' capturing an initial image while the device is locked , monitoring a motion state of the mobile device to determine whether the device is moving or is motionless ; analysing the images to detect a user 's face and unlocking the device			1
+' android @entity56 users already have an almost identical feature known as ' trusted face ' in the @entity60 menu			1
+it is an extension of @entity62 that launched on @entity63			0
+once the screen is enabled and the camera is held in front of the face , the screen automatically unlocks			1
+this relies on the user pressing the power button to enable the screen			0
+by comparison , it appears that @entity0 's proposed system would track the movement of the phone to determine whether it is being used , or is placed flat on a table			2
+the screen would n't need to be enabled			0
+instead , once the phone is moved and positioned in front of the face the camera would begin scanning			1
+it will only unlock if the angle of the face matches , or is similar to , the one that was initially taken to avoid the phone unlocking simply when the phone is near a face			1
+as @entity0 explained : ' in one embodiment , the image is analysed for a facial profile of a human face , without regard to a specific user			2
+@entity0 's proposed system tracks the movement of the phone to determine whether it is being used , or is placed flat on a table ( flow chart shown )			2
+the screen would n't need to be enabled			0
+instead , once the phone is moved and positioned in front of the face the camera would begin scanning for a face android @entity56 users already have an almost identical feature known as ' trusted face ' ( left ) in the @entity60 menu			1
+once the screen is enabled and the camera is held in front of the face , the screen automatically unlocks			1
+the face icon between the @entity147 and @entity148 logo ( right ) shows the feature is enabled ' in this case , the device will only need to determine that a human facial profile is present			2
+' it continued that once an allotted period of time has elapsed and a user 's face is not detected in any of the images , the device stays locked			1
+' in another embodiment , detecting the user 's face may also include verifying that the user is an authorised user of the device , ' the files continued			1
+' trusted face ' and @entity60 are extensions of the @entity62 feature that was launched on @entity63 ( pictured )			1
+this relies on the user pressing the power button to enable the screen ' the predetermined facial profile may be determined from an image that was previously captured by the device 's camera and stored in a storage of images of authorised users			1
+' chip maker @entity179 has unveiled its @entity181 fingerprint scanner - the first biometric sensor using ultrasonic technology			0
+it uses ultrasonic sound waves to capture the ridges , sweat pores and more on the tip of a finger in greater detail than capacitive touch id sensors seen on the likes of @entity0 and @entity193 devices			2
+this not only makes it more accurate than other sensors , but it will also work even if the user ’s hands are wet or have dirt or lotions on it , for example			0
+phones running @entity204 are expected to launch later this year , but @entity179 did not reveal to @entity205 which devices or manufacturers it is working with			0
+the patent also suggests this feature could be used by multiple users , in the way that multiple fingerprints can be added to its current @entity214 system			0
+' in this case , the database of images of authorised users would contain an image for each user , ' it added			0
+' to match a facial profile in the subsequent image , the device would have to compare the subsequent image to each image in the database			0
+' furthermore , each authorised user may have an associated unlocking profile in the database that indicates what functions or applications of the device are enabled when the device is unlocked			0
+' phone makers are looking for alternative ways to secure devices while making them faster and more convenient to open			0
+for example , @entity238 recently demonstrated its iris scanning prototype that lets people access phones , apps and online accounts by staring at an infrared sensor			0
+this would work in a similar way to facial recognition , but is more secure and unique to an individual user			0
+phone makers are looking for alternative ways to secure devices while making them faster and more convenient to open			0
+for example , @entity238 recently demonstrated its iris scanning prototype that lets people access phones , apps and online accounts by staring at an infrared sensor ( illustrated )			0
+
+the patent was filed in march 2011 and awarded to @entity0 earlier this week
+it details a method of scanning a user 's face using the front - facing camera
+if the scanned face matches with a photo that was previously taken and stored , the phone unlocks automatically
+@entity271 already has a similar feature called ' trusted face '
+
+@entity214:Touch ID
+@entity0:Apple
+@entity27:Californian
+@entity5:PINs
+@entity179:Qualcomm
+@entity181:Sense ID 3D
+@entity238:Fujitsu
+@entity148:Chrome
+@entity60:Smart Lock
+@entity204:Sense ID
+@entity147:Whatsapp
+@entity56:Lollipop
+@entity193:Samsung
+@entity62:Face Unlock
+@entity63:Android Ice Cream Sandwich
+@entity205:MailOnline
+@entity271:Android Lollipop

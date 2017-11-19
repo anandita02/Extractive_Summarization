@@ -1,0 +1,43 @@
+http://web.archive.org/web/20150718032110id_/http://www.dailymail.co.uk/news/article-2946836/Senator-s-report-details-hackers-access-data-steal-car-turn-remote-controlled-toy-security-gaps-smart-car-technology.html
+
+smart car technology is expanding faster than the industry knows how to protect it , leaving gaps for hackers to exploit , a recent survey of major automakers revealed			1
+the report , produced by senator @entity7 , found most major auto manufacturers are clueless about how to stop malicious attackers from exploiting expanding technology to steal data or take control of vehicles remotely			1
+' drivers have come to rely on these new technologies , but unfortunately the automakers have n’t done their part to protect us from cyber-attacks or privacy invasions , ' the senator said in a statement			0
+warning : senator @entity7 released a report that showed most automakers were unable or unwilling to secure computer systems and data in their cars ' even as we are more connected than ever in our cars and trucks , our technology systems and data security remain largely unprotected			1
+' researchers have known about electronic security flaws for years			0
+for example , one report in 2011 from the @entity35 and the @entity36 detailed how vehicles ' electronic systems could be vulnerable to the many of the same types of intrusions as computers			2
+yet @entity7 's report shows the auto industry as a whole still lacks the consistent capability to secure vehicles ' systems and protect against even moderately determined attackers			1
+for the report , the senator 's office sent letters to 20 major auto manufacturers back in 2013 , including @entity56 , @entity57 , @entity58 and @entity59			2
+the letters asked questions about the known vulnerabilities in vehicle systems , past attempts to hack vehicles , existing security measures and how data was collected and secured			2
+the report claims that among the manufacturers that responded , 11 said that their entire fleet had allowed wireless access to the vehicle and 3 said a majority of their cars did			0
+attacked : researchers backed by the @entity79 found by sending tones to an @entity83 's @entity82 system , it could overwhelm it and inject malware that took control of the car behind the wheel : attackers used access to deactivate the brakes , sending the car into a line of cones while the entry points make vehicle diagnostics monitoring possible , they also present possible gateways for intruders			1
+when asked by @entity99 how they secure these entry points , the report says that many manufacturers ' did not seem to understand the questions posed			2
+' the report also found that in the event that your car is taken over by electronic intruders , do n't expect the automakers to be much help			0
+only two manufacturers could describe steps it would take to respond to the attack that could credibly minimize the damage hackers could inflict			0
+the report also found that many automakers collect huge amounts of data - everything from tire pressure to the last place the car was parked			0
+half of the manufacturers surveyed by the senator 's office also stated they collected and wirelessly transmit data from vehicles , though the few that said they secured the data gave ' vague ' responses about encryption or passwords			0
+underscoring @entity7 's report are vulnerabilities exposed by researchers backed by the @entity79 , or @entity79			1
+with a laptop , computer scientists found they could take control of a car once they had access to systems such as @entity82			1
+60 minutes showed attackers gaining access to a @entity83 , activating the horn and wipers before deactivating the braking system and forcing the driver to crash into a set of cones			1
+@entity7 's report notes that as more wireless access , including vehicle - to - vehicle communication , emerges , manufacturers will need to respond			1
+' as vehicles continue to become more integrated with wireless technology , there are more avenues through which a hacker could introduce malicious code , ' the report states			0
+' and more avenues through which a driver ’s basic right to privacy could be compromised			0
+' ' these threats demonstrate the need for robust vehicle security policies to ensure the safety and privacy of our nation ’s drivers			0
+
+senator @entity7 released a report monday showing the auto industry lacks the capability to secure car systems and protect collected data
+the report said researchers showed it was possible to control a car 's driving systems with a laptop and access to systems like @entity82
+computer scientists hacked a @entity83 on @entity189 's 60 minutes
+@entity7 's report claimed some automakers did not seem to even understand questions about securing electronic systems from attack
+
+@entity189:CBS
+@entity35:University of California
+@entity36:University of Washington
+@entity82:OnStar
+@entity83:Chevrolet Impala
+@entity57:General Motors
+@entity56:Ford
+@entity99:Senator Markey
+@entity7:Markey
+@entity59:Volkswagen
+@entity58:Toyota
+@entity79:DARPA

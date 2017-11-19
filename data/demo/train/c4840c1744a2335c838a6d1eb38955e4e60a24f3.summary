@@ -1,0 +1,64 @@
+http://web.archive.org/web/20131006210713id_/http://www.cnn.com:80/2013/08/26/opinion/olson-mobile-hackers/?
+
+-- in the world of cyber security there are some well - known designations for anyone that considers him or herself to be a hacker , the term being so broad in scope now			0
+one can be a " white - hat " hacker or a " black hat , " the former being someone who uses their programming prowess to protect digital data , and the latter someone who seeks to subvert and steal it for their own malicious reasons			1
+fall into the middle and you 're a " grey hat			0
+" the recent revelations about the @entity25 in the @entity26 have made these labels much fuzzier , since government and @entity25 hackers should be white hat			2
+yet a recent report in the @entity34 , citing top - secret documents and an internal audit , showed the @entity25 had broken privacy rules thousands of times as it conducted its widespread surveillance			2
+of course , navigating the ethics of data privacy is a complicated business since there 's just so much of it -- 90 % of the world 's data has been generated in the last two years , according to @entity46			1
+a very likely consequence of the @entity25 revelations from former cyber security contractor @entity49 , is that people will increasingly not care who the hacker trawling through their data is -- whether it 's an ethically - conflicted government contractor like @entity49 , or someone more unscrupulous trying to sell their digital address book to spammers			1
+they just want their data to be un-hackable			2
+read more : sim card hack inspires quick fix by carriers over the years , we 've read about how easy it appears to be to hack a website , server , or a device if you just have the know - how and the inclination			0
+the subversive digital community @entity70 showed this in 2011 , when clusters of young people within its network were able to temporarily paralyze websites of major corporations and steal data , often without the background of real programming knowledge			1
+in more than one case these volunteers used a free program they downloaded from the @entity84 , which automated a data theft for them			2
+for those in the cyber security industry , such big attacks were an " i told you so " moment , proving how insecure our personal data was when it was stored in online databases by even large companies and institutions			2
+read more : @entity97 says phone app could hijack plane the question of how we can find a good privacy balance in a networked world leads us to the paradox of mobile devices , the next battleground for data and privacy			1
+smartphones are essentially mini computers and as a result can offer both our best hope for private digital communication , and greater vulnerability			0
+it 's been made clear in the last few months that email is no longer considered a safe and secure way to send information to someone			2
+the founder of secure email service @entity122 , who counted @entity49 as a user , recently suspended his business in the face of a government investigation			0
+the vendors of another secure email service , called @entity130 , shut down their email service soon after , and cited fundamental security flaws inherent in email			0
+@entity134 , the co-founder of @entity130 and inventor of a popular encryption standard for email called @entity138 ( @entity138 ) even said at the time that email was just not secure anymore			0
+in one way , thanks to using standard internet protocols , it never has been			0
+now instead of using email , @entity134 increasingly uses mobile messaging services of the kind offered by his company			1
+the general public can take a leaf out of @entity134 's book			0
+mobile messaging apps like @entity152 and @entity153 look better mainstream options for secure digital communication			2
+researchers : we can hack an iphone through the charger @entity152 avoids advertisers like the plague and relies on subscription payments , while @entity153 encrypts messages and deletes them after a set amount of time -- like a burning candle wick			0
+on the other hand , mobile phones are just another attack vector for grey and black hat hackers , with potentially richer information than what 's obtainable from a desktop computer : location data , access to your contacts address book , photos and real time audio through your microphone			1
+smartphones are particularly vulnerable in emerging markets like @entity184 , where more people use @entity187 phones than in the @entity26 and @entity188 , and download apps from third party sites because @entity191 is banned by @entity192			1
+the problem here is that it 's becoming easier to inject malware into fake apps , for unsuspecting @entity187 users to download			0
+in the last few months , security researchers have found a remote access tool in the wild called @entity201 , which coupled with a new software tool called a binder , makes it surprisingly easy to inject malicious code into a fake version of a popular , paid - for app or game , package it together and upload it to a third - party site at a discounted rate or for free			0
+once the app has been downloaded , the hacker can remotely steal the victim 's contacts data , turn on their camera or turn on their mic and record conversations			0
+researchers say the tool is most attractive to spammers who want to steal contact data and premium text messages			1
+read more : are you in danger of ' drive - by ' hacking ? what 's disturbing is that using the tool does not require a sophisticated level of programming knowledge , echoing the desktop tools that were used by supporters of @entity70 to attack online databases			0
+far more tame , but still disturbing for many privacy advocates , is the amount of data that mobile app developers are able to funnel out to advertising networks after you 've downloaded one of their free apps -- and this applies to anyone that uses an @entity158 or @entity187 phone in the developed world			1
+so long as we continue to rely on small , rectangular slabs for computers and carry them everywhere , pumping them with all manner of personal and professional information , they 'll increasingly become a target for hackers white , grey or black			1
+if people value their privacy , they 'll vote with their wallets and invest in services that encrypt their data and keep their communications private -- and a few they might ditch their phones altogether			1
+the opinions expressed in this commentary are solely those of @entity271 .			1
+
+mobile devices are the next battleground for data and privacy , @entity271 writes
+pumping phones with information makes them increasingly attractive target for hackers
+if people value their privacy , they 'll invest in services that encrypt their data
+
+@entity26:U.S.
+@entity25:NSA
+@entity158:iPhone
+@entity84:Web
+@entity138:PGP
+@entity134:Zimmermann
+@entity153:Wickr
+@entity152:WhatsApp
+@entity130:Silent Circle
+@entity271:Parmy Olson
+@entity0:CNN
+@entity192:Beijing
+@entity191:Google Play
+@entity70:Anonymous
+@entity34:Washington Post
+@entity97:Hacker
+@entity201:AndroRAT
+@entity122:Lavabit
+@entity188:Western Europe
+@entity184:China
+@entity187:Android
+@entity46:IBM
+@entity49:Ed Snowden

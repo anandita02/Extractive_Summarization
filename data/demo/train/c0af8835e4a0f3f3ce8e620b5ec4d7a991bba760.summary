@@ -1,0 +1,22 @@
+http://web.archive.org/web/20150404112041id_/http://www.cnn.com/2009/HEALTH/10/16/fda.medication.warning/index.html
+
+-- @entity2 should avoid buying treatments for the @entity5 virus , commonly known as swine flu , online , the @entity1 warned			2
+@entity1 has warned @entity2 away from online @entity5 medication and toward regulated distribution points			0
+" products that are offered for sale online with claims to diagnose , prevent , mitigate , treat or cure the 2009 @entity5 influenza virus must be carefully evaluated , " @entity1 commissioner @entity10 said			0
+the @entity1 issued the warning thursday after it had purchased products over the internet that were supposed to be @entity17 and analyzed them			1
+@entity17 is one of two approved anti-viral treatments for @entity5			0
+none of the products received by the @entity1 were approved for sale in the @entity2 , and they contained various levels of oseltamivir phosphate , the drug in @entity17			1
+" medicines purchased from web sites operating outside the law put consumers at increased risk due to a higher potential that the products will be counterfeit , impure , contaminated or have too little or too much of the active ingredient , " @entity10 said			1
+in addition , the products did not arrive soon enough to treat someone infected with @entity5 , or who had been exposed to the virus .			0
+
+@entity1 issued the warning after it had purchased products over the internet
+the products received by @entity1 were not approved for @entity2 sale
+agency : meds purchased from *unreliable* *sources* put consumers at risk
+
+@entity17:Tamiflu
+@entity2:U.S.
+@entity1:FDA
+@entity0:CNN
+@entity5:H1N1
+@entity10:Hamburg
+@entity22:Relenza

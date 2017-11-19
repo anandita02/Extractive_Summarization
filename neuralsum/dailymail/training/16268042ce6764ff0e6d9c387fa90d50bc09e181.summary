@@ -1,0 +1,39 @@
+http://web.archive.org/web/20150627014210id_/http://www.dailymail.co.uk/sciencetech/article-2655048/Simple-trick-leave-iPhone-open-attack-Flaw-iOS-7-means-lock-screen-bypassed-seconds.html
+
+a new lock screen bypass has left @entity1 7 users facing another security flaw			1
+the bug gives anyone with physical access to an @entity7 or @entity8 the ability to skip the default authentication screen , in just five seconds			0
+this is n’t the first time the lock screen security on @entity1 has been compromised , but this particular hack does require specific settings in order to work			2
+the bug gives anyone with access to an @entity7 or @entity8 the ability to skip the default authentication screen in five seconds			0
+the method only provides access to any app that was running in the foreground before the device was locked for instance , the method only provides access to any app that was running in the foreground before the device was locked			1
+it also only works if a user has access to the @entity37 enabled from the lock screen			1
+to gain access , users first need to have a missed call in @entity42 and access to @entity37 from the lock screen			1
+they can then launch any app and lock the device			0
+the next step is to wake the device and pull up @entity37 , placing the device in @entity47			0
+until @entity49 fixes the flaw , the best defence available is to disable @entity37 access on the lock screen users can then pull down notification bar , and tap on the missed call			1
+they should now have access to the app that was running in the foreground before the device was locked			2
+@entity59 - based @entity58 claims to have found the flaw in in two hours and has posted a video demonstrating the process			0
+the method does n’t allow full access to an @entity66 device , but depending on the app running , different levels of privacy can be breached			2
+@entity49 is yet to provide a comment the security flaw			0
+according 9 to 5 @entity72 , the method has so far been tested and confirmed on @entity74 and 7.1.1			2
+however , it does not apply to @entity76			0
+until @entity49 fixes the flaw , the best defence available is to disable @entity37 access on the lock screen .			1
+
+this means users can access apps running before the device was locked
+it only works if access to @entity37 is enabled from lock screen
+until @entity49 fixes flaw , best defence is to disable @entity37 access
+the method has so far been tested and confirmed on @entity95 and 7.1.1
+
+@entity1:Apple iOS
+@entity58:YouTuber EverythingApplePro
+@entity7:iOS 7 iPhone
+@entity37:Control Center
+@entity8:iPad
+@entity49:Apple
+@entity47:Airplane Mode
+@entity42:Notification Center
+@entity66:iOS 7
+@entity74:iOS 7.0.6
+@entity59:Vancouver
+@entity76:iOS 8 beta 1
+@entity95:iOS 7.0.6
+@entity72:Mac

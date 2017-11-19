@@ -1,0 +1,59 @@
+http://web.archive.org/web/20150712094127id_/http://www.dailymail.co.uk/sciencetech/article-2897456/Nasa-s-space-lasso-set-launch-Satellite-reveal-moisture-Earth-s-soil-help-cope-natural-disasters.html
+
+@entity0 is set to launch a new satellite that will act like a ' lasso ' to measure the moisture in @entity5 's soils with unprecedented accuracy later this month			1
+the @entity9 ( @entity9 ) instrument on board the @entity8 satellite will spin around 14 times per minute as it orbits @entity5			1
+the goal is to come up with a global map of @entity5 's soil moisture to help cope with drought and flood monitoring			1
+called the @entity8 satellite ( illustrated ) it will map global soil moisture			1
+the satellite largest rotating mesh antenna ever used in space			1
+it will be used to map wide areas and cover entire @entity5 every three days the @entity9 satellite is set to launch at 9.20am est ( 2.20pm gmt ) on 29 january from @entity28 in @entity20			1
+the instrument 's three main parts are a radar , a radiometer and the largest rotating mesh antenna ever deployed in space			1
+remote sensing instruments are called ' active ' when they emit their own signals and ' passive ' when they record signals that already exist			2
+although the antenna must fit during launch into a space not much bigger than a tall kitchen trash can , it must unfold so precisely that the surface shape of the mesh is accurate within about an eighth of an inch ( a few millimeters )			1
+the mesh dish is edged with a ring of lightweight graphite supports that stretch apart like a baby gate when a single cable is pulled , drawing the mesh outward			0
+' making sure we do n't have snags , that the mesh does n't hang up on the supports and tear when it 's deploying - all of that requires very careful engineering , ' dr @entity53 said			0
+the mission 's science instrument will use a sensor of each type to create the highest - resolution , most accurate measurements ever made of soil moisture			1
+soil moisture is a tiny fraction of @entity5 's water that has a disproportionately large effect on weather and agriculture			1
+the ambitious mission is designed not only to be accurate , though , but also to cover the entire globe every three days or less			1
+engineers at @entity0 's @entity77 in @entity78 , @entity20 , designed and built the largest rotating antenna that could be stowed into a space of only one by four feet ( 30 by 120 cm ) for launch			1
+when unfolded the dish measures a huge 19.7 feet ( six meters ) in diameter			0
+' we call it the spinning lasso , ' said @entity0 's dr @entity53 , the @entity9 instrument manager			2
+like the cowboy 's rope , the antenna is attached on one side to an arm with a crook in its elbow			0
+it spins around the arm at about 14 revolutions per minute ( one complete rotation every four seconds )			0
+' the antenna caused us a lot of angst , no doubt about it , ' dr @entity53 noted			0
+' we test , and we test , and we test some more			0
+we have a very stable and robust system now			0
+' pictured is the @entity9 ( @entity9 ) instrument as the protective covering is removed in the @entity109 payload processing facility on @entity28 in @entity20 during a post-shipment inspection			2
+the launch of @entity9 is targeted for 29 january 2015 @entity9 's radar , developed and built at @entity77 , uses the antenna to transmit microwaves toward @entity5 and receive the signals that bounce back , called backscatter			1
+the microwaves penetrate a few inches or more into the soil before they rebound			0
+changes in the electrical properties of the returning microwaves indicate changes in soil moisture , and also tell whether or not the soil is frozen			1
+pictured is the first stage of the @entity129 rocket that will take @entity9 into orbit at @entity28 in @entity20 using a complex technique called synthetic aperture radar processing , the radar can produce ultra-sharp images with a resolution of about half a mile to a mile and a half ( one to three kilometers )			2
+@entity9 's radiometer detects differences in @entity5 's natural emissions of microwaves that are caused by water in soil			2
+to address a problem that has seriously hampered earlier missions using this kind of instrument to study soil moisture , the radiometer designers developed and built one of the most sophisticated signal - processing systems ever created for such a scientific instrument			1
+the problem is radio frequency interference			0
+the microwave wavelengths that @entity9 uses are officially reserved for scientific use , but signals at nearby wavelengths that are used for air traffic control , cell phones and other purposes spill over into @entity9 's wavelengths unpredictably			0
+conventional signal processing averages data over a long time period , which means that even a short burst of interference skews the record for that whole period			0
+the engineers devised a new way to delete only the small segments of actual interference , leaving much more of the observations untouched			0
+combining the radar and radiometer signals allows scientists to take advantage of the strengths of both technologies while working around their weaknesses			0
+' the radiometer provides more accurate soil moisture but a coarse resolution of about 40 kilometers [ 25 miles ] across , ' said @entity77 's @entity184 , a research scientist with @entity9			2
+' with the radar , you can create very high resolution , but it 's less accurate			0
+to get both an accurate and a high - resolution measurement , we process the two signals together			0
+' @entity9 will be the fifth @entity5 science mission launched within the last 12 months .			2
+
+a new @entity0 @entity5 satellite will launch from @entity20 on 29 january
+called the @entity8 satellite it will map global soil moisture
+the satellite largest rotating mesh antenna ever used in space
+it will be used to map wide areas and cover entire @entity5 every three days
+@entity0 says data from the mission could help monitor droughts and floods
+
+@entity20:California
+@entity0:Nasa
+@entity5:Earth
+@entity28:Vandenberg Air Force Base
+@entity8:Soil Moisture Mapping
+@entity184:Eni Njoku
+@entity53:Edelstein
+@entity78:Pasadena
+@entity129:Delta II
+@entity109:Astrotech
+@entity77:JPL
+@entity9:SMAP

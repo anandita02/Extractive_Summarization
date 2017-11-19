@@ -1,0 +1,76 @@
+http://web.archive.org/web/20131109010911id_/http://www.cnn.com:80/2012/08/09/tech/web/cloud-security-tips/
+
+-- the cloud sounds amazing			2
+set up your entire digital life to sync automatically with a server run by some big ( ostensibly responsible ) tech company , and you never have to worry about losing data again , right ? wrong , of course			0
+as a @entity11 writer 's recent brush with hackers shows , there are plenty of ways for your cloud - based accounts -- @entity16 , @entity17 , @entity18 -- to be hacked			1
+and while both @entity16 and @entity17 responded to @entity21 's story ( you should read the whole thing ; he says he lost all his pictures of his young daughter in the attack ) by at least temporarily changing their policies in hopes of better protecting consumers , there are still plenty of cloud - related precautions security experts say you should take			1
+these go beyond just setting passwords that are n't " 12345			0
+" ( hopefully you made that switch in 1998			0
+) here are five of the best cloud - safety tips we could rustle up : 1			1
+backup everything -- in the cloud and on the ground			1
+in his account for @entity11 , @entity21 writes that he does n't actually blame the person who hacked him for the fact that he lost all of the data on his laptop			0
+" i 'm mostly mad at myself , " he writes			0
+" i 'm mad as hell for not backing up my data			0
+i 'm sad , and shocked , and feel that i am ultimately to blame for that loss			0
+" @entity51 , an online security expert at @entity53 , said people should back up their data not only with a cloud service such as @entity57 , @entity58 or others but also on " at least two , three or four " real - life hard drives			1
+for maximum protection , put these backups in multiple locations			2
+" you do n't want to have all your eggs in one basket , " he said			0
+use a bunch ( maybe hundreds ? ) of different passwords			0
+here 's another one from @entity51 : create different passwords for every single online account			2
+" i have 700 and something passwords , " he said			0
+you can use a password management service such as @entity76 or @entity77 to generate hard - to - guess passwords and to store them on the devices you use most often			1
+other security experts recommend writing the passwords down in one place and storing that paper in your wallet -- although that could pose a security risk if your wallet is stolen			1
+do n't link all of your accounts together			0
+this is sometimes called daisy - chaining , and @entity21 writes that it 's one of the things that did him in			1
+if you use @entity93 , @entity94 or @entity18 to log in to other social networks or websites , you may run the risk of all those accounts being compromised at once			1
+@entity51 said it 's ok to link accounts sometimes , but you should try to think like a hacker when you 're doing it			2
+" connect accounts , " he said , " but you have to reverse engineer the process			0
+what could a bad guy do if he got access to this account ? " if he or she could get bank account info , reconsider			0
+use two - factor authentication on @entity18 and @entity93			1
+both @entity93 and @entity18 offer what 's called " two - factor authentication " or sign - in			1
+@entity18 's @entity116 explained this in detail in a recent blog post called " please turn on two - factor authentication			1
+" he writes : " two - factor authentication means ' something you know ' ( like a password ) and ' something you have , ' which can be an object like a phone			1
+" for example , @entity18 will send you a code via text or voice message when you sign in			1
+you 'll then need your password and the code to log into your @entity18 account from an unfamiliar computer if you have two - factor authentication turned on			1
+" you can tell @entity18 to trust your ( other ) computer for 30 days and sometimes even longer , " @entity116 writes			1
+@entity93 , meanwhile , has a similar feature that it calls " @entity137			2
+" it 's used when you log in from an unfamiliar computer			2
+you have to turn both these features on			2
+and , according to @entity11 's @entity141 , some other services , including @entity16 , @entity143 and @entity144 ( with a plug - in ) have two - factor authentication , using some of @entity18 's tools			1
+not every online service has these options			0
+but " when a site has given you additional security options ( like @entity153 's two factor authentication which sends you an sms when you try to log into your account ) -- use them ! " @entity156 , a senior technology consultant at @entity157 , wrote in an e-mail			1
+do n't use ' find my @entity159 ' on @entity17 computers			0
+here 's another one from @entity21			2
+if you use " find my @entity159 , " which is designed to help you locate your laptop in the event of a theft , you run the risk that a thief or hacker could wipe it clean , which is what appears to have happened to him			0
+" when you perform a remote hard drive wipe on find my @entity159 , the system asks you to create a four - digit pin so that the process can be reversed			2
+but here 's the thing : if someone else performs that wipe -- someone who gained access to your @entity57 account through malicious means -- there 's no way for you to enter that pin , " he writes			0
+do you have tips of your own ? let us know in the comments .			0
+
+security experts offer tips on how to use the cloud safely
+back up your files in multiple places , including in on - the - ground hard drives
+use a different password for every website and social network
+turn on @entity18 's and @entity93 's two - factor authentication features
+
+@entity21:Honan
+@entity116:Cutts
+@entity159:Mac
+@entity153:Gmail
+@entity137:Login Approvals
+@entity157:Sophos
+@entity156:Graham Cluley
+@entity0:CNN
+@entity53:McAfee
+@entity51:Siciliano
+@entity57:iCloud
+@entity77:LastPass
+@entity58:Mozy
+@entity17:Apple
+@entity16:Amazon
+@entity11:Wired
+@entity18:Google
+@entity94:Twitter
+@entity93:Facebook
+@entity144:WordPress
+@entity76:RoboForm
+@entity141:Kim Zetter
+@entity143:Rackspace

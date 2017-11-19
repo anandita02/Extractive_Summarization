@@ -1,0 +1,40 @@
+http://web.archive.org/web/20140911202806id_/http://www.dailymail.co.uk/news/article-2614582/Microsoft-RACES-fix-Internet-Explorer-bug-says-WONT-step-fix-Windows-XP-browser.html
+
+by @entity0 @entity1 is rushing to fix a bug in its widely used @entity4 web browser after a computer security firm disclosed the flaw over the weekend , saying hackers have already exploited it in attacks on some @entity11 companies			1
+@entity1 disclosed on saturday its plans to fix the bug , which targets internet explorer versions 9 through 11			2
+those versions take up 26.25 percent of the browser market , according to @entity17 , the cybersecurity software company that caught the bug			1
+the bug , however , reportedly affects versions 6 through 11			1
+together , those versions dominate desktop browsing , accounting for 55 percent of the pc browser market , according to tech research firm @entity23			1
+clean - up : @entity1 is rushing to fix a bug in its widely used @entity4 web browser after a computer security firm disclosed the flaw over the weekend pcs running @entity30 will not receive any updates fixing that bug when they are released , however , because @entity1 stopped supporting the 13 - year - old operating system earlier this month			1
+security firms estimate that between 15 and 25 percent of the world 's pcs still run @entity30			1
+@entity17 said that a sophisticated group of hackers have been exploiting the bug in a campaign dubbed ' @entity41			0
+' @entity17 , whose @entity43 division helps companies respond to cyber attacks , declined to name specific victims or identify the group of hackers , saying that an investigation into the matter is still active			0
+it described the hackers as ' extremely proficient at lateral movement ' and ' difficult to track			0
+' ' it 's a campaign of targeted attacks seemingly against @entity11 - based firms , currently tied to defense and financial sectors , ' @entity17 spokesman @entity54 said via email			1
+' it 's unclear what the motives of this attack group are , at this point			0
+it appears to be broad - spectrum intel gathering			0
+' he declined to elaborate , though he said one way to protect against them would be to switch to another browser			0
+the bug reportedly affects versions 6 through 11 of internet explorer @entity1 said in the advisory that the vulnerability could allow a hacker to take complete control of an affected system , then do things such as viewing changing , or deleting data , installing malicious programs , or creating accounts that would give hackers full user rights			1
+@entity17 and @entity1 have not provided much information about the security flaw or the approach that hackers could use to figure out how to exploit it , said @entity92 , chief technology officer of cybersecurity firm @entity93			0
+yet other groups of hackers are now racing to learn more about it so they can launch similar attacks before @entity1 prepares a security update , @entity92 said			2
+' @entity1 should move fast , ' he said			0
+' still , he cautioned that @entity30 users will not benefit from that update since @entity1 has just halted support for that product			2
+the software maker said in a statement to @entity0 that it advises @entity30 users to upgrade to one of two most recently versions of its operating system , @entity110 7 or 8 .			2
+
+@entity1 says @entity4 bug is present in versions 6 to 11 - which dominate 55 percent of pc browser market
+@entity30 will not receive any updates - though between 15 and 25 percent of world 's pcs use it
+attacks are currently against @entity11 - based defense and financial sector firms
+
+@entity17:FireEye
+@entity23:NetMarketShare
+@entity1:Microsoft
+@entity0:Reuters
+@entity11:U.S.
+@entity4:Internet Explorer
+@entity110:Windows
+@entity43:Mandiant
+@entity41:Operation Clandestine Fox
+@entity54:Vitor De Souza
+@entity30:Windows XP
+@entity93:Seculert
+@entity92:Raff

@@ -1,0 +1,19 @@
+http://web.archive.org/web/20131222005259id_/http://www.cnn.com/2012/06/03/world/americas/panama-earthquake
+
+-- a 6.2 - magnitude earthquake struck off the southern coast of @entity4 on sunday , the @entity1 said			0
+the center of the quake was roughly 215 miles south of @entity7 , @entity4 , and almost 330 miles southwest of the capital , @entity9 , the @entity1 said			1
+it was an estimated six miles deep			0
+the @entity1 had initially given the quake a magnitude of 6.6			0
+there was no tsunami threat , the @entity13 said			1
+there were also no immediate reports of injuries or damage .			2
+
+new : there is no tsunami threat
+the quake was almost 330 miles southwest of @entity9
+there are no immediate reports of injuries or damage
+
+@entity1:USGS
+@entity0:CNN
+@entity7:David
+@entity4:Panama
+@entity9:Panama City
+@entity13:Pacific Tsunami Warning Center

@@ -1,0 +1,24 @@
+http://web.archive.org/web/20100603150114id_/http://www.cnn.com/2010/TECH/04/23/credit.card.numbers.mashable/index.html
+
+-- sharing your credit card and online purchases with friends on the web sounds risky and it is			0
+we 've just discovered that several credit card transactions shared on social networking site @entity9 have been exposed -- with full credit card numbers included -- in @entity13 search results			2
+tipster @entity14 wrote to us with a link to results for the search : site : blippy.com + " from card "			0
+that search returns results showing detailed purchase information for transactions			0
+each result highlights that there was a " debit card transaction " or " card transaction , " the amount spent , the specific location ( address included ) and the full card number			0
+blippy users who share their credit card and bank account information do so with the assumption that this information will remain private			0
+@entity9 addresses security concerns with the following statement on its website : " @entity9 is very concerned about safeguarding the confidentiality of your personally identifiable information			1
+we employ administrative , physical and electronic measures designed to protect your information from unauthorized access			1
+we will make any legally - required disclosures of any breach of the security , confidentiality , or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on the @entity63 in the most expedient time possible and without unreasonable delay , consistent with ( i ) the legitimate needs of law enforcement or ( ii ) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system			2
+" unfortunately it appears that there is a bug in the " administrative , physical and electronic measures " that ensure privacy , as @entity9 's security system has been breached in a very public and unfortunate way			1
+given the breach , we suggest that @entity9 users who have authorized the site to access their debit or credit transactions take immediate action to revoke access			1
+we 've e-mailed @entity9 , notified of them of the situation and will update this post when we know more			2
+
+@entity9 's security system has been breached in a very public and unfortunate way
+there 's a bug in the " administrative , physical and electronic measures " that ensure privacy
+@entity0 suggests that @entity9 users take immediate action to revoke access
+
+@entity9:Blippy
+@entity0:Mashable
+@entity13:Google
+@entity14:Trey Copeland
+@entity63:Services

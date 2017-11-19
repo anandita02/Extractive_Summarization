@@ -1,0 +1,61 @@
+http://web.archive.org/web/20140810195335id_/http://www.dailymail.co.uk/sciencetech/article-2701254/Want-DONT-look-like-Online-tool-uses-selfie-reveal-face-exactly-opposite-features.html
+
+by @entity0 our brains are hardwired to recognise faces , even in inanimate objects , but researchers wanted to reveal how we can become virtually unrecognisable simply by tweaking our features			2
+@entity8 - based @entity7 and @entity9 used software to identify 60 facial dimensions before plotting them across more than 1,000 photos donated by people across the globe			1
+from the range of images , the team constructed an average face , and then used the dimensions to create what they call an ' @entity22 ' for each contributor			1
+try out the module below developers @entity7 and @entity9 used software to identify 60 facial dimensions , which were plotted across more than 1,000 photos donated by people from across the globe			1
+for each photo , the team constructed an average face ( pictured ) , before using the dimensions to create what they call an @entity22 the @entity22 is the exact opposite of the face being studied , in terms of shape , size and individual features , said the researchers			1
+@entity43 analysis is a statistical face recognition technique			1
+it uses @entity46 to calculate a set of @entity48 , or @entity43			0
+these @entity43 can be thought of as ' face ingredients '			2
+to calibrate the model , the researchers calculated 60 ‘ ingredients ’ of points taken from more than a thousand faces			1
+each time a new face is uploaded , it is compared to these points and is created using a linear combination of the individual @entity43			2
+typically , a face recognition algorithm would then look for the closest match , but the research is more interested in exploring the individual features and creating what they call an @entity22			1
+the relevant ‘ opposite ’ feature is taken from all the photos submitted , and sits at the other end of the scale			1
+the @entity70 website , created by mr @entity7 and ms @entity9 , reveals how faces can be altered by using sliders			1
+to plot the dimensions , the researchers used @entity43 analysis - a statistical face recognition technique			1
+it uses @entity46 to calculate a set of @entity48 , or @entity43			0
+these @entity43 can be thought of as ' face ingredients '			2
+to calibrate the model , the researchers calculated 60 ‘ ingredients ’ of points taken from more than a thousand faces			2
+each time a new face was uploaded , it was compared to these points using a linear combination of the individual @entity43			0
+according to the research , the average face ( pictured ) is androgynous			0
+it is not race - neutral because the original sample set was biased towards caucasian faces			0
+the researchers said they hope to fix this problem in the future as they collect more faces to plot the dimensions , the researchers used @entity43 analysis - a statistical face recognition technique			1
+these @entity43 can be thought of as ' face ingredients '			0
+to calibrate the model , the researchers calculated 60 ' ingredients ' taken from random faces ( pictured ) initially , the researchers explored the concept of face continuum , or how unique a person ’s face is			1
+‘ from the face continuum emerged the notion of the @entity22 , ' said mr @entity7			1
+‘ the @entity22 program is face recognition turned upside - down			1
+' after looking at your image , it creates a face as different from yours as possible			0
+it might change your gender , your age , your expression			0
+' this means prominent features in the reconstructed faces , with high weighting , would be equally prominent , though opposite , in the anti face			2
+each time a new face is uploaded , it is compared to these points and is created using a linear combination of the individual @entity43			2
+sliders along the side of each image ( pictured ) can be used to change the features across each of these 60 points to see the face change from male to female , for example ' the @entity22 program is face recognition turned upside - down			1
+' after looking at your image , it creates a face as different from yours as possible			0
+' this means prominent features ( highlighted in shadows pictured ) would be equally prominent , though opposite , in the anti face ‘ the terms @entity157 and @entity159 are often used interchangeably but to be precise , @entity157 picks out faces from an image , whereas @entity159 takes a new image of a face and matches it with one it has previously seen , ’ continued mr @entity7			2
+‘ our research into multi-dimensional visual spaces draws upon algorithms used in @entity159			0
+’ ‘ [ with the average face ] , all the coordinates are zero			0
+this face resides exactly in the middle of the face cloud			0
+’ according to the research , the average face is androgynous			0
+it is not race - neutral because the original sample set was biased towards caucasian faces			0
+the researchers said they hope to fix this problem in the future as they collect more faces			0
+photos can be submitted via @entity7 's @entity185 project page .			0
+
+researchers used analysis software to identify 60 facial dimensions
+these dimensions were *mapped* out using more than 1,000 photos
+for each photo , the team created what they call an ' @entity22 '
+this is the exact opposite of the face in the photo that is being studied
+the relevant ' opposite ' feature sits at the other end of the scale
+*synthetic* face site reveals how this face can be altered by using sliders
+
+@entity22:Anti Face
+@entity0:Victoria Woollaston
+@entity7:Robert Woodley
+@entity48:Eigenvectors
+@entity9:Mers
+@entity8:Chicago
+@entity185:Devart
+@entity159:Face Recognition
+@entity43:Eigenfaces
+@entity46:Principal Component Analysis
+@entity157:Face Detection
+@entity70:Synthetic Face

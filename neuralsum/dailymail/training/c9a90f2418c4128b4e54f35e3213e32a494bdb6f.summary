@@ -1,0 +1,46 @@
+http://web.archive.org/web/20150515162914id_/http://www.dailymail.co.uk/sciencetech/article-2208843/Beware-click-Killer-bug-Android-smartphones-completely-wipe-device-just-opening-web-link.html
+
+security experts have warned @entity2 smartphone owners to update their software and be wary of clicking untrusted links - as they could reset your phone back to its factory setting without warning			1
+researchers found that malicious hackers can create web - links that can wipe your phone - meaning all your files , personal details , images and music would be wiped , just by getting you to click on a web - link			0
+the exploit has been tested on @entity20 phones , but could potentially be work on handsets from companies such as @entity24			1
+the bug exploits a feature in many phones from @entity20 where clicking on a link can automatically dial a number into your dial - pad and click ' call '			1
+the @entity32 is likely to still be at risk from the ' link - jacking ' , which could reset a phone by following a url - which can automatically dial ' magic codes ' from your phonebook while this is a handy feature in some cases - for instance , calling a restaurant directly from a web - page - it opens the door for malicious uses			1
+many manufacturers add hidden commands to your phonebook - for instance , dialling * # * # 4636 # * # * will automatically show you your phone 's secret setting menus			0
+but some manufacturers , including @entity20 , add additional codes - and one of them automatically resets your phone , without any way of interrupting the process			1
+the exploit was first announced by @entity62 , from the @entity63 in @entity64			0
+he said web links could be embedded in text messages , clicked on in a web browser , or scanned using a @entity70 ' barcode ' tag			0
+when @entity62 announced his finding yesterday , he said there was nothing a @entity20 owner can do to stop it			1
+@entity2 is rapidly becoming one of the most established operating systems in the world			1
+this month - just before the @entity80 launch on september 12th - @entity81 , the @entity82 executive who founded @entity2 , announced that 500 million @entity2 devices had been activated across the world			2
+the pace of adoption is rapidly speeding up - from around 500,000 activations a day a year ago , to 900 daily activations in june , to more than 1.3million activations a day by september			0
+so far , there have been few serious security breeches for @entity2 and @entity93 devices , in terms of causing a financial cost to the end - user			2
+but as our phones become more widespread and become a bigger part of our daily lives - for instance , when used as a wallet to make payments - it is likely hackers and criminals will find new ways to target devices			0
+however , the exploit only appears to work on some models , and @entity20 has released a security update to block the problem			1
+@entity20 said there is a fix out for the flagship @entity115 has already been issued , but has not referred to other models yet , such as its bestselling @entity32			2
+the spokesman said : ' we would like to assure our customers that the recent security issue concerning the @entity115 has already been resolved through a software update			0
+' we recommend all @entity115 customers to download the latest software update , which can be done quickly and easily via the @entity125 ( @entity125 ) service			0
+' users can find updates by clicking on settings about phone software updates			0
+some users also report the problem can occur on @entity24 handsets , but this is still under investigation			2
+developers for @entity2 said they had also adapted the operating system to prevent the exploit			1
+however @entity2 's well - known slow update process - due to the varieties of different handsets , and phone networks insisting on adding ' bloatware ' to their own devices - means this may not roll out to users quickly			2
+in practice , few users are likely to come across a link which will affect their phone in this way , but anyone who is concerned should seek out an app in the @entity153 called @entity154 .			0
+
+@entity20 phones could be wiped if a hacker codes a *website* address to activate the ' reset ' *switch*
+other @entity2 phones , such as from @entity24 , may also be *vulnerable* to exploit
+
+@entity2:Android
+@entity20:Samsung
+@entity32:Galaxy S2
+@entity24:HTC
+@entity62:Borgaonkar
+@entity82:Google
+@entity63:Technische Universitat
+@entity80:iPhone
+@entity81:Andy Rubin
+@entity115:GALAXY S III
+@entity153:Play Store
+@entity64:Berlin
+@entity125:OTA
+@entity93:Apple
+@entity70:QR
+@entity154:TelStop

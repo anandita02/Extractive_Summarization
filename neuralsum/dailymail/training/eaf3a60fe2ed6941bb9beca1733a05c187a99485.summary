@@ -1,0 +1,40 @@
+http://web.archive.org/web/20140831152732id_/http://www.dailymail.co.uk/sciencetech/article-2722049/No-shaky-videos-Microsoft-software-turns-person-movies-sleek-hyperlapse-footage.html
+
+by @entity0 from ski slopes to bike trails , tiny cameras such as @entity2 , seem to be everywhere			0
+but far from showing an exhilarating experience , their shaky footage can sometimes prove to be nauseating			0
+now computer scientists believe they have come up with a solution : a ' hyperlapse ' that provide a smooth ride through the landscape no matter how jerky the original footage			1
+their software creates a 3d map of the original footage , and then recreates the shots on what they describe as a ' novel camera path '			1
+this novel camera path is found by analysing each frame of the video for ones that link together smoothly			2
+the algorithm then connects these ' smooth points ' and generates a time - lapsed video within those frames			1
+the software creates a 3d map of the original footage shot on the video			1
+next , it analyses each frame of the video for ones that link together smoothly			1
+it then connects these ' smooth points ' together , and generates a time - lapsed video within those frame the result is a smooth , jerk - free video that does n't make you want to vomit			1
+the @entity59 - based team have released two videos to show exactly how it works , with raw footage played alongside the time lapsed version			2
+the project is due to be part of @entity67 2014 , a @entity64 conference later this month held to showcase computer graphics techniques			0
+the system is currently a research project and there are no existing plans to commercialise the software			0
+the group is also working on making the @entity76 algorithm work as a @entity78 app , but they said it will likely be some time until that happens			1
+if you 've ever wanted to recreate a cinema in your living room , or turn your bedroom into a karaoke bar , @entity26 has the answer			2
+its @entity89 prototype beams screens from a computer on to the walls of a room , including browser tabs , maps , documents , videos and photos			0
+the system uses small projectors and sensors to scan the layout of a room , including furniture , objects and people , to make sure the web pages are n't distorted			0
+it also uses a @entity110 camera to map mouse clicks to hand gestures			0
+this means users can hold their hand over the position of a link on the wall and if they mimic pushing it , the @entity89 system recognises it as mouse click			0
+examples given by @entity26 include videos being projected from a pc onto a large wall , karaoke lyrics displayed above a music video playing on a tv screen , or a photo of a window being used in place of a wall .			2
+
+the software creates a 3d map of the original footage shot on the video
+it analyses each frame of the video for ones that link together smoothly
+it then connects these ' smooth points ' together to create a time lapse
+@entity26 is working on making the algorithm work as a @entity78 app
+
+@entity67:SIGGRAPH
+@entity2:GoPro
+@entity0:Ellie Zolfagharifard
+@entity26:Microsoft
+@entity27:Michael Cohen
+@entity25:Johannes Kopf
+@entity28:Richard Szeliski
+@entity78:Windows
+@entity110:Kinect
+@entity89:SurroundWeb
+@entity59:Washington
+@entity76:Hyperlapse
+@entity64:Vancouver

@@ -1,0 +1,46 @@
+http://web.archive.org/web/20140312214814id_/http://edition.cnn.com:80/2014/02/13/opinion/roulstone-snow-accumulation/index.html?
+
+-- a snow - covered landscape is one of the classic images showcasing the beauty of weather on @entity7			2
+we are awed by the grandeur of white - capped mountains and the almost magical quality of snow - covered trees			2
+we are also frustrated when the tempests of winter reach far and wide , striking as they have done this year in @entity14 's southern states			2
+when it comes to forecasting the likelihood of a blizzard , the weather anchors know what to say			0
+but when asked to predict how much snow will actually accumulate , they will give estimates			1
+why ? the computer models used in weather forecasting do not actually predict snow			2
+a single variable is used to predict water in its various forms -- liquid , vapor or ice -- so we need other information , such as air temperature , to decide whether snowfall is likely			1
+models forecast the amount of liquid water produced when air rises above the height at which water vapor begins to condense			0
+this is commonly known as the @entity43 ( @entity43 )			0
+while @entity45 are an important ingredient when it comes to predicting snow , there are many other very subtle factors that can easily tip the balance in favor of rain , or make it very difficult to distinguish between different types of snow			1
+if temperatures are low enough to allow precipitation to fall as snow , then the forecasters need some way to convert the @entity43 to an equivalent snowfall			1
+the ratio that we use to calculate the liquid water to snow equivalent is around 1 to 10			2
+that is , if the @entity43 predicts 1 inch of rain , we can anticipate the amount of snow produced would be 10 inches			2
+unfortunately , life 's not always that simple			0
+the liquid water to snow ratio can vary depending on whether the snow is " wet " or " dry			0
+" dry snow is the term used to describe small powdery flakes , and it forms when there is very little moisture available			1
+under these circumstances , the rain to snow ratio can be considerably higher , with values of 1 to 20 not uncommon			0
+on the other hand , if there is abundant moisture and the snowflakes are larger and wetter , a ratio of 1 to 5 may be typical			0
+therefore we need to have a very accurate forecast of the levels of moisture in the atmosphere , together with the variation of temperature with altitude , to even get off on the right foot when it comes to predicting snowfall			1
+our forecast models represent a snapshot of the weather at any moment in time by using huge arrays of numbers to describe states of the atmosphere			0
+these numbers represent basic variables such as moisture and temperature			1
+calculating how these many millions of " weather pixels " will change requires superfast computation and large amounts of memory			0
+the inevitable limitations on available computer power and data storage force a trade - off between the geographical coverage of models and the detail that we can expect from them			0
+this trade - off can be critical when it comes to calculating reliable @entity45			0
+forecasters often have to resort to methods they learned at college , involving dew points , temperature soundings from meteorological balloon ascents and real - time reports from weather stations to assess the impact of a snow storm			1
+the bottom line is that snow -- one of our most loved , and occasionally loathed , features of weather -- is real tough to forecast well			0
+we may be able to capture the beauty of @entity141 with high resolution digital images , but capturing the physics behind the snowfall in our sophisticated weather prediction models is much more challenging			1
+making the final call comes down to " seat of the pants " knowledge in the end			1
+the opinions expressed in this commentary are solely those of @entity154 .			1
+
+ice and snow storms are *crippling* some states in the @entity159
+@entity154 : predicting how much snow will actually accumulate is difficult
+he says the physics of snowfall is complex , involving factors like temperature , moisture
+@entity170 : making the final call comes down to " seat of the pants " knowledge in the end
+
+@entity170:Roulstone
+@entity14:America
+@entity7:Earth
+@entity141:Mother Nature
+@entity45:QPFs
+@entity159:Southeast
+@entity0:CNN
+@entity43:QPF
+@entity154:Ian Roulstone

@@ -1,0 +1,40 @@
+http://web.archive.org/web/20121102171708id_/http://www.dailymail.co.uk:80/news/article-2180849/Hackers-steal-details-chip-PIN-machines-used-shops-restaurants.html?
+
+by @entity0 published : 19:35 est , 29 july 2012 updated : 19:37 est , 29 july 2012 millions of customers ’ banking details are at risk after it emerged that card readers used in shops and restaurants can be hacked			0
+experts have found a security flaw in chip and pin terminals that allows thieves to download customers ’ card details			1
+there are more than one million such readers in the @entity16 according to the @entity17 , which processes about 800million purchases each month			1
+flawed : experts have exposed a serious weakness in the chip and pin system			1
+( posed by model ) thousands of terminals must now be reprogrammed			0
+the chip and pin system replaced the use of signatures to authorise card purchases in 2006 , and combines two effective security features : a microchip to ensure the card is not counterfeit , and a personal identification number ( pin ) to prove the user ’s identity			1
+however , researchers discovered that criminals can use second - hand devices purchased on @entity41 to load fake cards with malicious software			1
+once used in shops , the fakes – made to look like a normal credit or debit card – infect readers , which begin storing the details of all subsequent transactions			0
+the criminal then returns later and uses a second card to download this data , which includes card details and @entity56			0
+a spokesman for security firm @entity58 told @entity59 : ‘ in our demonstration we just got the card number and pin , but a real criminal would probably reprogramme the reader to request that the card is swiped			2
+this would give magnetic strip data which could be used to clone the card			0
+’ insecure : criminals can use second - hand devices purchased on @entity41 to load fake cards with malicious software to scan bank details from unwitting customers @entity72 , which makes most of the terminals used in @entity16 , said it is working on an update to fix the flaw			1
+a spokesman said : ‘ @entity58 implemented a sophisticated scenario that is technically feasible on some older systems			0
+‘ @entity72 has developed a software update to resolve this issue in deployed systems and has already submitted the code for testing and approval on an expedited basis			2
+’ account numbers and pins are sold , often in bulk , on hundreds of so - called ‘ carding ’ websites , often based in @entity90 or @entity91			2
+anyone with an email address can sign up and receive access to a global network of criminals selling details from victims over the world , contributing to the £ 308million of card fraud committed in the @entity16 each year			2
+a @entity102 investigation found one seller on a @entity105 website offering @entity16 credit cards , with full details of the original owner ’s identity , for just £ 19 each			0
+for £ 190 , they also claimed to be able to offer access to a bank account with a credit limit of £ 8,000			0
+it recently emerged that 15million @entity116 customers using new contactless credit and debit cards could have their details stolen by ‘ electronic pickpockets ’ who brush past wallets with a mobile phone			0
+the cards , billed as the latest in payment technology , contain a chip so that payment can be made without the need to enter a pin			1
+however , investigators found criminals could obtain a customer ’s name , card number and expiry date by holding a smartphone fitted with simple software over a wallet containing the card .			1
+
+about 800million purchases each month are processed by chip and pin machines
+criminals can use second - hand devices purchased on @entity41 to load fake cards with malicious software
+
+@entity17:UK Cards Association
+@entity16:British
+@entity0:Nick Mcdermott
+@entity56:PINs
+@entity116:Barclays
+@entity102:Daily Mail
+@entity41:eBay
+@entity105:Russian
+@entity58:MWR
+@entity59:Channel 4
+@entity90:Eastern Europe
+@entity91:China
+@entity72:VeriFone

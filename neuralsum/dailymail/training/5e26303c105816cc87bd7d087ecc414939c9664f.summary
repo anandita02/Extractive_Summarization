@@ -1,0 +1,45 @@
+http://web.archive.org/web/20140319080625id_/http://www.dailymail.co.uk/sciencetech/article-2579306/Its-official-Candy-Crush-HARD-Study-reveals-game-belongs-group-complex-mathematical-problems.html
+
+by @entity0 published : 12:52 est , 12 march 2014 updated : 07:24 est , 13 march 2014 next time someone criticises you for playing too much @entity4 , you can tell them you ’re actually solving a complex mathematical problem			1
+@entity8 researcher @entity7 wanted to test whether the game was what ’s called @entity11 - hard - or difficult to solve without a computer			1
+to test this theory , he constructed a theoretical board of candies and turned it into a logic puzzle			1
+the high number of possible outcomes he uncovered proves the games complexity put simply , if a starting board of candies has two instances where a row of three can be made , the player has to decide which row to complete first			2
+once they have selected this row , it sets off a chain reaction and directly influences which candies fall where as the game continues			0
+once the game is solved , the player would need to start again , but this time choose the other row option , to determine which route scored the highest points			0
+to make an informed , mathematical decision about which row to choose , however , requires knowing what candies will appear once the row has been completed			0
+each time candies fall , they create a number of new row options , increasing the number of possible outcomes			0
+to check the best score , the player would have to go back over each possible outcome , and the rows that follow - producing a puzzle that ca n’t be solved manually			1
+@entity4 is a hugely popular game in which players move different coloured candies around a board to create lines of three in a row			2
+once a line of three matching candies is completed , they disappear and candies drop from the top of the screen to fill the gaps			0
+early rounds involve making a number of swaps in a set timeframe , or to achieve a minimum score			0
+due to the large number of variables , @entity7 from @entity81 and @entity82 , wanted to see whether the game was a p math problem , or an @entity11 problem			1
+p problems are puzzles that are easy to solve , while @entity11 problems are much more difficult and can only be solved by a computer because of the large amount of data produced			2
+to test this theory , @entity94 constructed a theoretical board of candies , in which the size of the board was unrestricted			1
+he then tested whether it was possible to create a sequence of swaps ( k ) that obtained a specific score ( s )			0
+if a board of candies has two instances where a row of three can be made , the player has to decide which row to complete first			0
+this sets off a chain reaction and directly influences future moves			0
+once the game is solved , the player must start again numerous times to try all the possible swap options this turned the game into a mathematical problem			0
+in the process of trying to solve this formula , @entity94 concluded the variables and possible outcomes for each level were so high only a computer would be able to process the information – making the puzzle not only @entity11 , but @entity11 - complete			1
+@entity11 - complete puzzles have solutions that can be applied to all other @entity11 problems , but finding that one solution is difficult			1
+for example , if @entity94 found the solution to the @entity4 problem , in theory , this same solution could be applied to other puzzles with large number of variables and outcomes			2
+the same strategy was also used to prove games including @entity143 and @entity144 are also @entity11 - hard			1
+' part of its addictiveness may be that @entity4 is a computationally hard puzzle to solve , ' concluded @entity94 .			2
+
+@entity4 involves swapping candies to make rows of three
+study wanted to test whether this game was what ’s called @entity11 - hard
+@entity11 is a problem that is difficult to check , or can only be solved with a *pc*
+to test this theory , a researcher constructed a theoretical board of candies
+they then tried to establish a *generic* formula for solving each puzzle
+this involved trying to prove whether a certain score could be achieved with a set number of swaps
+it was n’t easy to solve , meaning the game was classified as *np* - complete
+
+@entity144:Zelda
+@entity0:Victoria Woollaston
+@entity7:Toby Walsh
+@entity11:NP
+@entity4:Candy Crush Saga
+@entity143:Super Mario Brothers
+@entity81:NICTA
+@entity82:University of New South Wales
+@entity94:Walsh
+@entity8:Australian

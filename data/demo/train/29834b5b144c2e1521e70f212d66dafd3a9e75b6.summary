@@ -1,0 +1,72 @@
+http://web.archive.org/web/20150326035606id_/http://www.cnn.com/2013/01/30/tech/social-media/flu-tracking-twitter
+
+complaining on social networks about being sick might annoy your friends and followers , but it can be useful for tools that track the spread of illnesses			1
+a new method for filtering tweets , developed by researchers at @entity11 , could make the real - time data pouring in more accurate			1
+the @entity13 is in the middle of one of its most severe flu seasons in years			2
+tech companies , universities and health organizations are harnessing the wealth of data from social networks and search engines , in addition to the usual reports from vital statics offices , hospitals , doctors and public health departments , to keep the public informed and better prepare public health workers			2
+the @entity32 releases a weekly influenza update for the @entity13 that includes stats on people with flu - like symptoms , hospitalizations and deaths			1
+but the detailed information is about two weeks old by the time it comes out			1
+" there are a lot of gaps in the system that @entity47 can fill , " said assistant research professor @entity41 , who headed up the @entity11 project			0
+real - time information like tweets are becoming a popular source of public health information			1
+they can be used to do more than just track outbreaks			0
+@entity41 's goal is to get ahead of the curve and actually predict where and when illnesses will spread			0
+this information could be invaluable for public health departments , providing them advanced warnings and time to plan with additional doctors , hospital beds or school closings			2
+thanks to gps information for each tweet , the location information gathered from @entity47 is more finely detailed than the @entity32			1
+early warnings are good for regular people as well			0
+they push people to get vaccinated before they catch the flu , and individuals with health issues who might be more vulnerable can take extra precautions			2
+with an average 340 million tweets a day , @entity47 is a firehouse of muddled and misleading information			2
+taken at face value , keywords would indicate the entire country is suffering from an ongoing fever epidemic of the @entity86 variety			0
+much of the running commentary on @entity47 is a reaction to news events , so when a flu epidemic becomes a national news story , the number of people talking about it spikes , regardless of their own health status			2
+" most people have just focused on the presence of flu			0
+the very simple thing is you look at @entity47 and look at the number of people using the world flu or sick everyday , " said @entity41			0
+" the problem with that is if you look a little more closely it does n't really work			0
+" @entity41 's team is using algorithms to correct for these issues , filtering out the noise to isolate the useful information			0
+they were already researching using @entity47 to track health issues before this winter 's recent outbreak but quickly changed tracks to focus on the flu			2
+the group plans to share the information it gathers with public health officials			0
+tracking influenza and other illnesses based on social media is n't new			1
+in a 2011 paper , researchers reported being able to accurately track disease levels for the swine flu outbreak two years earlier by searching for keywords such as flu , vaccine , illness , @entity131 and pneumonia			1
+the @entity133 has turned research about predicting the spread of diseases with social media into a web application called @entity139			1
+the colorful interactive map pulls up geo - tagged tweets that contain keywords related to illness			1
+if you find a tweet that 's clearly mislabeled ( like someone bragging that their new car is " sick " ) , click a button to let the app know they 're not actually sick			0
+it also allows self reporting with a slider you can set to @entity156 , @entity157 , yuck , @entity158 or good and options to share specific symptoms			0
+@entity161 is a similar project that can pull from @entity163 and @entity47 to map and show animations of contagious illnesses such as chicken pox , colds and whooping cough , as well as other issues like allergies , stress and depression			0
+even as researchers get better at filtering tweets , the social network presents limitations			1
+it is n't an accurate representation of the entire population in terms of age or location			0
+two of the groups hardest hit by influenza outbreaks , the elderly and children , are the least likely to be live blogging their symptoms			0
+@entity190 's @entity189 looks at search terms to create real - time estimates of where the flu is flaring up			1
+developed in 2009 in collaboration with the @entity32 , the tool digs through massive amounts of search data ( all anonymous ) looking for flu - releated searches around the world and maps out the intensity of outbreaks			1
+" the advantage of using these social media tools and @entity190 is they 're much faster than the @entity32 , " said @entity203 , a doctoral student working on the @entity11 @entity47 research			1
+" as an early warning , they 're useful to the government when it needs to plan			0
+" armchair influenza trackers will still get the most detailed information from weekly reports released by the @entity32			1
+the reports dig deep into the data gathered from doctors , hospitals and other health officials to outline things like number of deaths , flu - related hospitalizations and a breakdown of strains			2
+the @entity32 also has its own simple app called @entity227 that plots the volume of influenza - like illnesses by state			1
+" our job is really to figure out what viruses are going around and what effect they 're having , " said @entity232 , an influenza epidemiologist at the @entity32			2
+" it 's more laboratory based ; we try to get as close as we can to the viruses			0
+" the @entity32 teams do check tools like the @entity244 , and @entity232 says that while the results do n't always match up , @entity190 is close to the @entity32 's own findings most of the time			1
+the @entity32 has slightly different goals than tech tools that track symptoms in real - time			1
+it 's drilling down to find out what strains are being reported , see if they are close to the current vaccine and if not , determine if the vaccine needs to be changed to include new virus candidates .			0
+
+social media information like tweets is being used to map the current flu outbreak
+researchers are working on ways to better filter tweets for accurate real - time predictions
+there are apps and tools from the @entity32 , @entity190 and *startups* dedicated to tracking the flu
+
+@entity232:Brammer
+@entity163:Facebook
+@entity32:CDC
+@entity13:United States
+@entity227:FluView
+@entity11:Johns Hopkins
+@entity189:Flu Trends
+@entity131:Tamiflu
+@entity190:Google
+@entity158:Meh
+@entity139:Germ Tracker
+@entity41:Dredze
+@entity86:Bieber
+@entity47:Twitter
+@entity203:Michael Paul
+@entity244:Google Flu Tracker
+@entity157:Sick
+@entity156:Awful
+@entity133:University of Rochester
+@entity161:Sick Weather

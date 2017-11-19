@@ -1,0 +1,22 @@
+http://web.archive.org/web/20141112064947id_/http://edition.cnn.com/2014/10/27/politics/dole-romney/index.html
+
+-- one - time @entity2 presidential nominee @entity1 has his candidate for 2016 : @entity4			1
+@entity1 , a 91 - year - old former @entity5 majority leader and 1996 @entity2 presidential nominee , said as he introduced @entity4 , the party 's 2012 nominee , during a campaign rally monday : " i want him to run again			1
+" @entity1 and @entity4 were in @entity11 campaigning for @entity13 @entity12 sen. @entity12 , who faces a stiff challenge from independent businessman @entity15			0
+@entity4 brushed off the remark			0
+" you never know what a 90 - year - old is going to say , do you ? " he said			2
+" i 'll tell ya			0
+
+@entity1 and @entity4 are campaigning for @entity5 candidate in @entity13
+@entity1 introduces @entity4 with a 2016 *endorsement*
+@entity4 : " you never know what a 90 - year - old is going to say , do you ? "
+
+@entity2:GOP
+@entity1:Dole
+@entity0:CNN
+@entity13:Kansas
+@entity5:Senate
+@entity11:Overland Park
+@entity4:Romney
+@entity15:Greg Orman
+@entity12:Pat Roberts

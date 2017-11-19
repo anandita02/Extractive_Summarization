@@ -1,0 +1,64 @@
+http://web.archive.org/web/20090627161141id_/http://www.cnn.com:80/2008/LIVING/wayoflife/07/09/aa.airconditioning/
+
+-- it 's that time again , when you turn on the @entity3 to chill out from the summer heat and all you get is hot air ! air conditioning on the fritz ? taking your car to an a / c tech will keep you from getting hot headed			1
+ughhhh ! how do you restore that refreshing , cool air to your vehicle 's interior cabin so you can survive the heat ? well ... sit back and relax , and i 'll tell you exactly what to expect from your shop			0
+system performance test first , the tech should perform an @entity20 performance test			1
+he / she will first check vent temperature to confirm that the system is indeed inoperative			1
+should this be the case , the tech will then perform a head pressure check			1
+during this process , gauges are installed on the high and low side of the system to determine if there 's any refrigerant in the system			1
+an extremely low ( or no ) pressure reading usually indicates a lack of refrigerant in the system , which means it has leaked out			1
+sometimes the pressure reading may be too high , in which case there is a restriction in the system , inhibiting the flow of refrigerant			2
+there are three diagnostic paths , depending on the initial evaluations			0
+should the system be low on refrigerant , the tech should run a leak test , identify the location of the leak , repair it , and recharge the system with refrigerant and oil			1
+if the pressure in the system is too high , the tech should locate the restriction , often caused by dirt that finds its way to the orifice tube , a small in - line filter designed to screen out any particulates in the system			1
+( restrictions can occur for other reasons that i will not go into here for the sake of space			0
+) once the plug is found , it is removed , and dirt is flushed from the system			2
+finally , if the system seems to be operating properly ( all head pressures are in line with factory specifications ) , then the tech will look to the duct system for problems			1
+the duct system the engine in your car generates vacuum as a result of taking in air			1
+this vacuum is used for the duct system			1
+how the system works : vacuum is collected in a vacuum reserve chamber ; this device usually resembles a plastic ball or a coffee can			1
+the vacuum builds up inside this chamber and when @entity3 is called for , vacuum is channeled through the switch and small vacuum lines ( capillary tubing ) to the servo motor			2
+the servo motor is responsible for opening a special duct door ( the air blend door ) , which directs the correct amount of cool air into the vehicle 's cabin			0
+problems crop up when vacuum is lost due to a cracked vacuum reserve chamber , broken vacuum line , faulty vacuum servomotor , bad switch , or poor engine vacuum			1
+the tech must track down the cause of the vacuum loss and repair it in order to restore the system			1
+other causes of poor @entity128 air volume are broken air blend door or door hinge , organic debris in the fan squirrel cage inhibiting airflow , worn blower motor shaft bearings slowing down the squirrel cage , or electrical wiring / component problems that control fan operation			2
+proper a / c leak test procedure the main cause of a / c system failure is refrigerant leak			1
+this system is a closed system , so the refrigerant chemical and lubricant are sealed from the outside atmosphere			2
+when a leak forms , the system drains of both refrigerant chemical and the lubricant vital to compressor life and function			2
+in addition , moisture and dirt can get in through the leak causing contamination			0
+this contamination eats away at the inside of the system resulting in rust and scale buildup , corrosion and erosion in vital a / c system parts			2
+proper a / c system leak tests are necessary to identify the source of a leak			2
+there are three types of leak inspections : visual , halogen , and dye testing			0
+the visual test includes inspection of all lines and external components ( specifically condensers , hi and low pressure lines , compressors , air dryers , and expansion valves )			2
+any indication of refrigerant oil on these components is an indication of a leak and the component must be replaced			0
+the halogen tester is designed to detect the presence of leaking refrigerant gas , which is odorless and colorless			2
+the tech scans the system with the flexible probe on the tester			1
+if there is a leak , then the tester will howl , light up , or click			0
+finally , if the tech is convinced that there is a leak in the system and he can not find it , then he performs a dye test			1
+after a fluorescent dye is charged into the system , an ultra violet light is shown on the system			0
+if there is a leak , it will show up as a bright yellow color under the light			0
+these are tried and true diagnostic methods that have been used in a / c system diagnostics and repairs for years and are guaranteed to track down the most stubborn a / c leaks			0
+a word about refrigerant chemicals as a result of the @entity222 , all chlorofluorocarbons are no longer used as refrigerant chemicals because of their negative effect on the ozone layer			0
+consequently , all a / c systems now use an ozone - friendly refrigerant called @entity228			0
+any vehicles that still run the road with the old @entity232 chemical have to be retrofitted to run @entity228			0
+in addition , the tech is required by @entity235 to recapture the @entity232 into a reclaiming station for disposal ( it can not be released into the air )			0
+venting of chlorofluorocarbons to the atmosphere is considered a federal offense			0
+should you have a vehicle that still has the old @entity232 system in it , have the system converted			0
+this procedure involves the installation of new schrader valves for system charging and testing , as well as a complete and thorough cleaning and flushing of the system			0
+it is essential that all of the @entity232 be removed , because the mixing of @entity232 with @entity228 results in ' system meltdown			0
+now that you know all about the air conditioning in your car , you can see that there are many sources of potential problems			1
+thus , proper diagnosis of problems with this system can save you a lot of money ; so make sure you take it to a reputable shop that has the necessary equipment and experienced techs			1
+and enjoy the summer heat !			0
+
+problems with your a / c / system can cost you money by wasting extra gas
+tech should first do a car @entity20 performance test
+problems with vacuum system can also limit cooling in car
+
+@entity3:A / C
+@entity232:R12
+@entity20:A / C system
+@entity0:AOL Autos
+@entity235:Federal Law
+@entity228:R134A
+@entity222:Clean Air Act
+@entity128:HVAC

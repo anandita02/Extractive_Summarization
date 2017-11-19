@@ -1,0 +1,100 @@
+http://web.archive.org/web/20120904160331id_/http://www.cnn.com:80/2012/08/02/tech/social-media/twitter-new-political-index
+
+-- @entity1 launched a new service on wednesday called the @entity3 , or @entity4			1
+by applying highly tuned algorithms to @entity1 's fire hose of data , the service offers a real - time look at voters ' moods , and scores which presidential candidate is trending up ( and who is trending down ) day to day			1
+@entity4 is a joint effort between @entity1 , @entity15 , and two polling groups , the left - leaning @entity17 and the more conservative @entity18			1
+the collective goal is to dive into @entity1 's deep trove of data , and pull up insights faster than @entity24 and other traditional polling companies			1
+expect to see @entity27 results referenced in all political news and commentary as we head into the presidential election			2
+welcome to the age of big political data			0
+in 2008 , @entity1 co-founder @entity34 walked into the then - tiny @entity1 office 's very small conference room , and saw something remarkable : a way for @entity1 to track what people were saying about the upcoming presidential election in real - time			1
+â € ¬ the company had contracted @entity44 's @entity43 to build a site that could show how people were talking about the election			0
+and on this day , @entity44 was in the office to show what he 'd come up with , a subdomain on @entity1 -- @entity50 -- that could track trending terms and follow message volumes about the various political candidates			1
+when @entity56 's technology went live a few weeks later , it gave everyone a window into the vital discussions happening on @entity1			2
+it was , @entity34 explained to @entity0 , a glimpse of what @entity1 could be			2
+this was in @entity1 's salad days , literally , when the most common knock on @entity1 was that it offered little more than people boasting about what they ate for lunch			2
+" in the future , @entity1 will be less personal , " @entity34 explained			2
+" less about status , even			0
+it will be more about what 's happening with trends and events			0
+" when election day rolled around in november 2008 , @entity1 had one of its biggest traffic days ever			1
+users posted some 1.8 million tweets			2
+the mood at the company headquarters that night was ebullient			0
+sure , there were plenty of happy @entity85 supporters present , but mostly the team was excited because its servers stayed up under the load			0
+as results came in , cheers went up as the team announced not who won the election , but tweet volumes			0
+today , both the election site and the server load seem quaint			0
+1.8 million tweets ? @entity1 now does that every six minutes			1
+and while that early election site was fun to look at and very interesting , it was n't truly useful for drawing insight			0
+@entity1 's sample size was simply too small			2
+but now , four years later , all of that has changed			0
+@entity1 is a big data company now			2
+by its own reckoning , it has some 140 million active monthly users ( outside estimates place it at 170 million ) who tweet some 400 million times a day			1
+and very , very many of them are talking politics			0
+now , with help from @entity15 , @entity112 and @entity18 , @entity1 has found a way to extract voter sentiment from those conversations , measure it , and return a daily number			1
+these results track very closely with the @entity24 approval rating polling data			0
+here 's how it works			0
+@entity15 uses @entity1 's high - volume fire hose of data to look at every tweet in the world , and establish a neutral baseline			1
+separately , it looks at all the tweets about @entity85 and @entity127 , runs a sentiment analysis on them , and compares this analysis to the baseline			0
+it looks at three days ' worth of tweets each day , weighting the newer ones higher than then older ones			0
+it then returns a numerical score for each candidate based on how tweets about the individual compare to all tweets as a whole			0
+a completely neutral score would be 50			0
+anything above that is a net positive , while lower is a net negative			0
+so , for example , if @entity85 has a score of 38 , that would mean that tweets about him are more positive than 38 percent of all other messages on @entity1			2
+the project began when @entity1 noticed that conversations about candidates on its own feeds accurately foreshadowed voter sentiments showing up in traditional polls			2
+for example , during a @entity162 debate broadcast in which viewers were asked to rate candidates ' responses as either " answer " or " dodge , " @entity1 saw a profound uptick in positive responses about @entity169			2
+a few days days later , @entity170 was indeed moving up in the polls , but @entity1 could see this shift in real - time , much , much earlier , during the debate			1
+similarly , in the run - up to the @entity177 and @entity178 primaries , @entity1 saw @entity127 's follower count surge , while @entity180 's sputtered out			1
+when the election results came in , they confirmed what @entity1 was seeing internally : its own social media provided an inside line on what voters were thinking			1
+so @entity1 began working with polling groups and @entity15 to look into the political data buried in the din of constant online chatter -- they wanted a better way to measure the sentiment voters were expressing in real - time			1
+@entity15 would look at every single tweet sent in the world , every day , and create a three - day average baseline			1
+it created an algorithm to understand which tweets skewed positive and which were negative			0
+together , @entity1 and @entity15 built a keyword engine , and via repetitive , ongoing spot checks by human observers , they found their algorithm would generate voter - accurate results 90 percent of the time			1
+and that was just the beginning of a refinement process			0
+every time they ran the data set against human curators and found differences , they were able to improve the algorithm			0
+what @entity1 eventually built was the @entity4			1
+it did n't rely on questions , and could be generated in real - time			1
+and when @entity1 compared the @entity4 for @entity85 with @entity24 's approval rating , the graph was remarkable			1
+" we pulled this up and said ' oh , i think we 're onto something , ' " says @entity217 , @entity1 's head of government news and social innovation			2
+" at first glance , you can readily see some parallels in the data			0
+" as it continued to refine its methods , @entity1 found that it had an increasingly strong correlation with @entity24 polling data			1
+but more interesting , obviously , is where the numbers diverge			0
+" if the dials are pointing in different directions , people are saying one thing to pollsters , and another in conversation , " explains @entity217			0
+" that is where the @entity1 index is providing a real service to journalists , because it 's where we are saying we do n't have a complete picture , and need to be asking better questions			1
+" @entity1 attributes some of this to the differences between ongoing conversations ( @entity1 ) and specific responses to specific questions ( traditional polling )			1
+for example , in the weeks after @entity255 was killed , there was a discrepancy in what @entity1 and @entity24 found			2
+a possible explanation of this is that voters might have answered approval rating poll questions very positively in the weeks after the raid , but in ongoing conversations with each other on @entity1 , sentiment focused more on normal , day - to - day concerns about the economy			1
+@entity1 hopes to apply the @entity4 to other issues -- including , of course , analyzing sentiment around brands			1
+but it 's also hopeful that others will take its findings and run with them			0
+" one of the reasons why we partnered with @entity15 was because a secondary goal was to boost the ecosystem around big @entity1 data , " says @entity217			1
+" to demonstrate the data was big enough , and show that it was available via existing entirely publicly available data			0
+" subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity287 .			0
+
+@entity1 launches a political index , called " @entity4 , " on wednesday
+@entity4 shows voters ' moods in real - time
+the index is a joint effort between @entity1 , @entity15 and polling groups
+@entity1 has 140 million active monthly users who tweet some 400 million times a day
+
+@entity27:Twindex
+@entity24:Gallup
+@entity255:Osama Bin Laden
+@entity3:Twitter Political Index
+@entity170:Gingrich
+@entity1:Twitter
+@entity0:WIRED magazine
+@entity177:Michigan
+@entity4:Twindex
+@entity178:Arizona
+@entity50:election.twitter.com
+@entity56:Veen
+@entity17:Mellman Group
+@entity15:Topsy
+@entity34:Williams
+@entity18:NorthStar
+@entity217:Sharp
+@entity85:Obama
+@entity127:Mitt Romney
+@entity162:FoxNews
+@entity180:Rick Santorum
+@entity169:Newt Gingrich
+@entity44:Veen
+@entity287:Wired.com
+@entity43:Small Batch
+@entity112:Mellman

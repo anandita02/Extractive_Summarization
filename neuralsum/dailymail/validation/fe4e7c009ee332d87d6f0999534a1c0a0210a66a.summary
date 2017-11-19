@@ -1,0 +1,60 @@
+http://web.archive.org/web/20150721075634id_/http://www.dailymail.co.uk/sciencetech/article-3004470/Is-password-adgjmptw-Researcher-reveals-complex-log-details-easier-crack-thought.html
+
+millions still use easy - to - crack passwords such as ‘ qwerty ’ and ‘ 123456 ’ , but many people are choosing to use more complex sets of characters for our online accounts			1
+however , a new study has found these seemingly random passwords may be more obvious to hack than you realise			1
+researchers have shown that passwords such as ‘ mnbvcxz ’ , ‘ qaz2wsx ’ and ‘ adgjmptw ’ can be cracked in seconds - and adding numbers to your codes does little to boost its strength			2
+they spotted that a number of complex passwords were being used by multiple people , such as ‘ mnbvcxz ’ , ‘ qaz2wsx ’ and ‘ adgjmptw ’			1
+this is because each of these words follow a certain pattern , or ' walk ' on a keyboard ( shown ) the analysis was made by hosting firm @entity23 using 10 million passwords recently released by security consultant @entity37			1
+as with previous studies , researchers discovered the most common passwords are still ‘ 123456 ’ , ‘ password ’ , ‘ qwerty ’ and ‘ 111111 ’			1
+they also went a step further and listed all 50 of the most used words , which additionally included ‘ superman ’ and ‘ letmein ’			1
+these lists were then divided into sections including the top 10 colours , days of the week , fruits and animals used as passwords - which are ‘ red ’ , ‘ friday ’ , ‘ apple ’ and ‘ fish ’ respectively			1
+but during the analysis they spotted that a number of complex passwords were being used by multiple people			1
+like with previous studies , the analysis discovered common passwords are still ‘ 123456 ’ , ‘ password ’ , ‘ qwerty ’ and ‘ 111111 ’			1
+these lists were then divided into sections including the top 10 colours , days of the week , fruits and animals ( pictured ) - which are ‘ red ’ , ‘ friday ’ , ‘ apple ’ and ‘ fish ’ respectively on average more women were found to have longer passwords than men , with an entropy - or password strength - score of 25 and above			1
+more than one in five people who added numbers to a word simply chose ' 1 ' for example , ‘ qaz2wsx ’ was in the top 30			1
+they also noticed that a website called @entity83 scored these words as zero , or low , for so - called entropy			1
+the 20th most common keyboard pattern in the list was ‘ adgjmptw			2
+this pattern is created when the nine keys on a number pad are pressed in order entropy is used to determine the strength of a password in terms of ‘ information entropy ’			0
+this comes from information theory and is measured in bits			0
+the more bits a word is assigned , based on the number of guesses it would take to crack , the stronger the password			2
+other words that received a low score include ‘ qwertyuiop ’ , ‘ 1qaz2wsx ’ and ‘ zxcvbnm ’			2
+this is because each of these words follow a certain pattern on a keyboard , known as ‘ keyboard walks ’			1
+there was an anomaly in this list , though , because the 20th most common keyboard pattern in this list of passwords was ‘ adgjmptw ’ - which on face value does n’t appear to be an obvious keyboard pattern			2
+however , following further investigation the team realised this pattern is created when the nine keys on a telephone number pad are pressed in order			0
+the study said that his pattern in particular shows how password selection is changing as more people create them on touch devices			2
+in addition to these passwords being common , the researchers added that password crackers such as @entity140 specialise in such patterns , leaving them more vulnerable than some simpler passwords			2
+people born in the 1980s were the most likely to use the word ‘ love ’ somewhere in their password			1
+almost 1.5 per cent of these passwords belonged to women compared to 0.7 per cent of men ’s elsewhere , nearly half a million - or 420,000 ( 8.4 per cent ) - of the 10 million passwords ended with a number between 0 and 99			1
+and more than one in five people who added those numbers simply chose 1			2
+hackers can therefore try adding these numbers to the ends of words when trying to hack into an account			2
+on average more women had passwords with an entropy score of 25 and above and people born in the 1980s were the most likely to use the word ‘ love ’ somewhere in their password			1
+in may 2013 a team of hackers managed to crack more than 14,800 supposedly random passwords - from a list of 16,449 - as part of a hacking experiment for a technology website			0
+the success rate for each hacker ranged from 62 % to 90 % , and the hacker who cracked 90 % of hashed passwords did so in less than an hour using a computer cluster			0
+the hackers also managed to crack 16 - character passwords including ' qeadzcwrsfxv1331 '			0
+rather than repeatedly entering passwords into a website , the hackers used a list of hashed passwords they managed to get online			0
+hashing takes each user 's plain text password and runs it through a one - way mathematical function			0
+this creates a unique string of numbers and letters called the hash			0
+hashing makes it difficult for an attacker to move from hash back to password and it lets sites keep a list of hashes , rather than storing them insecurely as plain - text passwords			0
+this means if a list is stolen , the plain text passwords ca n't be obtained easily however , this experiment shows this does n't mean its impossible			0
+when a user types a password into an online form or service , the system hashes the entered word and checks it against the user 's stored , pre-hashed password			0
+when the two hashes match , the user is allowed entry to their account			0
+@entity220 , the founder and ceo of @entity222 , managed to crack the first 10,233 hashes , or 62 per cent of the leaked list , in 16 minutes			0
+he used a so - called ' brute - force crack ' for all passwords that were one to six characters long			0
+brute - force attacks is when a computer tries every possible combination of six letters and characters , starting with ' a ' and ending with ' / / / / / /			0
+' mr @entity220 then used brute - force to crack all passwords up to 16 digits long and managed to brute - force 312 passwords in three minutes and 21 seconds .			0
+
+experts from hosting firm @entity23 engine analysed 10 million passwords
+like previous research , they revealed the top 50 most used passwords
+they also listed top colours , *superheroes* and verbs used in login details
+from this they noticed many use the same seemingly complex passwords
+and this is because these words follow set patterns on a keyboard
+patterns are known as ' keyboard walks ' and make passwords easy to hack
+study also found women have better passwords , on average , than men
+and people born in the 1980s are most likely to use the word ' love '
+
+@entity23:WP
+@entity222:Stricture Consulting Group
+@entity140:Passpat
+@entity37:Mark Burnett
+@entity220:Gosney
+@entity83:Zxcvbn

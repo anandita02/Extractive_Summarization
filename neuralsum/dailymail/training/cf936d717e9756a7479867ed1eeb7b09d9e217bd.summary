@@ -1,0 +1,47 @@
+http://web.archive.org/web/20130813032254id_/http://www.dailymail.co.uk/sciencetech/article-2385894/Catenet-original-internet-French-engineer-Louis-Pouzin.html
+
+by @entity0 published : 05:12 est , 7 august 2013 updated : 05:19 est , 7 august 2013 the internet could have been known as the catenet if an early web pioneer had got his way			1
+in 1974 , @entity7 engineer @entity6 designed one of the first packet - switching technologies , which breaks down data into smaller ' packets ' and send this information in parts wirelessly between computers			1
+he called it the catenet - pronounced cat - en - et - and it was a precursor to what finally became the internet we use today			1
+a @entity7 engineer who created one of the earliest precursors to the modern - day internet wanted the network to be called catenet			1
+although the term is now obsolete , his work into packet - switching technology that sends information wirelessly inspired some of the technologies used today packet - switching - this technology breaks down digital data , such as photos or emails for example , into smaller ' packets '			1
+these packets are sent over networks , wirelessly between computers and information processing devices			1
+the data is then reassembled at the other end			0
+@entity43 ( @entity43 ) - tcp / ip are the protocols used with packet - switching technologies on the modern - day internet			1
+they format the packets - depending on how and where they 're being sent - transmits them from one decide how this data is received by a second device			0
+local area network - lan networks connect computers within a limited area such as a home and office			1
+@entity60 - the term used for a packet - switching network coined by pioneer and creator @entity6 in 1974			2
+it was a precursor for the internet			2
+@entity66 - the world 's first operational network to send packets over networks and the first to implement @entity43 , which replaced its original protocols			2
+@entity6 coined the phrase in a paper called a proposal for @entity75 that he presented to @entity77 in @entity78			0
+@entity6 founded the @entity80 packet - switching network in the early 1970s			2
+at this time the word ' network ' meant what is now referred to as a local area network ( @entity84 )			0
+this meant it was a network that connected computers within a limited area such as a home and office			2
+it did not extend outside of this area , in the way the modern - day internet networks can			1
+@entity6 's catenet network was the concept of linking these networks into a ' network of networks ' that could give devices different addresses			2
+it was created at a similar to time to the @entity66 packet - switching network that was the world 's first operational network to send data packets			1
+@entity66 became the first to adopt @entity43 ( @entity43 ) , which later became part of the framework for the modern - day internet			1
+one of the limitations of the catenet network was that data was not always received in the same way that it was sent			0
+@entity6 also did not implement the tcp / ip suite			0
+the world 's first operational packet - switching network was @entity66			0
+this map details the processes early versions of the network used			0
+@entity66 was the first to implement @entity43 which is still used in the modern - day internet			1
+@entity60 did n't adopt these protocols and became obsolete the tcp / ip suite gives ' end - to - end ' connectivity that specifies exactly how data packets should be formatted - depending on how and where they 're being sent			0
+the packets are then addressed , transmitted by the first computer or processing device and @entity43 controls how the data is received by a second device			0
+these protocols replaced earlier protocols presented by catenet as well as @entity66 because it was a much more efficient way of sending information			0
+this became the basis for the internetwork , which was later shortened to internet , and led to the catenet term becoming obsolete .			0
+
+in 1974 a @entity7 engineer created a information network called catenet
+it was designed to send information wirelessly between computers and was a precursor to the modern - day internet
+
+@entity0:Victoria Woollaston
+@entity7:French
+@entity6:Pouzin
+@entity80:Cyclades
+@entity66:Arpanet
+@entity84:LAN
+@entity78:London
+@entity43:TCP / IP
+@entity75:Interconnecting Packet Switching Networks
+@entity77:Brunel University
+@entity60:Catenet

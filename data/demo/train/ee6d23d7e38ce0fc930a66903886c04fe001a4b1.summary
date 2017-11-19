@@ -1,0 +1,22 @@
+http://web.archive.org/web/20100413123010id_/http://www.cnn.com:80/2010/WORLD/asiapcf/02/04/pakistan.mehsud/index.html?
+
+@entity0 , @entity1 -- @entity1 @entity6 leader @entity5 is alive and remains in hiding , a spokesman for the group told @entity2 thursday			2
+" @entity5 is alive and he is our chief , " said spokesman @entity7			2
+" all the reports regarding his death are propaganda			0
+" @entity7 said @entity5 remains in hiding because he is being targeted by @entity13 drone attacks but " is still in command of the mujahedeen			1
+" authorities have been looking into reports that @entity5 died after being wounded last month in a drone attack			0
+one news report , citing local sources and a correspondent , said he died and was buried			0
+but @entity1 and @entity13 officials said they have not been able to confirm @entity5 's status .			1
+
+@entity5 *previously* reported dead , buried
+he is " alive and he is our chief , " @entity6 spokesman @entity7 says
+@entity7 : @entity5 remains in hiding because he is being targeted by @entity13 drone attacks
+@entity1 and @entity13 officials said they have been unable to confirm @entity5 's status
+
+@entity2:CNN
+@entity1:Pakistani
+@entity0:Islamabad
+@entity7:Tariq
+@entity6:Taliban
+@entity5:Mehsud
+@entity13:U.S.

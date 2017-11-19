@@ -1,0 +1,46 @@
+http://web.archive.org/web/20130902073510id_/http://www.cnn.com/2013/08/24/opinion/buckweitz-zuckerberg-internet
+
+-- @entity3 ceo @entity2 's new initiative , @entity1 , is a global partnership aimed at " making internet access available to all			1
+" is that an attainable goal ? perhaps			0
+it 's certainly very ambitious			2
+there are several major hurdles to overcome			1
+opinion : @entity2 's big idea is no charity for many of the 5 billion people who live in less developed parts of the world , the two largest barriers to becoming @entity16 - connected are the cost of devices and the cost of connection			1
+the next obstacle is the expense of maintaining a device			0
+in many countries , electricity is still difficult to come by , with brownouts common			0
+in @entity33 , for example , people experience an average of 56 days of power outage a year , almost 15 % of the year			1
+even if a network is running , the cost of electricity itself is very expensive			0
+the cost of a kilowatt hour of electricity in @entity33 can vary anywhere from $ 0.06 in @entity33 to $ 0.68 in @entity43			1
+a phone like an @entity45 requires about 3.73 kwh a year to charge depending on use , meaning it could cost as much as $ 2.53 a year to just charge the phone			0
+while this does not sound like a lot of money , the average income for a person in @entity43 is about $ 2,000 , which means that 0.1 % of annual income would be spent just on the electricity to power a phone			2
+of course , this cost increases with more use			0
+typical usage in developing areas like @entity33 focuses on low consumption actions like sending sms messages , phone calls and mobile banking			1
+more demanding usage like streaming video , downloading and playing games , and spending time connecting on social networking sites , would require the most energy intensive part of the phone -- the screen -- to be on longer , which would raise the yearly costs of charging the phone			0
+increasing the battery life and decreasing the energy requirements of transmission are great goals to strive for -- as @entity1 plans to pursue -- but they do not address the underlying issue of being able to afford a charge in the first place			2
+when the average yearly income is so low in developing countries , there is not much disposable income after housing , food and transportation costs			1
+the fact of the matter is that most of the 5 billion people who are poor would rather spend their money on basic necessities like food and medicine than on the @entity16			1
+for example , a few years ago i visited an orphanage in @entity100 , @entity101 , that had no internet connection even though a major fiber line is about 50 yards away			2
+while the heads of the orphanage understood the importance of the @entity16 , and while many of the children would have liked to explore the @entity110 , funds were better spent caring for the orphans			0
+even giving the connectivity away does not help pay all the other costs associated with accessing the @entity16			0
+if we really want to get the next 5 billion people connected , we will have to steer governmental and consumer electronic interests to work together on a solution			1
+innovating new and inventive techniques to provide infrastructure , low - cost devices and energy generation stand the best chance of making a difference			0
+maybe @entity1 can look into devices like kinetic chargers , solar powered cell phones , and pico cells , which can make a far bigger impact to connect the underserved populations of the world			1
+the opinions expressed in this commentary are solely those of @entity134 .			2
+
+@entity2 is starting an initiative to bring internet access to 5 billion people
+@entity140 : @entity1 is very ambitious but there are major hurdles to overcome
+he says that connectivity is *unaffordable* for most people in the developing world
+@entity134 : in places like @entity33 , there is not much disposable income left after paying for food
+
+@entity3:Facebook
+@entity2:Mark Zuckerberg
+@entity1:Internet.org
+@entity0:CNN
+@entity140:Jason Buckweitz
+@entity16:Internet
+@entity43:Chad
+@entity33:Africa
+@entity100:Lusaka
+@entity101:Zambia
+@entity110:Web
+@entity134:Buckweitz
+@entity45:iPhone 5

@@ -1,0 +1,45 @@
+http://web.archive.org/web/20120820001201id_/http://www.dailymail.co.uk:80/sciencetech/article-2128376/Flashback-Virus-Did-Apple-leave-half-million-Mac-users-mercy-cyber-attack.html
+
+by @entity0 published : 13:11 est , 11 april 2012 updated : 14:43 est , 11 april 2012 a cyber attack that infected 550,000 @entity2 was ignored by @entity3 - who failed to communicate with the @entity6 anti-virus firm that spotted the infection			1
+even customers were left in the dark as their machines became part of a ' botnet ' of zombie machines which can be controlled by cyber criminals and ' told ' to download new malicious software			2
+' we ’ve given them all the data we have , ' @entity18 of the security firm , dr @entity20 , which discovered the infection			1
+' we ’ve heard nothing from them until this ' ' @entity3 is developing software that will detect and remove the flashback malware , ' a member of the team said today			1
+the attack has afflicted machines in @entity32 and the @entity33 worst , according to @entity6 security vendor @entity20 's statistics ' for the protection of our customers , @entity3 does not disclose , discuss or confirm security issues until a full investigation has occurred and any necessary patches or releases are available , ' says @entity3			1
+@entity42 is much more open about such attacks - and usually quicker to respond , and to defend its customers			0
+the new attack was spotted by @entity6 anti-virus vendor dr web			2
+' we conducted research to determine the scale of spreading of @entity50 that infects computers running @entity52 , ' says the @entity6 antivirus vendor			2
+' the botnet encompasses more than 550 000 infected machines , most of which are located in the @entity32 and @entity58			2
+' this once again refutes claims by some experts that there are no cyber-threats to @entity52 ' many @entity2 users believe that the system is ' immune ' to viruses and trojans - but in reality hackers rarely choose to write viruses that afflict @entity2 , simply because there are relatively few @entity2 compared to the huge number of machines that run @entity73			1
+hackers want their attacks to spread rapidly , so they usually target the os that offers the most potential ' victims '			0
+describing the attack as a ' rude awakening ' for @entity52 users , blogger @entity78 said , ' despite what @entity3 's marketing department would have you believe , @entity2 are not invulnerable to attacks and malware targeting @entity52 does exist			1
+' describing the attack as a ' rude awakening ' for @entity52 users , blogger @entity78 said , ' despite what @entity3 's marketing department would have you believe , @entity2 are not invulnerable to attacks and malware targeting @entity52 does exist			1
+' the attack works using a vulnerability in @entity91 , and is delivered via infected web pages			0
+just visiting the web pages is enough to infect a machine , downloading a file which then downloads further malicious software from elsewhere			0
+dr @entity20 claims that more than four million web pages are infected with the trojan			0
+' over 550 000 infected machines running @entity52 have been a part of the botnet on april 4 , ' says dr @entity20			0
+' these only comprise a segment of the botnet set up by means of the particular @entity50 modification			0
+most infected computers reside in the @entity32 ( 56.6 % , or 303,449 infected hosts ) , @entity58 comes second ( 19.8 % , or 106,379 infected computers ) , the third place is taken by the @entity33 ( 12.8 % or 68,577 cases of infection ) and @entity113 with 6.1 % ( 32,527 infected hosts ) is the fourth			0
+
+security firm ' heard nothing ' from @entity3
+firm responded *slowly* to attack
+@entity3 says it is now ' developing ' *defensive* software
+@entity124 has *compromised* 550,000 machines , claims @entity6 security firm
+attack is ' rude awakening ' for @entity2 users
+
+@entity3:Apple
+@entity2:Mac
+@entity20:Web
+@entity0:Rob Waugh
+@entity42:Microsoft
+@entity6:Russian
+@entity73:Windows
+@entity33:United Kingdom
+@entity18:Boris Sharov
+@entity52:Mac OS X
+@entity50:BackDoor.Flashback
+@entity113:Australia
+@entity78:Adrian Sanabria
+@entity32:United States
+@entity124:Trojan
+@entity58:Canada
+@entity91:Java

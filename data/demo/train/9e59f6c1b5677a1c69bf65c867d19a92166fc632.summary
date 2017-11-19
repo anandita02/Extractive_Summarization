@@ -1,0 +1,23 @@
+http://web.archive.org/web/20120315024116id_/http://edition.cnn.com/2012/01/09/sport/baseball-hall-larkin/index.html
+
+-- @entity3 shortstop @entity2 was voted into baseball 's @entity4 on monday , the major leagues announced			1
+@entity2 was the only player voted into the @entity4 by the @entity7 this year			0
+he will be inducted this summer , along with the late @entity9 third baseman and broadcaster @entity10 , who was chosen by baseball 's @entity11 in december			0
+@entity2 , 47 , spent his entire 19 - season career in his native @entity14 and was part of the @entity3 lineup that won the @entity17 in 1990			1
+he was the @entity18 most valuable player in 1995 and retired in 2004 , with a .295 career batting average and 198 home runs .			2
+
+shortstop played 19 seasons in *hometown* @entity14
+@entity2 was part of the @entity3 ' @entity17 *championship* team in 1990
+he won the @entity18 *mvp* *award* in 1995
+
+@entity3:Reds
+@entity2:Larkin
+@entity0:CNN
+@entity7:Baseball Writers ' Association of America
+@entity11:Golden Era Committee
+@entity4:Hall of Fame
+@entity9:Chicago Cubs
+@entity17:World Series
+@entity18:National League
+@entity10:Ron Santo
+@entity14:Cincinnati

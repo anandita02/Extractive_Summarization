@@ -1,0 +1,92 @@
+http://web.archive.org/web/20130302212606id_/http://www.cnn.com/2012/08/27/tech/web/apple-linux-desktop
+
+-- it 's hard to say exactly what percentage of desktop and laptop computers run @entity5 , but it 's clear that the operating system has made slow but steady gains at chipping away at that the sizable lead @entity10 established in the ' 90s with its @entity13 operating system			1
+some figures put the number at about 6 to 7 percent of the desktop market			0
+but one thing 's for sure : @entity5 has been more successful than @entity18 , the open source operating system that has found a home on data - center servers but is still a rarity on desktops and laptops			1
+@entity18 may have seen a surge last year , but it still has n't seen the sort of growth @entity5 has , nor the growth that @entity18 supporters have long hoped for			2
+why is that ? @entity30 -- one of the original creators of @entity32 , a @entity18 desktop interface that has struggled to take hold -- believes that a large portion of the software developers that could have taken @entity18 to greater heights defected to other platforms , including not only @entity5 but -- more importantly -- the @entity39			1
+some might blame the slow progress of desktop @entity18 on the fragmentation of the desktop user interfaces used by the major @entity18 distributions			2
+in 2010 , @entity44 announced that it would replaced the popular @entity32 desktop environment with its own homegrown unity environment in the @entity48 distribution , much to many @entity18 geeks ' chagrin			2
+but many are also unhappy with the direction @entity32 has taken , including @entity18 creator @entity53 , who posted a tirade about it on @entity56 last year			1
+torvalds switched to @entity58 , a desktop environment originally created as a lighter - weight alternative to the dominant @entity32 and @entity62 environments			0
+the audio and video centric @entity64 completed a transition to @entity58 last month , and earlier this month , the venerable @entity18 distribution @entity68 dropped @entity32 as its default desktop environment and replaced it with @entity58			2
+but @entity30 says the desktop wars were already lost to @entity5 by the time the latest shakeups started happening			0
+and he thinks the real reason @entity18 lost is that developers started defecting to @entity5 because the developers behind the toolkits used to build graphical @entity18 applications did n't do a good enough job ensuring backward compatibility between different versions of their apis			1
+" for many years , we broke people 's code , " he says			0
+" @entity5 did a much better job of ensuring backward compatibility			0
+" but at the same time , development was shifting to the web			2
+open source on the desktop became a lot less important than open source on the server			0
+the need to develop native applications was diminishing and at the same time @entity5 provided a good enough unix - like environment that programmers could develop on a @entity97 and then deploy to a @entity18 server			1
+the web is where open source truly thrives			1
+even @entity102 admits that @entity18 is beating @entity13 in the web server market			1
+even if you do n't have a single open source application installed on your laptop , if you use the web you 're probably being served by several open source technologies , including web servers like @entity110 and @entity111 and programming languages and frameworks like @entity114 and @entity115 all running on an open source operating system			1
+the latest trends in web technology , from cloud computing to big data , are also built on open source technologies such as @entity122 , @entity123 and the @entity124			1
+open source powers the server side of the web , but there 's no guarantee of openness on the user - facing side			1
+and that 's where open source advocates are focusing much of their efforts now , even if they have started using @entity97			1
+" many people who were talking about @entity137 are the people talking about the open web now , " @entity30 says			0
+one of them is @entity140 , the former executive director of the @entity141			0
+she 's still on the @entity141 board an like @entity30 she still keeps some @entity18 machines around			2
+but as director of websites and developer engagement at the @entity147 , her focus is now on the open web			1
+" the reason i 'm personally at @entity147 is that i saw a lot of websites that were n't designed with the principles of free software , " she says			0
+thanks to @entity156 and @entity157 , the web has become the dominant platform for applications she says			0
+in what ways can the principles of free software be applied to the web ? @entity140 says one of the most important aspects of open source software is that you , or someone you trust , can examine an application 's source code and see what it 's doing			1
+one way to bring this level of insight to the web is help users control their data and how it is used by web applications			0
+that 's the goal of @entity183 team , who are working on @entity185 , a browser - based identity and authentication system			2
+another big change since the early days of the @entity18 desktop is the rise of the mobile web			2
+" there 's a huge portion of the world who are going to first experience the internet through the mobile devices , " @entity140 say			0
+to that end , @entity147 is working on its boot to @entity200 open source mobile operating system , but possibly more importantly is the @entity203			1
+these applications will run anywhere that the @entity207 web browser will			0
+mobile development is also on @entity30 's mind			0
+since 2001 he 's been working on @entity211 , an open source framework for running @entity10 's .net languages on @entity215 operating systems like @entity18 and @entity5 now the project is available on @entity216 and @entity217 as well			1
+meanwhile , through all of this , @entity32 and the @entity18 desktop are still chugging along			0
+@entity32 3.6 is out , and is working to improve the developer experience			0
+subscribe to @entity221 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity225 .			0
+
+as @entity228 's operating system emerges , @entity18 stalls
+open - source system has found a home on data - center servers , but not captured the public
+one creator says developers who could have *pushed* @entity18 have defected
+at @entity147 , focus is now on web development
+
+@entity97:Macs
+@entity115:Ruby on Rails
+@entity114:PHP
+@entity111:Nginx
+@entity110:Apache
+@entity137:Free Software
+@entity157:HTML5
+@entity156:AJAX
+@entity215:non-Microsoft
+@entity216:Android
+@entity0:CNN
+@entity211:Mono
+@entity5:OS X.
+@entity122:Apache Hadoop
+@entity53:Linus Torvalds
+@entity62:KDE
+@entity56:Google Plus
+@entity58:Xfce
+@entity30:de Icaza
+@entity32:GNOME
+@entity13:Windows
+@entity10:Microsoft
+@entity39:Web
+@entity18:Linux
+@entity102:Steve Ballmer
+@entity217:iOS
+@entity203:Mozilla Marketplace
+@entity140:Peters
+@entity124:Xen hypervisor
+@entity200:Gecko
+@entity207:Firefox
+@entity123:MongoDB
+@entity221:WIRED magazine
+@entity147:Mozilla Foundation
+@entity225:Wired.com
+@entity141:GNOME Foundation
+@entity228:Apple
+@entity183:Mozilla Identity
+@entity185:Mozilla Persona
+@entity44:Canonical
+@entity68:Debian
+@entity64:Ubuntu Studio
+@entity48:Ubuntu

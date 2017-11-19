@@ -1,0 +1,50 @@
+http://web.archive.org/web/20140701101230id_/http://www.dailymail.co.uk/sciencetech/article-2613258/Are-voicemails-STILL-risk-hacked-Investigation-reveals-easy-access-inboxes-without-PINs.html
+
+by @entity0 phone hacking dominated the news during the @entity3 , but despite the high - profile exposure , voicemails are still at risk			2
+during an investigation by @entity9 , journalist @entity7 was able to use a @entity11 - style @entity10 ( @entity10 ) handset to access the inboxes of @entity14 , three and @entity17 customers			1
+@entity14 , which owns the @entity17 and @entity19 networks , has now fixed the flaw as a result of the investigation , but @entity15 is said to still be at risk			1
+during an investigation by @entity9 , journalist @entity7 was able to use a @entity11 - style @entity25 service to access the inboxes of @entity14 , three and @entity17 customers			1
+by linking a mobile number to a @entity25 handset , @entity7 was able to trick the inbox into thinking it was the number 's owner and access the inboxes @entity10 ( @entity10 ) is sometimes referred to as @entity33 or ( @entity34 ) , @entity35 ( @entity36 ) and sometimes internet telephony			1
+@entity25 lets people make free , or low cost , telephone calls over the web			2
+@entity25 services include @entity43 and @entity11			1
+@entity25 can be used anywhere in the world and can call landline and mobile numbers			2
+when you call voicemail from a handset registered with the account , the inbox is automatically opened because it assumes the caller is the phone ’s owner			0
+but when calls are made from another phone , users are asked for a pin - or denied access if no pin has been set up			2
+by linking the mobile number , and therefore a voicemail account , to a @entity25 handset , @entity7 was able to trick the inbox into thinking it was the number ’s owner on three of the major network operators			1
+when calling the external voicemail number on @entity14 , the inbox was accessed immediately			0
+it was the same situation on three			0
+on @entity17 , @entity7 was able to not only access the voicemails but also change the voicemail greeting			1
+although this access was granted intermittently - sometimes access was given automatically , while at other times it asked for a pin			0
+@entity14 , which owns the @entity17 and @entity19 networks , has now fixed the flaw , but @entity15 is said to still be at risk			1
+three offers advice on how to set up a voicemail pin on its support page , and recommends its users select the option that asks for their phone number and pin every time they access their voicemail it is worth noting that accessing someone else 's voicemail account without their permission is illegal and falls under computer misuse legislation			0
+@entity14 told @entity92 : ' our engineers have worked hard since then to identify the root fault and work on a fix			0
+' we can now confirm that we have urgently updated our systems and patched the issues raised in the article			0
+' three offers advice on how to set up a voicemail pin on its support page , and recommends its users select the option that asks for their phone number and pin every time they access their voicemail to get the highest level of security			0
+this would effectively stop people accessing the account in the way @entity9 demonstrated .			0
+
+the *loophole* was discovered by journalist @entity7
+calls made using services such as @entity11 were able to access the inboxes
+these services use tech known as voice over the internet *protocol* ( @entity10 )
+by linking a mobile *device* to a @entity25 account , @entity7 accessed voicemails on @entity14 , three and @entity17
+@entity14 , which owns @entity17 , has now fixed the flaw but @entity15 is still at risk
+@entity132 and @entity133 *restricted* access and were more secure
+
+@entity3:Leveson Inquiry
+@entity17:Orange
+@entity15:Three
+@entity0:Victoria Woollaston
+@entity7:Rockman
+@entity34:VoN
+@entity11:Skype
+@entity10:VoIP
+@entity9:The Register
+@entity25:VoIP
+@entity33:Voice over Networks
+@entity19:T-Mobile
+@entity36:VoB
+@entity14:EE
+@entity43:Viber
+@entity35:Voice over Broadband
+@entity92:MailOnline
+@entity133:O2
+@entity132:Vodafone

@@ -1,0 +1,25 @@
+http://web.archive.org/web/20100524104004id_/http://www.cnn.com:80/2010/US/05/19/california.earthquake/
+
+-- a 4.5 - magnitude earthquake struck @entity2 on tuesday evening , according to the @entity3			1
+there were no immediate reports of damage or injuries			0
+the quake was downgraded from an earlier magnitude of 5.1			2
+the temblor was centered 18 miles west - southwest of @entity11 , @entity2 , just north of @entity12 in @entity14 's @entity13 , the @entity3 said			1
+it struck at a depth of 6.3 miles			0
+" this earthquake is within the aftershock zone of a magnitude 7.2 ( earthquake ) that occurred on april 4 " near @entity12 , said @entity16 of the @entity3 , adding " this is an area that was exposed to many large earthquakes in the past			1
+" at least two people were killed and 100 injured in the april 4 quake			0
+@entity0 's @entity27 contributed to this report .			0
+
+@entity30 was centered 18 miles west - southwest of @entity11 , @entity2
+quake was downgraded from an earlier magnitude of 5.1
+quake was within the aftershock zone of an april 4 earthquake
+
+@entity3:USGS
+@entity2:California
+@entity14:Mexico
+@entity13:Baja California
+@entity12:Mexicali
+@entity11:El Centro
+@entity16:Susan Potter
+@entity0:CNN
+@entity30:Temblor
+@entity27:Patty Lane

@@ -1,0 +1,69 @@
+http://web.archive.org/web/20130809100139id_/http://www.dailymail.co.uk/news/article-2386900/When-copy-NOT-copy-University-researcher-notices-Xerox-machine-changes-documents-scanning.html
+
+by @entity0 published : 12:48 est , 8 august 2013 updated : 04:05 est , 9 august 2013 a researcher in @entity2 has discovered a major glitch in @entity5 copier machines which have shown to substitute the wrong numbers when scanning documents			1
+after scanning a blueprint document from an architect , @entity9 , a computer science researcher at the @entity11 in @entity2 , thought the firm was pulling his leg when they accused him of altering some figures			2
+but sure enough , on three occasions , the number six had been replaced with an eight			0
+changing numbers : @entity9 noticed that in some of the numbers he scanned in with a ' 66 ' sequence ( pictured on the left ) they had changed to ' 86 ' ( pictured on the right ) technical error : again , the numbers which feature a 6 on the original document ( left ) have been changed to an 8 ( pictured right )			1
+the table shows that 54,60 ( left ) turns into 54,80 ( right ) and 65,40 ( left ) becomes 85,40 ( right ) outrage : when mr @entity9 noticed the error and the company explained , he took to @entity30 to spread his concern he told @entity32 : i thought they were kidding			0
+but i tried it myself			0
+. and the numbers changed ( after being scanned )			1
+' alarmed , mr @entity9 contacted the @entity38 firm , but found no one knew anything about it			1
+in response , the company 's principle engineer posted a five paragraph blog on its website explaining the situation and how to avoid it			1
+@entity48 said the issue had been detected in certain machines when scan - quality and resolution settings were altered ; when files were compressed , and the quality reduced			1
+each page is scanned as a number of small patches , and the machine replaced each patch with one that best fits from a library of symbols			0
+however , when the file quality is reduced , there is a subsequent ' tradeoff ' in accuracy , mr @entity63 said			0
+he wrote on his blog : ' the @entity5 design utilizes the recognized industry standard @entity71 compressor which creates extremely small file sizes with good image quality , but with inherent tradeoffs under low resolution and quality settings			1
+' he explains that for ' data integrity purposes ' , the company recommends using the factory default settings for scanning , with quality level set to ' higher '			0
+' in cases where lower quality / higher compression is desired for smaller file sizes , we provide the following message to our customers next to the quality settings within the device web user interface : “ the normal quality option produces small file sizes by using advanced compression techniques			0
+image quality is generally acceptable , however , text quality degradation and character substitution errors may occur with some originals			0
+" , ' he said coverage : mr @entity101 said he thinks the glitch should get some airtime on a late night satirical programme numerous @entity5 machines are affected by the glitch , including this @entity106 a 87xx / @entity108 model the potential implications of the @entity5 scanning glitch could be very serious , especially if they affect construction documents or medical developments , customers point out ( stock image of an office ) mr @entity63 's blog , titled ' always listening to our customers : clarification on @entity119 ' has not been well received however , by those who fear the potential fallback from this issue could be colossal			1
+@entity123 questioned what will happen when people find engineering documents are released for construction with numbers switched by @entity5 ’s machines , or medical documents have used with switched figures			1
+' a lame response like this suggests that some of the ignorance of the consequences may be willful and that your senior leadership is hoping that this will somehow go away , ' the comment continues			1
+' @entity141 forbid as time continues to tick away and you delay a proper recall that people die as a result of your inaction			2
+' others criticise the company for failing to explicitly say which machines are affected , another points out that the warning message did not show up on his machine when he followed the instructions			0
+when one client called the customer services for advice , he found no one knew what he was talking about			2
+in response , mr @entity63 later added some extra details in answer to his blog comments			2
+he pointed out that the product families affected were numerous : @entity165 / @entity108 , @entity167 / @entity166 , @entity168 , @entity169 , @entity170 , @entity171 , @entity172 5030/5050 , @entity172 6400 , @entity173 , @entity174 , @entity172 7220/7225 , @entity176 / @entity175 40/55 , @entity177 and @entity178 he also drew attention to the fact that unless default settings had not been changed , the problem would not arise			2
+he said the company was taking the issue very seriously			0
+he said from people 's feedback ' we will look for ways to help our customers better manage their scanning application needs '			0
+@entity2 researcher mr @entity101 , who has spoken to both mr @entity63 and @entity5 's vice president @entity191 , is still concerned about the consequences			1
+he told @entity32 : ' this problem is dangerous			0
+if something is compressed with @entity71 and i claim it 's incorrect , you ca n't prove me wrong			2
+
+documents were changed when they were compressed , @entity5 found
+@entity201 posts a blog by its senior engineer to explain why it happens
+@entity5 criticised for not ordering a recall when implications could be colossal
+
+@entity119:Scanning Issue
+@entity171:WorkCentre 77XX
+@entity2:German
+@entity173:WorkCentre 78XX
+@entity0:Helen Collis
+@entity175:BookMark
+@entity174:WorkCentre 51XX
+@entity5:Xerox
+@entity176:WorkCentrePro 2XX
+@entity178:WorkCentre 75XX
+@entity9:Kriesel
+@entity191:Rick Dastin
+@entity71:JBIG2
+@entity30:Twitter
+@entity32:ABC News
+@entity11:University of Bonn
+@entity170:WorkCentre 58XX
+@entity38:U.S.
+@entity101:Krisesl
+@entity172:WorkCentre
+@entity106:ColorQube
+@entity108:89XX
+@entity201:Company
+@entity123:S. Basinger
+@entity141:Heaven
+@entity166:93XX
+@entity177:WorkCentre 56XX
+@entity165:ColorQube 87XX
+@entity168:WorkCentre 57XX
+@entity169:WorkCentre 76XX
+@entity167:ColorQube 92XX
+@entity48:Frances Tse
+@entity63:Tse

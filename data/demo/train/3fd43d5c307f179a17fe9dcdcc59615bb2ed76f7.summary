@@ -1,0 +1,66 @@
+http://web.archive.org/web/20150114050651id_/http://www.cnn.com/2014/12/31/opinion/palmer-airasia-air-france-disasters/
+
+on sunday , all contact with @entity1 was lost over the @entity2 as a wide area of thunderstorms covered the area			1
+the discovery of floating debris on tuesday about 100 miles from its last known position , in combination with an analysis of ocean currents , will give investigators clues where to search for the remainder of the aircraft			1
+from its cruise altitude , the airplane 's gliding distance would also be about 100 miles , but consider that for the debris to drift that same 100 miles it would only take a drift rate of 2 knots , yielding a wide range of possibilities as to the nature of the aircraft 's descent to the water below			1
+many parallels between @entity28 and @entity29 in june 2009 are obvious			1
+both aircraft were lost in thunderstorm areas of the @entity32 ( @entity32 )			1
+both crashed at sea where floating debris drifted for days from the point of contact with the sea before being discovered , and both were sophisticated fly - by - wire @entity41 aircraft ( though different models )			1
+while flying into a thunderstorm is always to be avoided , it was not likely the sole cause of the accident			1
+the reported requests by the crew to deviate course and change altitude seeking to avoided thunderstorm cells and turbulence are completely normal			2
+the weather in the @entity32 has some unique qualities compared to your average thunderstorm over land			1
+the storms are driven by the convergence of airflow patterns between the northern and southern hemispheres of the @entity63 , in addition to the usual factors of warm moist air and unstable atmospheric conditions			1
+the height of the stratosphere --- which tends to put a cap on the height of thunderstorm growth -- averages about 35,000 feet over the mid latitudes ( such as that of mainland @entity76 ) , but reaches to 50,000 feet or more in the @entity32 , providing for the growth of thunderstorms to great heights and accompanying intensity			1
+these features can lead to some unusual conditions such as icing or heavy rain within those storms where it may not normally be expected , as was the case with @entity29 when its airspeed - sensing probes became clogged			1
+in the aftermath of the @entity95 crash , in addition to an improved design of the probes , significant emphasis has been placed on pilot training on the prevention and recovery from similar scenarios -- such as loss of airspeed indications and high altitude stall recovery			1
+i would say all pilots , especially of @entity41 aircraft , would be aware of @entity29 's lessons , including @entity108 's captain , given his reported experience			1
+there is a recent development however that relates to @entity113 series aircraft			2
+a december 10 , 2014 , @entity114 ( @entity115 2014 - 25 - 51 ) describes how control of the aircraft could be lost in flight as a consequence of icing of the angle - of - attack probes and an interaction with the airplane 's stall protection function			2
+those probes act like small weather vanes on the side of the aircraft and measure the angle at which the airplane moves through the air -- the angle of attack			1
+if the angle is too high the air can no longer flow smoothly around the wings , resulting in an aerodynamic stall			2
+the acceptable range of angles of attack is fairly small , and gets considerably smaller at higher speeds , such as cruise speed			2
+simply put , depending on the position of the angle - of - attack probes when freezing occurs and the subsequent speed of the aircraft , the system may be fooled into thinking that the aircraft is approaching a stalled condition -- even when it is n't			1
+in response , the airplane 's stall protections pitch the aircraft 's nose down to recover			2
+this erroneous pitch down can not be overridden by the pilots unless an emergency procedure in the @entity114 is followed			2
+all pilots flying this model airplane should be aware of this			2
+the procedure instructs the pilots to shut down two of the three air data computers to render the usual stall protection inoperative and allow recovery of the aircraft			2
+of course , there is no way , at this stage of the investigation , to know if this played a part , but investigators will certainly be looking for evidence of this phenomenon			0
+another obvious question is the apparent lack of transmitted position and altitude data after its last known position in cruise			0
+this data is transmitted throughout the flight by a system known as @entity183 ( @entity183 )			0
+this system transmits the airplane 's position and other basic data to ground stations			0
+though its position is gps - satellite derived , it is not transmitted to satellites , only to ground stations -- so the range to the nearest receiving ground station is a factor in the availability of that data			0
+the apparent sudden loss of this data at cruise could be explained by failures in flight such as an electrical failure , in - flight breakup of the aircraft , or the pilots switching off required data to operate the system such as that outlined in the emergency procedure above			0
+however , it could also be that the aircraft simply flew out of range of the ground stations			0
+flight tracking websites indicate that this routinely occurs in the general area where @entity108 's last ads - b transmission was made			0
+i think that is the most likely cause of the end of the data stream and is not necessarily an indication of catastrophic failure in flight			0
+in the case of @entity95 447 , the aircraft came down in the @entity228 where the sea depth exceeded 12,000 feet			0
+while some floating wreckage and a number of bodies were discovered within a few days on the surface , the extreme depth and rough terrain on the ocean bottom delayed discovery of the remainder of the aircraft and recovery of the flight recorders for two years			0
+fortunately , the 100 - foot depth of the @entity2 in the area where evidence of @entity108 was found will almost certainly result in the relatively rapid location of the aircraft and recovery of the two flight recorders			0
+consideration of ocean currents during the two days between the aircraft 's disappearance and the discovery of floating debris will help lead investigators to find the remainder of the aircraft and its passengers			0
+we should not be subjected to long period of uncertainty such as with @entity29 -- or the continuing lack of information on @entity263			1
+while any accident investigation will take months to complete , i would expect more information to be available as the search and recovery continues			0
+clues from the way in which airplane parts were damaged on impact and the flight data and voice recorder contents will provide answers			0
+but like any aircraft accident , the cause is likely to be the result of a chain of events and conditions , the absence of any one of which would have avoided this tragic accident			0
+at this time , we can only guess what some of those events and conditions are .			0
+
+@entity287 : @entity28 crash bears similarities in terms of weather , other factors , to @entity29
+he says storms in the @entity32 can grow to great height , intensity
+@entity287 : real causes wo n't be known until more of the plane is recovered , analyzed
+
+@entity2:Java Sea
+@entity1:AirAsia Flight 8501
+@entity32:Intertropical Convergence Zone
+@entity228:Atlantic Ocean
+@entity28:AirAsia
+@entity29:AF447
+@entity183:Automatic Dependent Surveillance-Broadcast
+@entity115:AD
+@entity114:Airworthiness Directive
+@entity113:Airbus A320
+@entity41:Airbus
+@entity108:QZ8501
+@entity287:Palmer
+@entity95:Air France
+@entity76:USA
+@entity63:Earth
+@entity263:MH370

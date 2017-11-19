@@ -1,0 +1,67 @@
+http://web.archive.org/web/20150722205409id_/http://www.dailymail.co.uk/sciencetech/article-3023428/Pocket-sized-chatroom-lets-message-friends-don-t-signal-Greenstone-creates-peer-peer-networks.html
+
+its @entity1 app paved the way for chatting to friends without the need for the web or even a mobile signal			1
+and now developers at @entity8 have built a small device designed to make these off - the - grid networks stronger			1
+called @entity12 , the egg - shaped gadget acts like a beacon , or booster , to help messages move around these so - called wireless mesh networks more easily			1
+its @entity1 app paved the way for chatting to friends without the need for the web or even a mobile signal			1
+and now developers at @entity8 have built @entity20 - a small egg - shaped gadget that acts like a beacon , or a booster , to help messages move around so - called wireless mesh networks more easily @entity1 launched last year and has been downloaded more than five million times			1
+it takes advantage of a feature that launched in @entity31 ’s @entity30 called @entity32 ( mcf )			1
+@entity33 has a similar feature that works over @entity35			0
+@entity32 lets you send messages and photos even when a person has no signal by creating what is called a wireless mesh network			1
+@entity31 added to @entity32 framework ( mcf ) to @entity30			2
+it creates what ’s called a wireless mesh network that connects phones to each other			1
+instead of sending messages using mobile or data signal , the features lets users send messages to people in close proximity that are in @entity35 or @entity59 range - up to around 30 feet ( 9 metres )			1
+it does this by creating a localised network in which each phone becomes a node and the data is passed between nodes			1
+@entity31 uses the framework for its @entity69 feature , for example , which makes it easy to send files and data to other connected @entity75 users			0
+however , there are limits to how far a message can travel in this way - at around 200ft ( 61 metres ) - and @entity12 has been designed to solve this			2
+when a user opens the @entity1 app , they pick a screen name to start sending messages			1
+within the app there are ' chatrooms ' with ' everyone ' and ' @entity91 ' options			0
+the former will search for all users , while the latter option applies to people within @entity35 and @entity59 range who are also using the app. this is particularly useful when on a plane , or the underground			0
+it can also be used to save money on data plans , for example			0
+the app creates a localised network in which each phone becomes a node , and the data is passed between nodes			1
+@entity31 uses the framework for its @entity69 feature , for example , which makes it easy to send files and data to other connected @entity75 users			0
+these messages are sent securely , so the individual nodes ca n’t read them			0
+users can also send messages anonymously to avoid snooping , for example , because data is sent from app usernames , as opposed to mobile numbers			2
+elsewhere , because the feature does n’t use an internet connection , it ca n’t be infiltrated by hackers			0
+the @entity131 allows people to send information further , however			0
+it does this by bringing all its nodes onto one network and relaying messages from one node to another until it reaches the final recipient			2
+in @entity1 ( left ) there are ' chatrooms ' called everyone and @entity147			2
+the former searches for all users , while the latter applies to people within bluetooth and @entity59 range			0
+it takes advantage of a tool used by @entity31 for @entity69 ( right )			0
+this creates a network in which phones become nodes , and data is passed between nodes nodes are simply a vehicle for passing data along a network			0
+on a traditional internet network any device that ’s connected to the network is also called a node			2
+@entity1 ( pictured ) has been downloaded more than five million times and is particularly useful when on a plane , or the underground for example , if a network has a phone , tablet , two computers and a printer connected to it there are five nodes on the network			2
+each of these devices has a network address which is used to uniquely identify each one			0
+this helps keep track of where data is being transferred to and from on the network			0
+however , there are limits to how far a message can travel in this way - at around 200ft ( 61 metres ) - and @entity12 has been designed to plus these gaps			2
+@entity196 , chief marketing officer at @entity8 told @entity197 : ' the combination between [ @entity12 ] and the smartphones will enable a community , or a neighbourhood , or a hospital , or any other situation where they want resilient communication , even in the case of not having any connectivity			1
+' it could also be placed in certain locations at music festivals , organised protests , football matches and other events where having large numbers of people can crash networks			0
+@entity12 is still under development and only currently works with @entity1 at a range of around 20ft ( 6 metres )			1
+messages sit on @entity12 until another @entity219 comes within range , and the device has a one - year battery life			1
+it can additionally hold up to 1,000 of the most recent messages			0
+@entity8 is now working with manufacturers to design and sell @entity12 and the timeframe will depend on these partnerships .			1
+
+@entity12 acts like a booster for so - called wireless mesh networks
+it currently works with @entity8 *'s* @entity1 ' off - the - grid ' *firechat* app
+both use an @entity238 feature called @entity32 ( mcf )
+instead of sending messages using a mobile signal , the free app and gadget create a localised network where each mobile becomes a ' node '
+
+@entity31:Apple
+@entity30:iOS 7
+@entity1:FireChat
+@entity32:Multipeer Connectivity Framework
+@entity35:Bluetooth
+@entity12:Greenstone
+@entity197:Daily Dot
+@entity196:Christophe Daligault
+@entity238:iOS
+@entity8:Open Garden
+@entity20:Greenstone
+@entity219:FireChat
+@entity147:Nearby
+@entity69:AirDrop
+@entity75:iPhone
+@entity33:Android
+@entity131:' Everyone ' Setting
+@entity59:Wi-Fi
+@entity91:Nearby

@@ -1,0 +1,30 @@
+http://web.archive.org/web/20130928051552id_/http://www.cnn.com:80/2013/08/08/travel/plane-hits-cow/?
+
+-- a @entity2 @entity1 collided with a cow when landing on the island of @entity5 in @entity6			1
+the plane , on a domestic route that started in @entity9 , landed at @entity10 in @entity11 on tuesday evening and hit one of three cows wandering on the runway			1
+the aircraft skidded off the runway and the cow was killed , though none of the 110 passengers on board were injured			0
+several flights were canceled and the airport was temporarily closed on tuesday due to the accident			2
+operations were resumed on wednesday			0
+@entity11 governor @entity25 told the @entity26 the airport suffered from inadequate fencing			1
+" @entity2 management has just told me that animals , particularly dogs , are often seen on the runway , " said @entity25			2
+" this problem should be immediately resolved			0
+" government administrators are due to meet with the @entity35 and @entity10 officials to discuss ways to prevent similar events in future			0
+in april this year another @entity2 flight carrying 108 people to @entity42 crashed into the sea after missing the runway			1
+all 101 passengers and seven crew were evacuated with only a few injuries reported .			0
+
+@entity2 *jet* collided with a cow when landing in @entity11 , @entity6
+the governor *addressed* the problem of inadequate fencing around the airport
+@entity2 had another landing accident earlier this year in @entity42
+
+@entity2:Lion Air
+@entity1:Boeing 737-900
+@entity0:CNN
+@entity26:Jakarta Post
+@entity6:Indonesia
+@entity5:Sulawesi
+@entity10:Jalaluddin Airport
+@entity9:Jakarta
+@entity25:Habibie
+@entity11:Gorontalo
+@entity42:Bali
+@entity35:National Transportation Safety Committee

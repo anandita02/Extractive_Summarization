@@ -1,0 +1,25 @@
+http://web.archive.org/web/20150524060459id_/http://www.cnn.com/2011/WORLD/africa/03/07/ivory.coast.coffee/
+
+-- @entity2 president @entity1 , who is fighting to keep a political title the @entity4 says is n't his , on monday nationalized the nation 's two main cash crops , coffee and cocoa , according to state - run television			1
+in a statement read on air , the government announced that " the purchase of coffee and cocoa from producers and producer groups is done exclusively by the @entity16 on the entire national territory			0
+" " the export of products of the coffee - cocoa sector is carried out by the @entity16 , by any legal person mandated by the state or holder of an exporter license , " the government announced			0
+" approved exporters get their cocoa beans and green coffee from the @entity16 or any legal person mandated by the @entity16			2
+" the @entity2 is the world 's largest supplier of cocoa beans			1
+@entity1 , the incumbent , has refused to give up power since an electoral commission declared challenger @entity35 the winner of the november presidential election			0
+@entity1 's refusal to step down has sparked violent clashes between supporters of the two rivals , resulting in the deaths of 365 people since december			0
+@entity35 's " @entity45 " loyalists claimed on the group 's website to have taken the west @entity2 city of @entity49 after intense fighting with @entity1 forces on sunday			1
+@entity1 's ability to maintain control over the nation 's coffee and cocoa industry could be key to his staying in power			2
+coffee and cocoa experts have provided the embattled leader with a lucrative revenue source to pay loyal civil servants and military officers			0
+in january , @entity35 called for a ban on cocoa and coffee exports in an effort to shut down that revenue stream and force @entity1 out of office .			1
+
+*opponent* has called for a ban on cocoa exports to force @entity1 out of power
+@entity2 is the world 's largest supplier of cocoa beans
+
+@entity2:Ivory Coast
+@entity1:Gbagbo
+@entity0:CNN
+@entity35:Ouattara
+@entity4:United Nations
+@entity45:New Forces
+@entity49:Toulepleu
+@entity16:State

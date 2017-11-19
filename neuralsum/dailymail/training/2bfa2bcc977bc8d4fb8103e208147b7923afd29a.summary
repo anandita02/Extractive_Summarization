@@ -1,0 +1,51 @@
+http://web.archive.org/web/20140712155943id_/http://www.dailymail.co.uk/sciencetech/article-2400958/Hacker-pilots-drone-Google-Glass-using-just-head-movements.html
+
+by @entity0 a developer has created code that makes it possible for @entity4 wearers to pilot drones using the slightest of head movements			1
+@entity11 , from coding company , @entity9 developed the app for an annual event called @entity14 , which is for fans of robots controlled by a @entity18 program called node.js			1
+he developed the code to work with wheeled robots moving back and forth before adapting it to add right and left movements , as well as up and down , specifically to be used with a @entity24			0
+@entity11 used @entity18 to create the code that responds to his head movements to make the drone move left or right festival - goers in @entity34 this summer will be able to order beer from their smartphones and have it delivered by a flying drone dropping a can attached to a parachute			1
+the drone has been developed by @entity41 and was tested at the @entity43 music festival in the @entity45 province of @entity34 this august			0
+customers will be able to place their drink orders through an @entity49 app that will send their gps coordinates to the drone operators			0
+on his blog , @entity11 explained that he began by creating code that controlled wheeled robots on a table top , before adding left and right steering using a palm - controlled device			1
+however , he could n't see what he was looking at as he moved his head so wanted to control a robot that could be steered and seen from at least eye height			0
+during a video demonstration , @entity11 , from @entity62 , explained that he developed the code using the face app that was unveiled during a talk at the event in @entity68			1
+the app can send sensor information -- the data needed to fly the drone that is usually sent to the device using a joystick or remote control - to a web server which then rebroadcasts it			0
+this new broadcast can then be picked up and used by the @entity4 headset			1
+in the video @entity11 adds that he 's used pitch and roll movements but could also add a rotation option			2
+landing and take off was controlled using an a and b button on the @entity4			2
+he said : ' with @entity18 , we are able to write a relatively small amount of code that can serve as a basis for swappable hardware components			0
+' turns out that i was driving the drone at full speed in each direction i tilted my head			2
+' i should have had the speed at about 0.3 instead of 1			0
+@entity11 developed the app for an annual event called @entity14 , which is for fans of robots controlled by a @entity18 program called node.js			2
+he developed the code to work with wheeled robots moving back and forth before adapting it to add right and left movements specifically to be used with a @entity24 , pictured ' i would have also liked to add the ability to rotate the drone left and right based on the @entity4 ' azimuth value , but i guess that will have to be in the future			1
+' @entity11 has now put the coding details on his blog to make it possible for other developers to adapt their @entity4 devices to be able to control @entity118			1
+in may , a @entity120 aircraft has become the first to fly ' unmanned ' across @entity121 shared airspace			0
+the pioneering flight , largely controlled by a pilot on the ground , took off from @entity126 , near @entity127 in @entity128 , and landed in @entity129			0
+described as ' a new chapter in aviation history , ' it could pave the way for passenger planes controlled from the ground by ' drone ' operators			0
+video : hacker pilots drone with @entity4 using just his head movements			1
+
+developer @entity11 created code that can be used with @entity4
+when the wearer moves their head , the drone moves accordingly
+the code has been made available *online* for other @entity4 wearers to try
+
+@entity0:Victoria Woollaston
+@entity24:NodeCopter
+@entity11:Blaine Bublitz
+@entity4:Glass
+@entity9:IcedDev
+@entity43:Oppikoppi
+@entity68:Portland
+@entity18:JavaScript
+@entity45:Limpopo
+@entity34:South Africa
+@entity14:Nodebots Day
+@entity41:Darkwing Aerials
+@entity128:Lancashire
+@entity129:Inverness
+@entity126:Warton
+@entity127:Preston
+@entity118:NodeCopters
+@entity62:Phoenix
+@entity49:iOS
+@entity120:Jetstream
+@entity121:UK

@@ -1,0 +1,61 @@
+http://web.archive.org/web/20101027191409id_/http://edition.cnn.com:80/2009/TECH/12/24/cnet.ddos.attack/index.html?
+
+-- an attack directed at the @entity3 provider for some of the @entity6 's larger e-commerce companies -- including @entity7 , @entity8 , and @entity9 -- took several internet shopping sites offline wednesday evening , two days before @entity11			1
+@entity12 , the company that provides @entity3 services under the @entity16 brand name , confirmed an attack took place wednesday afternoon , taking out sites or rendering them extremely sluggish for about an hour			1
+a representative who answered the customer support line said the attacks were directed against @entity12 facilities in @entity24 and @entity25 , @entity26 , and @entity27 , vice president of corporate communications for @entity12 , confirmed that at about 4:45 p.m. @entity29 , " our alarms went off			1
+" @entity27 said the company received a disproportionately high number of queries coming into the system , and analyzed it as an attack			0
+@entity12 deployed " a mitigation response " within minutes of the attack , he said , and brought matters under control within an hour			2
+the response limited the problems to @entity26 , he said			2
+in addition to the high - profile sites , dozens of smaller sites that rely upon @entity7 for web - hosting services were also taken down by the attack			1
+@entity7 's @entity47 and @entity48 services were affected by the problems , according to @entity50 , @entity7 's lead web evangelist , who retweeted a report to that effect without clarification and confirmed it in later tweets			2
+for a brief period wednesday evening , " ultradns " was the top search term on @entity56 , likely as frantic technicians at web sites attempted to figure out what was going on with their sites			1
+web sites need @entity3 providers to translate the character - based urls that people can remember to the ip addresses that web sites actually use to list themselves on the @entity6			1
+when a @entity3 provider is overwhelmed with malicious requests for ip addresses , the system can overload and prevent legitimate users from reaching their destinations			1
+@entity7 's @entity74 declared an all - clear around 6:40 p.m. @entity29 , saying that @entity3 resolution had returned to normal			1
+@entity7 and several other big sites seemed to recover around 5:40 p.m. , but some other sites continued to report problems until around 6 p.m. needless to say , the timing of such an outage could not have been much worse , as holiday procrastinators rushed to make sure they could get one - day shipping for gifts to be delivered before christmas day on friday			2
+@entity86 , a @entity0 reader , wrote in around 5:00 p.m. pst wednesday to report that a last - minute gift purchase for his wife from @entity7 had gone awry			1
+he later reported that his transaction was stored in @entity7 's history once he was able to get back into the site			0
+however , " now i need to explain to my wife why she is getting her gift on the 26th , " he wrote in an e-mail			0
+@entity16 suffered a similar attack earlier this year , which took out @entity7 , @entity96 , and other sites			2
+@entity27 described wednesday 's attack as smaller than that one , in that it affected fewer customers			0
+however , @entity7 is no small customer			0
+@entity27 declined to comment on specific customers affected by the outage , and said @entity12 had not yet determined the source of the attack			2
+one expert thought the attack might have been more widespread			0
+" this was wider than just @entity16 , " said @entity108 , research director at @entity109 , which operates domain name servers and supports internet exchange points around the globe			0
+" it 's difficult to tell at this point how much is a @entity117 attack and how much is collateral damage from the attack that is being felt in other ways , " like a domino effect , he said			1
+" there were routing problems at some major @entity125 exchanges at the same time that caused major internet service providers ' routers to encounter a higher load and pass fewer packets			0
+" @entity0 's @entity131 contributed to this report			0
+© 2010 @entity134 all rights reserved			0
+@entity0 , @entity0 and the @entity0 logo are registered trademarks of @entity134 used by permission .			0
+
+a @entity117 attack wednesday evening *crippled* some of larger e-commerce sites
+@entity12 , a @entity3 provider in @entity26 , was targeted , hurting @entity7 , @entity8 and more
+the attack , two days before @entity11 , *foiled* plans of some last - minute shoppers
+
+@entity26:California
+@entity27:Goldberg
+@entity24:Palo Alto
+@entity25:San Jose
+@entity29:PST
+@entity117:DDoS
+@entity86:Wolf Austad
+@entity96:Salesforce.com
+@entity134:CBS Interactive Inc.
+@entity131:Elinor Mills
+@entity3:DNS
+@entity0:CNET
+@entity7:Amazon
+@entity6:Internet
+@entity9:Expedia
+@entity8:Wal-Mart
+@entity50:Jeff Barr
+@entity56:Google
+@entity74:Web Services Health Dashboard
+@entity16:UltraDNS
+@entity12:Neustar
+@entity11:Christmas
+@entity108:Bill Woodcock
+@entity109:Packet Clearing House
+@entity125:European
+@entity47:S3
+@entity48:EC2

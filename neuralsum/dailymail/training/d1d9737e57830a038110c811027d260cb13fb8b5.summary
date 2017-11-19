@@ -1,0 +1,62 @@
+http://web.archive.org/web/20111230012244id_/http://www.dailymail.co.uk/sciencetech/article-2079725/Lethal-Stuxnet-cyber-weapon-just-engineered-lab.html
+
+by @entity0 last updated at 11:35 am on 29th december 2011 the @entity2 virus that last year damaged @entity4 ¿ s nuclear program was likely one of at least five cyber weapons developed on a single platform whose roots trace back to 2007 , according to new research from @entity11 computer security firm @entity10 online security experts @entity10 say that three hi - tech cyber weapons of the sort that damaged @entity4 's @entity16 nuclear plant may have been crafted in the same laboratory - and not yet released			1
+the viruses have never been seen ' in the wild ' - and it 's unclear whether they , like @entity2 , would be built to cause failures at nuclear plants , or engineered for another purpose			1
+security experts have detected the malicious software by ' keys ' in @entity2 itself , which appear to be looking for other ' family members ' to communicate with			1
+@entity29 - a ' trojan horse ' program related to @entity2 which was detected in industrial systems earlier this year , also searches for @entity2 and @entity29 - infected machines			2
+@entity29 is designed to steal information which could be used in cyber attacks on industrial control systems			1
+it 's a ' scout ' program that could be used in preparation for a crippling cyber attack			2
+both appear to be searching for three other ' relatives ' that have never yet been found			0
+the @entity2 virus that last year damaged @entity4 ’s nuclear program was likely one of at least five cyber weapons developed on a single platform whose roots trace back to 2007 , according to new research from @entity11 computer security firm @entity10 @entity4 described @entity2 - designed to cripple control systems in the nuclear plant - as ' lethal '			1
+security experts widely believe that the @entity53 and @entity54 were behind @entity2 , though the two nations have officially declined to comment on the matter			1
+a @entity58 spokesman on wednesday declined comment on @entity61 ’s research , which did not address who was behind @entity2			2
+@entity4 president @entity63 , center , visits the @entity65 some 200 miles ( 322 kilometers ) south of the capital , @entity67 , @entity4 @entity2 has already been linked to another virus , the @entity29 data - stealing trojan , but @entity61 ’s research suggests the cyber weapons program that targeted @entity4 may be far more sophisticated than previously known			1
+@entity72 ’s director of global research & analysis , @entity71 , said that his team has gathered evidence that shows the same platform that was used to build @entity2 and @entity29 was also used to create at least three other pieces of malware			0
+@entity71 said the platform is comprised of a group of compatible software modules designed to fit together , each with different functions			2
+' it ’s like a @entity87 set			0
+you can assemble the components into anything : a robot or a house or a tank , ' he said			0
+more and more industrial equipment is connected to the internet - rendering it vulnerable to attacks by @entity99 named the platform ' tilded ' after computer symbols appearing in file names			2
+researchers with @entity72 have not found any new types of malware built on the @entity107 platform , @entity71 said , but they are fairly certain that they exist because shared components of @entity2 and @entity29 appear to be searching for their kin			0
+when a machine becomes infected with @entity29 or @entity2 , the programs search for two unique registry keys on the pc linked to @entity29 and @entity2 that are then used to load the main piece of malware onto the computer , he said			0
+the nuclear power plant in @entity16 , southern @entity4 , which was the target of the @entity2 worm			0
+the @entity29 worm is similar but is designed to steal information rather than cause physical damage @entity61 recently discovered new shared components that search for at least three other unique registry keys , which suggests that the developers of @entity2 and @entity29 also built at least three other pieces of malware using the same platform , he added			0
+yet it would be relatively easy for the developers of those highly sophisticated viruses to create other weapons that can evade detection by those anti-virus programs by the modules in the @entity107 platform , he said			0
+@entity61 believes that @entity138 traces back to at least 2007 because specific code installed by @entity29 was compiled from a device running a @entity142 operating system on aug. 31 , 2007			0
+the ' @entity2 ' worm - a sophisticated cyber attack on the @entity16 nuclear plant in @entity4 opened a new era of cyber-warfare			1
+@entity29 , detected in @entity148 , may well be from the ' same authors ' says security firm @entity150 the @entity2 attack on @entity4 's @entity16 nuclear plant - a computer ' worm ' specifically written to attack industrial control systems - was proof that the software in many industrial plants was vulnerable to attack			1
+since then , there has been increased interest in the idea - both from researchers , and from potential attackers			0
+relatively unsophisticated ' computers ' used to control industrial devices are ' open ' to the internet - leaving plants such as @entity16 vulnerable to attack			1
+in theory , many plants - including utilities such as water and gas - are open to such attacks			2
+earlier this month , suspicions were raised about a remote attack on a water plant in @entity53 - but it proved to be an engineer accessing his work remotely			1
+but governments , including @entity183 's , are trying desperately to shield vulnerable utilities before someone deploys the next cyber weapon .			0
+
+cyber weapons designed to attack industrial plants
+software ' seeks out ' other members of same family
+three ' *missing* ' members have not been used yet
+designed in lab over last four years - probably by @entity53 , say experts
+@entity58 denies *knowledge*
+
+@entity29:Duqu
+@entity138:Tilded
+@entity87:Lego
+@entity150:Symantec
+@entity2:Stuxnet
+@entity0:Rob Waugh
+@entity4:Iran
+@entity53:U.S.
+@entity54:Israel
+@entity58:Pentagon
+@entity71:Raiu
+@entity72:Kaspersky
+@entity16:Busehr
+@entity11:Russian
+@entity10:Kaspersky Lab.
+@entity99:hackersKaspersky
+@entity107:Tilded
+@entity142:Windows
+@entity183:Britain
+@entity148:Europe
+@entity67:Tehran
+@entity65:Natanz Uranium Enrichment Facility
+@entity63:Mahmoud Ahmadinejad
+@entity61:Kaspersky

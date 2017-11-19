@@ -1,0 +1,50 @@
+http://web.archive.org/web/20150401085205id_/http://www.cnn.com/2011/TECH/web/04/22/amazon.cloud.mashable/
+
+is both a setback for cloud computing and an opportunity for us to figure out how to stop it from happening again			2
+@entity6 may be best - known for its online shopping site , but it also has a substantial cloud computing business			1
+it provides a scalable , flexible and particularly efficient solution for companies to store and deliver massive amounts of content			2
+its model of only paying for what you consume was a radical innovation when it launched in 2006			0
+in fact , @entity23 has been so affordable and reliable that thousands of companies from @entity26 to @entity27 utilize the company 's cloud computing technology and servers to run their businesses			1
+they put their faith in @entity6 's cloud because there was no reason to think that it would falter			1
+one of cloud computing 's key tenants is reliability through redundancy of both servers and data centers			0
+then on wednesday , @entity6 's northern @entity44 data center started experiencing problems that caused major latency and connectivity issues			1
+the trouble was apparently due to excessive re-mirroring of its @entity51 ( @entity51 ) volumes -- this essentially created countless new backups of the @entity51 volumes that took up @entity6 's storage capacity and triggered a cascading effect that caused downtime on hundreds ( or more likely thousands ) of websites for almost 24 hours			1
+the collapse took its share of victims			2
+among the most prominent companies affected were @entity26 , @entity63 , @entity64 , @entity65 , @entity66 , @entity67 and @entity68 , though hundreds of other companies big and small were affected			1
+luckily , one of @entity6 's most prominent customers , @entity27 , did n't experience problems because it 's built for the loss of an entire data center , while companies relying on @entity6 's four other global data centers did n't experience too many issues			1
+a learning moment @entity80 founder @entity79 has a detailed post on his blog about what may be the biggest problem to come out of this week 's collapse : @entity6 's cloud redundancies failed to stop a mass outage			1
+its availability zones are supposed to be able to fail independently without bringing the whole system down			0
+instead , there was a single point of failure that should n't have been there			0
+this week 's disaster in the cloud is a reminder to startups to build redundancy into their applications and their own systems , but as @entity102 points out , most startups do n't have the time or resources to engineer for multiple cloud systems ( each @entity6 global region / data center has its own rules and features , making a simple " switch " to another center difficult )			1
+these companies trusted @entity6 to keep them online , and @entity6 failed to deliver			2
+catastrophic issues will always occur , but in the pre-cloud era , downtime only affected a single computer or website			2
+today , a catastrophic event takes down thousands of websites , causing millions or even billions of dollars in lost revenue and productivity			0
+this incident is no reason for us to shun cloud computing , though			0
+its benefits ( scalability , cost reduction , device independence , performance and more ) far outweigh its cons. we do need to take a hard look at how we structure our cloud infrastructure though and find new ways to either prevent single points of failure or quickly move content off failing clouds faster , especially as the world 's computing power is consolidated into fewer and fewer systems			0
+cloud computing is still in its infancy , and today 's events make it clear that we still have a lot of work to do			0
+it could be a whole lot worse next time if we are n't prepared			0
+see the original article at @entity0			0
+
+on wednesday , @entity6 collapsed
+the trouble was due to excessive re-mirroring of its @entity51 volumes
+the collapse affected were @entity26 , @entity63 , @entity64 , @entity65 , and many others
+
+@entity3:Cloudpocalyse
+@entity2:Cloudgate
+@entity0:MASHABLE.com
+@entity7:EC2
+@entity6:Amazon Elastic Cloud Compute
+@entity26:Foursquare
+@entity23:Amazon Web Services
+@entity51:Elastic Block Storage
+@entity63:Quora
+@entity80:FathomDB
+@entity102:Santa Barbara
+@entity79:Justin Santa Barbara
+@entity68:Wildfire
+@entity66:Heroku
+@entity67:Reddit
+@entity64:Hootsuite
+@entity65:SCVNGR
+@entity44:Virginia
+@entity27:Netflix

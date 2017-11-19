@@ -1,0 +1,23 @@
+http://web.archive.org/web/20130727012641id_/http://www.cnn.com/2013/07/07/politics/eliot-spitzer-interview
+
+-- @entity1 , who resigned as governor of @entity3 in the wake of a prostitution scandal , is looking at a return -- this time as comptroller of @entity8			1
+he said he hoped that voters would be able to see beyond his past			0
+" i accepted responsibly for what i did , " @entity1 told @entity0 late sunday night			2
+" i spent five years of working , doing useful things , and i hope the public will offer me an opportunity			0
+" @entity1 , a @entity15 , resigned in 2008 after revelations about his relationship with a prostitute			1
+since stepping down , he has worked as a commentator for various news outlets , including @entity0			0
+in running for comptroller , @entity1 said he 's looking for forgiveness and a second chance			1
+" the metaphor is what i did with the attorney general 's office , " he said			0
+" it is ripe for greater and more exciting use of the office 's jurisdiction			0
+" besides serving as governor , @entity1 was @entity3 's attorney general			1
+@entity1 said he has his wife 's support as he jumps back into political life , but does n't know if she 'll be joining him on the campaign trail .			2
+
+new : @entity1 says he *plans* to run for comptroller
+new : @entity1 says he 's looking for forgiveness and a second chance .
+@entity1 resigned in 2008 in the wake of a prostitution scandal
+
+@entity3:New York
+@entity1:Spitzer
+@entity0:CNN
+@entity8:New York City
+@entity15:Democrat

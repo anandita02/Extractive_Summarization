@@ -1,0 +1,87 @@
+http://web.archive.org/web/20150102071717id_/http://edition.cnn.com/2014/12/17/tech/innovation/3d-printed-plastic-dress/index.html
+
+editor 's note : @entity2 explores innovative approaches and opportunities available in business and society through technology			0
+( @entity8 ) -- the design studio @entity9 has created a novel process that allows a @entity12 printed dress to move and sway like real fabric			1
+the bespoke software behind it , called @entity16 , combines origami techniques with novel approaches to @entity12 printing , pushing the technology 's limits			1
+instead of pinning fabric to a dress form , a @entity16 garment starts as a 3 - d model in a cad program			1
+kinematics breaks the model down into tessellated , triangular segments of varying sizes			0
+designers can control the size , placement , and quantity of the triangles in a @entity36 - based design tool and preview how the changes will impact the polygonal pinafore			1
+once the designer is satisfied , algorithms add hinges to the triangles uniting the garment into a single piece and compress the design into the smallest possible shape to optimise the printing process , often reducing the volume by 85 percent			1
+after two days of printing at @entity50 , a dusty boulder of plastic emerges from an industrial - sized 3 - d printer			1
+technicians remove excess dust like archeologists in search of a long - buried garment			0
+the plastic parts are cleaned and dyed , resulting in a little black ( or white ) dress made from tiny , interlocking bricks of plastic			1
+no gimmicks for this gown designer @entity65 made sure the gown was more than mere gimmickry			0
+buttons , cleverly modelled into the triangles make it easy to don and doff			0
+unlike other @entity12 printed clothing that feels like a suit of armour , the long dress flows and moves as the model strides and twirls			1
+what cities would look like if @entity79 only by the @entity80 comfort was a key concern			0
+@entity65 wore @entity12 printed jewellery for weeks at a time in an attempt to catch design features that chafe			1
+she built her wardrobe piece by piece , starting with a bracelet , then a belt , and finally a bodice before moving on to a dress			1
+@entity65 brought an old - school tailor 's approach to the project , but was happy to leverage modern technology			1
+for example , @entity12 scans of the model 's body ensured a perfect fit			0
+she worked with @entity50 to optimise the print quality and aesthetics			0
+as a result , her garment and its @entity105 repository recently were acquired by the @entity107 making it work nervous system originally developed the @entity16 concept as part of a project for @entity113			1
+the goal was to help add bit of cool to a pavilion promoting @entity119 phones			0
+nervous system figured out how to print bracelets on @entity122 by reducing dimensional designs to flat pieces of plastic that could be printed in under an hour and folded like origami			1
+@entity113 was pleased with the promotion , but @entity9 believed the concept could be used to make garments			1
+" we 'd done some simulations and made some animations showing that we could do it hypothetically , " says @entity65			0
+these hypothetical simulations precipitated a software engineering effort one year in the making			1
+scaling up from a wrist - worn wearables to cocktail dress posed a particular challenge			1
+the hinges linking the triangles must be small enough to let the fabric flow , but robust enough to avoid a wardrobe malfunction			1
+these mechanical challenges were exacerbated by limitations in @entity12 printing technology			2
+pieces made with the technology have a grain , like wood , and certain orientations create stronger parts			0
+the solution was to revamp the software			2
+" we were able to do so much design-wise without ever printing anything , " says @entity65			2
+" we knew not only exactly what the final piece would look like but also how it would behave			0
+" simulating folds was slow and inaccurate at first			0
+test prints of belts with 77 hinges worked beautifully , but scaling up to the 700 or more needed to create a dress repeatedly broke the software			1
+physics engines were tossed aside like fabric swatches			2
+15 incredible photos that 'll remind you to be awed by @entity170 originally , the simulator would fold the clothes down into a ball			2
+" sort of like you are wadding clothes up to toss in you hamper , " says @entity65			0
+" it looked cool but it was n't the most efficient way to get the volume of our designs down			2
+" so @entity65 and partner @entity182 developed a collision - based simulator that replicates how one might fold clothes to put them in a drawer			2
+the project pushed design , fashion , and fabrication in surprising ways			1
+" to @entity12 print structures in this crazy compressed form and have them unfold ; that almost sounds like science fiction , " says @entity65			0
+" frankly , when you work on something complex like this in a completely digital world for so long , the biggest surprise is that it actually works as intended , from the compressing to the fit , draping , and movement			0
+" printing also required special development			2
+@entity9 needed to develop new tools to load its software			2
+" we 've been working with @entity9 and our community over the years to push the machines to their limits , " says @entity205 of @entity50			0
+" from how densely we can pack the trays so you can print 1,000 products at once versus just one , to how long you need to run them so we can produce products more quickly , to how precise and detailed the prints can be so that you can design with micron precision			2
+" ready to wear ? next up for nervous system is improving the speed and adding new mechanisms and structures that will allow simulating different materials -- think of a stout tweed versus a gossamer silk			2
+ultimately , the team thinks can be expanded for other applications like @entity228 project			0
+at $ 3,000 a pop , @entity9 is n't quite ready to commercialise its wearable wares			1
+" that is a very high number although perhaps considerably lower than the price of most other @entity12 printed garments , " she says			0
+" we 're hoping to bring the price down before we start selling clothing			0
+" read more from @entity8 : 21 awesomely well - designed products we 're dying to @entity239 the @entity240 of the @entity242 's @entity241 what would your @entity245 , @entity244 ? 14 people find out subscribe to @entity8 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity251 .			0
+
+a design studio has created a @entity255 printed dress that sways like real fabric
+the software behind the process combines origami techniques with *3d* printing
+the company originally developed the concept as part of a @entity113 project
+at $ 3,000 a pop , it is n't quite ready for the *retail* market yet
+
+@entity8:WIRED magazine
+@entity240:Ruins
+@entity36:Javascript
+@entity80:Stars
+@entity251:Wired.com
+@entity113:Google
+@entity255:3D
+@entity119:Android
+@entity170:Planet Earth
+@entity9:Nervous System
+@entity239:Own
+@entity50:Shapeways
+@entity79:Lit
+@entity16:Kinematics
+@entity12:3-D
+@entity2:Tomorrow Transformed
+@entity245:Ideal
+@entity244:Photoshopped Face Look Like
+@entity105:Github
+@entity241:Secret Nuclear Cities
+@entity107:Museum of Modern Art.
+@entity122:MakerBots
+@entity205:Carine Carmy
+@entity228:Skylar Tibbits Hyperform
+@entity182:Jesse Louis-Rosenberg
+@entity65:Rosenkrantz
+@entity242:USSR

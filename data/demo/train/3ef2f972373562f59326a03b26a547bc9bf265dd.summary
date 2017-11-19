@@ -1,0 +1,55 @@
+http://web.archive.org/web/20130219085341id_/http://www.cnn.com:80/2009/US/07/10/social.security.numbers/
+
+-- a report earlier this week that a pair of academics had discovered a way to figure out a person 's @entity6 number based on information people commonly post online has raised new concerns about identity theft			1
+professor @entity11 says @entity6 numbers issued after the late 1980s are vulnerable			1
+the @entity13 said the threat is minuscule			0
+still , the agency plans to change to a random system of assigning the numbers , replacing the current system based on the state and date where the number is assigned			1
+professor @entity11 and researcher @entity22 of @entity23 said they began by studying a half - million expired @entity6 numbers obtained from the " death master file " published by the @entity13			1
+" we can use these death master file records to infer patterns " in the way numbers are assigned , said @entity11 , who then derived formulas to zero in on a range of @entity6 numbers that might have been assigned to a person			1
+because the process depends on the date the social security number was assigned , it works best for people born after the late 1980s , when it became common to issue numbers to newborns			1
+@entity6 numbers are made up of three segments			1
+the first segment of three numbers represents the state issuing the number			2
+states with a large population , such as @entity51 , cycle through dozens of numbers , while less populous states , such as @entity55 , use only one			2
+the second segment is made up of two numbers that are changed periodically , while the third segments is composed of four numbers that cycle continuously from 0000 to 9999			2
+knowing a person 's state and place of birth , @entity11 would use the death master file to find the numbers of people with nearby birth dates in the same state			1
+those would be plotted on a graph that would allow @entity11 to try to predict the target person 's number			2
+for example , for @entity76 in 1996 the first three numbers cycled from 540 to 544 , changing every 60 days or so			2
+the middle segment started the year as 47 , but 60 days in it changed to 49			0
+and the last four numbers cycled around , also every 60 days or so			0
+to avoid giving criminals too much information , @entity11 and @entity22 withheld some of the details of their methods			0
+in a small state like @entity88 , the report says , for 1 in 20 people the @entity6 number can be determined in less than 10 tries			1
+@entity92 of the @entity13 said the threat is not significant			0
+" the public should not be alarmed by this report because there is no foolproof method for predicting a person 's @entity6 number , " he said			1
+indeed , for 90 percent of people , @entity11 would n't hit on their full social security number even with 1,000 tries			0
+" the method by which @entity6 assigns numbers has been a matter of public record for years , " said @entity92			1
+" the suggestion that mr. @entity11 has cracked a code for predicting an @entity108 is a dramatic exaggeration			0
+" still , the authors said a determined hacker could use trial and error to try dozens of educated guesses on fraudulent credit applications -- or even use a computer to automate the effort			0
+at a minimum , they say , their findings are a wake - up call for people who have posted their date and state of birth on web sites like @entity126 or @entity127			2
+" this is the challenge we face in our modern technology , " @entity11 said			0
+" by interacting so much and exposing so much information , we also sometimes expose ourselves to risk			0
+" starting next year , the government plans to assign numbers randomly , which will protect anyone born after 2010 from mathematical calculations			1
+but for everyone born in the past 20 years , @entity11 said , something besides the @entity6 number should be used for bank accounts and credit cards			2
+" social security numbers are very bad passwords , " he said			0
+" they were not designed to be used in that way			0
+" @entity0 's @entity145 contributed to this report .			0
+
+@entity6 numbers fall into patterns , study says
+numbers can be guessed if person has your birth date , state where you were born
+government says this information has been available ; no codes have been cracked
+numbers are now assigned at birth , but in future will be assigned randomly
+
+@entity22:Gross
+@entity23:Carnegie Mellon University
+@entity0:CNN
+@entity13:Social Security Administration
+@entity6:Social Security
+@entity11:Acquisti
+@entity145:Brian Todd
+@entity88:Delaware
+@entity51:New York
+@entity55:Wyoming
+@entity108:SSN
+@entity127:Facebook
+@entity76:Oregon
+@entity126:MySpace
+@entity92:Lassiter

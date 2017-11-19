@@ -1,0 +1,39 @@
+http://web.archive.org/web/20120722123923id_/http://edition.cnn.com/2012/06/14/sport/giants-perfect-game/index.html
+
+-- @entity2 pitcher @entity1 threw a perfect game wednesday night in a 10 - 0 victory against the @entity5 , the first pitcher to achieve that feat in @entity2 history			1
+" this is unbelievable , " @entity1 told reporters after the game			2
+" this is part of history			0
+something i am going to remember forever and ever			0
+" @entity1 's perfect game is the 22nd in @entity18 history and he accomplished it with style , striking out 14 batters			1
+@entity1 is the second pitcher this year to pitch a perfect game ; @entity24 right - hander @entity23 also threw a perfect game on april 21			1
+@entity26 : @entity1 's perfect game much more than just latest pitching gem the early part of the game featured little drama as @entity1 dominated @entity5 hitters , and did not come close to giving up a hit			1
+but in the seventh inning , @entity2 outfielder @entity34 saved the perfect game by chasing down a screaming drive hit by the @entity5 @entity37 and making a diving catch on the warning track			1
+the dazzling catch also put @entity34 in the spotlight as his name was trending on @entity43 nationwide along with @entity1 's some 20 minutes after the game			2
+@entity1 's feat comes the same night that @entity47 pitcher @entity46 narrowly missed a no hitter			2
+@entity46 held the @entity49 to only one infield hit wednesday night , and did not walk a batter			0
+there have now been five no hitters this year			0
+along with @entity1 and @entity23 , @entity54 , @entity55 and a crew of @entity57 also pitched games without allowing a hit			0
+the win improved @entity1 's record to 8 - 2 for the season and dropped his earned run average of 2.18			0
+@entity24 pitcher @entity23 throws first perfect game			1
+
+@entity1 strikes out 14 batters during the game
+this is the second perfect game this year
+" this is unbelieveable , " @entity1 says
+
+@entity2:Giants
+@entity1:Cain
+@entity0:CNN
+@entity26:SI
+@entity5:Astros
+@entity24:White Sox
+@entity23:Humber
+@entity43:Twitter
+@entity18:Major League Baseball
+@entity37:Jordan Schafer
+@entity46:Dickey
+@entity47:New York Mets
+@entity57:Seattle Mariners
+@entity55:Johan Santana
+@entity54:Jered Weaver
+@entity49:Tampa Bay Rays
+@entity34:Blanco

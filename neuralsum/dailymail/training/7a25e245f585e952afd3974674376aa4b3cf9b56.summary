@@ -1,0 +1,36 @@
+http://web.archive.org/web/20140331194244id_/http://www.dailymail.co.uk/sciencetech/article-2583876/There-no-escape-embarrassing-snaps-Facebook-reveals-algorithm-recognise-faces-human.html
+
+by @entity0 @entity1 has created an algorithm that can pick a face out of a crowd almost as accurately as a human			1
+called @entity7 , it uses technology the firm bought when it acquired @entity11 startup face.com last year			2
+its creators say it pick a face out of a crowd with 97.25 per cent accuracy			1
+@entity7 uses a 3 - d model to rotate faces , virtually , so that they face the camera			2
+image ( a ) shows the original image , and ( g ) shows the final , corrected version which the software can then attempt to recognise			0
+@entity24 and colleagues at @entity1 's ai lab found a way to build a 3d model of a face from a photo that can be rotated into the best position for the algorithm to start matching			1
+they then used a neural network that had been trained on a massive database of faces to try and match the face with one in a test database of more than 4 million images , containing more than 4000 separate identities , each one labelled by humans			1
+' we revisit both the alignment step and the representation step by employing explicit 3d face modeling in order to apply a piecewise affine transformation , and derive a face representation from a nine - layer deep neural network , ' the team wrote			2
+the system can now identify faces at virtually the same level of accuracy as a human the team achieved 97.25 per cent accuracy on the test data that contained more than 13,000 images of faces collected from the web			0
+a test using real people recruited on @entity65 's @entity64 crowdsourcing site managed 97.5 per cent			0
+details will be presented at the @entity68 and @entity69 conference in @entity70 , @entity71 , in june			0
+experts say @entity1 could use it to identify all of a user 's real friends are			1
+' they could identify every one of your friends in all of your photos , ' @entity76 of the @entity77 told @entity82			0
+' this would let them know who your real friends are – people you actually hang out with in the real world			0
+
+@entity90 was trained by *analysing* pictures *uploaded* to @entity1
+can ' spin ' a head to get a clear look at the face using @entity97
+
+@entity1:Facebook
+@entity0:Mark Prigg
+@entity7:DeepFace
+@entity11:Israeli
+@entity24:Yaniv Taigman
+@entity65:Amazon
+@entity70:Columbus
+@entity82:New Scientist
+@entity68:Computer Vision
+@entity69:Pattern Recognition
+@entity97:3D modelling
+@entity77:California Institute of Technology
+@entity76:Christopher Kanan
+@entity71:Ohio
+@entity64:Mechanical Turk
+@entity90:DeepFace

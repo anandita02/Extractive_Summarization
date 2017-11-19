@@ -1,0 +1,15 @@
+http://web.archive.org/web/20150530084636id_/http://www.cnn.com/2011/WORLD/asiapcf/07/11/philippines.earthquake/index.html
+
+-- a 6.2 - magnitude earthquake struck the @entity3 early tuesday , the @entity1 said			2
+the quake 's epicenter was reported to be in @entity6 , about 360 miles south - southeast of @entity7			1
+the earthquake had a depth of nearly 12 miles , the @entity1 said			0
+there were no immediate reports of injuries or damage .			0
+
+the earthquake had a reported magnitude of 6.2
+it struck in @entity6 , about 360 miles south - southeast of @entity7
+
+@entity3:Philippines
+@entity1:USGS
+@entity0:CNN
+@entity7:Manila
+@entity6:Negros

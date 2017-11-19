@@ -1,0 +1,42 @@
+http://web.archive.org/web/20130618152444id_/http://www.cnn.com/2013/03/10/world/americas/venezuela-election
+
+-- @entity2 opposition leader @entity1 has announced that he will run in next month 's presidential election to replace the @entity4			1
+he faces an uphill battle against acting president @entity6 , who was sworn in last week and was @entity4 's hand - picked successor			1
+according to state news , the candidates have until monday to register for the april 14 election			1
+" @entity6 , i will not give you a free path , " @entity1 told reporters sunday			1
+" you will have to defeat me with votes			0
+" @entity1 , 40 , ran against @entity4 last year and lost			1
+but he mounted one of the fiercest challenges during the late president 's 14 years in power			1
+he accused the government of manipulating @entity4 's death for political gain " my fight is not to be president			1
+my fight is for @entity2 to move forward , " @entity1 said sunday night			1
+@entity6 quickly fired back , appearing on state - run @entity25 to counter @entity1 , calling him irresponsible			1
+" his aim is to provoke the @entity2 people , " @entity6 said			0
+" he 's looking for violence			0
+" the sharp exchange gave a potential preview of what the campaign period might look like -- angry , bitter and deeply divided			0
+earlier sunday , @entity6 , 50 , the ruling @entity34 's candidate , picked up an endorsement from the country 's small @entity36			1
+he vowed to continue the policies and vision of @entity4 , who died last week of cancer			0
+@entity4 was a larger - than - life leader , who positioned himself as a champion of the poor and cast himself as a " 21st - century socialist			2
+" making the poor count -- a @entity4 legacy he was a polarizing figure , revered by legions even as others accused him of repressing dissenting voices and turning over once - independent institutions to partisan loyalists			2
+" i will be president and commander in chief of the armed forces because that 's what @entity4 ordered me to do			2
+i will follow his orders , but i need the help of the people , " @entity6 said , according to @entity25			0
+when @entity6 was sworn in last week , @entity1 protested loudly , telling reporters in @entity64 the ceremony was " an abuse of power			2
+" " to be president , the people have to elect you , " he said			0
+" the constitution is very clear			0
+" @entity6 addressed the upcoming election			2
+" may the best person win , " he said			0
+" the people will decide			0
+
+new : @entity1 will face acting president @entity6
+new : the two *traded* angry barbs sunday night
+@entity1 lost to @entity4 last year ; @entity6 is the late president 's hand - picked successor
+candidates have until monday to register for the april 14 election
+
+@entity2:Venezuelan
+@entity1:Capriles
+@entity0:CNN
+@entity6:Maduro
+@entity4:Chavez
+@entity25:VTV
+@entity36:Communist Party
+@entity64:Caracas
+@entity34:Socialist Party

@@ -1,0 +1,84 @@
+http://web.archive.org/web/20150120195009id_/http://www.dailymail.co.uk/sciencetech/article-2793333/Researchers-new-web-encryption-bug-warn-Poodle-attack.html
+
+a security bug in the widely - used software used to secure the internet has been discovered by three @entity4 researchers			1
+the flaw , dubbed ' poodle ' , could allow hackers to gain access to information that should be encrypted in plain text allowing them to takeover accounts for email , banking and other services			1
+makers of web browsers and server software yesterday asked users to disable use of the source of the bug : an 18 - year old encryption protocol known as @entity24			1
+the flaw , dubbed ' poodle ' , could be allow hackers to gain access to information that is meant to be encrypted in plain text allowing them to takeover accounts for email , banking and other services the discovery of ' poodle ' - which stands for @entity39 - is the third time this year that researchers have uncovered a vulnerability in popular web technology			1
+it follows the discovery of april 's ' @entity47 ' bug in @entity48 and last month 's ' @entity50 ' bug in a piece of @entity53 software known as bash			1
+security experts said that hackers could steal browser ' cookies ' in poodle attacks , potentially taking control of email , banking and social networking accounts			1
+even so , experts said the threat was not as serious as the two prior bugs , and that so far , no one has made use of the vulnerability to hack an account			0
+security experts said that hackers could steal browser'cookies ' in ' @entity38 ' attacks , potentially taking control of email , banking and social networking accounts ' if @entity50 and @entity47 were @entity77 10 , then @entity38 is more like a 5 or a 6 , ' said @entity78 , vice president with cloud security firm @entity79			1
+the threat was disclosed in a research paper published on the website of the @entity84 , which develops the most widely used type of @entity24 encryption software			1
+@entity24 3.0 , in which the software is found , is currently used by @entity88 ( @entity88 ) 6			1
+some other browsers all still l support @entity24 as an option , so they may also be at risk			0
+to prevent a poodle attack on @entity94 , open about.config , search for ' security.enable , ' and set ' security.enable_ssl3 ' to ' false ' , advises @entity96 writing in @entity97			0
+to stop an attack on @entity88 , go to the tools menu , click internet options , and then click on the @entity102 tab			0
+under the @entity102 tab , look for the security heading , and make sure that the @entity24 check box is unchecked			2
+if you 're running a web server , check with your code provider in the case of open - source programs , for how to turn @entity111 support off			2
+@entity112 , security expert at @entity114 has advised people to take the following steps to avoid possible incidents : 1			0
+do not use public @entity119 hotspots if you ’re sending valuable information such as online banking , accessing social networks via browser			0
+this is always a risk , but the @entity38 vulnerability makes it even more dangerous			0
+disable @entity126 and all previous versions of the protocol in your browser settings			0
+@entity24 v3 is 15 years old now and has been superseded by the more up - to - date and widely supported @entity133 protocol , supported by most modern web browsers			1
+the @entity133 protocol is not affected by the @entity38 vulnerability			2
+however , keep in mind that disabling @entity126 could cause compatibility problems , so be careful before implementing this measure			0
+rumours of a bug in @entity24 software had been circulating in recent days , prompting some security professionals to prepare for a major new threat this week			2
+@entity144 , director of application security research with @entity146 , said ' poodle ' was not as serious as the previous threats because the attack was ' quite complicated , ' requiring hackers to have privileged access to networks			2
+@entity153 , a cyber adviser to the @entity155 @entity154 , added attackers would need to launch a ' man - in - the - middle ' attack			0
+this would involve placing themselves between victims and websites using approaches such as creating rogue @entity119 ' hotspots ' in internet cafes			0
+@entity4 suggested a technical workaround to secure web servers , but added on its blog that it hopes to eventually remove support for @entity24 from all client software			2
+@entity171 plans to disable @entity24 3.0 by default in the next version of its @entity94 browser , to be released on november 25			1
+@entity24 3.0 , in which the software is found , is currently used by @entity88 ( @entity88 ) 6 ( right )			1
+' if @entity50 and @entity47 ( left ) were @entity77 10 , @entity176 is more like a 5 or a 6 , ' said @entity78 , vice president with cloud security firm @entity79 ' @entity24 version 3.0 is no longer secure , ' @entity171 said on its blog			1
+' browsers and websites need to turn off @entity182 and use more modern security protocols as soon as possible			0
+' @entity184 issued an advisory suggesting that customers disable @entity24 3.0 on @entity187 for servers and @entity189 representatives with @entity191 could not be reached and an @entity193 spokeswoman had no immediate comment			1
+@entity195 , an assistant research professor of computer science at @entity197 said that disabling @entity24 can be difficult for some computer users			2
+' it 's not going to take out the infrastructure of the internet			0
+but it 's going to be a hassle to fix , ' professor @entity195 said .			0
+
+poodle allows hackers to see data meant to be encrypted in plain text
+this could allow access to accounts for email , banks and other services
+source of flaw is a widely - used , *outdated* encryption protocol , @entity24 3.0
+so far , no one has used the @entity38 bug in @entity24 to hack an account
+web users can opt switch to using a browser that does *n't* use @entity24 3.0
+' if @entity50 and @entity47 were @entity77 10 , @entity229 is more like a 5 or a 6 , ' said @entity78 , vice president with cloud security firm @entity79
+
+@entity133:TSL
+@entity24:SSL
+@entity88:IE
+@entity114:Kaspersky Lab
+@entity84:OpenSSL Project
+@entity112:Sergey Lozhkin
+@entity111:SSL 3.0
+@entity153:Jeff Moss
+@entity119:WiFi
+@entity154:Department of Homeland Security
+@entity171:Mozilla
+@entity4:Google
+@entity197:Johns Hopkins University
+@entity195:Green
+@entity193:Oracle
+@entity191:Apple
+@entity53:Unix
+@entity50:Shellshock
+@entity79:Adallom
+@entity78:Tal Klein
+@entity77:Threat Level
+@entity126:SSL v3
+@entity39:Padding Oracle On Downloaded Legacy Encryption
+@entity38:Poodle
+@entity102:Advanced
+@entity97:ZDNet
+@entity96:Steven Vaughan-Nichols
+@entity94:Firefox
+@entity155:U.S.
+@entity144:Ivan Ristic
+@entity189:PCs.
+@entity146:Qualys
+@entity229:thenPoodle
+@entity182:SSLv3
+@entity176:thenPoodle
+@entity184:Microsoft Corp
+@entity187:Windows
+@entity47:Heartbleed
+@entity48:OpenSSL

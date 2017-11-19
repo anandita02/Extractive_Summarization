@@ -1,0 +1,47 @@
+http://web.archive.org/web/20141109191520id_/http://www.cnn.com:80/2013/11/15/politics/obamacare-engineers/
+
+@entity0 -- the front end of @entity3 is working better , but many problems identified in the days after its launch persist , according to a team of web engineers			1
+@entity9 is a private web - hosting company that analyzed the public - facing side of the site days after its disastrous october 1 launch , and again this week for @entity1			2
+" it 's getting better , but it looks like there 's still a lot to do , " @entity9 president and coo @entity14 said			1
+" so whether that 's three weeks or three months , i ca n't tell			2
+" a week after the site went live , a team of @entity14 's engineers found a slew of out - of - date web applications , poorly written code , testing code and unnecessary data transmitted to users at each login that should have been stored on local servers or computers for quicker access through a process called caching			1
+@entity34 passes proposed @entity36 changes all of these mistakes broke with best practices for web coding			0
+" they 're not following the proper protocol when you deal with a website that 's going to get a lot of traffic , " @entity14 said on october 8			2
+more than a month later , many of these problems still exist			0
+" so far , it does not look like much has changed on the front end , " one engineer wrote in his analysis			1
+the site is still not properly routing data to servers closer to individual users , a practice that helps speed up response times , but is still sending information to too many unnecessary third - party web tools , although there appear to be fewer than in the early days , he continued			2
+it is still loading far too much unnecessary code and there still appears to be needless testing code in the final front - end product			1
+obamacare : what now ? @entity68 , the management expert brought in by the @entity34 to oversee the site 's repair , repeated the administration 's assurances that " most users " will be able to navigate from start to enrollment by the end of the month			1
+" as we prioritize fixes on @entity3 , we focus on system performance and functionality , things like site stability , speed and usability that make a real difference to the consumer , " @entity78 told reporters on a conference call on friday			1
+" but to be clear as you would experience with any major new site , new bugs and other glitches will surface in december and beyond and as they surface we will fix them , " he said			2
+two of the engineers who participated in the second analysis wrote that things were getting better			0
+the site looks " a lot cleaner , " one wrote , and another noted that there was less extra code than last time he looked			1
+" you can tell from the website that there are people working it and making changes , " @entity14 said			0
+" and those changes are good			0
+there are still many changes they can still make			0
+" @entity14 and his team had no special access to the back - end of @entity3 , where most of the functionality problems exist			1
+all of these mistakes are visible from the end , @entity14 emphasized , which raises questions about the structure of rest of the site			2
+@entity125 : i lost my insurance under @entity36 the @entity129 administration official in charge of overseeing the site , @entity133 director administrator @entity132 , testified at a congressional hearing earlier this month that @entity3 would be " fully functioning " by the end of the month			1
+but @entity129 , himself , appeared to lower expectations on thursday when he discussed the issue with reporters			0
+" the website will work much better on november 30th , december 1st , than it worked certainly on october 1st , " he said before quickly acknowledging , " that 's a pretty low bar			0
+" " the majority of people who go to the website will see a website that is working the way it 's supposed to , " he continued			0
+" i think it is not possible for me to guarantee that 100 percent of the people 100 percent of the time going on this website will have a perfectly seamless , smooth experience			0
+we 're going to have to continue to improve it even after november 30th , december 1st			0
+
+" it 's getting better but it looks like there 's still a lot to do , " analyst says of @entity3
+an engineer writes in his analysis : " it does not look like much has changed on the front end "
+site is still loading too much unnecessary code , report says , which is *slowing* it down
+
+@entity3:HealthCare.gov
+@entity1:CNN
+@entity0:Washington
+@entity34:White House
+@entity36:Obamacare
+@entity9:Media Temple
+@entity14:Reeder
+@entity78:Zeints
+@entity68:Jeff Zients
+@entity129:Obama
+@entity125:Bachmann
+@entity133:Centers for Medicare and Medicaid Services
+@entity132:Marilyn Tavenner

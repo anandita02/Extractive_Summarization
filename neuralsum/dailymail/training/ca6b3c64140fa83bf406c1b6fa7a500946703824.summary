@@ -1,0 +1,43 @@
+http://web.archive.org/web/20150318181755id_/http://www.dailymail.co.uk/femail/article-2423301/Will-clothes-fitted-CAMERAS-help-diet-better.html
+
+people play down the amount they consume it could be the struggling slimmer 's best friend - or an irritating nightmare			0
+clothing fitted with multiple 3d cameras that track everything you put in your mouth is being hailed as the future of dieting the tiny cameras , embedded in clothes , could help abolish one of the main reasons for failed diets : underestimating the amount of calories we consume people frequently calculate calories inaccurately when dieting , most likely playing down the amount they consume			1
+and there 's no doubt that this ' guestimation ' has a detrimental effect to dieters ' waistlines			0
+now though scientists have developed special cameras that can be worn throughout the day - and will document exactly how much the wearer is eating			2
+the 3d cameras keep track of food intake by taking multiple images of the food and calculating how many calories it contains			1
+it works by taking information on the volume of food , using the plate as a scale reference , and by looking at the shape of the food to ascertain what it is			0
+it runs the information through a database to provide an accurate assessment of the number of calories in the dish			0
+the researchers tested the ' @entity56 ' camera device on 17 foods , including burgers , broccoli , fish , ketchup and peanut butter			1
+ketchup , haddock and ice cream gave researchers problems			0
+their geometric properties resulted in the largest estimation errors			0
+in the case of the ketchup , it was too small , whereas the ice cream and haddock had concave surfaces , which led to an overestimation of their volumes			0
+the @entity80 scientists including @entity82 et al , who devised the gadget , say that better understanding of intake - thanks to more accurate information - could lead to better overall health and help tackle chronic conditions such as obesity , diabetes and cardiovascular disease			1
+a ) the @entity56 contains an ( b ) electronic circuit board and takes automatic photos of food while ( c ) attached to the wearer 's shirt they maintain that the current lack of convenient methods for measuring the portion sizes day - to - day calls for technology that can calculate calories without emotional investment			1
+the scientists say that their research , published in @entity106 , will allow dieters to stop using rough approximations to gauge how much they are eating - and make better decisions about portion control			1
+the fascinating gadget is still in primitive stages of development			0
+@entity114 emailed the team at @entity80 with queries about how the cameras would compute salad dressings and sandwich fillings , and how they would calculate the calories , but they had not got back to us at the time of publishing			1
+more accurate information could lead to better overall health and help tackle chronic conditions the technology combines cutting - edge artificial intelligence and camera technology to create a garment helping dieters avoid underestimating the number of calories they are consuming - a leading reason that diets fail			1
+an ' @entity56 ' calculates the three dimensional shape and size of food on the plate to work out the portion sizes of your food			1
+this image is then compared with a built - in library of foods , with just a 3.7 per cent margin of error			0
+( a ) original image with user - drawn points ( green ) ; ( b ) dissimilarity map @entity147 ; ( c ) segmentation result cameras estimate volume from a photographic image of food contained on a typical dining plate			2
+then , the food is segmented automatically from the background in the image			0
+next , adaptive thresholding and snake modelling get to work , based on several image features like colour contrast , regional colour homogeneity and curve bending degree			0
+next , a 3d model representing the general shape of the food ( e.g. cylinder or sphere ) is selected from a pre-constructed shape model library			2
+the position , orientation and scale of the selected shape model are determined by registering the projected 3d model and the food contour in the image , where the properties of the reference are used as constraints			2
+the volume is estimated from the size of the shape model after registering the 3d shape model to the @entity185 food contour ( @entity187 model - to - image registration )			2
+estimation of food portion size in real eating activity using the @entity56 source : model - based measurement of food portion size for image - based dietary assessment using @entity187 registration			1
+
+@entity80 researchers present method to estimate calories
+tiny 3d cameras embedded into clothing take pictures and create model
+*proposal* in latest @entity106
+@entity56 camera was *incorrect* 3.7 **%** of the time
+visual estimation is *wrong* *20* **%** of the time
+
+@entity147:Md
+@entity185:2D
+@entity187:3D/2D
+@entity80:University of Pittsburgh
+@entity82:Hsin-Chen Chen
+@entity114:Femail
+@entity56:eButton
+@entity106:Journal of Measurement Science and Technology

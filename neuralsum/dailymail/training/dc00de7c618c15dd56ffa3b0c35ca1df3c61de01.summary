@@ -1,0 +1,50 @@
+http://web.archive.org/web/20140723081742id_/http://www.dailymail.co.uk/sciencetech/article-2674848/Is-YOUR-phone-risk-85-Android-devices-vulnerable-flaw-leaves-banking-apps-exposed-hackers.html
+
+by @entity0 @entity2 users running older versions of @entity5 's ubiquitous software are at risk of attack , according to a new study			1
+security researchers have uncovered a major flaw that affects @entity2 's @entity12 - part of the system responsible for encrypted data and cryptographic keys - on older software releases			1
+keys are used to encrypt and hide information as people access certain apps , and the vulnerability means hackers could expose and steal banking data and passwords			1
+security researchers have uncovered a major flaw that affects @entity2 ’s keystore - part of the system responsible for encrypted data and cryptographic keys			1
+@entity5 has patched the issue in @entity2 @entity29 4.4 ( pictured left ) , but vulnerability still affects older software releases , including @entity32 2.2 ( pictured right ) @entity2 users running older versions of the operating system are being advised to carefully check apps before installing them			1
+apps should only be installed from the official @entity37			0
+where possible , users should also install the most up - to - date version of @entity2 available for their device			2
+go to ' settings ' and then ' update ' to check for new releases			0
+it is also advisable to run antivirus software on devices to scan for any malicious code or apps already installed			0
+@entity12 is used to identify developers and users when they create , install and use apps			2
+a team of experts at @entity54 spotted the flaw nine months ago , and flagged the vulnerability to @entity5			2
+@entity5 has since issued a fix for its @entity2 4.4 @entity29 software - but that still leaves all older versions of the software at risk			1
+this is believed to be 86 per cent of all @entity2 handsets in current use			0
+@entity5 has designed @entity2 so that any installed apps need to be ' digitally signed ' with a certificate			2
+@entity5 has designed @entity2 so that any installed apps need to be ' digitally signed ' with a certificate ( pictured )			2
+this certificate has a private key that is stored by the app 's developer			0
+the flaw in this system means attackers can execute code to apps and steal keys on banking , and other , sensitive apps @entity5 has designed @entity2 so that any installed apps need to be ' digitally signed ' with a certificate			1
+this certificate has a private key that is stored by the app 's developer and @entity2 uses it to identify who created the app. it is designed to stop hackers from being able to add malicious code to a developer 's app without their permission			0
+the flaw discovered by @entity54 means attackers can execute code to apps that could leak keys used by banking , and other , sensitive apps			1
+it could also reveal pin or finger patterns used to unlock handsets , for example			1
+this certificate has a private key that is stored by the app 's developer			0
+@entity2 uses this certificate to identify who created the app. it is designed to stop hackers from being able to add malicious code to a developer 's app , without their permission			0
+the flaw discovered by @entity54 means attackers can execute such code to apps that could leak and steal keys on banking , and other , sensitive applications			1
+it could also reveal pin or finger patterns used to unlock handsets , for example			1
+but , to get access to the keys , hackers would need to install a malicious app onto a vulnerable handset in the first place			0
+in theory , because banking apps ask for passwords every time they are used , and have added security measures , they are more secure than other apps , for example			1
+but , this does n’t mean they are impenetrable			0
+@entity2 users running older versions of the system are being advised to carefully check apps before installing them			2
+apps should only be installed from the official @entity37			0
+where possible , users should install the most up - to - date version of @entity2 available			0
+it is also advisable to run antivirus software on devices to scan for any malicious code or apps already installed .			0
+
+security researchers discovered the flaw in @entity2 ’s @entity12
+@entity12 *protects* encrypted data used to gain secure access to apps
+attackers could use the flaw to get hold of keys used by banking apps
+it could also reveal pin codes and patterns used to unlock devices
+@entity5 has released a fix for @entity2 4.4 @entity29 devices
+but the vulnerability still affects devices running *4.3* @entity177 or older
+
+@entity2:Android
+@entity0:Victoria Woollaston
+@entity12:KeyStore
+@entity177:Jelly Bean
+@entity5:Google
+@entity29:KitKat
+@entity37:Google Play Store
+@entity32:Android Froyo
+@entity54:IBM

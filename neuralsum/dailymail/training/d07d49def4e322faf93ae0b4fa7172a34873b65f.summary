@@ -1,0 +1,41 @@
+http://web.archive.org/web/20141218002632id_/http://www.dailymail.co.uk/sciencetech/article-2547326/Is-Facebook-reading-TEXTS-Android-app-update-lets-app-access-written-picture-messages.html
+
+in app permissions on @entity2 , pictured , @entity0 asks to ' read your text messages ' buried within the latest update for @entity0 ’s @entity2 app is a feature that is causing growing concern among some users			1
+in the app permissions menu , the site asks for access to ' read your text messages ( @entity17 and @entity6 ) ' , and to ' add or modify calendar events and send email to guests without owners ’ knowledge			1
+' the app update began gradually rolling out to users and handsets at the end of last year , and a number of concerned members have complained these new permissions are intrusive and unnecessary			1
+according to @entity0 ’s official app permission page , an example of when @entity0 requires access to text messages is when connecting phone numbers to an account			1
+' if you add a phone number to your account , ' explained @entity0 , ' this allows us to confirm your phone number automatically by finding the confirmation code that we send via text message			2
+' the reason the site says it needs to add or modify calendar events is so @entity0 events can be seen in the user ’s phone ’s calendar			0
+@entity0 continued : ‘ we realise some of these permissions sound scary , so we ’d like to provide more info about how we use them			0
+‘ keep in mind that this list does n’t include all of the @entity2 permissions we request or all of our uses of those permissions			0
+' for example , confirmation codes are sent via sms , yet the permissions also grants access to multimedia messages and the reason for this is n't explicitly given			1
+one member complained directly to @entity0 support : ‘ it 's already too much that the app was already apparently collecting people 's phone numbers without their permission			2
+i 'm sorry , but no , @entity0 , you do n't get to read my texts			0
+’ @entity0 's help pages , pictured , state permission is needed for when users add a phone number to an account			0
+this lets the site confirm the number on an account automatically by scanning text messages for the confirmation code			1
+these codes are sent via sms , so this does n't explain the need for access to @entity6 ' another posted his concerns on @entity94 : ‘ @entity0 gathers this information from pretty much everything you feed them - that 's nothing new			2
+the app update began rolling out to users and handsets at the end of last year , but not everyone has seen the latest updates yet ‘ but now they 're able to read your text messages			1
+at this point , it 's either stick with the old version , get rid of @entity0 on @entity2 , or accept that they 've got access to every one of your text messages , call log , your personal contact card , the names of whatever other apps you 're using			1
+’ @entity0 @entity2 engineer @entity116 responded to this thread and said : ‘ we require [ access to text messages ] so we can automatically intercept login approval sms messages for people that have turned two - factor authentication on for their accounts , or for phone confirmation messages when you add a phone number to your @entity0 account			1
+' unfortunately , the @entity2 permissions system does not allow us to specify that we would like to be able to read only sms messages from a specific number			2
+' ' it 's also worth noting that we would love to be able to ask only for the permissions we need for the specific features particular users uses			0
+' however , @entity2 does not allow permission requests on demand ; we have to request all permissions that cover each feature at install time , and the users can only grant or deny all of them and have no control over individual permissions			0
+' due to the gradual rollout schedule , not everyone will be able to see these new permissions yet			0
+however , users can check their current permissions by clicking applications manager in @entity152 and selecting @entity0			0
+alternatively they can open the @entity153 and find the app under the installed list .			0
+
+@entity0 began rolling out its @entity2 app update at the end of last year
+in app permissions , the site asks for access to read users ' text messages
+this includes written messages ( @entity17 ) as well as picture messages ( @entity6 )
+@entity0 claims it is used when members connect numbers to accounts
+it scans text messages automatically for confirmation codes , for example
+yet concerned users complained the feature is intrusive and unnecessary
+
+@entity17:SMS
+@entity2:Android
+@entity0:Facebook
+@entity6:MMS
+@entity116:Franci Penov
+@entity153:Play Store
+@entity152:Settings
+@entity94:Reddit

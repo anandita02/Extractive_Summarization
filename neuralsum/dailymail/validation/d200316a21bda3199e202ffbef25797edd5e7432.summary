@@ -1,0 +1,94 @@
+http://web.archive.org/web/20150720190950id_/http://www.dailymail.co.uk/sciencetech/article-2989603/Can-Earth-s-hidden-alphabet-Project-needs-people-hunt-letters-planet-using-satellite-images.html
+
+across the globe there are millions of ' letters ' and ' numbers ' hiding among buildings and in the landscape of the @entity7			1
+the shapes can be spotted in satellite images and include buildings shaped like the letter ' a ' , trees planted in the shape of an ' e ' and circular marks in the landscape that resemble ' @entity17 ' or zeros			1
+a pair of designers has created a tool to help seek out these natural and manmade shapes and is hoping to use the findings to develop software as well as a new font			1
+the @entity27 project was set up by @entity29 designer @entity28 and geographer @entity30			1
+their tool lets people scour @entity35 images to find letters , numbers and characters in the landscape ( pictured ) the project began as a @entity42 campaign , set up by @entity29 designer and computer scientist @entity43 and @entity47 geographer @entity30			1
+they raised $ 11,492 ( £ 7,630 ) and have since set up the @entity27 crowdsourcing tool			1
+‘ while satellites orbit around the @entity7 taking thousands of images each day , we have limited idea about what unique features actually live on those photographs , ’ said the pair			2
+‘ @entity27 is as much about developing new methods of mapping features on the @entity7 ’s surface , as it is about generating the first map and typeface of the planet			1
+@entity29 researchers recently developed a computer system that can scan @entity67 satellite images looking for faces			1
+called @entity70 , it was developed by @entity29 design studio @entity71 and uses an algorithm that can highlight land masses and terrains with face - like features			2
+the system scans the world , switches to the next zoom level , and starts the scan again taking snapshots and coordinates of the faces it finds			2
+seeing faces and other shapes in objects and landscapes is known as pareidolia			0
+it is also the tendency to hear hidden messages when songs are played backwards			0
+human eyes can spot faces , letters and numbers easily and this helps them recognise friends and see patterns			1
+it is harder for computers to mimic this behaviour and software must be trained to do so			0
+‘ in order to develop the smartest and robust letterform detection and classification algorithm , we need to find dozens of real world " training data " for each letter , number , or character that we are interested in including in @entity114			1
+‘ these training data include examples all of the possible shapes of " a 's " , " z 's " , " 6 's " , " ❤ 's " , and so on that we might be able to see in aerial imagery			0
+’ this database will help researchers at the @entity120 at @entity121 to automate what the designers call ‘ the planetary search for letterforms			2
+’ once trained , this algorithm could be used to automatically find words and letters on images			1
+one example could be to find business addresses using visual search - such as all shops on a @entity135 map where people can buy lottery tickets			1
+the tool lets people scan through @entity35 satellite images and catalogue all the letters , numbers and characters they find			1
+users begin with a grid divided into 21 rectangles			0
+the exact location of the satellite imagery is n’t revealed			2
+the software will suggest letters , numbers or characters in each rectangle and this will be displayed with a corresponding number			1
+these suggestions can then be placed over the relevant part of the map			0
+for example , within a rectangle the software may have recognised the letters ‘ s ’ and ‘ e ’ but the selection boxes are placed in the centre			2
+it is the ‘ hunter ’s ’ job to move the selection box to sit above the letter			0
+they then rotate and resize the box to make the selection as accurate as possible			0
+each time a box is placed above a letter the user must click @entity176 to add it to the database			2
+to add a new letter that the software has n’t suggested , click ‘ @entity180 ’ , type the letter and reposition the box			0
+users begin with a grid divided into 21 rectangles			0
+the software will suggest letters , numbers or characters in each rectangle and this will be displayed by a number			1
+these suggestions can then be placed over the relevant part of the map ( pictured )			0
+once @entity176 is clicked , the letters are added to a database it is hoped this database will help researchers at the @entity120 at @entity121 to automate what the designers call ‘ the planetary search for letterforms			1
+’ a selection of letters that have been found using the tool are pictured with their respective locations and co-ordinates once a grid has been explored the ‘ @entity212 ’ button in the bottom left - hand corner becomes active and the user is taken to another location			1
+people can search for letters either anonymously or by adding a credit name to the discoveries			1
+and they are added to a leaderboard as soon as they find more than ten letters			2
+the top ‘ hunter ’ is currently @entity223 with 365 , and more than 500 letters , numbers and characters in total have been spotted			1
+@entity29 researchers recently developed a computer system that similarly scans satellite images looking for faces			1
+called @entity70 , it was developed by @entity29 design studio @entity71 and uses an algorithm that can highlight land masses and terrains with face - like features			0
+people can search for letters ( examples shown ) either anonymously or by adding a credit name to the discoveries			2
+they are then added to a leaderboard as soon as they find more than ten letters			2
+the top ‘ hunter ’ is currently @entity223 with 365 , and more than 500 shapes in total have been spotted			0
+@entity29 researchers recently developed a computer system that similarly scans satellite images looking for faces			1
+this face was found in the @entity253 region of @entity254 , in the @entity255 of the country			0
+this part of the world is mainly made up of mountainous desert , tundra , and forests the system scans the world , switches to the next zoom level , and starts the scan again taking snapshots and coordinates of the faces it finds			0
+seeing faces and other shapes in objects and landscapes is known as pareidolia			0
+it is also the tendency to hear hidden messages when songs are played backwards			0
+human eyes can spot faces , letters and numbers easily and this helps them recognise friends and see patterns			2
+it is harder for computers to mimic this behaviour and software must be trained to do so			0
+this image is one of the faces found in the @entity293			0
+it was taken next to @entity295 in @entity296 in @entity297 and could be either a human face in profile , or the face of an animal			0
+trees appear to form the face 's mouth and nostrils another image captured by the @entity70 project in @entity254			0
+this grumpy - looking face was found in the @entity309 in the @entity310 - an area also known as @entity309			0
+
+the project began as a @entity42 campaign that was *funded* in *november*
+it was set up by designer @entity28 and geographer @entity30
+they raised $ 11,492 ( £ 7,630 ) and have since set up a crowdsourcing tool
+called @entity27 , it lets people scan through @entity35 satellite images
+they then catalogue all the letters , numbers and characters they can find
+database will develop a letterform detection and classification algorithms
+
+@entity27:Aerial Bold
+@entity28:Benedikt Groß
+@entity29:German
+@entity253:Magadan Oblast
+@entity254:Russia
+@entity255:Far Eastern Federal District
+@entity135:Street View
+@entity310:Russian Far East
+@entity7:Earth
+@entity212:Submit Task
+@entity176:Update Geometry
+@entity47:Californian
+@entity295:Priory Road
+@entity296:Ashford
+@entity297:Kent
+@entity71:Onformative
+@entity70:Google Faces
+@entity293:UK
+@entity17:Os
+@entity30:Joey Lee
+@entity35:Mapbox
+@entity120:Institute for Artificial Intelligence
+@entity121:HS Weingarten
+@entity223:Marco Berends
+@entity180:Add New
+@entity309:Yevrey
+@entity114:Aerial Bold
+@entity42:Kickstarter
+@entity43:Benedikt Groß
+@entity67:Google Earth

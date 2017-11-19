@@ -1,0 +1,38 @@
+http://web.archive.org/web/20150620153727id_/http://www.dailymail.co.uk/sciencetech/article-2580347/Are-WhatsApp-chats-safe-Warning-security-experts-say-Android-app-reveal-entire-history-hackers.html
+
+flaws in @entity2 could be used to allow hackers to read @entity5 chats , it has been claimed			2
+@entity7 security expert @entity6 said the flaw allowed any app to read and send chat logs			1
+he fears it could be used by hackers to create ' rogue ' apps			1
+@entity7 security expert @entity6 said the flaw allowed any app to read and send chat logs			1
+' the @entity18 database is saved on the sd card which can be read by any @entity2 application if the user allows it to access the sd card			1
+' and since majority of the people allows everything on their @entity2 device , this is not much of a problem , ' @entity24 wrote on his blog			0
+he outlined the steps needed - and even provided the code to do it			0
+' what do we need to steal someone 's @entity18 database ? first we need a place to store the database , " @entity6 explained			1
+' next thing we need is an @entity2 application which uploads the @entity18 database to the website			2
+' he also revealed how to add the required code to an existing app. ' by doing the magic in the loading screen you can also add this code to a real application instead of the @entity51 message you see now			0
+' combine it with something like @entity55 and a description how to install applications from unknown sources and you can harvest a lot of databases			0
+' the flaw only affects @entity2 handsets - with @entity66 and @entity65 users in the clear ' so , we can conclude that every application can read the @entity18 database and it is also possible to read the chats from the encrypted databases			2
+' @entity73 did n’t need to buy @entity18 to read your chats			2
+' @entity18 said the claims have been overstated			1
+' we are aware of the reports regarding a ‘ security flaw , ’ it told @entity80			0
+' unfortunately , these reports have not painted an accurate picture and are overstated			0
+' under normal circumstances the data on a microsd card is not exposed			0
+' however , if a device owner downloads malware or a virus , their phone will be at risk			0
+' as always , we recommend @entity18 users apply all software updates to ensure they have the latest security fixes and we strongly encourage users to only download trusted software from reputable companies			1
+
+security expert *published* ' proof of concept ' complete with code
+could allow rogue apps to sens a chat *history* to hackers
+@entity18 says claim is ' overstated '
+
+@entity2:Android
+@entity7:Dutch
+@entity6:Bosschert
+@entity24:Bas Bosschert
+@entity5:WhatApp
+@entity18:Whatsapp
+@entity80:TechCrunch
+@entity51:Hello World
+@entity55:FlappyBird
+@entity66:iPhone
+@entity65:Windows Phone
+@entity73:Facebook

@@ -1,0 +1,33 @@
+http://web.archive.org/web/20140928071940id_/http://www.dailymail.co.uk/sciencetech/article-2438556/Could-iPhone-detect-earthquake-MEMS-sensors-create-real-time-seismic-activity-map.html
+
+by @entity0 collecting accurate , real - time data on earthquakes has always been a problem for seismologists			0
+but a tiny sensor found in smartphones could help fill in the gaps by instantly turning your mobile phone into an earthquake sensor			0
+the chip , originally intended to change the orientation of the screen , can detect earthquakes greater than a magnitude of 5 , according to a new study			1
+@entity23 is also used in laptops to detect the motion of falling , and in computer games to sense movement and speed			2
+@entity37 and @entity38 , both seismologists at the @entity40 in @entity41 , wanted to see whether the sensor could also reliably detect ground motion caused by earthquakes			2
+the test showed that the @entity23 accelerometers could detect moderate to strong earthquakes , greater than magnitude 5 , such as the one that hit @entity50 earlier this month they tested the @entity23 accelerometer in an @entity53 and compared it to the earthquake sensor @entity56 force balance accelerometer			1
+the test showed that the @entity23 accelerometers could detect moderate to strong earthquakes , greater than magnitude 5 , when located near the epicentre			1
+the researchers believe the technology will soon be advanced enough to detect quakes less than magnitude 5			1
+the real advantage , they say , is the widespread use of mobile phones and laptops that include @entity23 technology , making it possible to dramatically increase coverage when strong earthquakes occur			2
+video : the @entity72 app developed by @entity73 their hope is to create an urban seismic network that could transmit real - time ground motion data to a central location			0
+this is n’t the first time that smartphone sensors have been used to detect earthquakes			1
+a few years ago , @entity73 , @entity83 released the free @entity72 app which turns your @entity53 into an earthquake - measuring device			0
+any possible earthquake triggers are measured by your phone and instantly streamed back to our @entity73 servers for further processing and map generation			0
+‘ the dense network of recorded shaking intensity data , and eventually other information , will have a significant impact on academia , industry , and government , ’ said the research team .			0
+
+@entity23 sensors can detect earthquakes greater than a magnitude of 5
+the chip is used in smartphones to change the orientation of the screen
+the technology will soon be advanced enough to detect *smaller* quakes
+
+@entity23:MEMS
+@entity0:Ellie Zolfagharifard
+@entity37:Antonino D'Alessandro
+@entity56:EpiSensor ES-T
+@entity38:Giuseppe D'Anna
+@entity53:iPhone
+@entity50:Pakistan
+@entity40:National Institute of Geophysics and Volcanology
+@entity41:Italy
+@entity83:Berkeley
+@entity73:University
+@entity72:iShake

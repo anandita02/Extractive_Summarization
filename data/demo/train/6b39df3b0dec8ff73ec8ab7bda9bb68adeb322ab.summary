@@ -1,0 +1,138 @@
+http://web.archive.org/web/20130729071635id_/http://www.cnn.com/2012/06/13/tech/innovation/apple-ios6-impressions
+
+-- at @entity2 , @entity1 unveiled the next generation of @entity4 , its mobile operating system			1
+@entity4 6 sports more than 200 new features and upgrades — including the new @entity9 , deep @entity11 integration and improvements to @entity13			1
+although @entity15 wo n't be available on compatible devices until sometime this fall , the first beta build is currently available to developers			1
+we 've installed @entity15 on our new @entity21 ( 64gb @entity20 model ) and poked around with the new features			1
+while it is clear that this is a beta — certain features are n't fully baked , and there is some crashing and inconsistency with a few existing apps — it 's equally clear that this is a solid @entity15 update			1
+@entity0 : @entity4 6 : everything you need to know because we 've tested @entity15 6 on an @entity21 and not an @entity33 , we ca n't explore all of the new @entity15 features			1
+but this release , more than any other , is intended to unify @entity15 across platforms			1
+maps @entity1 's decision to eschew @entity39 in @entity15 is a big deal			1
+mapping and location are an integral part of the modern smartphone experience			0
+@entity39 and @entity45 own their own mapping technologies , and it makes sense that @entity1 would want to make good on some of its mapping investments			1
+these include @entity50 , @entity51 and @entity52			0
+the 3d models from @entity52 are immediately evident in @entity1 's new mapping app — at least , in the areas that have already been rendered			1
+in our tests , certain areas — including @entity57 and the @entity58 at 1 @entity59 — had beautiful 3d terrain overlays			0
+in @entity64 , however , those images looked pretty bad			0
+but again , this is a beta			0
+the street mapping aspect of the new @entity68 app pulls in data from @entity70 and from what we can tell , @entity73			0
+@entity75 technology helps power the @entity77			0
+while we have n't had a chance to go hands - on in a car with @entity77 , in our walking tests , it worked as you would expect			2
+what did n't work as we expected was transit directions , and this could be a real wrinkle for @entity1			1
+in monday 's @entity90 , @entity1 's @entity89 said that the company would highlight transit apps from the @entity93 in its mapping product			1
+at the time , i took this to mean that it would highlight other location apps			0
+what i did n't realize is that @entity1 is actually going to rely on these apps to power the transit directions within @entity4			1
+now , we do n't know what the final version of this product will look like — but if this means users will need to download a local area transit map or schedule tool in order to get transit directions in @entity15 , that 's going to be a problem for many thousands of users that rely on their iphones for public transit directions on a daily basis			1
+i like third - party transit apps as much as the next person			0
+but i also really , really like having a schedule built into my main mapping client , so i can quickly get directions in an area where i do n't know the bus or train route layout			2
+that quibble aside , our first experience with @entity1 's new @entity9 app is positive			1
+in fact , with the exception of @entity77 nav , it does n't feel that much different than the @entity39 app. that 's a good thing			1
+facebook integration we 've already detailed a bit about how @entity11 's integration with @entity15 works			1
+at this very early stage , the @entity11 / @entity4 6 integration works in a way that 's nearly identical to @entity140 's current integration with @entity141			1
+that is to say , it 's part of the system — if you want it to be — and third - party apps can plug into the architecture for even better use			1
+for sharing photos and websites , the ability to share directly to @entity11 is great			2
+in @entity153 and the @entity155 app , you can easily post to your @entity11 account			0
+you can also choose what level of visibility you want a post to have and attach a @entity11 location to the object you are sharing			2
+for now , videos can not be shared directly to @entity11 — only @entity163			0
+but we expect that to change in the future			0
+the real potential of the @entity11 integration is within the @entity93			0
+users can now " like " an app directly from the @entity93 on @entity11 , and see what apps their friends like			0
+this also works for @entity173			0
+apps that hook into the @entity11 login in @entity15 need only request permission to do so once			1
+actions still need to be explicitly performed ; users just do n't have to initiate a login each and every time			2
+the nice part of all of this is that users can revoke access to an app at any time from the @entity11 panel in the @entity188 app. this makes it easy to turn a feature on or off , without having to mess with a bunch of hard - to - find settings			0
+as for contacts and events and birthday integrations — these are nice features			2
+@entity199 has had them since its inception			0
+many @entity203 skins , such as @entity204 , also include the option			0
+we appreciate that users can use @entity11 but opt not to link a calendar or address book with the service			0
+siri @entity13 is finally on the @entity21 ! well , the new @entity21 , at least			1
+@entity13 works just as you would expect it to — except it now hooks into @entity70 , @entity214 , @entity215 , various sports score services and more			1
+users can also now launch apps , post to @entity11 and send tweets with their voice			0
+in our tests , @entity13 worked as expected , though we did run into a few problems posting to @entity140			1
+still , the service works quite seamlessly on the @entity21			2
+for us , the more command - like nature of @entity13 — and the fact that various @entity4 tasks can now be started using voice commands — is a great step forward			2
+@entity230 sharing , @entity153 , @entity231 and more one of the features i 'm really excited to use with @entity15 is the new @entity235 shares that are part of @entity237			1
+users can quickly and easily share groups of photos to a select group of other users			0
+just find your photo , choose " @entity230 " from the share menu and add your contacts			0
+you can choose to make the collection private or visible on @entity237			0
+users can then comment on photos and add their own to the collections			0
+removing a photo from a @entity230 will remove it from everyone 's device			2
+it 's a bit like @entity256 , but baked into the os and tied to @entity237			2
+another new feature in @entity15 is the ability to @entity231 over @entity259 or @entity260			2
+i tested this by calling my phone from my @entity21			1
+it worked exactly as you would expect			0
+my only concern with this sort of feature is that it has the potential to use up more bandwidth than users might expect			0
+keep an eye on your data usage			0
+@entity153 for @entity15 has a redesigned sharing menu — icon - based this time — and the ability to sync with tabs across other @entity237 devices			1
+you can also now read items from @entity283 offline — which can act as a low - level replacement for @entity285 , @entity286 or @entity287			0
+in my experience , heavy users of those services ( including myself ) are unlikely to give them up for the built - in options , but it 's a great way to introduce the concept of reading later to more people			2
+mail @entity296 has received a few updates in @entity15 , most notably with the ability to finally inserts photos or videos in a message directly from the @entity296 app. it 's about time			1
+users can also craft different signatures on a per - mailbox basis			0
+@entity1 has also introduced a new vip feature that allows users to highlight email from important contacts in their own folder and with their own notification system			1
+if you get as much email as i get , that 's a great feature			0
+the early verdict i 'm very excited about the potential of @entity15			2
+the first beta is remarkably stable and the new features are welcome			0
+still , as with all @entity15 releases , the most interesting bits are usually what happens on the backend and not the flashiest user - facing features			1
+some of the early criticism of @entity15 is that it is n't enough to compete with @entity203 or @entity199			1
+i do n't think this is true at all			0
+third party apps are what define modern smartphones and tablets and in that respect , @entity1 remains the platform of choice for developers			1
+with @entity15 , it looks like developers will have even more options to create great apps for users			2
+plus , this is just a taste — as the months go on , i expect we 'll learn even more about what unearthed secrets remain in the @entity15 what are you most excited about in @entity15 ? let us know in the comments			2
+
+@entity1 introduced the next generation of its mobile operating system , @entity15 6 , this week
+while certain features are n't fully baked yet , it 's clear that this is a solid @entity15 update
+the @entity15 platform has heavily integrated *social* media and sharing functions with @entity13
+we tested @entity15 6 on an @entity21 and not an @entity33 , so we ca n't explore all its new features
+
+@entity20:Verizon LTE
+@entity21:iPad
+@entity15:iOS
+@entity256:Glassboard
+@entity259:3G
+@entity153:Safari
+@entity89:Scott Forstall
+@entity155:Photos
+@entity214:OpenTable
+@entity2:WWDC 2012
+@entity1:Apple
+@entity0:MASHABLE.com
+@entity237:iCloud
+@entity199:Windows Phone
+@entity235:PhotoStream
+@entity9:Maps
+@entity52:C3 Technologies
+@entity51:Placebase
+@entity50:Poly9
+@entity57:Cupertino
+@entity75:TomTom
+@entity59:Infinite Loop
+@entity58:Apple Campus
+@entity70:Yelp
+@entity73:Open Street Map
+@entity33:iPhone
+@entity13:Siri
+@entity68:iOS Maps
+@entity11:Facebook
+@entity215:Rotten Tomatoes
+@entity39:Google Maps
+@entity77:Turn-By-Turn
+@entity173:Music and Movies
+@entity296:Mail
+@entity231:FaceTime
+@entity203:Android
+@entity230:Photo Stream
+@entity93:App Store
+@entity260:4G
+@entity204:HTC Sense
+@entity188:Settings
+@entity163:YouTube
+@entity140:Twitter
+@entity141:iOS 5
+@entity4:iOS
+@entity283:Reading Lists
+@entity45:Microsoft
+@entity90:WWDC Keynote
+@entity287:Readability
+@entity286:Pocket
+@entity285:Instapaper
+@entity64:New York City

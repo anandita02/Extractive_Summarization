@@ -1,0 +1,121 @@
+http://web.archive.org/web/20141022143629id_/http://www.cnn.com:80/2012/11/03/politics/internet-voting
+
+-- hail ! to the victors valiant hail ! to the conqu'ring heroes hail ! hail ! to @entity3 , the champions of the @entity5 ! what in the name of a @entity10 does the @entity7 fight song have to do with why , in the second decade of the 21st century , we can not vote online for president ? " from a security point of view , it is an insane thing to do , " @entity13 , a computer scientist at @entity14 and chairman of @entity16 , told @entity17 in march			1
+in this election cycle , estimates are that about 3.5 million voters in 32 states and the @entity24 will be able to use their keyboards for at least some portion of the voting process , most of them military service members or @entity29 living overseas			1
+" the biggest concern i have about internet voting is that we do n't know how to do it securely			1
+it sounds wonderful but it 's an oxymoron			0
+we do n't have @entity43 experts who know how to secure big pieces of the internet from attack , " @entity36 , an expert in cryptology and a professor at the @entity39 , told a conference last year at @entity41			2
+meanwhile , there remain concerns about the voting machines currently in use			1
+" this is a national security issue			0
+it should really be handled by the @entity54 , " said @entity52 and he should know			0
+@entity52 led a team at the @entity56 in @entity57 , a research arm of the @entity29 @entity59 , in one of the most disturbing e-voting machine hacks to date , in the view of @entity63 , proprietor of the @entity64 and a vocal critic on the subject of voting machine security			2
+how secure is your electronic vote ? @entity70 on the cheap call it hacking on the taxpayers ' dime -- and on the cheap , too			0
+voting machines used by as many as a quarter of @entity29 voters heading to the polls in 2012 can be hacked with just $ 10.50 in parts and an 8th - grade science education , @entity63 reported in a review of the experiment			1
+" ... the @entity56 team 's attack required no modification , reprogramming , or even knowledge , of the voting machine 's proprietary source code			2
+it was carried out by inserting a piece of inexpensive ' alien electronics ' into the machine , " he wrote			0
+this is just one of several hacks in recent years designed to reveal vulnerabilities in voting machines , including one in which the video game @entity98 was installed on a voting machine			1
+if you want to know what types of equipment your state uses for voting , check out www.verifiedvoting.org			2
+according to the group 's website : â € ¢ one - quarter of the nation 's registered voters will use paperless electronic voting machines that provide no paper record of votes cast			1
+in six states ( @entity116 , @entity117 , @entity118 , @entity119 , @entity120 and @entity121 ) there is only paperless electronic voting			2
+in five states ( @entity126 , @entity127 , @entity128 , @entity129 and @entity130 ) , the heavy majority of ballots cast are paperless			0
+â € ¢ two - thirds of @entity29 voters use paper ballots			2
+in 19 states , voters will use paper ballots statewide			2
+in 13 states and the @entity24 , optical scan voting will account for the majority of ballots			1
+â € ¢ thirty - three states plus the @entity24 provide a paper record for every vote cast			1
+that may be a paper ballot or a printout that the voter can view before casting a ballot on an electric machine			1
+@entity149 has election officials scrambling ' voting systems frequently fail ' check out countingvotes.org for a ranking of the states based on voting equipment security			2
+this survey -- released in july by the @entity156 , the @entity157 and @entity158 -- found that more than 300 voting machine problems were reported in the 2010 midterm elections and more than 1,800 in the 2008 general election			2
+" every national election since 2000 has shown us the same thing : voting systems frequently fail , " the study said			1
+" when they fail , votes are lost			0
+voters in jurisdictions without paper ballots or records for every vote cast , including military and overseas voters , do not have the same protections as states that use paper ballot systems			1
+" now , back to " @entity178			0
+" several weeks before the november 2010 election , @entity7 computer science professor @entity179 and his students penetrated the @entity24 's pilot project of an internet - based voting system for overseas voters			1
+granted , the district did challenge experts to test its system			1
+" our objective was to approach the system as real attackers would : starting from publicly available information , we looked for weaknesses that would allow us to seize control , unmask secret ballots , and alter the outcome of the mock election , '' @entity179 and the team wrote in a paper published earlier this year			1
+the @entity3 team changed votes , reportedly casting one in a school board race for @entity204 , a robot from the animated series " @entity207 , " found voters ' personal information , took control of remote cameras in the computer room and -- more worryingly -- found evidence of other attacks originating in @entity215 , @entity216 and @entity217			0
+" within 48 hours of the system going live , we had gained near complete control of the election server			1
+we successfully changed every vote and revealed almost every secret ballot			2
+election officials did not detect our intrusion for nearly two business days and might have remained unaware for far longer had we not deliberately left a prominent clue , " they reported			0
+a telltale clue oh , yes , that clue : the @entity7 fight song played when a ballot was submitted			2
+" nevertheless , it took two business days for officials to become aware of the infiltration , " the paper noted			2
+the @entity3 crew shared its findings with @entity24 election officials , who opted not to use the system in november 2010			1
+while the @entity24 officials acknowledged that , " ... we learned many valuable lessons " they maintained : " even more , voters expect that there will be a day when online voting will be as simple as paying bills or paying taxes			1
+while there will always be citizens who choose to file their taxes on paper and there will always be voters who wish to visit their local polling place on @entity253 , election officials know that voters expect , one day , to cast their ballot from their laptop			1
+" that day already is a reality in the @entity259 nation of @entity260 , " the envy of the digital world " and " among the most wired and technologically advanced countries in the world , " @entity260 is the leader in internet voting , @entity0 reported a year ago			0
+critics say that the challenges of secure internet voting in @entity260 , a nation of 1.34 million people , pale in comparison with those in the @entity29 , where roughly 100 times that number of people voted in the 2008 presidential election			0
+at the conference in @entity277 last year , @entity36 estimated that mass online voting in the @entity29 was at least two decades away from reality			1
+@entity130 leads the way one of those who had seen the dawning of that day is @entity130 secretary of state @entity283			0
+during the 2010 general election , 125 @entity130 voters , in the military and overseas , cast ballots online			0
+in a paper published this year , @entity283 wrote : " to date , no significant deficiencies or concerns have been identified with the @entity130 online voting pilot			1
+in short , what @entity130 did worked			0
+it was a small program that helped an admittedly small group of voters cast their ballot more conveniently			0
+there were 125 opportunities for something to go wrong , but to our knowledge , nothing did			0
+" @entity283 said that for members of the armed forces , particularly those stationed in war zones , being able to vote was meaningful			0
+@entity283 made this plea to skeptics : " instead of continuing to focus on the shortcomings of internet voting , opponents could help strengthen it			0
+computer experts could lend their skills to developing encryption software that guarantees that each ballot is securely transmitted			0
+election officials could help voters better understand how the process works			0
+" internet voting should be a safe , secure , accessible option for voters			0
+it is time that we , as a society , agree that our voting is far too sacred to compromise -- and that at some point in time this sacred right and accessible technology must intersect			0
+i believe the time to explore that is now , " @entity283 said			0
+companies touting online voting are confident they are the future			1
+" i believe everyone will have the option of voting online , certainly within our lifetime , " @entity335 , chief executive officer of everyone counts , a @entity338 - based internet voting company that provides services in several states , told @entity341 .			1
+
+expert says going to online voting now would be ' insane '
+report finds that machines can be hacked for as little as $ 10.50 in parts
+voting machines without paper ballot backup " is not acceptable , " another study finds
+within 48 hours of going live , hackers had nearly taken over @entity24 test system
+
+@entity98:Pac Man
+@entity24:D.C.
+@entity29:United States
+@entity121:South Carolina
+@entity117:Georgia
+@entity116:Delaware
+@entity158:Common Cause
+@entity253:Election Day
+@entity277:Connecticut
+@entity259:North European
+@entity157:Rutgers University Law School
+@entity156:Verified Voting Foundation
+@entity119:Maryland
+@entity118:Louisiana
+@entity3:Michigan
+@entity215:Iran
+@entity216:China
+@entity0:CNN
+@entity7:University of Michigan
+@entity5:West
+@entity179:Halderman
+@entity178:Hail to the Victors
+@entity10:Wolverine
+@entity130:West Virginia
+@entity52:Johnston
+@entity57:Illinois
+@entity56:Argonne
+@entity54:Department of Homeland Security
+@entity59:Department of Energy
+@entity341:The Wall Street Journal
+@entity70:Hacking
+@entity17:Computerworld
+@entity16:Verified Voting
+@entity14:Lawrence Livermore National Laboratories
+@entity13:David Jefferson
+@entity36:Rivest
+@entity39:Massachusetts Institute of Technology
+@entity217:India
+@entity128:Texas
+@entity129:Tennessee
+@entity126:Indiana
+@entity127:Pennsylvania
+@entity207:Futurama
+@entity260:Estonia
+@entity120:New Jersey
+@entity204:Bender
+@entity149:Sandy
+@entity283:Tennant
+@entity335:Lori Steele
+@entity338:San Diego
+@entity41:Central Connecticut State University
+@entity43:Internet
+@entity64:Brad Blog
+@entity63:Friedman

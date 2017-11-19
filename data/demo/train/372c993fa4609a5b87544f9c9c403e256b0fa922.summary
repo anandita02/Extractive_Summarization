@@ -1,0 +1,58 @@
+http://web.archive.org/web/20150404091025id_/http://www.cnn.com/2013/10/29/politics/obamacare-warning/
+
+the @entity1 administration was given stark warnings just one month before launch that the federal healthcare site was not ready to go live , according to a confidential report obtained by @entity6			1
+read documents the caution , from the main contractor @entity9 , warned of a number of open risks and issues for the @entity15 web site even as company executives were testifying publicly that the project had achieved key milestones			1
+on @entity19 on tuesday , medicaid chief @entity20 , whose job it was to oversee the october 1 rollout of the website , said she did not foresee its problems			1
+" no , we had tested the website and we were comfortable with its performance , " she said			2
+" now , like i said , we knew all along there would be as with any new website , some individual glitches we would have to work out			2
+but , the volume issue and the creation of account issues was not anticipated and obviously took us by surprise			2
+and did not show up in testing			0
+" @entity20 : sorry for problems , but system working 5 things we learned from tuesday 's hearing but the @entity9 document , which describes " top risks currently open " and " outstanding issues currently being mitigated " says the testing timeframes are " not adequate to complete full functional , system , and integration testing activities " and lists the impact of the problems as " significant			1
+" another element is listed as " not enough time in schedule to conduct adequate performance testing " and given the highest priority			0
+@entity15 : what works and what does n't ? @entity9 had no comment other than to confirm authenticity of the report that also gave " the highest priority " and warns " we do n't have access to monitoring tools " and " hub services are intermittently unavailable " -- short for the " site 's not working sometimes			1
+" one concern , listed as " severe , " warned , " @entity9 does not have access to necessary tools to manage envs in test , imp , and prod			2
+specifically ( 1 ) we do n't have access to central log collection / view ( 2 ) we do n't have access to monitoring tools			0
+we have repeatedly asked @entity74 and @entity75 but have not been granted this access			0
+" the report , which documents issues from august 2013 and was sent to at least one employee at @entity74 by an executive at @entity9 on september 6 , was submitted in response to a request by the @entity83 , which is now investigating the rollout of the health law			1
+earlier : contractors blame government for @entity89 website woes e-mail addresses and some names on the document were redacted before it was obtained by @entity6			1
+@entity9 also said in the document they were putting a team in place to alert whenever the hub goes down			0
+@entity96 : @entity89 site partially restored after another outage @entity74 pointed to part of the report that said all " upcoming major milestones " were seen as " on track			1
+" @entity103 , an agency spokesman , said the report was " not a dire warning " but more of a " list of things to do " if read in full			1
+" what 's been done , what needs to be done , what needs to be resolved			0
+it is misleading to cherry pick a few lines , " he said , adding that the report identified issues and " we worked to address those issues and all issues identified			1
+" it is not clear if a later report detailed that the issues were resolved			1
+but the warnings run counter to health secretary @entity123 ' stated optimism to @entity6 's @entity124 that when she woke up october 1 , things would go smoothly			2
+@entity126 , a senior vice president for @entity127 told lawmakers on @entity19 october 25 , " no one ever gets enough time for testing			0
+" @entity126 , whose company has a contract worth a possible total of more than $ 200 million for its work on the system , noted than an end - to - end test conducted within two weeks of the launch caused the system to crash			0
+she said it was up to @entity74 to decide on proceeding with the rollout			0
+@entity126 did not raise any alarm bells on @entity19 back in september , when she told a @entity9 was confident it could get the job done			0
+" to date , the marketplace implementation has achieved all of its key milestones from the initial architecture review in october 2011 to project baseline review in march 2012 and , most recently , the operational readiness review in september 2013 , " before the website went live			1
+up on @entity19 on tuesday , @entity153 , kicked off testimony by saying she 's sorry for the @entity89 rollout			0
+" we know that consumers are eager to purchase this coverage and to the millions of @entity161 who have attempted to use healthcare.gov to shop and enroll in healthcare coverage , " she said			0
+" i want to apologize to you that the website has not worked as well as it should			0
+" it was a big switch from august , before @entity9 's report , when @entity20 told lawmakers the rollout was " on track			1
+" " @entity74 is ready for october 1 and we 're motivated and ready for the hard work ahead , " she said at that time			0
+related : government memo warned of high security risk at website @entity96 : security hole found in @entity89 website			2
+
+a confidential report obtained by @entity6 details warning that site was n't ready to go live
+the main contractor warned of a number of open risks and issues for @entity15
+agency overseeing website said it addressed problems , was told project on track
+
+@entity75:URS
+@entity20:Tavenner
+@entity161:Americans
+@entity6:CNN
+@entity9:CGI
+@entity1:Obama
+@entity19:Capitol Hill
+@entity126:Campbell
+@entity103:Brian Cook
+@entity15:HealthCare.gov
+@entity74:CMS
+@entity89:Obamacare
+@entity153:Tavenner
+@entity127:CGI Federal
+@entity124:Sanjay Gupta
+@entity83:House Oversight Committee
+@entity123:Kathleen Sebelius
+@entity96:CNNMoney

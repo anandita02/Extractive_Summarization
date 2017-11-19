@@ -1,0 +1,11 @@
+http://web.archive.org/web/20130129051414id_/http://edition.cnn.com:80/2008/WORLD/africa/06/20/mandela.gallerylife/index.html
+
+@ highlight @entity1 became leader of @entity3 in early 1960s			0
+
+@entity5 *awarded* to @entity1 in 1993
+@entity1 *elected* @entity8 *'s* first *black* *president* in 1994
+
+@entity3:ANC
+@entity1:Mandela
+@entity8:South Africa
+@entity5:Nobel Peace Prize

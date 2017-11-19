@@ -1,0 +1,53 @@
+http://web.archive.org/web/20150702201422id_/http://www.dailymail.co.uk/sciencetech/article-2867259/The-end-best-dates-Sensor-tell-phone-food-fridge-gone-mouldy-detecting-gases.html
+
+imagine the scenario : you ’re at work , when your smartphone tells you some of the vegetables in your fridge at home have gone off , letting you know to pick more up on the way home			1
+that ’s one of the potential uses of a new technology developed by researchers at the @entity15 ( @entity15 )			1
+using a simple sensor that can be read by a smartphone , they have devised a way to wirelessly detect hazardous gases and pollutants			1
+@entity15 ( @entity15 ) researchers have developed a method to detect hazardous gases and pollutants			1
+they modified @entity25 chips ( shown ) to make them detect things in their environment , and the information could then be sent to your phone the sensors are made using modified near - field communication ( @entity25 ) tags			1
+these tags , which receive the little power they need from the device reading them , function as wirelessly addressable barcodes			2
+among their many uses they can be used to make wireless payments with an @entity25 - enabled smartphone			1
+@entity25 tags can be read by any smartphone that has near - field communication capability			2
+these phones can send out short pulses of magnetic fields at radio frequency ( 13.56 megahertz ) , inducing an electric current in the circuit on the tag , which relays information to the phone			1
+to adapt these tags for their own purposes , the @entity15 team first disrupted the electronic circuit by punching a hole in it			2
+then , they reconnected the circuit with a linker made of carbon nanotubes that are specialised to detect a particular gas			0
+the team refers to the modified tags as @entity68 ( chemically actuated resonant devices )			0
+when carbon nanotubes bind to the target gas , their ability to conduct electricity changes , which shifts the radio frequencies at which power can be transferred to the device			0
+when a smartphone pings the @entity79 , it responds only if it can receive sufficient power at the smartphone - transmitted radio frequencies , allowing the phone to determine whether the circuit has been altered and the gas is present			0
+but now the researchers have found that with a small modification , the chips can be used to detect the presence of gases			1
+to adapt them for their own purposes , the team disrupted the electronic circuit by punching a hole in it			0
+then , they reconnected the circuit with a linker made of carbon nanotubes that are specialised to detect a particular gas			0
+using this system , the researchers have demonstrated that they can detect gaseous ammonia , hydrogen peroxide and cyclohexanone , among other gases			1
+for now , the technology must rely on the phone being within five centimetres of the sensor			1
+but the researchers are working on a bluetooth technology to expand the range			2
+senior author of the paper and professor of chemistry at @entity15 dr @entity113 told @entity114 this could have a variety of uses			2
+‘ it is ideal for large volume applications wherein consumers can check for example freshness of food for themselves , ’ he said			0
+‘ you could have a @entity25 system in your fridge that reads the sensor and then uploads data to a device that you can read from a distance			1
+‘ alternatively you could imagine consumers putting up their own sensor networks to monitor , for example air quality in a building			0
+’ in a video detailing the technology it ’s also shown how it could be used to detect explosives in packages			1
+the demonstration shows the direct detection of peroxide explosives while cyclohexanone , a vapour that is typically given off from plastic explosives , can also be detected			0
+dr @entity113 told @entity114 the technology could have a variety of uses			0
+‘ it is ideal for large volume applications wherein consumers can check for example freshness of food for themselves , ’ he said			0
+‘ you could have a @entity25 system in your fridge that reads the sensor ' ( stock image shown ) dr @entity113 added in a separate news release from @entity15 : ‘ the beauty of these sensors is that they are really cheap			1
+you put them up , they sit there , and then you come around and read them			0
+there 's no wiring involved			0
+‘ you can get quite imaginative as to what you might want to do with a technology like this			0
+’ the researchers have filed for a patent on the sensing technology and are now looking into possible applications			2
+because these devices are so inexpensive and can be read by smartphones , they could be deployed nearly anywhere : indoors to detect explosives and other harmful gases , or outdoors to monitor environmental pollutants			1
+once an individual phone gathers data , the information could be uploaded to wireless networks and combined with sensor data from other phones , allowing coverage of very large areas			2
+the research was published in a paper in the @entity196 .			0
+
+@entity15 researchers have developed a method to detect hazardous gases and pollutants
+they modified @entity25 chips to make them detect things in their environment
+when a phone came near it could then be given the information
+the technology could be *improved* to send *alerts* over distances
+for example , when vegetables in your fridge go off , the sensor could trigger a device that sends a reminder to your phone to get more food
+it could also be used to detect explosives in packages
+
+@entity15:Massachusetts Institute of Technology
+@entity25:NFC
+@entity196:Proceedings of the National Academy of Sciences
+@entity114:MailOnline
+@entity113:Swager
+@entity68:Cards
+@entity79:Card

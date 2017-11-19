@@ -1,0 +1,59 @@
+http://web.archive.org/web/20140520010445id_/http://www.cnn.com:80/2013/04/17/opinion/rinaudo-robots
+
+-- at @entity2 , we are obsessed with robots			2
+we 're a team of nerds , and we grew up watching science fiction that prominently featured robots doing extraordinary things to help or protect their human counterparts			1
+we figured that as adults , our lives would be better because of robots			1
+unfortunately , that has n't happened yet , and robots remain one of the great unfulfilled promises of science fiction			2
+we think that 's going to change over the next decade			0
+first , the barriers to entry in robotics that have typically precluded individuals or small teams from building robots are falling away			2
+the rise of cheap rapid - prototyping tools like @entity28 printers is making it possible for just about anyone to design and print physical products from the comfort of their homes			2
+moreover , open - source electronics platforms like @entity36 mean that hobbyists can now create custom electronic systems without having to go through the expensive process of manufacturing custom circuit boards			2
+also , crowdfunding websites like @entity42 are making it possible for companies to test the traction of new robots and secure initial orders before choosing to scale production			0
+even more importantly , the ubiquity of smart devices is changing the way that people are thinking about robotic controllers and robots themselves			1
+smart phones today have powerful processors , an array of sensors , and a user interface that everyone already understands			1
+these are crucial assets for a robot , and many startups are now exploring the possibilities of using smart devices as controllers or even brains for a wide variety of robotic creatures			0
+finally , the ubiquity of @entity72 and data networks means that robots can be designed with the web in mind			1
+this will ultimately allow teams to build much lighter , more affordable hardware platforms on the assumption that any computationally intensive tasks can be offloaded to the cloud			0
+instead of needing to load every possible routine onto a robot before it ships , designers will be able to build robots that will download new " apps " on a situation - by - situation basis			1
+basically , the cloud will make it possible to build cheaper robots that learn new things over time			1
+but there 's still a lot of work to do			0
+in the @entity75 and mobile ecosystems , a lot of the most incredible innovations over the last decade have been design innovations			0
+companies like @entity101 , @entity102 , and @entity103 are n't revolutionary because they pushed human technology forward ; they are revolutionary because they made technology more usable			0
+surprisingly , the exact opposite trend has occurred in robotics			0
+at a research level , there have been incredible technological innovations over the last 10 years			0
+see this striking example , or this one			0
+but these systems are too expensive and complicated for nontechnical people to buy and use			0
+as we think about how robots will begin helping us in all different aspects of our lives over the next decade , we believe that design innovation in robotics will be at least as important as tech innovation in finally making robots available to a majority of people in the world			1
+and we think that it wo n't be until robots are truly accessible -- 14 - year - olds hacking on @entity72 - connected , computer - vision - capable robots in their garages on the weekends -- that innovation in robotics will really take off in earnest			1
+my company , @entity2 , builds a small , affordable robot that uses an iphone as his brain			0
+@entity141 can learn new things over time and can stream two - way video with any @entity146 device , anywhere in the world			0
+in order to become part of our daily lives , robots will need to be friendly , simple , and robust			1
+@entity141 is a small step in that direction			0
+@entity156 , longtime president of the @entity157 , said that people tend to overestimate the effect of a new technology in the short run and underestimate the effect over the long term			0
+that 's absolutely the case in robotics , where it 's easy to dismiss early attempts as toys but hard to imagine how robots will fundamentally change our lives over the next few decades			1
+robots will be able to guard your house while you 're away , babysit your kids , or keep you company when you 're alone			1
+drones could tend to gardens and farms while people control telepresence robots on the other side of the world via heads - up displays like @entity187			1
+corporations are n't going to build these robots , but hackers will			2
+that 's why making robotics accessible and affordable is so important , and why i believe we 're finally poised to build the robots that we fell in love with in sci - fi movies decades ago			1
+the opinions expressed in this commentary are solely those of @entity200 .			2
+
+@entity200 : his company is a team of nerds with sci - fi **dreams** of robots that *enhance* lives
+he says *combination* of smart phones , @entity72 and the cloud enables **dreams** to become real
+hackers are in position to innovate with robots in many ways , he says
+
+@entity2:Romotive
+@entity146:iOS
+@entity0:CNN
+@entity141:Romo
+@entity36:Arduino
+@entity28:3-D
+@entity187:Google Glass
+@entity101:Twitter
+@entity102:Pinterest
+@entity103:Airbnb
+@entity42:Kickstarter
+@entity75:Web
+@entity200:Keller Rinaudo
+@entity157:Institute for the Future
+@entity156:Roy Amara
+@entity72:Wi-Fi

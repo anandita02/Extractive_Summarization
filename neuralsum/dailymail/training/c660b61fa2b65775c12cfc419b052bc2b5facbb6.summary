@@ -1,0 +1,38 @@
+http://web.archive.org/web/20140909211220id_/http://www.dailymail.co.uk/sciencetech/article-2730096/How-green-lights-way-work-Hackers-reveal-simple-control-traffic-lights-major-cities-using-just-laptop.html
+
+by @entity0 researchers have uncovered a series of major security holes in traffic light systems that allowed them to to control 100 signals in @entity6			1
+researchers say there were major flaws in the system , which is used in 40 states across @entity12			1
+. they worked with a local road agency to investigate the problems - and say they found a ' systemic lack of security ' that allowed them to control lights			1
+wirelessly networked traffic lights have four key components			2
+there are sensors that detect cars , controllers that use the sensor data to control the lights at a given intersection , radios for wireless communication among intersections , and malfunction management units ( @entity41 ) , which return lights to safe fallback configurations if an ' invalid ' configuration occurs			2
+for example , if somehow every light at an intersection is green , the system might fall back to having them all become flashing red lights			2
+with permission from a local road agency , the @entity22 researchers hacked into nearly 100 wirelessly networked traffic lights			1
+the team say the flaws they uncovered - which included the use of unsecured wireless networks and default passwords were used - are likely to be founds across the country			1
+' the vulnerabilities we discover in the infrastructure are not a fault of any one device or design choice , but rather show a systemic lack of security consciousness , ' the researchers report in a paper			1
+after gaining access to one of the controllers in their target network , the researchers were able to turn all lights red or alter the timing of neighboring intersections — for example , to make sure someone hit all green lights on a given route			2
+they did not disclose exactly where in @entity22 they did the research			0
+the team , led by @entity22 computer scientist @entity89 , said there were three major weaknesses in the traffic light system : unencrypted wireless connections , the use of default usernames and passwords that could be found online , and a debugging port that is easy to attack			1
+' the safety critical nature of traffic infrastructure requires that it be secure against computer - based attacks , but this is not always the case , ' the team said			0
+' we investigate a networked traffic signal system currently deployed in the @entity12 and discover a number of security flaws that exist due to systemic failures by the designers			2
+' we leveraged these flaws to create attacks which gain control of the system , and we successfully demonstrate them on the deployment			0
+' ' the safety critical nature of traffic infrastructure requires that it be secure against computer - based attacks , but this is not always the case , ' the team said			0
+the team called for manufacturers and operators to improve their systems			0
+' our attacks show that an adversary can control traffic infrastructure to cause disruption , degrade safety , or gain an unfair advantage			0
+' ' they need to be worrying about this and think about security - it needs to be one of their top priorities , ' @entity126 , a graduate student who worked on the project told @entity135			0
+' it 's hard to get people to care about these things in the same way that it 's hard to get people to change their passwords			0
+' researchers said traffic - system administrators should not use default usernames and passwords , and should stop broadcasting communications unencrypted for ' casual observers and curious teenagers ' to see			1
+they also warned that devices like voting machines and even connected cars could suffer similar flaws .			0
+
+claims of a ' systemic lack of security ' in traffic light system
+@entity6 researchers hacked into system used by 40 states
+were able to control signals for 100 lights using a *standard* laptop
+unsecured wireless networks and default passwords were used
+
+@entity22:University of Michigan
+@entity0:Mark Prigg
+@entity6:Michigan
+@entity126:Branden Ghena
+@entity41:MMUs
+@entity135:MIT Technology Review
+@entity89:J. Alex Halderman
+@entity12:United States

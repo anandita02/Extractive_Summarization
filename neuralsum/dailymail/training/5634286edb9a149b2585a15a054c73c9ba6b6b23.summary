@@ -1,0 +1,50 @@
+http://web.archive.org/web/20130618080026id_/http://www.dailymail.co.uk/sciencetech/article-2336341/Gesture-recognition-technology-Fancy-cuppa-Now-switch-kettle-room-using-Wi-Fi-signals-reflected-body.html
+
+by @entity0 published : 12:40 est , 5 june 2013 updated : 12:50 est , 5 june 2013 too lazy to get up to switch the kettle on ? soon you may be able to simply raise your hand or nod your head from another room , and you ’ll be moments away from a fresh cup of tea			0
+this is the hope of researchers at the @entity10 who have developed technology that will allow people to control household devices with simple gestures			1
+the technology , named ‘ @entity16 ’ , is similar in concept to how @entity20 's @entity19 sensor works by using cameras to recognise gestures			1
+the system detects the changes in the electromagnetic waves of @entity31 signals as they reflect off a moving human body by adapting a @entity31 router and wireless household devices , the researchers developed a system that can detect specific movements without the need for sensors or cameras			1
+they claim it is simpler and cheaper than similar gesture - recognition technologies			0
+@entity16 works using the doppler effect - the way a wave of sound or light changes frequency at the point it is observed depending on the source of the wave ’s movements			1
+a common example of the doppler effect is the change in pitch of an ambulance siren as it passes			0
+a standard @entity31 router can be adapted to function as a receiver			0
+this receiver then listens to all of the wireless transmissions coming from devices throughout a home , including smartphones , laptops and tablets			0
+when a person moves , there is a slight change in the frequency of the wireless signal			0
+moving a hand or foot causes the receiver to detect a pattern of changes known as the @entity77 frequency shift			0
+these frequency changes are very small – only several hertz – when compared with @entity31 signals that have a 20 megahertz bandwidth and operate at 5 gigahertz			1
+an algorithm to detect these slight shifts and the system also accounts for gaps in wireless signals when devices are n’t transmitting			0
+if a person wants to use the @entity16 , they would perform a specific repetition gesture sequence to get access to the receiver			0
+once the wireless receiver locks onto the user , they can perform normal gestures to interact with the devices and appliances in her home			1
+the researchers tested these gestures with five users in a two - bedroom apartment and an office environment			2
+out of the 900 gestures performed , @entity16 accurately recognised 94 per cent of them			2
+it was found that as many as five people can move simultaneously in the same room without confusing the receiver			1
+the @entity31 receiver listens to all of the wireless transmissions coming from devices throughout a home , including smartphones , laptops and tablets			2
+when a person moves there is a slight change in the frequency of the wireless signal @entity122 , a doctoral student in computer science and engineering at the university , who has worked with @entity126 on two other similar technologies			0
+@entity128 , which , as its name suggests , uses sound waves to monitor whole - body gestures and @entity132 , which uses radiation from electrical wires			2
+but @entity16 stands apart because it does n’t require the user to be in the same room as the receiver or the device			2
+@entity16 detects the changes in the electromagnetic waves of @entity31 signals as they reflect off a moving human body			1
+when specific gestures are used , it was found that as many as five people can move simultaneously in the same room without confusing the receiver			1
+‘ this is the first whole - home gesture recognition system that works without either requiring instrumentation of the user with sensors or deploying cameras in every room , ’ said @entity146 , who worked on the research project			1
+the researchers now plan to look at the ability to control multiple devices at once			0
+@entity16 detects the changes in the electromagnetic waves of @entity31 signals as they reflect off a moving human body			1
+using a software algorithm , the technology can identify nine different whole - body gestures , ranging from pushing , pulling and punching to full - body bowling			2
+video : @entity165 signals enable gesture recognition in the home			0
+
+system allows users to control home appliances using body movements
+detects tiny changes in @entity31 signals as they reflect off a moving body
+five people can move in the same room without confusing the system
+system , called ' @entity16 ’ , is similar in concept to how the @entity19 sensor uses cameras to recognise gestures - but does *n't* need a camera or sensors
+
+@entity31:Wi-Fi
+@entity16:WiSee
+@entity20:Microsoft
+@entity0:Ellie Zolfagharifard
+@entity165:WiSee Wi-Fi
+@entity10:University of Washington
+@entity146:Qifan Pu
+@entity19:Xbox Kinect
+@entity128:SoundWave
+@entity126:Microsoft Research
+@entity77:Doppler
+@entity122:Collaborator Sidhant Gupta
+@entity132:Humantenna

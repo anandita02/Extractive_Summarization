@@ -1,0 +1,41 @@
+http://web.archive.org/web/20150407102517id_/http://www.dailymail.co.uk/sciencetech/article-2376412/Disney-software-turns-photo-3D-model-create-lifelike-scenes-films-video-games.html
+
+a research team at @entity1 in @entity2 has developed a computer program that can create 3d models from ordinary photographs			2
+using a specially - designed algorithm , the program analyses the light and shade areas of an image to work out the depth of certain objects			1
+it then creates a 3d reconstruction of the scene , which can be used to create lifelike scenes for @entity1 films and video games , and eventually be used to make , or print , accurate models of family portraits , days out or wedding shots			1
+it uses a specially - designed algorithm to analyse the light and shade within an image , highlighted in the red boxes , to determine the depth of objects			1
+the program can then reconstruct the scene multiple , high - resolution photos are taken from different viewpoints of the same scene			0
+the @entity1 program scans the image and analyses the different light rays around objects to work out their respective depths within a scene			1
+an algorithm assess this light ray data to build a 3d reconstruction			2
+once a photo has been scanned and reconstructed it is then rendered , bottom right			0
+these rendered images could be used to create lifelike scenes for @entity1 films and video games however , the program needs multiple photos taken from different angles , of the same scene , to create a full reconstruction			1
+the research is published in a paper called @entity63 from @entity64			0
+its authors @entity67 , @entity68 , @entity69 , @entity70 and @entity71 explain that the software uses ' a method for scene reconstruction of complex , detailed environments from @entity78 light fields ' using light rays to capture the ' real world in unparalleled detail '			1
+previous research and software has been able to capture similar details but has not been able to accurately use the data to reconstruct an accurate image			0
+multiple , high - resolution photos are taken from different viewpoints of the same object			0
+the @entity1 program scans each individual pixel of an image to highlight specific details , such as the nuts and bolts on this truck others , including laser scanning techniques , traditionally produce a less accurate model and the laser - scanned scenes need to be touched up in post production			1
+@entity67 and his team claim that their algorithm solves this problem because it makes ' reliable depth ' predictions around the outline of objects , rather than the object itself			2
+it does this using individual rays of light			0
+objects that do n't have a strong contrast between light and shaded areas are processed using ' fine - to - coarse ' processes that looks at each object , pixel - by - pixel , in closer detail to highlight slight light fluctuations			0
+the authors said : ' this allows our algorithm to retain precise object contours while still ensuring smooth reconstructions in less detailed areas			0
+' once a photo has been scanned and reconstructed it is then rendered , bottom right			0
+these rendered images could be used to create lifelike scenes for @entity1 films and video games the algorithm can then process the light fields information on a standard computer			1
+this method makes the reconstructions ' highly detailed ' and the higher quality the images , the more accurate reconstruction			2
+@entity145 could use the technology to build and create accurate reconstructions of scenes for its films and video games , or the models could be printed			1
+the paper adds : ' scene reconstruction in the form of depth maps , 3d point clouds or meshes has become increasingly important for digitizing , visualizing , and archiving the real world , in the movie and game industry as well as in architecture , archaeology , arts , and many other areas			0
+
+algorithm analyses the depth of objects in an image using light rays
+it works with multiple images of the same scene , taken from different angles
+the 3d reconstructions are more accurate than those produced by other techniques and could be used in @entity1 films or video games
+
+@entity2:Zurich
+@entity1:Disney
+@entity145:Disney Research
+@entity63:Scene Reconstruction
+@entity78:3D
+@entity68:Henning Zimmer
+@entity69:Yael Pritch
+@entity67:Kim
+@entity64:High Spatio-Angular Resolution Light Fields
+@entity71:Markus Gross
+@entity70:Alexander Sorkine-Hornung

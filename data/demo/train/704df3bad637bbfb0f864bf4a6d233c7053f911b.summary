@@ -1,0 +1,54 @@
+http://web.archive.org/web/20111223013913id_/http://www.cnn.com:80/2011/10/17/tech/innovation/cyberattack-exercise-idaho
+
+@entity0 , @entity1 -- forget , for the moment , about computer whiz kids who download copyrighted music for free			1
+forget , too , about sophisticated hackers who can steal identities			1
+focus instead on the next wave of potential computer miscreants -- criminals who can penetrate corporate computer systems to turn valves , start pumps or surge power at factories or electrical plants			1
+they might even be able to hit chemical facilities			1
+those folks are on the minds of the researchers at the @entity23 , where the federal government regularly trains industry leaders on how to protect critical infrastructure from cyberattacks			1
+in the not - so - distant past , instructors here say , security officials relied on the " 3 gs " -- guns , gates and guards -- to protect infrastructure from intrusions			2
+but increasingly mechanical systems inside those gates are being linked to computers and controlled via networks and cyberspace			1
+that has left industrial control systems vulnerable to attack			1
+@entity2 : hackers take aim at real - world targets to demonstrate the vulnerability , the @entity48 and @entity23 in @entity0 recently showed reporters a cyberattack on a mock - up of a chemical facility			1
+in the exercise , a small group of " @entity56 " attackers staged an assault on the chemical plant			2
+a larger group of " @entity62 " defenders sought to protect that mock - up building , which was constructed of barrel - size containers of water connected by pipes and pumps such as those found in chemical plants			1
+the exercise used concepts that are relevant in the real world			1
+among them : exploiting corporate trust the @entity56 attackers , looking for access to the computer network , do n't look for direct access to the control systems they covet			2
+they know the vulnerability is elsewhere -- most likely in the executive offices of the fictitious chemical company			2
+executives frequently have access to internal computers networks , so they 'll have timely access to information about productivity , output and information important to the market			2
+they also frequently have access , perhaps indirectly , to networks that link to control systems			2
+assailants know they can " exploit the trust relationship			0
+" getting a toehold into a system in the @entity1 exercise , @entity56 members get a toehold by phishing , a tactic also used by hackers to steal financial or other information			1
+they send an e-mail that appears to be from a friend or a legitimate organization to a representative , which contains malicious software and which opens a link between the sender 's computer and the corporate computer			0
+subverting a system 's security having established a toehold on the chemical company 's computer , the @entity56 discovers a surveillance camera in the chemical plant 's control room			0
+the camera , intended to safeguard the chemical plant , can now be turned against it			0
+the @entity56 can use the camera to observe the plant 's staffing levels or zoom in on control panels and mechanical devices , gathering information that will help them in their attack			0
+and once the attack is launched , they can each watch their opponent 's response			0
+the ' man in the middle ' in sophisticated attacks , the @entity56 can even insert itself between the machine and the machine 's operator			0
+the team can control the amount of water through a pump , while indicating to the machine 's operator that everything remains normal			0
+@entity151 exercises typically last between eight to 12 hours , and are followed by a " hot wash " in which a " @entity157 " analyzes the attack and reviews ways to prevent attacks and respond to them			0
+fears of online intrusions on industrial control systems are not theoretical			0
+in a then - classified 2007 demonstration at @entity1 , experimenters using computer inputs altered a large electric power generator , causing it to self - destruct			1
+the experiment , known as " @entity167 , " was the first demonstration that attackers could not only turn a mechanical device on or off but could destroy it			0
+then in 2010 , a computer worm known as @entity172 was discovered after it spread indiscriminately but is believed to have targeted equipment used by @entity174 to enrich uranium			0
+the source of the worm has not been identified			0
+@entity48 officials say attacks on industrial systems are occurring			1
+attackers are " kicking on the doors " of industrial systems , said @entity182 , acting deputy under secretary of the department 's @entity185 .			0
+
+officials in @entity1 train for cyberattacks that could affect the real world
+hackers could target chemical plants , factories , water *treatment* centers
+mechanical systems are increasingly linked to computers , making them vulnerable
+
+@entity2:CNN
+@entity1:Idaho
+@entity0:Idaho Falls
+@entity167:Aurora
+@entity23:Idaho National Laboratory
+@entity157:White Team
+@entity182:Greg Schaffer
+@entity185:National Protection and Programs Directorate
+@entity172:Stuxnet
+@entity56:Red Team
+@entity48:Department of Homeland Security
+@entity151:Red Team-Blue Team
+@entity62:Blue Team
+@entity174:Iran

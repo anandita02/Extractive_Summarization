@@ -1,0 +1,85 @@
+http://web.archive.org/web/20111219061245id_/http://edition.cnn.com:80/2011/10/10/tech/innovation/virus-hits-drone-fleet-wired
+
+-- a computer virus has infected the cockpits of @entity6 's predator and @entity5 drones , logging pilots ' every keystroke as they remotely fly missions over @entity10 and other warzones			1
+the virus , first detected nearly two weeks ago by the military 's @entity13 , has not prevented pilots at @entity16 in @entity17 from flying their missions overseas			1
+nor have there been any confirmed incidents of classified information being lost or sent to an outside source			1
+but the virus has resisted multiple efforts to remove it from @entity16 's computers , network security specialists say			1
+and the infection underscores the ongoing security risks in what has become the @entity6 military 's most important weapons system			1
+" we keep wiping it off , and it keeps coming back , " says a source familiar with the network infection , one of three that told @entity35 about the virus			1
+" we think it 's benign			1
+but we just do n't know			2
+" military network security specialists are n't sure whether the virus and its so - called " keylogger " payload were introduced intentionally or by accident ; it may be a common piece of malware that just happened to make its way into these sensitive networks			1
+the specialists do n't know exactly how far the virus has spread			1
+but they 're sure that the infection has hit both classified and unclassified machines at @entity16			1
+that raises the possibility , at least , that secret data may have been captured by the keylogger , and then transmitted over the public internet to someone outside the military chain of command			2
+drones have become @entity6 's tool of choice in both its conventional and shadow wars , allowing @entity6 forces to attack targets and spy on its foes without risking @entity6 lives			1
+since president @entity68 assumed office , a fleet of approximately 30 @entity72 - directed drones have hit targets in @entity73 more than 230 times ; all told , these drones have killed more than 2,000 suspected militants and civilians , according to the @entity78			1
+more than 150 additional predator and @entity5 drones , under @entity6 @entity82 control , watch over the fighting in @entity10 and @entity84			0
+@entity6 military drones struck 92 times in @entity87 between mid-april and late august			0
+and late last month , an @entity6 drone killed top terrorist @entity89 -- part of an escalating unmanned air assault in the @entity92 and southern @entity94 peninsula			0
+but despite their widespread use , the drone systems are known to have security flaws			0
+many reapers and @entity99 do n't encrypt the video they transmit to @entity6 troops on the ground			0
+in the summer of 2009 , @entity6 forces discovered " days and days and hours and hours " of the drone footage on the laptops of @entity84 insurgents			0
+a $ 26 piece of software allowed the militants to capture the video			1
+the lion 's share of @entity6 drone missions are flown by @entity82 pilots stationed at @entity16 , a tiny outpost in the barren @entity17 desert , 20 miles north of a state prison and adjacent to a one - story casino			1
+in a nondescript building , down a largely unmarked hallway , is a series of rooms , each with a rack of servers and a " ground control station , " or @entity124			0
+there , a drone pilot and a sensor operator sit in their flight suits in front of a series of screens			0
+in the pilot 's hand is the joystick , guiding the drone as it soars above @entity10 , @entity84 , or some other battlefield			1
+some of the @entity138 are classified secret , and used for conventional warzone surveillance duty			1
+the @entity140 handling more exotic operations are top secret			0
+none of the remote cockpits are supposed to be connected to the public internet			0
+which means they are supposed to be largely immune to viruses and other network security threats			0
+but time and time again , the so - called " air gaps " between classified and public networks have been bridged , largely through the use of discs and removable drives			2
+in late 2008 , for example , the drives helped introduce the agent.btz worm to hundreds of thousands of @entity159 computers			2
+the @entity159 is still disinfecting machines , three years later			2
+use of the drives is now severely restricted throughout the military			0
+but the base at @entity16 was one of the exceptions , until the virus hit			1
+predator and @entity5 crews use removable hard drives to load map updates and transport mission videos from one computer to another			0
+the virus is believed to have spread through these removable drives			2
+drone units at other @entity82 bases worldwide have now been ordered to stop their use			0
+in the meantime , technicians at @entity16 are trying to get the virus off the @entity124 machines			1
+it has not been easy			0
+at first , they followed removal instructions posted on the website of the @entity187 security firm			0
+" but the virus kept coming back , " a source familiar with the infection says			1
+eventually , the technicians had to use a software tool called @entity193 to completely erase the @entity124 ' internal hard drives			0
+" that meant rebuilding them from scratch " -- a time - consuming effort			0
+the @entity82 declined to comment directly on the virus			2
+" we generally do not discuss specific vulnerabilities , threats , or responses to our computer networks , since that helps people looking to exploit or attack our systems to refine their approach , " says lt. col. @entity200 , a spokesman for @entity201 , which oversees the drones and all other @entity82 tactical aircraft			0
+" we invest a lot in protecting and monitoring our systems to counter threats and ensure security , which includes a comprehensive response to viruses , worms , and other malware we discover			2
+" however , insiders say that senior officers at @entity16 are being briefed daily on the virus			1
+" it 's getting a lot of attention , " the source says			2
+" but no one 's panicking			2
+" subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity230 .			0
+
+the virus has resisted multiple efforts to remove it from @entity16 's computers
+it may be a common piece of malware
+they 're sure that the infection has hit both classified and unclassified machines
+
+@entity82:Air Force
+@entity84:Iraq
+@entity138:GCSs
+@entity87:Libya
+@entity13:Host-Based Security System
+@entity124:GCS
+@entity230:Wired.com
+@entity0:WIRED magazine
+@entity6:U.S.
+@entity5:Reaper
+@entity193:BCWipe
+@entity78:Washington Post
+@entity73:Pakistan
+@entity72:CIA
+@entity17:Nevada
+@entity16:Creech
+@entity35:Danger Room
+@entity10:Afghanistan
+@entity89:Anwar al-Awlaki
+@entity99:Predators
+@entity201:Air Combat Command
+@entity200:Tadd Sholtis
+@entity92:Horn of Africa
+@entity140:GCSs
+@entity159:Pentagon
+@entity187:Kaspersky
+@entity68:Obama
+@entity94:Arabian

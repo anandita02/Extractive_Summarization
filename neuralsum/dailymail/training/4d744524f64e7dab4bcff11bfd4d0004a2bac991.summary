@@ -1,0 +1,57 @@
+http://web.archive.org/web/20150719011101id_/http://www.dailymail.co.uk/sciencetech/article-2956469/What-Wi-Fi-looks-like-Hacker-creates-3D-map-signal-strength-home.html
+
+if you ’ve ever carried your laptop around a room , trying to pick up a @entity6 signal , then this device may help			1
+@entity7 , @entity8 , has created a @entity6 radar system that he claims allows anyone to see invisible @entity6 signals around the home			1
+the @entity14 - based hacker built the device using a chip , led light , software and a @entity20 milling machine			1
+this is a screenshot of his 3d software program			0
+@entity33 shows where the signal is strongest the system works with a battery - powered esp8266 chip which pings a device and measures the signal - in a similar way to the process used by a @entity6 radar			1
+by attaching a light to the hardware , the system changes colour depending on the quality of signal in a given location			1
+' there is an application on my computer that looks at the receiver power of those pings and sends a colour to the @entity56 , ’ mr @entity8 says in his video			1
+' so as @entity59 moves around in the three dimensional space , you can see the relative strength changing			0
+' the system works with a battery - powered esp8266 chip which pings a device and measures the signal - in a similar way to the process used by a @entity6 radar			1
+the images reveal just how much variation there is in @entity6 strength in just one area by attaching a light to the hardware , the system changes colour depending on the quality of signal in a given location			1
+this image was captured using a long exposure camera the images reveal just how much variation there is in @entity6 strength in just one area , with most of the images appearing in a variety of colours			1
+@entity6 signals use very low intensity radio waves			2
+while similar in wavelength to domestic microwave radiation , the intensity of @entity6 radiation is 100,000 times less than that of a domestic microwave oven			2
+the type of radiation emitted by radio waves ( @entity6 ) , visible light , microwaves and mobile phones has been shown to raise the temperature of tissue at very high levels of exposure - but that 's much higher than what people are subjected to on a regular basis			2
+this is called a thermal interaction , but researchers are divided as to whether the radiation we receive daily can cause damage			0
+the @entity117 @entity116 ( @entity116 ) has been monitoring the safety of @entity6			2
+it says people using @entity6 , or those in the proximity , are exposed to the radio signals it emits - and some of the transmitted energy in the signals is absorbed in their bodies			2
+however , the signals are very low power			0
+sitting in a @entity128 for a year results in receiving the same dose of radio waves as making a 20 minute mobile phone call			0
+mr @entity8 then attempted to capture these colours using long - exposure on his camera			0
+@entity33 in the images shows where the signal is at its strongest			0
+‘ i thought , there must be a better way to do this , ’ he said			0
+using just a @entity6 module and a @entity20 mill , mr @entity8 then captured the variability of the signal to create a 3d visualisation on his computer			1
+‘ the mill follows a basic zig zag pattern , while i 'm running the same software that determines the signal strength , ’ he said			2
+‘ as the mill goes back and forth , i record the position of the mill and the @entity6 signal at the same time			1
+’ the data is then uploaded onto his computer , showing a 3d model of blackspots and areas with good signal strength			0
+' this absolutely surprised me , ’ he said			0
+‘ i did not expect to see this much detail ... it just blew my mind			0
+' a number of things can affect @entity6 signal , including competing @entity6 systems , household electronics and bluetooth devices			1
+last year , @entity171 at @entity172 attempted to tackle the problem of improving @entity6 signals by mathematically working out the optimum position for a router			2
+he studied how walls and reflections affected signal strength and concluded that , as common sense might suggest , the centre of the house , is the best place for a router			0
+mr @entity8 attempted to capture these colours using long - exposure on his camera			0
+@entity33 in the images shows where the signal is at its strongest mr @entity8 's initial attempt at capturing @entity6 signal			1
+however he says the image did n't provide much detail			0
+
+device created using a chip , led , software and a @entity20 milling machine
+@entity200 attached to @entity196 pings a device and measures the resulting signal
+the led then changes colour depending on the quality of the @entity6 signal
+the colours are *mapped* using *photography* , milling machine and software
+
+@entity171:Jason Cole
+@entity33:Blue
+@entity14:Maryland
+@entity7:Youtuber
+@entity6:Wi-Fi
+@entity196:LED
+@entity8:Lohr
+@entity20:CNC
+@entity117:UK
+@entity116:HPA
+@entity172:Imperial College London
+@entity56:ESP8266
+@entity128:Wi-Fi hotspot
+@entity59:Adam
+@entity200:Chip

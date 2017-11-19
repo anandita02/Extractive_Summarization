@@ -1,0 +1,19 @@
+http://web.archive.org/web/20130228091254id_/http://www.cnn.com/2011/US/01/04/obama.sarkozy/index.html
+
+@entity0 -- @entity2 president @entity1 will meet with @entity4 president @entity3 at the @entity5 on january 10 , according to a @entity5 statement released tuesday			1
+@entity4 is assuming the presidency of the @entity8 and @entity10 economic groups in 2011			2
+@entity1 " looks forward to working with president @entity3 to sustain the global economic recovery and create jobs , " the @entity5 statement noted			0
+" the two presidents will also discuss a broad range of current foreign policy and security issues			0
+
+@entity1 will meet with @entity3 on january 10
+the meeting will take place at the @entity5
+@entity4 is *heading* the @entity8 and @entity10 in 2011
+
+@entity3:Sarkozy
+@entity2:U.S.
+@entity1:Obama
+@entity0:Washington
+@entity5:White House
+@entity4:France
+@entity8:G-8
+@entity10:G-20

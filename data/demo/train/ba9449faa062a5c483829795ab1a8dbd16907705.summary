@@ -1,0 +1,32 @@
+http://web.archive.org/web/20100829175528id_/http://www.cnn.com:80/2010/WORLD/meast/07/27/saudi.arabia.crash/index.html
+
+-- the @entity2 ' @entity1 said it is sending a team to help the government of @entity5 investigate the crash of a @entity8 cargo plane in @entity9 , @entity5 , on tuesday			1
+@entity1 chairwoman @entity10 is sending a senior air safety investigator , flight operations specialists , an aircraft systems specialist and technical advisers from the @entity15 and @entity16 , according to an @entity1 statement			1
+@entity18 said the md - 11 plane was traveling from @entity20 , @entity21 , when it crashed at 11:38 a.m. ( 4:38 a.m. et )			1
+@entity8 said a team of experts from the company was on its way to @entity9			2
+the plane crashed while landing at @entity27 , the official @entity28 of @entity5 reported			1
+a company statement said the plane caught fire and was extensively damaged , but the blaze was extinguished			0
+the craft had been carrying 80 tons of cargo			0
+@entity8 said both pilots -- who evacuated the aircraft down the emergency slide -- were injured			2
+they were contacted by phone and were being treated in a hospital			0
+it was not clear what freight was on the aircraft and whether customers were affected .			0
+
+new : the cargo plane crashed while landing at @entity9 *airport*
+the @entity1 is sending a team to help investigate
+the plane was *headed* to @entity9 from @entity20 , @entity21
+two pilots were injured and were being treated at a hospital
+
+@entity2:United States
+@entity1:NTSB
+@entity0:CNN
+@entity27:King Khalid International Airport
+@entity5:Saudi Arabia
+@entity10:Deborah Hersman
+@entity9:Riyadh
+@entity8:Lufthansa
+@entity15:Federal Aviation Administration
+@entity18:Lufthansa Cargo
+@entity21:Germany
+@entity20:Frankfurt
+@entity28:Saudi Press Agency
+@entity16:Boeing

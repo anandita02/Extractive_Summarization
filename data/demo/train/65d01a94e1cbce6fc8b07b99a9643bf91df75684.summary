@@ -1,0 +1,75 @@
+http://web.archive.org/web/20140626042821id_/http://edition.cnn.com/2009/TECH/03/24/conficker.computer.worm/
+
+-- a computer - science detective story is playing out on the internet as security experts try to hunt down a worm called @entity5 and prevent it from damaging millions of computers on @entity7			1
+this piece of computer code tells the worm to activate on april 1 , 2009 , researchers at @entity9 found			1
+the anti-worm researchers have banded together in a group they call the @entity15			1
+members are searching for the malicious software program 's author and for ways to do damage control if he or she ca n't be stopped			1
+they 're motivated in part by a $ 250,000 bounty from @entity24 and also by what seems to be a sort of @entity28 ethic			0
+" we love catching bad guys , " said @entity29 , ceo of @entity30 , which is one of many companies trying to crack @entity5			1
+" we 're like former hackers who like to catch other hackers			0
+to us , we get almost a feather in our cap to be able to knock out that worm			2
+we slap each other five when we 're killing those infections			0
+" the malicious program already is thought to have infected between 5 million and 10 million computers			1
+those infections have n't spawned many symptoms , but on april 1 a master computer is scheduled to gain control of these zombie machines , said @entity48 , director of threat research for @entity9 , a @entity52 - based it and software company			1
+what happens on @entity7 is anyone 's guess			1
+the program could delete all of the files on a person 's computer , use zombie pcs -- those controlled by a master -- to overwhelm and shut down web sites or monitor a person 's keyboard strokes to collect private information like passwords or bank account information , experts said			1
+more likely , though , said @entity48 , the virus may try to get computer users to buy fake software or spend money on other phony products			2
+experts said computer hackers largely have moved away from showboating and causing random trouble			2
+they now usually try to make money off their viral programs			0
+@entity48 said @entity5 imbeds itself deep in the computer where it is difficult to track			1
+the program , for instance , stops @entity84 from conducting automatic updates that could prevent the malware from causing damage			2
+the program 's code is also written to evolve over time and its author appears to be making updates to thwart some of the @entity15 's attempts to neuter the worm			1
+" it is very much a cat and mouse game , " @entity48 said			0
+it 's unclear who wrote the program , but members of the @entity15 are looking for clues			1
+first , they know that some recent malware programs have come from @entity105 countries outside the jurisdiction of the @entity107 , said @entity108 , senior vice president of technology for @entity30			0
+worm program authors often hide in those countries to stay out of sight from law enforcement , he said			2
+in a way , the @entity15 is also looking for the program author 's fingerprints			1
+@entity48 said security researchers are looking through old malware programs to see if their programming styles are similar to that of @entity5 the prospects for catching the program 's author are not good , @entity108 said			1
+" unless they open their mouth , they 'll never be found , " he said			0
+so , the most effective counter-assault simply may be damage control			0
+one quick way to see if your computer has been infected is to see if you have gotten automatic updates from @entity84 in march			2
+if so , your computer likely is fine , @entity48 said			2
+@entity24 released a statement saying the company " is actively working with the industry to mitigate the spread of the worm			0
+" users who have n't gotten the latest @entity84 updates should go to @entity140 if they fear they 're infected , the company 's statement says			2
+@entity48 said people who use other antivirus software should check to make sure they 've received the latest updates , which also could have been disabled by @entity5 the first version of @entity5 -- strain a -- was released in late 2008			2
+that version used 250 web addresses -- generated daily by the system -- as the means of communication between the master computer and its zombies			1
+the end goal of the first line was to sell computer users fake antivirus software , said @entity108			0
+computer security experts largely patched that problem by working with the @entity159 to disable or buy the problematic @entity160 , he said			0
+that process - of - elimination approach is n't likely to be effective with @entity162 , @entity108 said			0
+the new version will generate 50,000 urls per day instead of just 250 when it becomes active , @entity48 said			0
+the first iteration of @entity5 is thought to have grown out of a free function for security programs created by dr. @entity168 , a computer science professor at the @entity169			1
+" any technology can be used for good or evil , and this is just an example of that , " @entity168 said			0
+many viruses have taken pieces of benevolent programs and used them for ill. but overall the " open source " environment online promotes computer security far more than it enables hackers , @entity48 said			0
+" i do n't blame the open - source community at all " for virus attacks , he said			0
+@entity9 said it recently found a piece of code in @entity5 that says the worm will become active on april 1			1
+previous versions of the malicious software launched on specific dates noted in the program code , so the @entity7 launch date is not likely to be a trick , @entity48 said			1
+" the best minds in the industry are working on this to protect customers , " he said			0
+" we 're trying to reduce the impact of the april 1 date as best we can			0
+but we know ... this malware will continue to evolve			0
+
+the @entity5 computer worm is expected to activate on @entity7
+the worm lets a master computer take over infected zombie pcs
+it 's unclear what the program 's author plans to do with all the power
+a group called the @entity15 is trying to hunt down *solutions*
+
+@entity162:Conficker strain C
+@entity30:Enigma Software
+@entity15:Conficker Cabal
+@entity0:CNN
+@entity7:April Fool 's Day
+@entity5:Conficker C
+@entity24:Microsoft
+@entity9:CA
+@entity29:Alvin Estevez
+@entity160:URLs
+@entity169:Massachusetts Institute of Technology
+@entity52:New York
+@entity159:Internet Corporation for Assigned Names and Numbers
+@entity84:Windows
+@entity105:Eastern European
+@entity107:European Union
+@entity108:Morganelli
+@entity140:http://safety.live.com
+@entity28:Dick Tracy
+@entity48:DeBolt
+@entity168:Rivest

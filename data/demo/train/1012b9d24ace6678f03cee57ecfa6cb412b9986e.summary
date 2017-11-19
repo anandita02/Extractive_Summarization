@@ -1,0 +1,27 @@
+http://web.archive.org/web/20111215123615id_/http://edition.cnn.com/2010/TECH/space/01/28/space.shuttle.endeavour/index.html
+
+-- @entity1 will launch @entity2 on february 7 , which will be the first of five launches this year before the shuttle fleet is retired			1
+@entity2 will blast off from the @entity6 in @entity7 on a 13 - day mission to the international space station			1
+the mission will include three spacewalks , @entity1 said			0
+the shuttle will also deliver the final @entity13 portion of the space station			1
+this portion will provide more room for crew members			0
+@entity1 plans to retire its space shuttles @entity19 , @entity2 and @entity20 later this year			2
+the space agency has been looking for places , such as museums , to house the shuttles after they are retired			2
+@entity19 will be transferred to the @entity25 in @entity26			0
+the privilege of showing off a shuttle wo n't be cheap -- about $ 29 million , @entity1 said .			0
+
+this will be first of five launches this year before the shuttle fleet is retired
+@entity1 is *scheduled* to launch @entity2 on february 7
+shuttle will deliver final @entity13 portion of the international space station
+@entity1 has been looking for places to house the shuttles once they are retired
+
+@entity2:Space Shuttle Endeavour
+@entity1:NASA
+@entity0:CNN
+@entity13:U.S.
+@entity6:Kennedy Space Center
+@entity25:Smithsonian National Air and Space Museum
+@entity7:Florida
+@entity20:Atlantis
+@entity19:Space Shuttle Discovery
+@entity26:Washington

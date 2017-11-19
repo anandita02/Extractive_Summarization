@@ -1,0 +1,42 @@
+http://web.archive.org/web/20140829132325id_/http://www.dailymail.co.uk/sciencetech/article-2718736/Robots-walls-using-Wi-Fi-help-people-collapsed-buildings-archaeological-digs-without-digging.html
+
+by @entity0 robots with an ability to see through walls akin to ‘ x-ray vision ’ have been developed by researchers			1
+by transmitting a @entity8 signal between them , two robots were able to see what was beyond walls by measuring the change in the signal ’s intensity			1
+the technique could be used to find people trapped in buildings or monitor elderly people at home			2
+the two robots detect changes in signal strength to see through walls the system was developed by scientists at the @entity22 led by dr @entity31			1
+two robots on wheels were designed , one that emits a wireless transmission while the other that detects it			0
+- @entity39 , and surveillance			0
+- occupancy detection in a home			0
+- classification of what an object is made of behind a wall			0
+- @entity47 digs without needing to dig underground			0
+- @entity49 robotic networks to perform tasks such as object mapping for humans			0
+- detecting home intruders before they enter your house			0
+when the robots passed around a square concrete structure , out of sight of one another , they were able to work out what was inside - and could even identify a human			1
+this was done by measuring the drop in signal strength as the transmission passed through the walls and other objects			1
+by measuring this drop the robots could create a visual map of what they thought they were seeing in about 100 seconds			1
+and the researchers say the results were satisfyingly accurate , with errors of no more than two inches ( 5cm )			0
+one robot transmits a @entity8 signal and the other receives it			1
+doing this the robots can work out what objects are between them			1
+here the left figure shows the area of interest that is completely unknown , while on the right is shown the map the robots made using the technique compared to the actual map the technique can even be used to discern different types of objects beyond walls including multiple objects ( shown ) , or also to find people beyond walls			1
+this could be used to find people in collapsed buildings or spot intruders before they enter your home ‘ our approach enables seeing a completely - unknown area ( with details ) through thick walls by using only @entity8 signals , ’ the team writes on their website			1
+‘ this technology can be implemented on any @entity8 - enabled gadget			2
+‘ we have furthermore shown how to use this in a robotic setting to give see - through vision to robots			2
+’ while some modern unmanned robots use laser scanners to see what is in front of them , they are unable to see through objects or walls in the vicinity			2
+the researchers say that their new technique could be a revolution in robotic movements and enable a host of new capabilities for unmanned robots			2
+they envisage that the technology could have a host of uses , including search and rescue operations after an earthquake			0
+they could also examine archaeological sites without needing to dig.			0
+
+researchers at @entity22 create robots with ' x-ray vision '
+the two robots detect changes in signal strength to see through walls
+one robot transmits a @entity8 signal and the other receives it
+doing this the robots can work out what objects are between them
+in a test the robots map the shape of a structure and *deduce* what *'s* inside
+potential uses include finding people in collapsed buildings after earthquakes
+
+@entity22:University of California
+@entity31:Yasamin Mostofi
+@entity0:Jonathan O'Callaghan
+@entity39:Search and rescue
+@entity8:Wi-Fi
+@entity47:Archaeological
+@entity49:Real world

@@ -1,0 +1,77 @@
+http://web.archive.org/web/20100607040015id_/http://www.cnn.com:80/2010/TECH/social.media/06/02/cnet.facebook.privacy.like/
+
+-- when @entity3 chief executive @entity2 recently announced a " like " button that publishers could place on their web pages , he predicted it would make the @entity8 smarter and " more social			1
+" what @entity2 did n't point out is that widespread use of the like button allows @entity3 to track people as they switch from @entity13 to @entity14 to @entity15 , all of which are sites that have said they will implement the feature			1
+even if someone is not a @entity3 user or is not logged in , @entity3 's social plugins collect the address of the web page being visited and the internet address of the visitor as soon as the page is loaded -- clicking on the like button is not required			1
+if enough sites participate , that permits @entity3 to assemble a vast amount of data about @entity34 users ' browsing habits			2
+" if you put a like button on your site , you 're potentially selling out your users ' privacy even if they never press that button , " says @entity35 , an attorney with the @entity36 of @entity37			0
+" it 's another example of why user control needs to be the default in @entity3			2
+" in the last few months , scrutiny of the privacy practices of the @entity34 's second most popular web site has reached an all - time high , with politicians threatening probes and privacy activists calling for formal investigations			0
+in response to the outcry , @entity2 convened a press conference last week at @entity3 's @entity57 , @entity37 , headquarters , where he pledged to make privacy " simpler			1
+" for its part , @entity3 told @entity0 on tuesday that the information about who viewed what pages with a like button is anonymized after three months and is not shared with or sold to third parties			2
+a representative acknowledged , however , that the current privacy description of @entity3 's social plugins " is not as clear as it could be , and we 'll fix that			1
+" @entity3 's @entity71 says : " no data is shared about you when you see a social plugin on an external website			1
+" no mention of this data - sharing appears under the " information from other websites " section of the company 's general privacy policy			0
+publishers like " like " almost as soon as @entity2 had finished describing the @entity87 buttons at the @entity89 developer conference in april , they became a hit with web publishers hoping for a traffic boost			0
+@entity94 's @entity93 published a tutorial , a @entity97 adaptation appeared , and @entity98 quickly incorporated the concept too			0
+@entity3 itself confirmed that after only a week , " more than 50,000 sites across the @entity8 have implemented " social plugins			1
+@entity103 said like buttons are " recommended " for virtually all web sites ; one blogging how - to guide reported that " small , blue like buttons are now multiplying across the @entity8 faster than you can say ' pandemic			2
+' " @entity111 , director of the @entity112 , said that if his group had been aware of how the like button was implemented , it would have raised this topic in a request for a @entity118 investigation of @entity3 's privacy practices			1
+( the statement sent to the @entity118 says , in part , that social plugins " violate user expectations and reveal user information without the user 's consent			1
+" ) " the recent @entity3 changes are too complex and too subtle for most users to meaningfully evaluate , " @entity111 said			0
+" and it 's not obvious that the recent announcement from @entity3 has addressed all of these problems			2
+" on the other hand , some of the @entity87 's features can work only if @entity3 receives the user id and url of the web page being visited			1
+that allows a custom bit of @entity142 code to customize the like button			0
+social plugins " work the same basic way all widgets across the @entity34 do , " said @entity144 , a @entity3 spokesman			1
+" the url of the web page the user is viewing must be sent to @entity3 for @entity3 to know where to render the personalized content			1
+" @entity144 said @entity3 does not correlate pages viewed with advertising , so someone who spends a lot of time reading articles about @entity159 sports cars on @entity160 will not receive @entity161 or @entity162 ads on @entity3			0
+" of course , if the user actively ' likes ' that page , then it is added to their profile and they might see a related ad on @entity3 , " he said			2
+" we use the information to help improve the service , " @entity144 said			0
+" we need to see how many people see a certain like button to know what the click - through ratio for that button is , for example			0
+if something has a really low rate , maybe something is wrong with the site , the implementation , or our product			0
+if it is really high , maybe something fishy is going on			0
+" the way @entity3 has implemented its @entity87 button resembles an advertising network : code on @entity3 's systems is executed whenever someone loads a page on , say , @entity193 , one of the web sites that quickly adopted the button			1
+and advertising networks have come under significant regulatory scrutiny before , in part because they have the ability to create dossiers on what internet users are doing across thousands or millions of different web sites			0
+@entity35 , the @entity36 attorney , said she would caution sites to be careful before adopting like buttons : " if an organization puts a like button on their site , they 're potentially telling @entity3 about everyone who visits their web site , every time that person visits their web site			2
+" how it works @entity3 wants publishers to insert an iframe or @entity142 in the html for their web pages			0
+as soon as the page is loaded , the code invokes a php script at @entity3 that records information including the url for the web page , your ip address , and your @entity229 ( if you 're authenticated )			1
+if a publisher uses @entity3 's @entity232 , the simpler option , here 's what the embedded @entity87 for @entity0 would look like : © 2010 @entity235 all rights reserved			2
+@entity0 , @entity0 and the @entity0 logo are registered trademarks of @entity235 used by permission .			0
+
+like button allows @entity3 to track people as they switch websites
+@entity3 's social plugins collect the address of the web page being visited
+more than 50,000 sites across the @entity8 have implemented social plugins
+
+@entity144:Schnitt
+@entity159:German
+@entity112:Electronic Privacy Information Center
+@entity111:Rotenberg
+@entity87:Like button
+@entity89:F8
+@entity118:FTC
+@entity3:Facebook
+@entity2:Zuckerberg
+@entity0:CNET
+@entity235:CBS Interactive Inc.
+@entity8:Web
+@entity193:Mashable.com
+@entity57:Palo Alto
+@entity71:FAQ
+@entity232:Javascript API
+@entity15:ESPN.com
+@entity14:Yelp.com
+@entity13:CNN.com
+@entity34:Internet
+@entity37:California
+@entity36:ACLU
+@entity103:SearchEngineLand.com
+@entity98:Foursquare
+@entity97:WordPress
+@entity94:Wired
+@entity93:Webmonkey.com
+@entity162:Mercedes C63 AMG
+@entity160:caranddriver.com
+@entity161:Porsche 911
+@entity142:JavaScript
+@entity229:Facebook ID
+@entity35:Ozer

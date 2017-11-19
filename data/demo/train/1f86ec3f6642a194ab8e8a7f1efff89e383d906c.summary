@@ -1,0 +1,77 @@
+http://web.archive.org/web/20141013212556id_/http://www.cnn.com:80/2014/01/31/health/norovirus-facts-info
+
+-- @entity2 ' @entity1 docked early friday in @entity3 , ending passengers ' vacations a day early amid an outbreak of norovirus			1
+@entity2 spokeswoman @entity8 says the early docking came because of forecasts predicting heavy fog in @entity3 , not because of the illness			0
+but , she said a total of 178 people reported the illness during the voyage , and lab tests confirmed that it was norovirus			1
+it 's the second outbreak of norovirus on a cruise ship this week			1
+@entity23 's @entity22 docked in @entity24 on wednesday , two days earlier than expected			0
+nearly 700 crew and passengers fell ill on that ship , the highest number of sick people reported on any cruise ship in two decades , according to the @entity31			1
+on friday , the @entity31 confirmed that illness was also norovirus			1
+what is norovirus ? @entity36 is a group of related viruses that belong to the @entity40 family			1
+people ingest the infectious virions , which grow in the small intestine before being expelled in feces			1
+it 's the most common cause of acute gastroenteritis -- often called a stomach bug -- in the @entity48 , according to the @entity31			1
+it causes 19 million to 21 million illnesses every year , most often in crowded environments such as nursing homes , day care centers and , yes , cruise ships			1
+there were nine outbreaks of gastrointestinal illnesses on cruise ships last year , 16 in 2012 and 14 in both 2011 and 2010 , according to the @entity31			1
+@entity36 used to be called @entity59 or the @entity59 - like virus			1
+what are the symptoms ? @entity36 causes inflammation in the stomach and intestines , leading to stomach pain , nausea and diarrhea			1
+these symptoms typically last one to three days			0
+other symptoms include a fever , headache and body aches , according to the @entity31			0
+frequent diarrhea and vomiting can lead to dehydration , another serious side effect of the virus			1
+people who are dehydrated may not urinate as much , feel dizzy and have a dry mouth or throat			1
+how is it different from the flu ? people with these symptoms may believe they have food poisoning or the stomach flu			1
+you can get norovirus from eating infected food , so that would be considered food poisoning			2
+in fact , norovirus is the most common cause of food - borne disease outbreaks in the @entity48 , according to the @entity31			1
+but norovirus is not the flu			2
+the flu is a respiratory illness caused by the influenza virus			0
+how do you catch it ? @entity36 is highly contagious			1
+it 's a hardy little bug that can live in the environment for up to four weeks			0
+the virus can live in an infected person 's stool for two weeks or more			0
+people who come into contact with a surface a patient has touched or clothes they 've worn can get sick			2
+you can also get sick eating any food a person with the virus has touched			0
+food commonly involved in outbreaks includes shellfish , leafy greens and fresh fruit			2
+any food served raw or handled by an infected person after being cooked can get contaminated			0
+food can also be easily contaminated if it has been sitting out for hours , such as on a buffet			0
+people who have norovirus are most contagious when they are sick but can still transfer the virus even three days after they have recovered from the worst of the symptoms			1
+how do you treat it ? there is no medicine or vaccine to specifically treat norovirus , but most people recover fully without treatment			1
+( there is a vaccine in the early testing stages			2
+) since this is a virus , antibiotics wo n't cut it ; they work only on bacterial infections			0
+someone with norovirus has only one option , and that 's hydration therapy			2
+people who vomit frequently or have diarrhea need to replace the liquids they lose			1
+sports drinks can help with mild dehydration , but water is best			0
+you can also buy oral rehydration fluids over the counter at most drug and grocery stores			0
+getting too dehydrated is dangerous			0
+in extreme cases , people who do not get enough fluids may have to be hospitalized			2
+there , a patient will get fluids intravenously			0
+will it kill me ? most people will recover fully from norovirus , but it can become serious or even fatal in some patients , such as infants or the elderly			1
+@entity36 can be caught any time , but it 's most common in the winter			1
+each year , the virus leads to approximately 1.8 million doctor visits and 400,000 emergency room visits ; most of these patients are children			2
+young children and the elderly are more likely to be seriously affected by norovirus			2
+an estimated 570 to 800 deaths are caused by the virus each year , though there are generally more in years when a new strain is going around			2
+this happened in the winters of 2002 - 03 and 2006 - 07 , according to the @entity31			0
+how can i protect myself ? do not share food or utensils with people who are sick			2
+wash your hands thoroughly with soap and water , especially before preparing or handling food and after using the toilet			0
+alcohol - based hand sanitizer does n't kill norovirus and should not be a substitute for old - fashioned soap and water			0
+if someone around you is sick , be sure to wipe down any surfaces they touch with a diluted bleach solution			0
+pay particular attention to cleaning the bathroom area			0
+wipe around the toilet , door handles and light switches			0
+also make sure to wash an infected person 's clothes thoroughly			0
+if someone gets sick in bed , change their linens and towels immediately .			0
+
+@entity36 is the most common cause of acute gastroenteritis in the @entity48
+there were 9 outbreaks of gastrointestinal illnesses on cruise ships last year
+@entity36 causes stomach pain , nausea and diarrhea
+there is no medicine or vaccine to treat norovirus , but most people recover fully
+
+@entity3:Houston
+@entity2:Princess Cruises
+@entity1:Caribbean Princess
+@entity0:CNN
+@entity24:New Jersey
+@entity23:Royal Caribbean
+@entity8:Julie Benson
+@entity22:Explorer of the Seas
+@entity36:Norovirus
+@entity40:Caliciviridae
+@entity31:CDC
+@entity59:Norwalk
+@entity48:U.S.

@@ -1,0 +1,42 @@
+http://web.archive.org/web/20130507110530id_/http://www.cnn.com:80/2010/WORLD/americas/12/08/chile.prison.fire/index.html?
+
+@entity0 , @entity1 -- @entity1 's president said wednesday that conditions were " inhumane " at a prison south of @entity0 where a fire killed 81 prisoners			1
+president @entity8 visited a hospital where five injured inmates were hospitalized and afterward told reporters that the @entity13 prison was vastly overcrowded			1
+" the conditions that existed at the prison were inhumane , " @entity14 said			1
+" @entity1 does not deserve a prison system as we have			1
+this is a problem that has dragged on for a long time			0
+" the prison housed 1,961 inmates at the time of the fire wednesday , said @entity24 , the justice minister			1
+the prison was built to hold only 1,000 inmates , @entity25 reported			2
+health minister @entity27 said 14 inmates were in critical condition after the fire			0
+a firefighter and three policemen were also injured , @entity25 reported			1
+another 200 inmates were evacuated			0
+" this is a terrible tragedy , " @entity27 said , calling it the worst incident to strike the country 's penal system			0
+@entity1 senator @entity39 said that the tragedy could not be blamed entirely on overcrowding , noting that only five guards and a single paramedic were on duty at the time of the blaze			2
+" i think there is a state responsibility , of @entity1 society , of all governments , " @entity39 , a member of the @entity46 , told @entity25 , " ... and i think it is not possible that all the responsibility should be attributed to overcrowded conditions			1
+" the fire started on the fourth floor of @entity13 prison 's @entity57 after a riot among inmates , metropolitan regional commissioner @entity54 said			1
+the call came in at shortly before 6 a.m. -- nearly an hour after the fire started , the fire department said			0
+the cause of the blaze is under investigation , the department said			0
+meanwhile , a large crowd of inmates ' relatives gathered outside the prison , worried about the fate of their loved ones			2
+" why wo n't they give us information ? " one woman asked			0
+@entity54 said authorities will inform the relatives of deceased prisoners before making the names public			2
+" our main concern is to attend to those people who were injured and to handle the information regarding those who died diligently , " @entity24 said			0
+earlier reports indicated 83 people died in the fire , but @entity27 said the number was 81 .			0
+
+new : overcrowded conditions at prison were " inhuman , " president says
+new : @entity13 prison was housing nearly *double* its *capacity*
+new : fourteen prisoners are critically injured ; a firefighter and three policemen are also hurt
+new : senator says *security* at the prison was lacking
+
+@entity2:CNN
+@entity1:Chilean
+@entity0:Santiago
+@entity13:San Miguel
+@entity27:Manalich
+@entity24:Bulnes
+@entity25:CNN Chile
+@entity39:Girardi
+@entity8:Sebastian Pinero
+@entity46:Party for Democracy
+@entity14:Pinera
+@entity57:Tower 5
+@entity54:Echeverria

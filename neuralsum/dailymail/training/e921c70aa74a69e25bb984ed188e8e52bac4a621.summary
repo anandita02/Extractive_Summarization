@@ -1,0 +1,46 @@
+http://web.archive.org/web/20140714152626id_/http://www.dailymail.co.uk/sciencetech/article-2652997/Why-WRONG-face-App-uses-real-time-facial-tracking-transform-appearance-video-calls.html
+
+by @entity0 changing your own appearance in post-production , be it via @entity5 or an array of filters , is becoming more commonplace			0
+but users will soon be able to edit what they look like in real time , thanks to a new app set to be released for @entity13 and @entity14 later this year			1
+called @entity16 , it uses tracking technology to change the user 's face live on the screen , whether it ’s during a video call , or when taking a picture			1
+using some high - tech facial tracking technology , the app can alter your appearance , from changing the colour of your eyes to turning you into a zombie the team behind the app are currently seeking funding on @entity38 to ensure it arrives on @entity13 in august and @entity14 by november			1
+' we have developed our own code for video face tracking , and designed unique video filters which work in real - time , ' the team wrote on @entity38			1
+' the @entity16 app is programmed using @entity46 , glsl and @entity48 and we use some of the features of the @entity51 library			1
+' our tracking and initialization algorithms are based on the @entity54			0
+' currently we have five patents pending , involving real - time face - tracking and the technology that modifies it			2
+' the app has a user friendly interface and you can change your appearance with just a singe tap			2
+' aside from the aforementioned features , the app has a ‘ simple interface ’ and social media sharing options			0
+it is even able to track and alter a face when there are multiple people in the shot			0
+to use the app , a user opens the app and points the camera at themselves			0
+the face tracking software then builds a mapped ‘ model ’ of that person ’s appearance			1
+along the bottom of the app there are 16 filters that can be applied to change the look of someone			0
+these range from ‘ zombifying ’ a person , to making them appear thinner			1
+within the app the user can take an edited picture of themselves and send it to others			0
+they can also take a video or make a live video call , altering their appearance on - the - go			1
+additionally , there is a chat feature included , which lets people send images and videos to each other alongside text			0
+‘ the technology that drives @entity16 was built from scratch by our team , ’ the company wrote			2
+‘ we are the first company to bring the full power of such complex face - tracking technology to mobile			1
+‘ this means you can now do so much more than just adding a few generic pictures or animations to your media ; it is the ability to completely modify your appearance and exchange video messages as 3d characters			0
+‘ with @entity16 you can explore different filters that change entirely the way you look and enhance videos			2
+’ there are 16 filters available that can be used to alter your face			0
+there are several ways the app can be used , including taking a picture and sharing it with friends or making a live video call and changing your face as you talking			1
+the app can also pick out one face from a crowd of many making yourself look like a zombie is perhaps one of the scarier features of the app , and the effect is seemingly quite real			2
+some of the other effects include making your face appear as an x-ray , turning yourself into a 3d animated bear , changing your neck shape and more			0
+
+a @entity153 - based company has *unveiled* their new @entity16 app
+it uses facial tracking software to change the appearance of a person
+this can range from making them *slimmer* to ' zombifying ' their face
+the changes can be made either while taking a photo or during live video
+the app will be released for @entity13 in august and @entity14 in november
+
+@entity16:Looksery
+@entity14:Android
+@entity13:iOS
+@entity5:Photoshop
+@entity38:Kickstarter
+@entity46:C++
+@entity51:OpenCV
+@entity0:Jonathan O'Callaghan
+@entity54:Active Appearance Model
+@entity153:San Francisco
+@entity48:ASM

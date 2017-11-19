@@ -1,0 +1,70 @@
+http://web.archive.org/web/20130712055611id_/http://www.cnn.com/2013/01/15/tech/social-media/facebook-graph-search
+
+@entity0 , @entity1 -- the search feature on @entity4 has traditionally been pretty limited			1
+you type in a name of a person or a business , and it pulls up their @entity4 page			2
+but that 's about to change			0
+on tuesday , @entity4 introduced an upgraded search tool , called @entity13 , that will scour the massive social network to answer more sophisticated questions			1
+want to find buddies of your pal @entity17 who went to @entity19 and live in @entity20 ? no problem			0
+people who like tennis and live nearby ? here you go			0
+how about photos of @entity26 from 1989 ? done			1
+" this is one of the coolest things we 've done in a while , " @entity4 co-founder and ceo @entity27 said at a press event at the company 's headquarters			1
+since it became a public company last year , @entity4 has been under pressure to launch exciting new products , especially for mobile , that will help boost its floundering stock price			2
+@entity42 : @entity44 stock falls 8 % on @entity13 news @entity4 said @entity13 is launching immediately in beta , although users will need to get on a waitlist to gain access			1
+the company will continue tweaking the product based on feedback from beta users , but @entity27 said there 's no concrete estimate for how long the rollout will take			1
+for now , @entity13 's functions will be limited			2
+it focuses on four main areas : people , photos , places and interests			1
+more features will be added as they are developed , @entity27 said			2
+" this is a beta product			0
+we focused on a few use cases that we think are good , " he said			0
+" even as an early product , @entity13 is a completely new way for people to get information on @entity4			1
+" @entity13 delves the wealth of data already inside @entity4 , pulled from 1 billion profiles , 24 billion photos and 1 trillion connections			1
+the tool indexes all of this content and works through the main search bar you 're already familiar with at the top of your @entity4 profile			1
+for now there is no mobile version , it does n't loop in @entity87 , there 's no @entity89 ( which would allow outside developers to build related apps ) , and it 's only in @entity92			0
+the searches are natural language , which means you type the question just like you 'd say it : " friends who like cats and ' @entity98 ' " or " @entity99 my friends like			0
+" you can use @entity13 to track down people you just met ( " people named @entity105 who work at @entity106 and are friends with @entity108 " ) , to look for job candidates ( " friends of co-workers who have been programmers ) , and to play yenta for your single friends ( " friends of friends who are single men and live in @entity115 " )			1
+other searches could be useful for business recommendations			0
+you can find doctors , or restaurants , based on friends ' endorsements			0
+for example , if you wanted good @entity124 food in @entity125 , you might search for " @entity124 restaurants in @entity125 liked by my friends from @entity124			0
+" the results pull in practical information as well , such as reviews and prices			0
+the first concern people tend to have after any @entity4 announcement is , how will this impact my privacy ? @entity4 says @entity13 will return only content that has been shared with you			1
+" we take this really seriously , " @entity27 said			2
+if you search for something outside @entity13 's purview , it will return search results from @entity149 's @entity148 search engine			2
+the two companies have worked together before on integrating social search into @entity148			0
+but @entity13 probably wo n't pose a threat to @entity153 anytime soon			2
+" i do n't necessarily think that people are going to start coming to @entity4 to do web searches with this , " @entity27 said			1
+for now , the company will not be working with @entity153 on search functions , @entity27 said , adding that @entity153 is not able to process @entity4 updates as quickly as @entity4 users might like			1
+for example , if you unfriend someone , you might assume they would be blocked right away from seeing your personal data			0
+but that might take more time with a @entity153 - powered search , he said			0
+while the timing was the big issue during negotiations with @entity153 , " it may have been a symptom of a bigger strategic rift " between the companies , @entity27 said .			0
+
+@entity4 introduces upgraded search tool called @entity13
+@entity13 will let users search in more *detail* for people , photos , places and interests
+for example , it could show you photos of @entity26 from 1989
+@entity27 : " this is one of the coolest things we 've done in a while "
+
+@entity20:Chicago
+@entity26:Berlin
+@entity27:Mark Zuckerberg
+@entity115:Los Angeles
+@entity87:Instagram
+@entity153:Google
+@entity89:API
+@entity2:CNN
+@entity1:California
+@entity0:Menlo Park
+@entity106:Chipotle
+@entity4:Facebook
+@entity17:Chris
+@entity13:Graph Search
+@entity19:Stanford
+@entity105:Rebecca
+@entity99:Podiatrists in San Francisco
+@entity98:Alias
+@entity108:Peter
+@entity124:India
+@entity125:San Francisco
+@entity92:English
+@entity148:Bing
+@entity149:Microsoft
+@entity44:Yelp
+@entity42:CNNMoney

@@ -1,0 +1,38 @@
+http://web.archive.org/web/20130226011750id_/http://www.dailymail.co.uk/sciencetech/article-2282951/The-drone-circus-The-breathtaking-tiny-robot-quadcopters-throw-catch-pendulum-ON-ITS-END-mid-air.html
+
+by @entity0 published : 11:40 est , 22 february 2013 updated : 04:07 est , 25 february 2013 an incredible video shows two tiny autonomous drone quadrocopters throwing and catching a pendulum by its narrow end			1
+@entity5 , a student at @entity7 ’s @entity6 , developed the complex algorithms which allow the robot quadrocopters to juggle the inverted pendulum			1
+the video shows one incredibly balancing the pendulum on its end as it buzzes around a lab space , then throwing it up into the air to be caught by the other			1
+aerial acrobatics : these grabs are from an incredible video which shows two tiny autonomous drone quadrocopters throwing and catching a pendulum by its end too cool for school : @entity5 , a student at @entity7 ’s @entity6 , developed the complex algorithms which allow the robot quadrocopters to juggle the inverted pendulum instructing the robotic quadrocopters to perform the amazing feat required complex mathematical modelling and a learning algorithm to account for any errors in the model			1
+the researchers modified the quadrocopters themselves by fixing a 12cm plate that could hold the pendulum while balancing , and they also developed shock absorbers to add at the pendulum ’s tips			2
+the video they made to showcase their work has proved a hit on @entity39 , attracting around 300,000 views and nearly 5,000 ' thumbs up ' in the two days since mr @entity5 uploaded it			1
+to achieve the aerobatic feat with the robot drones , mr @entity5 and his colleagues first made a two - dimensional mathematical model to understand what was required for the pendulum to lift off from the quadrocopter and become airborne			1
+' it showed the ideal trajectory in terms of positions , speeds , and angles the quadrocopter needed to follow to throw a pendulum , ' wrote @entity56 on the @entity58 blog			2
+' and it offered an insight into the throwing process , including identification of its key design parameters			2
+' gone viral : the video the researchers made to showcase their work has proved a hit on @entity39 , attracting around 300,000 views and nearly 5,000 ' thumbs up ' in the two days since mr @entity5 uploaded it perfect balance : the researchers modified the quadrocopters by fixing a 12cm plate that could hold the pendulum while balancing , and they also developed shock absorbers to add at the pendulum 's tips for their next step they had to work out how well this theoretical model matched real life , throwing the pendulum by hand to study its aerodynamic properties and precisely timing the quadrocopters ' movements			1
+then they tested the process of balancing , throwing , catching and rebalancing the pendulum between the two tiny flying machines do adapt their maths to fit			2
+mr @entity5 said : ' this project was very interesting because it combined various areas of current research and many complex questions had to be answered : ' how can the pole be launched off the quadrocopter ? where should it be caught and – more importantly – when ? what happens at impact ? ' the biggest challenge to get the system running was the catching part			1
+we tried various catching manoeuvres , but none of them worked until we introduced a learning algorithm , which adapts parameters of the catching trajectory to eliminate systematic errors			0
+' the throwing manoeuvre : mr @entity5 and his colleagues first made a two - dimensional mathematical model to understand what was required for the pendulum to lift off from the quadrocopter and become airborne a major challenge was the demonstration 's highly dynamic nature : the total time between the throw and catch is just over half a second , a very short time to manoeuvre the catching quadrocopters into place			0
+a second serious challenge the researchers faced was the high cost of failure			0
+failed catches tended to result in the pendulum crashing into a rotor blade , sending the quadrocopters plummeting to the ground			0
+' @entity138 crashed quadrocopter not only entailed repairs , but also meant recalibration of the vehicle to re-determine its operating parameters and restarting the learning algorithms , ' the @entity58 blog reported			0
+the catching manoeuvre : the total time between the throw and catch is just over half a second , a very short time to manoeuvre the catching quadrocopters into place @entity148 , a phd student at @entity7 who supervised mr @entity5 's project , told @entity58 : ' this was a really fun project to work on			2
+' we started off with some back - of - the - envelope calculations , wondering whether it would even be physically possible to throw and catch a pendulum			0
+' this told us that achieving this manoeuvre would really push the dynamic capabilities of the system			0
+' as it turned out , it is probably the most challenging task we ’ve had our quadrocopters do			0
+' with significantly less than one second to measure the pendulum flight and get the catching vehicle in place , it ’s the combination of mathematical models with real - time trajectory generation , optimal control , and learning from previous iterations that allowed us to implement this			0
+
+video showing the incredible feat uploaded to @entity39 has been viewed nearly 300,000 times
+it was achieved thanks to complex mathematically modelling by a student at a top @entity184 *university*
+
+@entity0:Damien Gayle
+@entity7:ETH Zurich
+@entity6:Institute for Dynamic Systems and Control
+@entity5:Brescianini
+@entity39:YouTube
+@entity148:Markus Hehn
+@entity184:Swiss
+@entity56:Markus Waibel
+@entity58:Robohub
+@entity138:A

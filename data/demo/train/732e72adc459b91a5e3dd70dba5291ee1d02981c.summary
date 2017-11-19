@@ -1,0 +1,27 @@
+http://web.archive.org/web/20140411072548id_/http://www.cnn.com:80/2013/09/05/showbiz/scarlett-johansson-engaged/?
+
+-- @entity2 's beau put a ring on it			1
+but the wedding date is not yet set			0
+the actress is engaged to @entity7 , who co-owns an independent advertising agency			1
+her rep confirmed the happy news , but did not disclose when it occurred			0
+" they have n't chosen a date for the wedding , " she said			0
+@entity2 's marriage to @entity17 ended in 2011			1
+last year , the actress told @entity20 magazine that their divorce was " comically amicable			2
+" but that did not mean it was a happy ending			0
+" of course it 's horrible , " she told the magazine			2
+you think that your life is going to be one way , and then , for various reasons or whatever , it does n't work out			0
+" @entity2 has appeared in various movies , including " @entity33 " and " @entity34			1
+" @entity0 's @entity35 contributed to this report			2
+
+the actress is engaged to @entity7
+her beau co-owns an independent advertising agency
+@entity2 's marriage to @entity17 ended in 2011
+
+@entity17:Ryan Reynolds
+@entity2:Johansson
+@entity20:Vogue
+@entity0:CNN
+@entity7:Romain Dauriac
+@entity34:Girl With a Pearl Earring
+@entity33:Lost in Translation
+@entity35:Denise Quan

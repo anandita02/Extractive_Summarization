@@ -1,0 +1,44 @@
+http://web.archive.org/web/20150113013603id_/http://www.dailymail.co.uk/sciencetech/article-2601373/Age-progression-software-lets-child-look-like-grow-up.html
+
+parents often ponder what their children will look like when they grow up			0
+now , a computer could answer the question in less than a minute			0
+@entity6 researchers have developed software that automatically generates images of a young child 's face as it ages through a lifetime			1
+‘ aging photos of very young children from a single photo is considered the most difficult of all scenarios , so we wanted to focus specifically on this very challenging case , ’ said @entity27 , an assistant professor of computer science and engineering at the @entity6			2
+‘ we took photos of children in completely unrestrained conditions and found that our method works remarkably well			0
+’ the research team has posted a paper on the new technique and will present its findings at the @entity44 and @entity46 conference in @entity47 , @entity48			0
+the software determines the average pixel arrangement from thousands of random @entity52 photos of faces in different age and gender @entity55 algorithm then finds correspondences between the averages from each bracket and calculates the average change in facial shape and appearance between @entity64 changes are then applied to a new child 's photo to predict how she or he will appear for any subsequent age up to 80.the researchers tested their rendered images against those of 82 actual people photographed over a span of @entity74 could not distinguish between the real and rendered images			1
+the shape and appearance of a baby 's face – and variety of expressions – often change drastically by adulthood , making it hard to model and predict that change			1
+this technique leverages the average of thousands of faces of the same age and gender , then calculates the visual changes between groups as they age to apply those changes to a new person 's face			1
+in an experiment asking random users to identify the correct aged photo for each example , they found that users picked the automatically rendered photos about as often as the real - life ones			2
+‘ our extensive user studies demonstrated age progression results that are so convincing that people ca n't distinguish them from reality , ’ said co-author @entity101 , professor of computer science and engineering			2
+‘ when shown images of an age - progressed child photo and a photo of the same person as an adult , people are unable to reliably identify which one is the real photo			1
+’ spitting image : here , real photos of a child ( right in each pair ) are compared to images that used the software ( left in each pair ) to generate an aged face , with surprisingly accurate results			1
+as the software only deals with faces , however , hair and other features like clothing are added artificially real - life photos of children are difficult to age - progress , partly due to variable lighting , shadows , funny expressions and even milk moustaches			2
+to compensate for these effects , the algorithm first automatically corrects for tilted faces , turned heads and inconsistent lighting , then applies the computed shape and appearance changes to the new child 's face			1
+perhaps the most common application of age progression work is for rendering older versions of missing children			0
+these renderings usually are created manually by an artist who uses photos of the child as well as family members , and editing software to account for common changes to a child 's face as it ages , including vertical stretching , wrinkles and a longer nose			1
+but this process takes time , and it 's significantly harder to produce an accurate image for children younger than age five , when facial features more closely resemble that of a baby			2
+using the software , parents could discover what their children will look like when they are older in each pair of these images showing babies growing up , the rendered image is on the left and a real photo of the same age is on the right ( again , hair and clothing are artificially added ) can you tell which is which ? in tests , people were unable to discern between real and rendered images through the ages : the software scans thousands of @entity52 pictures to create an ' average face ' before applying its aging algorithm the automatic age - progression software can run on a standard computer and takes about 30 seconds to generate results for one face			1
+it is not yet available to the public , however			0
+while this method considered gender and age , the research team also hopes to incorporate other identifiers such as ethnicity , and cosmetic factors such as hair whitening and wrinkles , to build a robust enough method for representing every human face			0
+‘ i 'm really interested in trying to find some representation of everyone in the world by leveraging the massive amounts of captured face photos , ’ @entity27 said			0
+‘ the aging process is one of many dimensions to consider			0
+’ the company says they will soon have a mobile app and website tool where people can try the technology by uploading their own photos .			0
+
+researchers have developed software that can predict aging
+it shows how a baby will look from birth up until age 80
+an algorithm scans thousands of @entity52 photos to get an ' average face '
+it can then apply what it learns to a new baby 's face
+people could not tell the difference between real and rendered images
+
+@entity6:University of Washington
+@entity52:Internet
+@entity44:June IEEE Computer Vision
+@entity101:Steven Seitz
+@entity46:Pattern Recognition
+@entity47:Columbus
+@entity55:brackets.An
+@entity74:years.People
+@entity64:ages.These
+@entity48:Ohio
+@entity27:Kemelmacher-Shlizerman

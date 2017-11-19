@@ -1,0 +1,50 @@
+http://web.archive.org/web/20141015174236id_/http://www.cnn.com:80/2010/TECH/web/09/29/google.instant.blacklist.mashable/
+
+-- some folks at the @entity2 decided to compile a list of words that are restricted by @entity5			1
+except in extreme and special cases , @entity5 is known for anything but censorship , but as we 've said before , there are some terms the web giant 's new instant search feature wo n't work with			1
+we understand @entity5 's intentions ; the team over there is trying to make sure that no one sees pornographic or violent results they might fight disturbing unless they really mean to search for them			1
+when asked about this feature a few weeks ago , @entity5 's @entity21 said the restrictions are in place to protect children			1
+but @entity5 has opened itself up to a potential pr problem , because some of these omissions will be at best bewildering and at worst offensive to particularly sensitive ( or progressive ) users who do n't understand how @entity5 actually works			2
+for example , " bisexual " and " lesbian " are among the restricted words			1
+type them in to @entity5 and the instant search will immediately stop delivering new results			1
+you have to hit enter to confirm , yes , you really do want to know about something in some way related to bisexuals or lesbians			0
+why did @entity5 block these words ? you can still search for these terms			1
+the issue is that when you type them , @entity5 stops reporting results on the fly , and you must hit " enter " to see results			2
+that happens because @entity5 does n't just use what you 've typed to display results			1
+it reads data collected over the years about previous users ' searches to predict what you 're going to type			0
+it 's the same algorithm that handles auto - complete , or the @entity59 pop - ups in the old , not - so - instant @entity5 search			1
+@entity5 searches only display for the exact text that you 've typed after you 've hit enter			0
+when results fail to appear after you 've typed " lesbian " or " butt , " it 's not because the results are being censored			2
+@entity5 is struggling to prevent the text of offensive searches users have made in the past ( there have been other controversies on this subject before ) from jumping up in front of you when you 're looking for something innocuous			0
+since countless users may have followed the word lesbian with " porn , " generating results inappropriate for children , @entity5 's algorithm has decided not to immediately throw 20 links to lesbian porn sites in your face when you type " lesbian , " even if that 's the most common search based on the algorithmic data			1
+when we contacted @entity5 for comment , we received this statement from a spokesperson : " there are a number of reasons you may not be seeing search queries for a particular topic			2
+among other things , we apply a narrow set of removal policies for pornography , violence , and hate speech			0
+it 's important to note that removing queries from @entity110 is a hard problem , and not as simple as blacklisting particular terms and phrases			0
+in search , we get more than one billion searches each day			0
+because of this , we take an algorithmic approach to removals , and just like our search algorithms , these are imperfect			0
+we will continue to work to improve our approach to removals in @entity110 , and are listening carefully to feedback from our users			0
+our algorithms look not only at specific words , but compound queries based on those words , and across all languages			0
+so , for example , if there 's a bad word in @entity132 , we may remove a compound word including the transliteration of the @entity132 word into @entity137			0
+we also look at the search results themselves for given queries			0
+so , for example , if the results for a particular query seem pornographic , our algorithms may remove that query from @entity110 , even if the query itself would n't otherwise violate our policies			2
+this system is neither perfect nor instantaneous , and we will continue to work to make it better			0
+" @entity5 's highly effective @entity151 algorithm still applies to instant search results			1
+@entity151 can filter out potentially offensive search results quite effectively after a user has hit " enter " -- the first page of results for " lesbian " with moderate safe search enabled is completely innocuous -- and it works for searches in progress too			2
+@entity5 's current implementation is far from perfect -- the company rep admitted that			1
+if nothing else , we 'd like to see @entity5 manually re-enter safe suggestions for some common terms that have been restricted because they 're sometimes connected with sexual , violent or hateful results			1
+the rep told us that @entity5 is working on improving the system , but would n't give us any specifics about future changes			2
+in the meantime , check out the complete list at 2600 if you 're curious			0
+
+there are some terms @entity5 's new instant search feature wo n't work with
+team is trying to make sure that no one sees pornographic or violent results unless they want to
+" bisexual " and " lesbian " are among the restricted words
+
+@entity2:Hacker publication 2600
+@entity21:Johanna Wright
+@entity5:Google
+@entity137:English
+@entity0:MASHABLE.com
+@entity110:Autocomplete
+@entity151:SafeSearch
+@entity59:Google Suggest
+@entity132:Russian

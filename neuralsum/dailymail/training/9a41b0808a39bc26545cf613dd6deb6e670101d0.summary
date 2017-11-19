@@ -1,0 +1,64 @@
+http://web.archive.org/web/20150709193329id_/http://www.dailymail.co.uk/sciencetech/article-2884995/Apple-issues-automatic-update-Macs-following-reports-severe-security-flaws-software.html
+
+for the first time ever , @entity0 has pushed out a security update to all of its @entity4 customers automatically , without seeking prior approval first			1
+a number of severe bugs were recently discovered on its @entity9 operating system that left it at risk of hackers			1
+although @entity0 has had the technology to automatically update people ’s computers for years , it typically asks a user ’s permission before installing security updates of this kind			1
+a number of severe bugs were recently discovered on @entity0 's @entity9 operating system ( pictured ) that left it at risk of hackers			1
+although @entity0 has had the technology to automatically update people ’s computers for years , it typically asks a user ’s permission before installing security updates of this kind @entity0 spokesman @entity31 told @entity32 the update is ‘ seamless			1
+it does n't even require a restart			0
+’ the firm added that it took these steps to protect customers as soon as possible , and an automatic update was the best way to do this			1
+by comparison , @entity42 has been automatically issuing updates for its @entity46 software for years			2
+the flaws were found by the @entity48 and the @entity49			0
+@entity0 annoyed users recently by automatically installing the latest @entity52 album on their devices - without their permission			1
+the @entity56 album was automatically added to @entity58 devices in 119 countries			0
+this caused users to take to @entity62 and @entity63 to express outrage at the plans			0
+while others moaned the album was difficult to remove from their devices			0
+@entity0 later issued a website that helped people remove the songs from their phones and tablets in one click			0
+they then published the vulnerabilities on friday on the @entity76			0
+the bug specifically targets what ’s known as the network time protocol ( @entity80 ) , used to synchronise clocks on computers			1
+the protocol is a global way of synchronising time over a network , and because of its link to networks it has previously been exploited by hackers			2
+@entity0 ’s @entity4 software uses @entity80 , but it is also used by servers and other companies that run @entity93 software , for example			1
+however , no firms have reported any cases of hackers exploiting this vulnerability			0
+@entity0 's update is available for @entity100 v10.8.5 , @entity101 v10.9.5 and @entity102 v10.10.1			2
+@entity103 , senior security analyst at @entity104 said : ‘ @entity0 ’s proactive steps to automatically remediate this particular vulnerability shows the need to quickly patch vulnerabilities			1
+‘ however , @entity0 ’s automatic tool is not without risks , as even the simplest update can cause problems for some systems			1
+’ the flaws ( details pictured ) were found by the @entity48 and the @entity49			2
+the bug specifically targets what ’s known as the network time protocol ( @entity80 ) , used to synchronise clocks on computers			1
+the flaws left these networks at risk from hackers in @entity102 , users can set their @entity4 to automatically install updates as needed ( pictured )			0
+@entity0 's update is available for @entity100 v10.8.5 , @entity101 v10.9.5 and @entity102 v10.10.1 in @entity102 , users can set their @entity4 to automatically install updates as needed			2
+by selecting this option , the @entity4 installs @entity9 and app updates overnight as they become available			0
+the computer then , typically , automatically restarts as part of the update process			0
+people who do n't enable the @entity134 feature are shown a notification in the @entity0 menu telling them updates are available			0
+automatic updates can be disabled on @entity4 by going to the @entity0 menu , @entity139 and unchecking ‘ install system data files and security updates ’ .			2
+
+severe bugs were recently discovered on @entity0 ’s @entity9 operating system
+flaws were found in a protocol used to synchronise time using a network
+this protocol is also used by systems running @entity93 software
+although @entity0 has had the technology to automatically update computers for years , it typically asks a user ’s permission before installing them
+@entity0 said the update is ‘ seamless . it does *n’t* even require a restart ’
+the firm added it took the steps to protect customers as soon as possible
+
+@entity80:NTP
+@entity139:App Store
+@entity134:Always Update
+@entity0:Apple
+@entity4:Macs
+@entity9:OS X
+@entity52:U2
+@entity56:Songs of Innocence
+@entity58:iOS
+@entity31:Bill Evans
+@entity32:Reuters
+@entity100:OS X Mountain Lion
+@entity101:OS X Mavericks
+@entity102:OS X Yosemite
+@entity103:Ken Westin
+@entity104:Tripwire
+@entity93:Linux
+@entity76:National Vulnerability Database
+@entity62:Twitter
+@entity63:Facebook
+@entity46:Windows
+@entity42:Microsoft
+@entity48:Department of Homeland Security
+@entity49:Carnegie Mellon University Software Engineering Institute

@@ -1,0 +1,20 @@
+http://web.archive.org/web/20100701060025id_/http://edition.cnn.com/2010/SPORT/tennis/05/25/tennis.federer.french.move/index.html
+
+-- world number one @entity2 has expressed concern over plans to move the @entity5 from @entity6 to the suburbs of @entity8			1
+officals are looking into the possibility of shifting the clay court grand slam to one of three possible sites outside the city if they are unable to agree plans to expand @entity6			2
+" let 's think twice before we act , " @entity2 told reporters after progressing to the second round of the tournament			0
+" if we move elsewhere , does it make sense ? there is a lot of money at stake			0
+" the @entity5 has been played at @entity6 since the tournament began in 1928			1
+should the @entity5 leave @entity6 ? but officials are looking for a new site with better access for cars and more room for spectators to move around outside the courts			1
+" what about the soul of @entity6 ? " asked @entity2			0
+" this is what we might miss after			0
+
+@entity2 *queries* plans to move @entity5 away from @entity8 home at @entity6
+@entity5 has been player at @entity6 since *event* began in 1928
+officials are *examining* three possible sites in the suburbs of the *capital*
+
+@entity2:Federer
+@entity8:Paris
+@entity0:CNN
+@entity5:French Open
+@entity6:Roland Garros

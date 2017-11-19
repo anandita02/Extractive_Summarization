@@ -1,0 +1,24 @@
+http://web.archive.org/web/20140821070959id_/http://edition.cnn.com/2011/WORLD/asiapcf/03/04/south.korea.cyber.attack/index.html
+
+@entity0 , @entity1 -- a cyber attack friday morning hit 40 @entity1 websites , including those of several government agencies and major banks , the country 's internet security agency said			1
+the government detected the first wave of the attack thursday			0
+it was coordinated from outside @entity1 using " zombie " computers -- computers which have downloaded malicious codes -- to target designated websites , slow them down or paralyze their operation , the internet security agency said			2
+infected computers directed a giant traffic surge to targeted websites			2
+that 's called a @entity24 attack , short for distributed denial - of - service -- and it 's hard for most sites to defend against			0
+by friday , @entity1 's leading security software company had developed a free anti-virus program to treat infected computers			1
+software company @entity30 said it developed the anti-virus program after receiving reports of the attack from the @entity1 government thursday			0
+the company warned that another attack would hit websites at 6:30 p.m. friday			0
+targeted sites include @entity1 's presidential office , the foreign ministry , the defense ministry and main banking websites , according to a statement issued by @entity30			1
+no severe damage has been reported so far , but the government said it was monitoring the attack			0
+during a similar attack in 2009 , 17 @entity1 websites were hit over a three - day period .			1
+
+officials say the attack is being coordinated from outside @entity1
+infected " zombie " computers are directing traffic surges to certain sites
+targets include @entity1 's presidential office , foreign ministry and defense ministry
+17 @entity1 sites were hit during a similar attack over three days in 2009
+
+@entity2:CNN
+@entity1:South Korean
+@entity0:Seoul
+@entity24:DDoS
+@entity30:AhnLab

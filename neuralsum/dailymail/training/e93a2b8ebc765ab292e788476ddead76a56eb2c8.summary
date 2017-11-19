@@ -1,0 +1,58 @@
+http://web.archive.org/web/20130429231147id_/http://www.dailymail.co.uk/sciencetech/article-2225743/Alleged-hacker-caught-camera-cyber-security-experts-infect-HIS-OWN-virus.html
+
+by @entity0 published : 07:51 est , 31 october 2012 updated : 07:51 est , 31 october 2012 cyber-security experts turned the tables on an alleged hacker by using his own malware to film him through his own laptop webcam			2
+specialists from @entity9 's @entity8 ( @entity10 ) tricked a man they claim has been targeting their networks by hiding the virus inside a file titled ' @entity9 - @entity15 '			1
+after the attacker stole that archive from an infected pc in their lab , they were able to seize control of his computer and capture video of him at work			2
+' @entity26 ' : this is the picture of the alleged cyber-attacker captured by @entity9 security experts after they took control of malware on their systems and infected his computer with it the team also claim to have found out his home city , internet service provider and email addresses , as well as information that links him to @entity43 security agencies and other hackers in @entity45			1
+@entity8 - @entity9 's experts had been investigating a botnet which had infiltrated the computers of politicians , civil servants , banks and @entity52 in @entity9 , the @entity53 , @entity54 , @entity55 and several other countries			1
+they found that the attackers had planted malicious links to install the malware on specific news - site webpages that would be of interest to the kinds of people they wanted to target			0
+' [ the ] threat was highly encrypted and used contemporary stealthy techniques , so that none of security tools could identify it , ' the team said in a 27 - page report into their investigation			2
+once installed , the virus seized control of the targeted computer , rifling its hard drives to search for @entity77 and			0
+pdf documents containing sensitive words like ' @entity53 ' , ' @entity80 ' , ' @entity43 ' and ' @entity81 '			1
+a botnet is a collection of internet - connected computers over which a hacker has seized control			1
+each compromised machine - known as a ' bot ' - is created when a computer is infected with malicious software ( malware ) which allows the hacker to direct its activities remotely			2
+these infections can be accomplished by luring users into making a drive - by download , exploiting web browser vulnerabilities , or by tricking the user into running a trojan horse program , which may come from via email			0
+this malware will typically install modules that allow the computer to be commanded and controlled by the botnet 's operator			2
+depending on how it is written , a @entity104 may then delete itself , or may remain present to update and maintain the modules			0
+the malware also scanned the computer 's local network for find other hosts to infect , took screenshots , and took control of embedded webcams and microphones on machines to eavesdrop on targets			0
+the investigation found the infiltration began as early as march 2011 , with the virus undergoing a series of modifications as hackers tried to stay one step ahead of whatever security measures were used against it			0
+@entity8 - @entity9 's experts found that whenever they were able to trace the botnet 's command and control servers , to which files were being uploaded , the hackers would switch the destination country and ip address			1
+to fight the infections , the team blocked these ip addresses as soon as they were detected then cooperated with anti-virus software companies and foreign intelligence agencies to develop countermeasures			1
+but their masterstroke was to work out how to take control of the botnet themselves and infect one of the hackers with his own malware			2
+they then recorded him as he worked			0
+espionage : this screengrab provided by @entity10 shows the various keywords that the virus searched for in files on targeted machines their report explained , in broken @entity156 : ' we have infected our pc from @entity159 , then gave @entity160 with his own virus inside and the name “ @entity9 - @entity15 ”			1
+' attacker stole that archive and executed malicious files			0
+' as we had access to @entity167 , we had maintained control over his pc			0
+' then captured got video of him , personally			0
+we have captured process of creating new malicious modules			0
+' we have obtained @entity43 document , from e-mail , where he was giving someone instructions how to use this malicious software and how to infect targets			1
+' we have linked him with some of @entity45 and @entity43 hackers			1
+' then we have obtained information about his destination city , @entity186 , e-mail , and etc. ' @entity43 has long been suspected as behind a string of cyber attacks on @entity9 targets			1
+there were crippling denial - of - service attacks on @entity9 banks and government networks before the @entity43 military attacked in 2008 , arstechnica reported			1
+now , with security experts able to turn the tables on hackers , it appears a new chapter in cyber-warfare has begun .			0
+
+@entity9 experts were investigating botnet that infected their computers
+infection *spread* to government agencies and @entity52 in several countries
+in a comprehensive report they link hack attacks to @entity43 intelligence
+
+@entity53:USA
+@entity15:Nato Agreement
+@entity0:Damien Gayle
+@entity26:Hacker
+@entity167:BOT Panel
+@entity10:CERT-Georgia
+@entity52:NGOs
+@entity9:Georgian
+@entity8:CERT
+@entity160:Cyber Attacker Fake ZIP Archive
+@entity186:Internet service provider
+@entity80:NATO
+@entity81:CIA
+@entity159:Lab
+@entity104:Trojan
+@entity55:Ukraine
+@entity43:Russian
+@entity77:Word
+@entity45:German
+@entity156:English
+@entity54:Canada

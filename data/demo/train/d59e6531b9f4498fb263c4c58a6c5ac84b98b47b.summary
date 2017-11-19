@@ -1,0 +1,45 @@
+http://web.archive.org/web/20150629021846id_/http://www.cnn.com/2012/07/26/tech/web/air-traffic-control-security
+
+air traffic control technology is getting a major upgrade in the @entity2 that is scheduled to be completed in 2014 , but the new systems are susceptible to potentially dangerous manipulation , according to a security researcher			1
+the actual flaws might seem mild compared to everyone 's worst fears and common @entity10 plot lines			0
+planes can not be forced from the sky or dangerously redirected			0
+but the researcher says the system can be tricked into seeing aircraft that are not actually there			1
+messages sent using the system are not encrypted or authenticated , meaning anyone with the basic technology and know - how could identify a plane and see its location			2
+computer scientist @entity24 , a @entity25 student at @entity26 , gave a talk on the weaknesses of the new air traffic system at the @entity31 security conference in @entity32 on wednesday			1
+he did not mention any known hacks of the system , but did demonstrate the potential negative scenarios			2
+old radar systems are being replaced with a new technology called @entity39 system , or @entity39 the traditional radars work by sending a signal that triggers an aircraft 's responder to send back its position			1
+the new system uses the global satellite navigation system to continuously broadcast the locations of planes			2
+the information is sent to other aircraft and ground stations ; the ground station sends the location to air traffic controllers			1
+the new system will open up this flight information to a new player : the general public			2
+" there are various applications which you can go to and basically see , online , in real time , all the airplanes which broadcast their information , " said @entity24			0
+according to @entity24 , the chance of these security holes being exploited for terrorism is unlikely , but he says they still have the potential to be used by pranksters , paparazzi and military intelligence organizations interested in tracking private aircraft or confusing air traffic control systems on the ground			1
+intercepting the messages , jamming the system or attacking it by adding false information does not require advanced technology ; the necessary software - defined radio retails for under $ 800			0
+one of the technology 's makers downplayed the threat			0
+" we are quite familiar with the theory that @entity39 could be ' spoofed , ' or barrage jammed by false targets			0
+there 's little new here			0
+in fact , just about any radio frequency device can be interfered with somewhat , " said @entity88 , the president of @entity89 , which is one of many companies making these components			0
+" i obviously ca n't comment on countermeasures , but you should know that this issue has been thoroughly investigated and international aviation does have a plan			0
+" in a statement , the @entity99 said it already has a process in place for addressing potential threats to the system , and it does conduct ongoing assessments of vulnerabilities : " an @entity99 @entity39 security action plan identified and mitigated risks and monitors the progress of corrective action			1
+these risks are security sensitive and are not publicly available			0
+" the @entity99 has sunk millions of dollars into the system			1
+the benefits of the ads - b are that it will show more precise locations of aircraft and pilots will have access to more information about surrounding aircraft while in the air			1
+the @entity99 also says it is more environmentally friendly by making flight routes more direct and saving on fuel			1
+given the large time and financial investment , the @entity99 is not going to abandon the new technology			2
+however , it is n't throwing out the old system completely , just in case			0
+" the @entity99 plans to maintain about half of the current network of secondary radars as a backup to @entity39 in the unlikely event it is needed , " the @entity99 said in its statement .			2
+
+researcher : hackers could trick new air traffic control systems into seeing fake aircraft
+the new system will be rolled out in the @entity2 by 2014
+the @entity99 says it conducts onging assessments of vulnerabilites
+
+@entity31:Black Hat
+@entity2:United States
+@entity32:Las Vegas
+@entity26:Eurecom
+@entity24:Costin
+@entity25:Ph.D.
+@entity39:ADS-B
+@entity10:Hollywood
+@entity99:FAA
+@entity88:Skip Nelson
+@entity89:ADS-B Technologies

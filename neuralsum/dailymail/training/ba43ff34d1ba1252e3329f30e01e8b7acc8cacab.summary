@@ -1,0 +1,49 @@
+http://web.archive.org/web/20141221133713id_/http://www.dailymail.co.uk/sciencetech/article-2821937/Now-phone-KNOWS-s-stolen-App-learns-owner-s-movements-habits-recognise-thief-using-it.html
+
+in the future , your phone will know your everyday activities so well , it will automatically realise when it has been stolen			0
+that ’s the thinking behind the latest software developed by @entity7 researchers			0
+by combining data from various sensors in the phone , the app knows when it is being used by an unfamiliar person , or taken to an unknown location			2
+it then asks for an authentication code before being unlocked			0
+the software was created by @entity18 and uses phone sensors to build a profile of the user ’s behaviour			1
+for example , it tracks which apps they use on daily basis , uses @entity29 sensors to learn which networks are typically within that user ’s vicinity , as well as how they typically hold a device ‘ mobile devices such as smartphones and tablets are rapidly becoming our digital identity , ’ explained professor just and his colleagues from @entity18 in their ‘ @entity37 authentication : on the @entity39 with @entity40 ’ paper			1
+‘ they are used for payments and authentication , and they store valuable information			0
+the software uses sensors in phones to build a profile of the user			1
+for example , it tracks which apps they use on daily basis			0
+it also uses @entity29 sensors to learn which networks are typically within that user ’s vicinity on a daily or weekly basis , as well as which mobile towers they travel near			1
+the accelerometer can even determine how a user typically holds a device			0
+in addition , the phone uses sensors to learn about a user 's environments , such as how light their home is , or how noisy their office is			1
+the data from all these available sensors are combined to create a ' comfort score			1
+' if the location is unknown , or sensor data has never been encountered , the score is zero			0
+if comfort levels drop below 0.2 , suggesting the behaviours are out of the ordinary , the device will ask for an authentication code to unlock			2
+‘ their relatively low cost , ease of use and ‘ always on ’ connectivity provides a suitable platform for many day - to - day tasks involving money and sensitive data , which in turn makes mobile devices an attractive attack target			2
+’ the software uses the sensors built into phones to build a profile of the user			1
+for example , it tracks which apps they use on a daily basis , and if there are any patterns in terms of which order they are opened in , or how long they use them			0
+it also uses @entity29 sensors to learn which networks are typically within that user ’s vicinity on a daily or weekly basis , as well as which mobile towers they travel near			1
+the accelerometer can even determine how a user typically holds a device			0
+in addition , the phone uses sensors to learn about the user 's environments , such as how light their home is , or how noisy their office is			1
+the data from all these available sensors were combined to create a so - called comfort score based on its frequency for the given time and location			1
+if the location is unknown , or the sensor data has never been encountered for that location , the comfort score is zero			1
+and because some sensors provide more than one input , such as noise and light , the readings were used more than once			0
+the data from all these available sensors were combined to create a so - called comfort score based on its frequency for the given time and location			1
+pictured are three individual usage patterns for researchers involved in the study if comfort levels drop below 0.2 , suggesting the behaviours are out of the ordinary , the device asks for an authentication code to unlock after the software has learnt the user ’s behaviours , it initiates ‘ deployment mode ’ , and the device automatically sets a detection threshold to be 0.2			1
+this means that if comfort levels drops below 0.2 , suggesting the behaviours are out of the ordinary , the device will ask for an authentication code to unlock			2
+this can be different to the user ’s pin , and unique to that user and device			2
+the software is adaptive enough to recognise that small deviations from normal behaviour is expected , but larger changes will trigger a response			0
+during four separate tests , the comfort level dropped substantially below the owner ’s average and there was a detection rate of 95 per cent			0
+the only exception was when a friend or family - member , known as an ‘ informed insider ’ used the device			0
+professor just explained that it takes a week , on average , for the software to learn its user ’s activity			2
+the software will undergo further tests before it can be released more widely to consumers .			0
+
+the software was created by experts at @entity18
+it uses phone sensors to build a profile of the user ’s behaviour
+this *includes* which apps they use , how they hold their device and even how noisy their office is
+data from these sensors is the combined to create a ‘ comfort score ’
+if a thief uses the phone , and score drops below 0.2 , it triggers a response
+after three minutes of *unusual* use , the phone locks and asks for a code
+
+@entity7:Glasgow
+@entity37:Data Driven
+@entity39:Effectiveness of User Behaviour Modelling
+@entity29:Wi-Fi
+@entity18:Glasgow Caledonian University
+@entity40:Mobile Device Sensors

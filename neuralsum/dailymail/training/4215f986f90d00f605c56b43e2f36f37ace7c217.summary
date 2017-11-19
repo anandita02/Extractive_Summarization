@@ -1,0 +1,48 @@
+http://web.archive.org/web/20121201084238id_/http://www.dailymail.co.uk:80/sciencetech/article-2239720/Batteries-included-Hearing-aids-soon-powered-body-itself.html
+
+by @entity0 published : 07:46 est , 28 november 2012 updated : 07:46 est , 28 november 2012 a hearing aid powered by the body itself could soon be developed after researchers found a way to power electronic devices using the ear 's own natural battery			1
+deep inside the inner ear of mammals there is a natural battery - a chamber filled with ions that produces electricity to drive neural signals			1
+researchers from @entity19 and the @entity20 have now been demonstrated for the first time that this battery could be used to power implantable electronic devices			1
+minuscule : a close - up picture of the tiny device incorporating a radio transmitter and power supply that was implanted into the ears of guinea pigs as part of the study initially the devices are intended to monitor biological activity inside the ears of people with hearing or balance problems , but one day they could be used to deliver therapies themselves			1
+researchers implanted electrodes into the biological batteries in the ears of guinea pigs and connected them to low - power electronic devices			1
+after the devices were implanted , the guinea pigs responded normally to hearing tests and the devices were able to transmit data about chemical conditions within the ear to an external receiver			2
+@entity50 , an ontologic surgeon who took part in the research , said : ' in the past , people have thought that the space where the high potential is located is inaccessible for implantable devices , because potentially it ’s very dangerous if you encroach on it			2
+@entity59 : the device was powered by electrodes plugged into a natural battery which sits inside the cochlea of all mammals ' we have known for 60 years that this battery exists and that it ’s really important for normal hearing , but nobody has attempted to use this battery to power useful electronics			1
+' like a record player the ear converts a mechanical force - in this case the vibrations of the eardrum - into an electrical signal , which the brain is able to recognise			1
+the biological battery that is the source of that signal 's current is located in the cochlea			0
+it has a chamber divided by a membrane , some of whose cells are specialised to pump ions			0
+an imbalance of potassium and sodium ions on each side of the membrane combines with a particular arrangement of the pumps to create an electrical voltage			0
+the ear 's natural battery has the highest voltage of any part of the body outside of individual cells , but it is still very low , meaning that any device plugged into it must only harvest a tiny fraction of its power			1
+if it was to divert too much current , it would disrupt the ear 's ability to communicate with the brain and any person implanted with a device would lose some of his hearing			2
+in order to get around this , @entity19 researchers devised a special low - power chip , equipped with an ultra low - power radio transmitter much more efficient than that found in , say , mobile phones			1
+even then , to directly run the transmitter from the biological battery the chip was also fitted with miniscule power - conversion circuitry - like a tiny version of the boxy converters fitted to many household gadgets ' power cables - that gradually built up the charge in a capacitor			2
+soon to be a thing of the past ? external hearing aids could one day be made obsolete by the technology dr @entity50 and a colleague implanted electrodes in each side of the membrane in the biological batteries within the ears of their guinea pigs			1
+in the experiments , the chip itself remained outside the guinea pig ’s body , but if used in humans it is already small enough to nestle in the cavity of the middle ear			0
+despite being drastically simplified , the power circuit itself still required a higher voltage than the ear could provide			0
+although it could drive itself once up and running , it needed a kickstart			0
+the researchers solved that problem with a one - time burst of radio waves which supplied the power for the device to burst into life			0
+@entity165 , who led the team that designed the circuit at @entity19 's @entity168 , said : ' in the very beginning , we need to kick - start it			2
+' once we do that , we can be self - sustaining			0
+the control runs off the output			0
+' @entity175 , chairman of otolaryngology at @entity177 and @entity178 told @entity179 that one day the technology could power implantable hearing aids			1
+' the fact that you can generate the power for a low voltage from the cochlea itself raises the possibility of using that as a power source to drive a cochlear implant , ' he said			0
+' i ’m not ready to say that the present iteration of this technology is ready			0
+[ but ] if we could tap into the natural power source of the cochlea , it could potentially be a driver behind the amplification technology of the future			2
+' the findings were published in the journal @entity202 .			0
+
+@entity19 team invents devices which draw power from a natural battery which is inside the ear of all mammals
+that biological *structure* converts vibrations of the eardrum into electrical signals that the brain can recognise and interpret
+low - power gadgets so far used for *diagnostic* *observation* , but technology could one day form the basis of implantable hearing aids
+
+@entity20:Harvard Medical school
+@entity0:Damien Gayle
+@entity175:Cliff Megerian
+@entity177:Case Western Reserve University
+@entity165:Anantha Chandrakasan
+@entity179:MITnews
+@entity178:University Hospitals Case Medical Center
+@entity168:Microsystems Technology Laboratories
+@entity19:MIT
+@entity50:Stankovic
+@entity202:Nature Biotechnology
+@entity59:Ingenious

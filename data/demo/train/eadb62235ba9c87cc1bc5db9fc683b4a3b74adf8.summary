@@ -1,0 +1,89 @@
+http://web.archive.org/web/20150628194656id_/http://www.cnn.com/2012/02/09/tech/social-media/dave-morin-path-social-media-app/
+
+" we thought we were doing this the right way			0
+it turns out , we made a mistake			0
+" @entity5 , the ceo and creator of social media app path , tells me this as we sit in his 22nd - floor headquarters in downtown @entity10			1
+it 's a mere 24 hours after an independent app developer exploded @entity14 's world with a simple blog post that led to a torrent of bad publicity			2
+@entity18 of @entity19 discovered that @entity20 uploads users ' address book information to @entity20 's servers			1
+this action is n't in @entity25 , and it 's enraged a user community concerned about privacy rights			1
+some social media companies , including @entity20 , subscribe to a philosophy that says access to your personal data — if used safely and in the right way — can only improve your experience			1
+to this extent , address book data is the bread and butter of @entity20 , an app that distinguishes itself as " the first truly personal network			1
+" " we do n't want to connect you with just anyone on @entity20 , " @entity14 says			1
+" without the contact list information , some of these features just do n't work			1
+" the address book data , @entity14 says , is used in only three ways			1
+" we give you a list of suggested friends to connect with who are already on @entity20			1
+we notify you when other friends of yours join @entity20			1
+" and the third reason speaks to the very uniqueness of @entity20 itself — its " @entity58 " algorithm			1
+@entity59 uses data on your phone to determine the most helpful friending suggestions			0
+the feature looks at the interaction you have with friends across platforms , so , in theory , you 'll get the most relevant friend suggestions possible without the chaff that @entity70 , for one , may serve up			0
+" we used the data for the sake of simplicity , " @entity14 tells me			0
+" any time you build a network , you have to help users find their friends			0
+and that entire experience is designed to suggest people who you 're close to			0
+" in other words , it 's the whole point of the app itself			0
+but that 's not an easy sentiment to convey to users who feel their privacy has been violated			2
+@entity14 told me he wants to take all measures possible — all explained in a blog post — to prove to users that path is serious about privacy			0
+" we 've deleted the entire collection of user contact information from our servers , " @entity14 says			1
+" unlike some other companies , we believe that users should have complete control over their data			2
+this is just the right thing to do			0
+" following tuesday 's privacy kerfuffle , @entity14 's company is caught in an existential morass of data and privacy issues			2
+users are enraged , which is to be expected , but social media software development has blurred the lines between what users want from a social media app , and what users will tolerate in terms of data mining			1
+to what degree can a technology company collect users personal data without facing backlash from the public at large ? what is acceptable , and what is going over the line ? with the rise of @entity70 , @entity131 and @entity132 , we 're growing accustomed to handing over our data to social media services , all of which claim the best intentions			1
+the goal , theses services say , is to improve applications , tailoring them to act and react to our personal preferences			0
+@entity140 has countless terabytes of data on its users , and is incorporating this trove of data more and more in the spirit of improving services			1
+last month , for example , @entity140 rolled out @entity150 , a function that incorporates your @entity132 social network information into simple @entity140 search queries , an attempt to provide the most relevant search results possible			2
+to some degree , companies such as @entity70 , @entity140 and @entity20 are forced to push the envelope			2
+the landscape for social applications is nearing full capacity , with little room for copycats that provide no added value outside of what others are doing			0
+" in social , you have to innovate in information , " @entity14 says			2
+" if you have the same thing as everyone else , you 're just not interesting			0
+" yet on the flip side , social media companies have faced serious privacy concern backlashes in the wake of any major changes			1
+@entity140 users have been chaffed by @entity179 — almost as if they just finally realized just how personal data is that @entity140 has stored on its servers			1
+@entity70 , too , has encountered its share of user outrage : it happens nearly every time the company makes a major change in the service			0
+in fact , @entity70 was caught doing the exact same thing that @entity20 is currently taking heat for , over two years ago			2
+it 's indicative of a larger issue in today 's technology landscape — the tension between how much data we 're comfortable giving , and how much data we expect to remain private			1
+and this is where @entity20 got in trouble			2
+its privacy policy never explicitly pointed out that it would access your contacts , nor does the @entity206 app prompt users for access to their address book in the first place			1
+but some security researchers say this should n't come as a surprise			0
+" we 've seen a great many examples of this type of thing in the press , but it 's somewhat commonplace for applications to access user 's personal information without users knowing , " said independent security researcher @entity214 in an interview			1
+" smartphones are small personal computers that people carry along with them			0
+they contain a great amount of personal data including e-mails , contacts , and calendars , yet we blindly download apps from small third - party developers without any due diligence			0
+" and to some degree , @entity20 and other app developers are crippled by @entity240 's submission process			1
+" it 's fundamentally a flaw in the way the platforms are set up , " @entity214 says			0
+" the only data that 's restricted and requires notification as part of the platform is location			2
+@entity240 is supposed to detect when apps send information to third parties , but it 's still a very subjective thing			2
+path is a social app , so to some degree , it 's to be expected			2
+" @entity14 stresses that @entity20 is n't the worst offender in that the data it 's collected is used only for the features @entity14 outlined			1
+path has no advertising , so unlike @entity70 and @entity140 , no information is used to target and tailor ads to individuals , he says			0
+what 's more , he says , his company 's servers are secured behind a firewall , and @entity14 and his team are meeting with @entity271 , a privacy policy certification service , on wednesday afternoon to discuss @entity20 's measures in keeping user data safe			1
+ironically , @entity20 had already been working on changing the way it notifies users of access to the address book			1
+" we had proactively rolled out an opt - in for this on our @entity283 client a few weeks ago , " @entity14 says , " and were literally preparing to roll it out for @entity206 on friday			0
+" all of which makes this week 's bad publicity a matter of seriously unfortunate timing			0
+@entity14 says he hopes his company 's situation will spark a larger conversation about privacy in the industry			0
+" we 're probably going to have to innovate on how transparent we are , " he says			0
+but , ultimately , @entity20 is in it for the long haul , and hopes to make good with its user base with a swift resolution			2
+" from the beginning , we 've been working on building a 30 - year company here , " @entity14 tells me			0
+" and trust takes time			0
+
+users upset that @entity20 uploads users ' address book information to @entity20 's servers
+without contact info , some of these features just do n't work , ceo says
+we 're growing accustomed to handing over our data to social media services
+
+@entity214:Soltani
+@entity20:Path
+@entity14:Morin
+@entity140:Google
+@entity5:Dave Morin
+@entity10:San Francisco
+@entity179:Search plus Your World
+@entity25:Path 's Terms of Use
+@entity132:Google+
+@entity70:Facebook
+@entity19:Singapore
+@entity18:Arun Thampi
+@entity283:Android
+@entity58:Friend Rank
+@entity240:Apple
+@entity59:FriendRank
+@entity150:Search plus Your World
+@entity131:Twitter
+@entity206:iOS
+@entity271:TRUSTe

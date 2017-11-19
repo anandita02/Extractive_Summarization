@@ -1,0 +1,61 @@
+http://web.archive.org/web/20130721060403id_/http://www.cnn.com/2012/02/21/opinion/wisniewski-google-privacy
+
+-- a few days ago , controversy erupted when news broke that @entity3 and other online advertising companies bypassed privacy protections in order to track users of @entity10 's @entity9 web browser and @entity12 mobile devices			1
+this is not the first time , nor likely the last time , that @entity3 finds itself in hot water for questionable behavior			1
+at a time when many companies ( notably @entity18 ) try to come up with ingenious ways to hoard personal data about consumers for lucrative ends -- undermining users ' privacy along the way -- @entity3 's actions reflect what is becoming the norm in this hypercompetitive space			1
+many compare tailored internet advertising to the old small - town butcher , grocer and tailor			2
+as relationships with these merchants developed over time , they learned about your preferences and were able to provide you with a higher level of service			0
+but this is a broken analogy , for several reasons			0
+i grew up in a small town , and guess what -- you have no privacy in a small town			2
+it was n't until i moved to a large city that i developed an appreciation for not being judged , spied upon and tracked by my community			0
+when i moved to the city , i had a clean slate and something akin to true anonymity			0
+similarly , the companies tracking your every move on the @entity57 do n't stop tracking when you visit a new website , or even when you change internet providers , computers or browsers			1
+in the nondigital world , this would be like having the butcher , grocer and tailor follow you to your workplace , your home and your family vacation destination			0
+they bring along their children and some of their friends -- not saying who , just people they know			0
+this might result in the perfect cut of meat for your mood , a recommendation for spring vegetables that just came in , and some really awesome workout clothes for your new pilates classes -- but i do n't think any of us would really find this an acceptable tradeoff			0
+@entity3 knows too much about you @entity3 stopped using the offending technique after it was reported , although @entity88 is now reporting that @entity3 is using a similar technique to bypass protections in internet explorer 9			1
+@entity3 said it had circumvented the protections against third - party cookies in @entity9 to allow @entity95 users to click " +1 " ( instantly share ) when they like an advertisement			1
+that this technique allowed advertising tracking cookies to be placed as a result was just an accident			0
+@entity3 further defends itself by saying the trackers were not collecting personal information			2
+they were simply checking whether you were logged in to @entity3 and what your preferences were with regard to its advertising			2
+the problem is that , as a result of this circumvention , @entity3 's ad networks were also able to start tracking users -- an unintentional side effect , according to @entity3			1
+@entity3 and other advertising networks chose to circumvent built - in privacy technologies that were designed to prevent the very thing they were trying to do			1
+@entity3 's own engineers recognized this as a security flaw in the browser code last summer and submitted a fix to the @entity125 project			1
+it is hard to understand how this mistake could have happened , considering the intense scrutiny @entity3 's privacy policy has received in recent weeks			1
+clearly the testing of this code was either cursory or nonexistent			0
+i choose to use @entity133 , but that does n't mean i expect @entity3 to undo other privacy choices i 've made in order to make social sharing more convenient			1
+@entity3 is heading in a direction that sounds a lot like @entity18 's frictionless sharing , which automatically shares your activities on the web through social apps -- and that 's scary			1
+the bottom line is that defining privacy using technical specifications will always lead to clever circumventions			0
+is n't it time to take a page from the laws meant to restrict our digital freedoms and use that broad language to instead write laws that defend our privacy ? in the @entity159 , the @entity158 restricts our ability to break digital locks like copy protection and encryption			1
+it is illegal to bypass a " technological measure that effectively controls access to a work			0
+" basically , this means if the author of a protected work intended to protect it , you must have a darn good reason to break that protection			0
+should n't this be the way privacy works ? if i take an action that indicates my intention to avoid being tracked , should n't you be required to honor it , even if you suppose it will diminish my " experience " with your products ? @entity185 , the researcher who described how these cookies exploited the @entity9 bug , concluded his disclosure by calling privacy protections a " cat and mouse game " or " arms race " with advertising companies			1
+average @entity159 should n't have to stay one step ahead of advertisers by understanding the complexities of how cookies work and the intimate details of how they are used			0
+perhaps we should take a piece of advice from @entity201 from the movie " network " : " i want you to get up right now , sit up , go to your windows , open them and stick your head out and yell -- ' i 'm as mad as hell and i 'm not going to take this any more ! ' things have got to change			0
+but first , you 've got ta get mad ! " privacy is n't dead , it 's just being pulled out from under our feet			2
+join the conversation on @entity18			2
+the opinions expressed in this commentary are solely those of @entity218 .			2
+
+@entity3 and other companies bypassed privacy protections to track users
+@entity218 : @entity3 's actions reflect what is becoming the norm on the internet
+he says @entity3 is emulating @entity18 's frictionless sharing , which is scary
+@entity218 : we can look to the @entity158 for a smart law on privacy
+
+@entity3:Google
+@entity214:Twitter
+@entity0:CNN
+@entity12:iOS
+@entity10:Apple
+@entity9:Safari
+@entity213:CNN Opinion
+@entity218:Wisniewski
+@entity185:Jonathan Mayer
+@entity18:Facebook
+@entity159:Americans
+@entity158:Digital Millennium Copyright Act
+@entity57:Web
+@entity88:Microsoft
+@entity95:Google+
+@entity125:Webkit
+@entity201:Howard Beale
+@entity133:Gmail

@@ -1,0 +1,16 @@
+http://web.archive.org/web/20091112063727id_/http://us.cnn.com/2009/SHOWBIZ/Movies/10/16/roald.dahl.writing.hut/index.html
+
+@ highlight @entity1 , @entity2 inspired @entity5 's classic children 's novels			0
+
+*books* like " @entity7 " *feature* *people* and **place*s* from town
+*director* @entity13 *wrote* *adaptation* of " @entity15 " at @entity5 's home
+@entity5 's *widow* , @entity18 , let him stay at @entity19 to *write* in same *place*
+
+@entity2:England
+@entity1:Great Missenden
+@entity13:Wes Anderson
+@entity5:Dahl
+@entity15:Fantastic Mr Fox
+@entity19:Gypsy House
+@entity18:Felicity
+@entity7:Danny the Champion of the World

@@ -1,0 +1,51 @@
+http://web.archive.org/web/20150512154039id_/http://www.dailymail.co.uk/sciencetech/article-2573761/Apple-track-AFTER-iPhone-battery-dies-Sensors-continue-collect-data-phone-dead.html
+
+@entity1 users take note – even when your phone battery dies , the handset can still track your every move			1
+this is because when a battery dies , the phone keeps a small amount of power in reserve , meaning its low - energy chip can carry on collecting data from built - in motion sensors			1
+it ca n’t track location , however , but it can reveal how many steps a user takes , or establish whether a phone was still being carried around when used with select , third - party apps			2
+@entity22 's @entity1 , pictured , can track movements even when its battery dies			0
+the feature was highlighted by @entity28 user @entity26			1
+after four days without charge , @entity29 said when he turned his iphone back on , the number of steps he had taken were recorded on a pedometer app , meaning motion sensors were still working when @entity22 launched the @entity1 , it added what ’s called a ‘ companion ’ chip , dubbed @entity40			1
+the @entity40 collects data from sensors including the accelerometer , gyroscope and compasses			1
+these sensors can detect motion and are used by a variety of apps including fitness trackers , and maps			0
+it was designed to take this data collection task from the central processing unit ( @entity55 ) to help preserve battery and speed up the processors			0
+each of the motion sensors are classed as ‘ low - energy ’ , which means the @entity40 can continue to collect data from them using the battery reserve			1
+the @entity40 does not collect data from the gps unit , though , because this unit takes up a lot of power and is handled by a separate chip			1
+all the data the @entity40 collects is encrypted and removed after seven days			2
+it also ca n't be accessed by @entity22 's built - in apps - only by apps developed by third parties			0
+the feature was discovered by @entity28 user @entity26 while travelling abroad			1
+after four days without charge , @entity29 found that when he turned his iphone back on , the number of steps he had taken during those four days had been recorded on a pedometer app he had installed			2
+@entity29 wrote : ‘ i frequently use @entity82 [ fitness app ] to track my steps since it takes advantage of the @entity40 chip built into the phone			1
+‘ once i got back from my vacation , and charged the phone , i was surprised to see that @entity82 displayed a number of steps for the four days that my phone was dead			2
+‘ i 'm both incredibly impressed and slightly terrified			0
+’ @entity22 handsets , as well as other devices , traditionally keep a reserve of power - even when the phone shuts down - in order to maintain certain services and help it boot up when put on charge again			0
+for example , when a phone battery reaches zero on the display there is , on average , around 5 per cent battery left			0
+when @entity22 's senior vice president @entity108 , pictured , launched the @entity1 , he announced the @entity40 chip , pictured			1
+it collects data from motion sensors including the accelerometer and gyroscope			0
+because these sensors are ' low - energy ' , the @entity40 can continue to collect data from them using the battery reserve the phone itself ca n't track steps , but apps such as @entity82 , pictured , use the data collected by the @entity40 chip when @entity22 launched the @entity1 , it added what ’s called a ‘ companion ’ chip dubbed @entity40			1
+the @entity40 collects data from sensors including the accelerometer , gyroscope and compasses			2
+these sensors can detect motion and are used by a variety of apps including fitness trackers , and maps			0
+it was designed to take this data collection task away from the central processing unit ( @entity55 ) to help preserve battery , and speed up the processors			0
+each of these sensors are classed as ‘ low - energy ’ , which means the @entity40 can continue to collect data from them using the battery reserve			1
+the @entity40 does not collect data from the gps unit , though , because this unit takes up a lot of power and is handled by a separate chip			2
+this means that although @entity29 ’s phone could track his steps , it was n’t able to track his location			0
+all the data the @entity40 collects is encrypted and removed after seven days			2
+it also ca n't be accessed by @entity22 's built - in apps - only by apps developed by third parties			0
+users also have to allow an app to use motion data , by opting in - it is not a default setting .			0
+
+@entity28 user @entity26 posted the *thread* after he had been travelling abroad
+he said that while on holiday , his phone died but he kept it in his *pocket*
+when he *switched* the @entity1 back on , the number of steps he had taken during those four days had been recorded
+phone 's @entity40 chip powers low - energy sensors such as the accelerometer
+it *deliberately* reserves around 5 *%* of power even when the phone dies
+all data on the @entity40 chip is encrypted and *deleted* after seven days
+
+@entity22:Apple
+@entity1:iPhone 5S
+@entity26:Glarznak
+@entity28:Reddit
+@entity29:Glarznak
+@entity82:Argus
+@entity40:M7
+@entity55:CPU
+@entity108:Phil Schiller

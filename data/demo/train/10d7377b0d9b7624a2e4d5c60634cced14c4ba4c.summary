@@ -1,0 +1,79 @@
+http://web.archive.org/web/20140428024630id_/http://www.cnn.com:80/2012/11/30/tech/web/six-strikes-internet
+
+take progressively punitive measures to discourage or prevent said infringers from engaging in further copyright - violating activities			1
+it 's essentially an industry workaround , after @entity16 and @entity17 — bills designed to give the government increased power to battle copyright violators — failed or stalled last year			1
+but " six strikes " is notably different from either @entity16 or @entity17			1
+for starters , it 's not a bill			2
+instead of empowering the government to blacklist sites deemed illicit , it 's an escalating warning system managed by @entity9 independently			1
+it employs a third - party tool , @entity31 , to identify users engaging in copyright - violating activities , then leaves it up to @entity9 to take action			1
+isps participating at this point include @entity37 , @entity38 , @entity39 , @entity40 and @entity41			1
+say an ip address associated with your account is identified as a violator			0
+your @entity9 would first send you a warning , then send further warnings for each infraction , at some point rolling out actual punitive measures , from throttling your bandwidth up to — in theory , a possibility — termination of your service			1
+the system was supposed to go live this week , but was delayed at the last minute by the @entity57 ( @entity57 ) , the group working with the @entity59 , the @entity60 and several of the nation 's biggest @entity9 to roll " six strikes " out			1
+according to @entity57 executive director @entity64 , the delay , due to " unexpected factors , " is mostly because of @entity66 , which " seriously affected " the group 's final testing plans			2
+@entity57 says it now expects what it calls the " @entity71 " to kick off in early 2013 , adding : " our goal has always been to implement the program in a manner that educates consumers about copyright and peer - to - peer networks , encourages the use of legal alternatives , safeguards customer privacy , and provides an easy - to - use independent review program for consumers to challenge alerts they believe they 've received in error			2
+" we need to be sure that all of our " i " s are dotted and " t " s crossed before any company begins sending alerts , and we know that those who are following our progress will agree			0
+" regardless of when it goes live , i 'm worried about some of those @entity95 's — specifically what it 's going to mean for me , speaking not as a copyright violator , but as someone whose somewhat unique residential situation poses some awkward , potentially nightmarish alert management issues			1
+my condo complex ( i 'm an owner ) has 48 units			0
+it was built in 2003 , so it 's relatively new			2
+at the time , the builders had the foresight to wire each unit with @entity109 — a drop in each room , everything connected back to aggregate wire closets			0
+near my front door ( and all the front doors of all the units ) is a mini-wire closet with a switch / hub that connects my unit to a central switch / hub in a locked room on the property			0
+that , in turn , plugs into a high - speed cable modem — a cable modem that 's shared across all 48 units			2
+we 're technically shielded from each other using a special box that " firewalls " each private ip and can control how much bandwidth it 's allocated , etc. whether we elect to use it or pay for our own service instead , all 48 units have access to this shared @entity138			2
+you can probably see where i 'm headed			0
+with " six strikes , " any of the residents in the complex who — knowingly or unknowingly — engage in an act of copyright violation , could incur an alert			1
+who 's going to see that alert ? probably me , as the technical contact for the @entity9 ( that , or our property management company , at which point it 'll route back to me )			1
+at this point i 'm not sure what happens			0
+the ip address @entity31 's software is going to see , presumably , is our public one , not the private address of the device that 's been singled out on our condo complex 's network			0
+how do we identify the perpetrator ? should we identify the perpetrator ? if our @entity9 says we 're in violation , is it incumbent on us to run our own tracking software , somehow , to identify the person ( s ) involved ? are we supposed to somehow issue these warnings ourselves , since the @entity9 wo n't technically be able to ? see the problem ? who 's responsible for each infraction ? who should be punished ? the entire complex , by throttling or at some point terminating our internet service ? each unit in the complex pays for shared @entity138 equally as part of our monthly association fees			1
+we 're not a business — there 's no ceo			0
+the few of us who manage the internet on behalf of the rest ca n't act unilaterally to preempt potential infractions by blocking aspects of the service by introducing content filters the way a private company might			0
+it 's a delicate , thorny issue			1
+anyone who 's been on the board of a housing association knows how tough it can be to promulgate policies to owners , much less policies where the repercussions of violations ca n't be controlled locally , and where the punishment extends to everyone			0
+we could put it to a complex - wide vote , but even if a majority were in favor of taking action , say somehow shutting off file - sharing activity entirely , now we 're talking about an all or nothing " fix " that also blocks legitimate file sharing — sharing anything not copyrighted , e.g. game or application demos , some music ( freely released albums , for instance ) , public domain materials ( @entity207 's texts , for instance , or public domain art )			0
+i would n't vote for neutering my internet service , would you ? i 'm assuming this scenario applies , more or less , anywhere you 'll find shared @entity138 provided by a " six strikes " - participating @entity9			1
+we 've heard nothing about exemptions			0
+so what about hotels ? restaurants ? coffee shops ? fitness centers ? libraries ? bookstores ? @entity237 ? airports ? what about municipal initiatives to beam free @entity241 to anyone at all , citywide ? maybe the " workaround " lies in the acknowledgment portion of the process			0
+according to reports , users found in violation of " six strikes " will have to somehow acknowledge they 've received and read the alert explaining their account was engaged in illicit activity			0
+some @entity9 are said to be rolling this out as pop - ups ( do n't ask me how )			1
+i 'm not sure what that entails for shared internet access			0
+does everyone get the pop - up ? what happens if you ignore it ? what happens if , for whatever reason , the pop - up does n't appear in the first place ? like the proverbial tree in the forest , does an alert count as a strike if you do n't see ( or acknowledge having seen ) it ? i 'd like to see the @entity57 and participating @entity9 lay all the details about " six strikes " on the table , proactively , instead of letting them trickle out in leaked documents and casual interviews			1
+do n't just backdoor the policy and expect users , especially where @entity138 's shared , to somehow reverse - engineer what they 're responsible for , what happens if they fail to meet some new policy threshold and so forth			2
+sure , they already know ( or they should ) that copyright violations are no - nos , per the terms of their user agreements ( and the law ) , but they deserve to know when policies for policing those terms change , especially when those policies could seriously impact them whether they 're personally responsible for a copyright violation or not			2
+maybe " six strikes " is n't designed to produce lawsuits			2
+maybe it really is just an " educational " campaign to raise violation awareness among users			0
+maybe it 's just to remind us that someone 's watching ( and possibly storing information for potential lawsuits )			0
+whatever the case , there 's a transparency issue here			2
+i 'm worried that the absence of public engagement may be intentional — an attempt to manage the perception of what 's about to happen by keeping it quiet ( or at best , confusingly disclosed ) , in hopes of preventing another public relations fiasco , like the bill - killing blowup over @entity16 and @entity17			1
+if @entity57 really wants this to work as claimed — to educate users — then it needs to work with @entity9 to lay out the parameters beforehand , addressing scenarios like the one i 've described above , " i 's dotted and @entity327 's crossed			1
+" &copy 2012 @entity0 time is a registered trademark of @entity0 used with permission .			0
+
+there 's a new anti-piracy warning system designed to track copyright infringers
+but " six strikes " is different from either @entity16 or @entity17 ; it 's a warning system managed by @entity9
+participating providers include @entity37 , @entity38 , @entity39 , @entity40 and @entity41
+but who 's responsible for each infraction ? it 's a delicate , thorny issue
+
+@entity17:PIPA
+@entity138:Internet
+@entity0:Time Inc.
+@entity237:RV Parks
+@entity4:Mars
+@entity9:ISPs
+@entity57:CCI
+@entity59:Motion Picture Association of America
+@entity71:Copyright Alert System
+@entity31:MarkMonitor
+@entity16:SOPA
+@entity37:AT&T
+@entity39:Comcast
+@entity38:Verizon
+@entity241:Wi-Fi
+@entity109:Ethernet
+@entity95:I 's and T
+@entity207:Project Gutenberg
+@entity327:T
+@entity40:Cablevision
+@entity41:Time Warner Cable
+@entity66:Superstorm Sandy
+@entity64:Jill Lesser
+@entity60:Recording Industry Association of America

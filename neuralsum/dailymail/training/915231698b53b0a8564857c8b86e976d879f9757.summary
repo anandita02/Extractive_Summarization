@@ -1,0 +1,53 @@
+http://web.archive.org/web/20150425004139id_/http://www.dailymail.co.uk/sciencetech/article-2838633/Software-track-people-walk-camera-camera-say-tracked-Boston-bombers-hours.html
+
+we are all used to our image being captured by @entity2 everywhere we go - but now , it is about to get a lot smarter			2
+researchers have unveiled smart software that can automatically track people across moving and still cameras - allowing them to be automatically tracked in real time			1
+the cameras can first identify a person in a video frame , then follow that same person across multiple camera views - and can even analyse live footage from drones			1
+the researchers say the system could create a ' super gps '			1
+' imagine a typical gps display that maps the streets , buildings and signs in a neighborhood as your car moves forward , then add humans to the picture , ' they say			2
+' with the new technology , a car with a mounted camera could take video of the scene , then identify and track humans and overlay them into the virtual @entity45 map on your gps screen			1
+' the @entity19 electrical engineers say their system could save hours of sifting through @entity2 footage - and even revolutionise gps systems			1
+the @entity19 researchers are developing the software to work in real time , which could help pick out people crossing in busy intersections , or track a specific person who is dodging the police			1
+' tracking humans automatically across cameras in a three - dimensional space is new , ' said lead researcher @entity62 , a @entity19 professor of electrical engineering			0
+' as the cameras talk to each other , we are able to describe the real world in a more dynamic sense			1
+' @entity62 and his research team presented their results last month in @entity71 , @entity72 , at the @entity73 sponsored by the @entity74 , or @entity74			0
+he says the system would have been able to analyse footage from the @entity78 combing and track suspect 's movements across cameras within hours of the explosion taking place			1
+' our idea is to enable the dynamic visualization of the realistic situation of humans walking on the road and sidewalks , so eventually people can see the animated version of the real - time dynamics of city streets on a platform like @entity95 , ' @entity62 said			1
+@entity62 's research team in the past decade has developed a way for video cameras – from the most basic models to high - end devices – to talk to each other as they record different places in a common location			0
+the problem with tracking a human across cameras of non-overlapping fields of view is that a person 's appearance can vary dramatically in each video because of different perspectives , angles and color hues produced by different cameras			0
+the researchers overcame this by building a link between the cameras			1
+cameras first record for a couple of minutes to gather training data , systematically calculating the differences in color , texture and angle between a pair of cameras for a number of people who walk into the frames in a fully unsupervised manner without human intervention			1
+the research team has tested the ability of static and moving cameras to detect and track pedestrians on the @entity19 campus in multiple scenarios , even using cars and drones			0
+after this calibration period , an algorithm automatically applies those differences between cameras and can pick out the same people across multiple frames , effectively tracking them without needing to see their faces			1
+the research team has tested the ability of static and moving cameras to detect and track pedestrians on the @entity19 campus in multiple scenarios			0
+in one experiment , graduate students mounted cameras in their cars to gather data , then applied the algorithms to successfully pick out humans and follow them in a three - dimensional space			0
+they also installed the tracking system on cameras placed inside a robot and a flying drone , allowing the robot and drone to follow a person , even when the instruments came across obstacles that blocked the person from view			1
+the linking technology can be used anywhere , as long as the cameras can talk over a wireless network and upload data to the cloud			1
+inevitably , people will have privacy concerns , @entity62 said , and the information extracted from cameras could be encrypted before it 's sent to the cloud			2
+' cameras and recording wo n't go away			0
+cameras first record for a couple of minutes to gather training data , systematically calculating the differences in color , texture and angle between a pair of cameras for a number of people who walk into the frames in a fully unsupervised manner without human intervention			2
+after this calibration period , an algorithm automatically applies those differences between cameras and can pick out the same people across multiple frames , effectively tracking them without needing to see their faces			2
+the research team has tested the ability of static and moving cameras to detect and track pedestrians on the @entity19 campus in multiple scenarios			0
+in one experiment , graduate students mounted cameras in their cars to gather data , then applied the algorithms to successfully pick out humans and follow them in a three - dimensional space			0
+they also installed the tracking system on cameras placed inside a robot and a flying drone , allowing the robot and drone to follow a person , even when the instruments came across obstacles that blocked the person from view			2
+' we might as well take advantage of that fact and extract more useful information for the benefit of the community , ' he added			0
+this detailed visual record could be useful for security and surveillance , monitoring for unusual behavior or tracking a moving suspect			0
+but it also tells store owners and business proprietors useful information and statistics about consumers ' moving patterns			0
+a store owner could , for example , use a tracking system to watch a shopper 's movements in the store , taking note of her interests			2
+then , a coupon or deal for a particular product could be displayed on a nearby screen or pushed to the shopper 's phone – in an instant			0
+leveraging the visual data produced by our physical actions and movements might , in fact , become the next way in which we receive marketing , advertisements and even helpful tools for our everyday lives .			0
+
+firm says technology could allow for ' real time @entity95 ' with live people shown
+researchers say system could have tracked @entity78 *bombers* ' within hours '
+could also allow people to be tracked without having to sift through hours of footage
+
+@entity2:CCTV
+@entity71:Qingdao
+@entity19:UW
+@entity45:3-D
+@entity78:Boston
+@entity74:IEEE
+@entity95:Google Earth
+@entity62:Hwang
+@entity73:Intelligent Transportation Systems Conference
+@entity72:China

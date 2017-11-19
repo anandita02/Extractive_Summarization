@@ -1,0 +1,81 @@
+http://web.archive.org/web/20140907092719id_/http://edition.cnn.com/2011/TECH/mobile/08/04/lookout.threat.report.gahran/index.html
+
+, they 're becoming a more attractive target for cybercriminals			0
+if you use an @entity3 smartphone , you are now 2.5 times more likely to encounter malware ( malicious software ) than you were six months ago			1
+this is n't just about apps			0
+this year , 30 % of @entity3 users are likely to encounter a web - based threat such as phishing scams , " drive by downloads " and browser exploits			2
+this is according to a new threat report from @entity23			0
+obviously , @entity23 is selling mobile - security tools			2
+however , individual and collective mobile security risks are real			1
+whether you opt to pay for mobile security , use a free service or manage it yourself , you should be aware of the risks and use basic mobile safety skills			1
+cybercriminals are n't simply targeting @entity3 devices more often , they 're also getting sneakier about it			2
+specifically , @entity23 notes that attackers are using new techniques to distribute malware to phones			1
+these include " malvertising " ( ads served up through legitimate apps that lead you to a fake @entity3 market and trick you into downloading malware , like @entity44 ) and " upgrade attacks " ( where the initially downloaded app is clean , but later upgrades deploy malware )			1
+how can mobile malware harm you ? first of all , cybercriminals can rack up charges to your phone bill through " carrier billing , " a payment option that wireless carriers are increasingly pushing -- and which @entity56 is starting to make possible for android market app purchases			1
+malware also can sign you up for " premium sms " text messaging services			0
+furthermore , mobile malware and spyware can pull sensitive data from your phone -- such as your credit card numbers , online banking or e-mail account login credentials or your contacts list			1
+infected phones also can become part of a " botnet , " which means your phone could be used without your knowledge as part of a larger attack scheme			2
+this can also drive up your data traffic , which can push you toward your data plan 's cap faster			0
+why is android a bigger mobile security concern ? it 's an open platform , which presents significant pros and cons. on the bright side , @entity3 's openness has made it easier for vendors to offer cheaper smartphones ( especially without costly two - year contracts ) to a much broader consumer market			1
+on the downside , @entity3 's openness also makes it especially susceptible to malware			1
+users of @entity95 and @entity96 mobile devices are not immune to mobile security threats			1
+but the closed nature of those platforms does make it harder for cybercriminals to infiltrate those devices with malware			0
+however , threats such as e-mail phishing attempts and @entity106 exploits can put any mobile user at risk -- even on the @entity109			0
+( @entity95 recently patched its latest @entity106 vulnerability , but future @entity112 risks are always a possibility			0
+) learn more about mobile security risks @entity115 , co-founder and ceo of @entity23 , explains that a credulous user mindset has been a key factor in mobile security risks			1
+" we 've observed that most mobile users are far more trusting about how they download and install software on their phone , compared to their computer , " he said			1
+" but fortunately that 's starting to change			0
+@entity3 users especially are starting to get more discerning			2
+" however , the way people tend to use smartphones can also put them at risk			0
+@entity115 noted that mobile users tend to be in distracting environments , so they generally provide only short bursts of divided attention to their phones			2
+@entity139 , @entity23 's cto and co-founder , explained that spotting malware on mobile devices is a bigger technical challenge than on computers			1
+" personal computers have lots of power -- both energy and processing capacity -- so it 's easy to run security analyses in that environment			2
+if it were even possible to run the same types of analytics on a mobile phone , that would destroy battery and take two decades to build , " @entity139 said			2
+" so we had to consider , what if we could change the way malware detection is done ? instead of doing it on individual devices operating out in the world , what if we put it all on a big server and treat it as a data mining problem ? " this concept formed the genesis of @entity23 's @entity173 , which provides mobile device security through an online platform that aggregates and constantly scans anonymized data gathered from over 700,000 mobile apps			1
+one advantage of this approach is speed			0
+also , users do n't have to remember to update @entity23 security software ; the system constantly updates itself			0
+@entity139 notes that if your phone is running an older version of the @entity3 operating system , you face greater mobile security risks			1
+on @entity3 phones , @entity190 updates get deployed via a variety of manufacturers and wireless carriers			1
+because of this complexity , on many phones system updates lag behind -- sometimes far behind -- the latest " flavor " of @entity3 ( currently 2.3 " gingerbread " for phones )			1
+unless you 've rooted your @entity3 phone to gain complete control over it , it 's up to the carrier and manufacturer , not you , when your phone will get a system update			1
+in contrast , @entity109 system updates get deployed by a single source : @entity95			0
+so at any given time most iphones in use probably have a fairly up - to - date version of @entity112 ( unless it 's a much older device , such as the @entity215 )			0
+complicating this picture , to keep costs down some @entity3 phone manufacturers skimp on processing power and other device capabilities			1
+so some cheaper phones simply are not able to run the latest version of @entity3 well , or at all			2
+this is why some brand new but cheaper models come with vastly outdated flavors of @entity3 -- like the @entity227 , currently sold by @entity228 for $ 99 on a $ 50/month no - contract plan , which comes with @entity3 2.1 ( " @entity3 , " released back in january 2010 )			2
+what red flags should mobile users watch for ? according to @entity115 and @entity139 , strange text messages coming from unknown sources are a common clue that you may have been subscribed unwittingly to a premium sms service			0
+you should contact your carrier immediately to report these			0
+also , check your phone bill online periodically -- probably more often than once a month			0
+malware can cause a lot of surreptitious activity on your phone , so battery performance might be a clue			2
+" if your battery suddenly starts draining really fast , consider that it might be malware , " @entity139 said			0
+@entity246 also recommends healthy skepticism			0
+" scrutinize permissions for @entity3 apps before you download them			1
+does that game or utility really need permission to send premium sms messages ? probably not , " he said			0
+the opinions expressed in this post are solely those of @entity257 .			0
+
+attackers are using new techniques to distribute malware to phones
+@entity3 is a bigger mobile security concern because it 's an open platform
+it pays to stay alert to unusual activity on your phone
+scrutinize permissions for @entity3 apps before you download them
+
+@entity3:Android
+@entity23:Lookout
+@entity173:Mobile Threat Network
+@entity0:CNN
+@entity7:U.S.
+@entity227:Huawei Ascend
+@entity4:comScore
+@entity228:MetroPCS
+@entity190:OS
+@entity44:GGtracker
+@entity246:Hering
+@entity115:Hering
+@entity139:Mahaffey
+@entity56:Google
+@entity106:PDF
+@entity257:Amy Gahran
+@entity109:iPhone
+@entity215:iPhone 3G
+@entity95:Apple
+@entity96:BlackBerry
+@entity112:iOS

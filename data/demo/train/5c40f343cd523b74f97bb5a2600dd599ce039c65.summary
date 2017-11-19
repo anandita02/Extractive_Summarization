@@ -1,0 +1,34 @@
+http://web.archive.org/web/20150101072104id_/http://edition.cnn.com/2014/08/25/sport/golf/tiger-woods-splits-coach-foley/index.html
+
+-- @entity1 has split with his longtime coach @entity2 after not winning a major during their four - year tenure			1
+the world 's most famous golfer has been hindered by injuries recently and cutting ties with @entity2 adds to his rocky 2014 season			0
+in a statement on his website , the slumping @entity1 called @entity2 an " outstanding " coach but felt the time was right to part company			1
+woods , currently nursing a back problem that will keep him out of next month 's @entity19 , is n't due to compete again until an event in @entity21 in december and said he was n't in a rush to appoint a new coach			1
+" i 'd like to thank @entity2 for his help as my coach and for his friendship , " @entity1 said			1
+" @entity2 is one of the outstanding coaches in golf today , and i know he will continue to be successful with the players working with him			2
+" with my next tournament not until my @entity34 event at @entity35 in @entity36 , this is the right time to end our professional relationship			0
+" @entity2 , who coaches 2013 @entity40 winner @entity39 and world no. 19 @entity41 -- champion at the @entity43 on sunday -- did n't appear to hold a grudge			2
+" my time spent with @entity1 is one of the highlights of my career so far , and i am appreciative of the many experiences we shared together , " @entity2 said			1
+" it was a lifelong ambition of mine to teach the best player of all time in our sport			0
+" i am both grateful for the things we had the opportunity to learn from one another , as well as the enduring friendship we have built			0
+i have nothing but respect and admiration for him			0
+" the last of @entity1 ' 14 majors came in 2008 and matching @entity68 ' record haul of 18 could be difficult -- after once looking like it was a certainty .			0
+
+@entity1 *announces* that he has split from his longtime coach @entity2
+@entity1 says on his website that it was the right time to end their *partnership*
+the two began working together four years *ago* but @entity1 did not win a major
+@entity1 is currently *sidelined* by a back injury and wo n't play until december
+
+@entity2:Sean Foley
+@entity1:Woods
+@entity21:Florida
+@entity35:Isleworth
+@entity34:World Challenge
+@entity36:Orlando
+@entity39:Justin Rose
+@entity19:Ryder Cup
+@entity0:CNN
+@entity40:U.S. Open
+@entity41:Hunter Mahan
+@entity68:Jack Nicklaus
+@entity43:Barclays

@@ -1,0 +1,80 @@
+http://web.archive.org/web/20140401210005id_/http://www.dailymail.co.uk/sciencetech/article-2587900/Apple-boost-battery-life-Patent-reveals-power-saving-mode-tracks-phone-used-close-apps-save-energy.html
+
+by @entity0 @entity1 may have the edge over @entity3 when it comes to various features , but it lags far behind in battery life			2
+however , a recent patent could be about to change all that			0
+@entity1 's latest application details a system that tracks how a person users their phone using a variety of sensors , and then makes tailored power - saving changes accordingly			1
+@entity1 's latest patent , pictured , details a system that tracks how a person users their phone , and makes various power - saving changes accordingly			1
+built - in sensors could detect changes in light and environment , for example			1
+the device would then automatically close apps or alter screen brightness the @entity30 , launched last week , is the latest @entity32 smartphone aimed at tackling the problem of poor battery life			1
+it has a liquid crystal display on one side , and an electronic paper display on the other			0
+these means users can use the e-ink display for everyday tasks , because it uses less battery			0
+they can then use the crystal display for videos and games			0
+its makers claim the @entity30 has between seven and 10 times the battery life of other smartphones			0
+the device costs £ 419 and is only currently available in select @entity53 countries including the @entity54 , @entity55 , @entity56 , @entity57 and @entity58			0
+for example , the patent explained that if the system detects a ' relatively dark environment ' - such as when a user plays a video game - the system may dim the backlight of the display automatically			1
+it could also decrease the amount of power being used by the central processing unit ( @entity71 ) , while increasing the amount of energy needed to power the graphical processing unit ( @entity75 ) specifically needed for the game			0
+to do this , the phone would monitor recharge and discharge cycles			2
+meanwhile , various sensors inside the phone , including the gyroscope , accelerometer , gps , and @entity87 units , would detect changes in environment and movement			1
+it would also collect data about how the user interacts with the device , for example , how many times they turn the screen on , how much time they spend using certain apps , and more			1
+elsewhere , if a user starts watching a movie on the device , ' the system can determine whether the battery can last for the duration of the movie based on the metadata of the movie			1
+' for example , if the system detects when a user is playing games , pictured , the system may dim the backlight of the display			1
+it could also decrease the amount of battery being used by the central processing unit ( @entity71 ) , while increasing the amount needed to power the graphical processing unit ( @entity75 ) needed for the game the system would also collect data about how the @entity125 user interacts with the device			1
+this includes how many times they turn the screen on , how much time they spend using certain apps , and more			2
+image of @entity1 's @entity134 is pictured if the phone detects that the remaining power capacity wo n't last that long , certain power management actions may be performed			1
+these actions may include closing or limiting power to other apps - assuming the user is unlikely to use those applications while watching the film			1
+the phone would monitor charge cycles , while sensors inside the phone , including the gyroscope , accelerometer , and gps , would detect other changes , patent image pictured the system may alternatively reduce the frame rate to reduce power consumption			1
+@entity1 's patent explained the system could also work the other way - by giving more power at times when the user wants the phone to be more responsive			1
+an example given in the patent involved the use of an @entity167 app , such as @entity168			0
+if the @entity125 owner uses this app to pay for a drink at a coffee shop , and the device detects that they have decided to drink in - by using gps and wireless network information - the device would assume they will stay put for next 20 minutes or so			2
+' if they should be using their device in that time period , they are likely to be doing so intently , ' continued the patent			0
+' such that they would like their device to be particularly responsive			0
+this sort of information could tell the power management system that for the next 20 to 30 minutes it is in the user 's best interest to sacrifice some battery life in favour of improved performance			1
+' the application , called @entity194 , was first filed in september 2012 and was published on thursday			0
+research recently carried out by which ? magazine compared the battery life of eight high - end smartphones including models by @entity3 , @entity1 , @entity200 , @entity201 and @entity202 in terms of call and web browsing time			2
+battery life was a key feature of @entity3 's @entity208 , pictured , announced last month			0
+its power - saving mode kicks in when the battery is running low			2
+at this point , the display turns black and white and only lets users access six apps			0
+this is said to double the battery life which ? magazine compared the battery life of eight high - end smartphones including models by @entity3 , @entity1 , @entity200 , @entity201 and @entity202			2
+@entity3 's @entity220 came top for calls and browsing time , pictured , while @entity1 's @entity224 placed in 4th and 7th place respectively , pictured @entity3 's @entity220 trumped the competition in both categories , while @entity1 's @entity224 came in fourth for calls , and all the way down in seventh place for internet time			1
+the @entity233 was even worse , in seventh place for calls and last place for internet			0
+battery life was a key feature of @entity3 's @entity208 , announced at @entity240 last month			0
+the company claimed the @entity208 has 20 percent better battery life than the @entity243			0
+there ’s also a new power - saving mode that kicks in when the battery is running low			2
+at this point , the display turns black and white and only lets users access six apps - the phone , messages , browser and then three apps of their choice			2
+this is said to double the battery life .			0
+
+@entity1 's patent was *originally* filed in 2012 , but has only just been *awarded*
+it details a system that tracks user *behaviour* by monitoring charge cycles
+various built - in sensors also detect changes in light and environment
+the device would then automatically carry out power saving measures
+for example , if watching a video , the phone may close down other apps
+it could also reduce screen brightness when playing video games
+
+@entity125:iPhone
+@entity87:Wi-Fi
+@entity134:iOS 7
+@entity3:Samsung
+@entity233:iPhone 5C
+@entity1:Apple
+@entity0:Victoria Woollaston
+@entity194:Inferring User Intent From Battery Usage Level And Charging Trends
+@entity53:European
+@entity57:France
+@entity56:Germany
+@entity55:Spain
+@entity54:UK
+@entity75:GPU
+@entity58:Austria
+@entity71:CPU
+@entity30:YotaPhone
+@entity32:Android
+@entity208:Galaxy S5
+@entity243:Galaxy GS4
+@entity240:Movile World Congress
+@entity202:BlackBerry
+@entity201:Nokia
+@entity200:HTC
+@entity167:eWallet
+@entity220:Galaxy S4
+@entity224:iPhone 5S
+@entity168:Passbook

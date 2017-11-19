@@ -1,0 +1,63 @@
+http://web.archive.org/web/20150522232702id_/http://www.dailymail.co.uk/sciencetech/article-2737627/Now-s-world-wide-web-Map-reveals-globe-looks-like-internet-device-lit-up.html
+
+the internet has revolutionised the way we communicate and a third of the world ’s population use it to stay connected			1
+now , @entity8 - based internet cartographer and computer scientist @entity6 has used software to ‘ ping ’ all of these global web devices and create a map demonstrating the technology ’s global reach			1
+in the majority of cases , this signal was sent to routers rather than individual gadgets , but mr @entity6 said @entity20 and @entity22 devices have appeared previously			1
+connected : @entity8 - based internet cartographer and computer scientist @entity6 has used software to ‘ ping ’ global web devices to build a map ( pictured ) demonstrating the technology ’s global reach the cartographer said it took around five hours to ping all ip addresses on august 2			1
+the map then took more than 12 hours to create			0
+' pinging ' an ip address involves sending a signal to the device from a server , which causes the connection to ' light up ' - albeit not physically			2
+mr @entity6 is founder of @entity39 , a search engine for connected devices			1
+different colours represent the density of devices in that region , and unsurprisingly , the world ’s largest cities in developed countries glow the brightest			0
+red areas contain a lot of web - enabled devices , while green areas contain fewer			1
+black areas are regions where no signal was received			1
+while it may be no surprise that there seem to be less internet - connected devices in parts of @entity60 , mr @entity6 explained his map is not precise because some organisations block ping requests			1
+it is thought that areas of @entity66 should be coloured bright red on the map , but the country ’s ‘ @entity71 ’ explains why most of the country looks dark			1
+the cartographer said it took five hours to ' ping ' all ip addresses on 2 august			0
+the map then took more than 12 hours to create			0
+red areas contain a lot of web - enabled devices , while black areas contain the fewest			1
+it is easy to see how well - connected areas like @entity84 and the @entity85 ( pictured ) contrast with @entity87 and @entity60 internet blackout : it is thought that areas of @entity66 should be coloured bright red on the map , but the country ’s ‘ @entity71 ’ explains why most of the country looks dark ( pictured )			1
+‘ there 's basically not a lot of information available on where an ip address is located within @entity66 , which makes mapping it very difficult			1
+the majority of devices simply get lumped into @entity102 or @entity103 , even though they might be located somewhere else within the country , ’ he wrote			0
+explaining how he made the map , mr @entity6 said : ‘ the data was generated using a stateless scanner used to create @entity39 ( a computer search engine that he founded )			2
+‘ a free , open - source scanner called @entity112 is readily available for anybody that wants to do it themselves , and the map itself was generated using the @entity120 matplotlib library			2
+in the last year , it has become easy to scan the whole internet using such tools , where an individual sends and receives packets to everyone connected to the internet , @entity121 reported			2
+mr @entity6 essentially asked computers , smartphones , tablets and games consoles to send him their location so he could create his map			0
+to do this , he used a database that pinpoints a city for each ip address and used another tool to find them easily on a map of the world			0
+a firm called @entity143 recently created a map of internet freedom around the world ( pictured ) based on a @entity148 report in 2013			2
+regions marked in white have the freedom to roam , as opposed to those marked red the internet has revolutionised communication and promotes free speech across the globe			2
+consequently , online freedom is a hot topic			0
+some governments consider the internet to be dangerous and inflammatory so they regulate it			0
+a firm called @entity143 recently created a map of internet freedom around the world based on a @entity148 report in 2013			2
+in the report , countries were reviewed on limits placed on online content , obstacles to internet access , and violations of user rights			0
+they were then graded as free , partly free or not free and marked on a map in white , pink and red respectively			0
+countries marked in grey were not included in the report			0
+@entity66 , @entity180 and @entity181 were found to be the top three user rights violators when it comes to online freedom .			0
+
+@entity8 - based cartographer used software to ‘ ping ’ global web devices
+using this data he drew a map demonstrating the internet 's global reach
+signal was sent to routers rather than individual devices
+red areas show parts of the world with the most connected devices , while black areas show regions where few *people* have access to the internet
+@entity211 is *n't* complete because of *censorship* and *security* *restrictions*
+it 's thought @entity66 , for example , has more internet connected devices than shown on the map
+
+@entity22:Android
+@entity112:Zmap
+@entity20:iPhone
+@entity6:Matherly
+@entity143:IVPN
+@entity39:Shodan
+@entity181:Syria
+@entity8:Texas
+@entity148:Freedom House
+@entity180:Iran
+@entity102:Shanghai
+@entity103:Beijing
+@entity84:Europe
+@entity85:US
+@entity87:Greenland
+@entity66:China
+@entity121:Motherboard
+@entity71:Great Firewall
+@entity60:Africa
+@entity120:Python
+@entity211:Map

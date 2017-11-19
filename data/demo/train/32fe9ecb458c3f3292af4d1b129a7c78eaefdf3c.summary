@@ -1,0 +1,75 @@
+http://web.archive.org/web/20150331060806id_/http://edition.cnn.com/2011/TECH/web/02/22/libya.internet/?hpt=Sbin
+
+-- @entity1 is the latest @entity2 country to experience internet trouble as democratic protests continue to sweep the region			1
+the massive @entity7 country , long controlled by the dictator @entity8 , has suffered " rolling blackouts " of its internet connections during the regime 's ongoing violent crackdown on protestors , according to the internet traffic monitor @entity13			1
+the cause of these internet service cuts , however , remains uncertain			2
+possibilities include a government crackdown , an internet traffic overload or simple power outages , said @entity22 , @entity13 ' co-founder			1
+" if this had happened in any other country i might have said , ' oh , that 's just a provider			0
+maybe they had a power outage in their data center and their servers would n't start up , " he said			0
+@entity0 's @entity31 , one of the few independent journalists on the ground in eastern @entity1 , wrote that " the electricity was working			1
+the cell phone system is still functioning , though you ca n't call abroad			0
+the internet , however , has been down for days			0
+" @entity42 's online " @entity41 " shows internet searches from @entity1 , which is controlled by anti-government demonstrators , have been happening at below - average levels in recent days			1
+and @entity43 , a network security company , issued similar findings			0
+international internet traffic to and from @entity1 was shut down on saturday morning from about 1 to 8 a.m. and again on sunday during the same timeframe , according to @entity13 ' analysis , which was posted on the company 's blog and is based on traffic data the company collects from internet service providers around the world			1
+it 's almost as if the country had instituted a " overnight internet curfew , " @entity22 said , adding it 's possible that @entity8 's government wanted to crack down on cyber dissidents who are known to organize online while other people sleep			0
+reports of wider - spread internet outages could be an indication that @entity1 is using more sophisticated methods to control the internet , some of which would n't be visible to international traffic monitors like @entity13			1
+@entity71 , for example , is known for shutting down internet traffic at the neighborhood level , or removing capacity from the local internet to the point that local and international web traffic simply overload the system , @entity22 said			2
+" you remove capacity until everybody is squeezing through a small soda straw , " he said			0
+@entity1 's internet blackouts are somewhat similar to those instituted by neighboring @entity86 's government during protests in that country			1
+@entity86 , however , completely shut down internet access for five days during protests against the regime of @entity92 , who was forced to resign after 30 years			1
+that move appeared to be an attempt by the government to shut down access to blogs , e-mail , @entity100 and @entity101 , which were used heavily by some of the people who helped organize the @entity105 protests which toppled his government after 18 days on the streets			0
+@entity109 , a prominent @entity86 protestor , issued a warning to other dictators in the @entity112 and @entity2 , saying , " if you want to liberate a society , just give them the internet			0
+" it 's unclear how much of a role the internet and social media sites have played in organizing the protests in @entity1			1
+the news network @entity122 reports @entity100 was used to help coordinate the start of the protests in @entity1 , which went into full swing on february 17			2
+" in a country where public dissent is rare , plans for thursday 's protests were being circulated by anonymous activists on social networking sites such as @entity100 and @entity101 , " the news organization writes			0
+" one @entity100 group urging a ' @entity133 ' in @entity1 , which had 4,400 members on monday , saw that number more than double to 9,600 by wednesday			2
+" some authoritarian regimes restrict internet access , as was the case in @entity86 , as a way to try to stay in power			1
+others , like @entity142 , @entity143 and @entity144 , filter some websites and use the internet as a way to monitor their citizens and steer public discourse			0
+the internet infrastructure in @entity86 and @entity1 is quite different , @entity22 said			1
+" the key thing to remember is the massive difference in scale between the two countries			0
+@entity86 's internet was thousands of prefixes			0
+@entity1 's internet is about a dozen prefixes , " he said			1
+an internet prefix is like an online zip code			0
+it 's a number used to group devices that access the internet			2
+@entity1 has 13 of these online zip codes out of the 400,000 internet prefixes that make up the entire internet , @entity22 said			1
+that makes the country a " very small corner of a very big universe			0
+" also of note : only about 6 % of @entity1 are on the internet , compared to nearly a quarter of people in @entity86 , according to the @entity175 , an agency of the @entity176 that focuses on the internet and communications			2
+@entity179 : why @entity1 ca n't shut down bit.ly @entity1 's access to the international internet is controlled by a single company , which is run by the state , @entity22 said			1
+that would make it easier , in theory , for the country to shut down internet connections than it was in @entity86 , where the government had to call several internet service providers and order them to cut service as part of emergency law			0
+meanwhile , as @entity197 reports , a @entity101 activist called @entity196 has created a map of the few unconfirmed internet reports that are coming out of @entity1 .			2
+
+@entity1 experiences " rolling blackouts " in internet access
+the cause of these outages remains unclear
+@entity0 reporter says internet access has been cut
+traffic monitors say access has been *sporadic* , cut most often at night
+
+@entity22:Cowie
+@entity112:Middle East
+@entity86:Egypt
+@entity133:Day of Anger
+@entity2:North Africa
+@entity1:Libya
+@entity0:CNN
+@entity7:Saharan
+@entity176:United Nations
+@entity179:CNNMoney
+@entity196:Arasmus
+@entity8:Gadhafi
+@entity71:Iran
+@entity31:Ben Wedeman
+@entity13:Renesys
+@entity100:Facebook
+@entity101:Twitter
+@entity105:anti-Mubarak
+@entity109:Wael Ghonim
+@entity122:Al-Jazeera
+@entity92:Hosni Mubarak
+@entity144:Russia
+@entity142:Syria
+@entity143:China
+@entity175:ITU
+@entity197:Wired.com
+@entity41:Transparency Report
+@entity42:Google
+@entity43:Arbor Networks

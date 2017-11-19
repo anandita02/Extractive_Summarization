@@ -1,0 +1,80 @@
+http://web.archive.org/web/20150405132943id_/http://www.cnn.com/2014/12/19/world/meast/isis-opponents-malware-attack/
+
+-- @entity3 , with its previous technologically laggard image , may have just shocked the world with some alleged hacking savvy , but when @entity7 comes to mind , so does the terrorists ' digital bent			1
+the @entity11 militants renowned for their bloodthirsty beheading videos and slick social media propaganda , may have extended their skills into low - level hacking , a cyber-security human rights group believes			1
+the @entity16 obtained new malware that has targeted the @entity7 opposition group " @entity19 is being slaughtered silently , " or @entity20 , and released an analysis of it thursday			1
+the researchers from the @entity24 ca n't confirm that the cyberattack is coming from the @entity26 in @entity27 and @entity28 , especially since the @entity28 regime led by @entity30 has also used trojan horse software to fight activists since 2011			1
+but the workings of the malware , its intended target and what it achieves for the attacker lead @entity38 to suspect isis the most			2
+@entity7 hates @entity20 @entity7 is particularly motivated to strike @entity20			1
+the @entity11 extremist militants like to depict their stronghold city of @entity19 to the world as a caliphate paradise , where life under strictest @entity43 is practically @entity45			0
+but @entity20 activists in the city reveal on social media @entity19 's bleeding underbelly , the terrorizing of residents			2
+warnings of graphic content speckle its @entity55 feed , where photos of public beheadings and stonings of residents in @entity28 cities are posted in unflinching detail			2
+@entity20 also reports coalition airstrike hits against @entity7 and warns @entity19 residents about new strict @entity43 rules the militants impose on them			1
+but activists participating in @entity20 activities have another enemy			0
+before @entity7 took over their town , they were taking the same actions against the @entity28 regime			1
+slapdash malware the @entity19 target who passed along the malware to @entity38 did not fall for its ploy , and the group was not successfully hacked , as far as @entity38 researcher @entity77 knows			2
+but he fears others who may have received the target email may not have been so savvy or lucky			2
+the malware used in the attack is simple and lean , and whoever wrote it did some things wrong -- or felt it was n't necessary to do them right			1
+the @entity16 found the malware to be effective and very dangerous even without proper coding whistles and bells , because its targeting of victims is socially savvy			1
+this is how it works			0
+the victim receives an enticing email tailored to his anti-isis interests from people claiming to be expat @entity28 activists living in @entity97			2
+they ask for the local activist 's help in working with mainstream media			2
+" we are preparing a lengthy news report on the realities of life in @entity19 , " the email reads			2
+" we are sharing some information with you with the hope that you will correct it in case it contains errors			2
+" images are attached showing areal photos with spots marked on them portraying alleged @entity7 strongholds and @entity118 airstrike targets and the email includes a link to a file sharing site , where the victim is encouraged to download files , which contain a slideshow of more such images			1
+but in the download is also a malicious file , and while the victim views more photos , it installs a set of small malware files onto the target 's computer			1
+find them , punish them once there , these bad files do n't do much , @entity38 said			0
+" the custom malware ... beacons home with the ip address of the victim 's computer and details about his or her system each time the computer restarts , " it said in its study			1
+that 's enough for militants who know the area to determine the user 's physical location			0
+the files do n't include a key logger -- although many forms of the software that monitors what infected users are writing are readily available on the @entity162			0
+such @entity165 ( @entity166 ) are typical of the @entity28 regime , whose hackers seems more interested in obtaining opposition activist content , the researchers @entity77 and @entity164 said			0
+" a @entity166 would have provided much greater access alongside ip information , " they said			0
+it makes the researchers think that whoever is using the slideshow malware may be interested only in " identifying and locating a target			1
+" find his @entity162 café or apartment ; haul him in ; punish him -- or execute him			0
+that 's probably the idea , @entity38 said			0
+@entity118 journalist @entity183 , who @entity7 later beheaded , was captured coming out of an internet café in @entity28 in 2012 before @entity7 officially existed			1
+regime 's signature different this attempted hack does n't bear the signature of typical @entity28 regime attackers , @entity38 said			0
+they usually employ servers to facilitate data sent back by their rats , but this malware does n't need one			0
+it sends an attachment with the sparse information it gathers to an email account			0
+" this functionality would be especially useful to an adversary unsure of whether it can maintain uninterrupted internet connectivity , " the researchers said			0
+whether shoddiness or simplicity : that email is improperly encrypted , leaving the recipient 's logon credentials open to interception			1
+one of the malware 's passwords is also visible in its code			1
+there are other apparent bugs , and software itself is unusually artless			1
+" it relies on a half dozen separate executable files , each with a single task , " the researchers said			0
+but keeping it bare bones has an advantage , the researchers said			1
+" the program looks less like malware , and may attract less attention from endpoint protection tools and scanners			0
+detections were low when the file was first submitted to @entity234 , for example			0
+it registered only 6/55 detections by anti-virus scanners , or a 10 % detection rate			0
+" this malware flies under the radar			0
+
+@entity244 email speaks to victims who are opposed to @entity7 and asks for their help
+it contains a link to a file sharing site , where a malicious file is *hidden* among photos
+malware is artless , and the writer encrypted it wrong
+but it 's dangerous : being bare - bones makes it hard for security software to detect
+
+@entity20:RSS
+@entity26:Islamic State
+@entity27:Iraq
+@entity24:University of Toronto
+@entity16:Citizen Lab
+@entity28:Syrian
+@entity118:American
+@entity3:North Korea
+@entity0:CNN
+@entity7:ISIS
+@entity234:VirusTotal
+@entity55:Twitter
+@entity77:Scott-Railton
+@entity30:Bashar al-Assad
+@entity11:Islamist
+@entity38:The Citizen Lab
+@entity19:Raqqah
+@entity244:Target
+@entity97:Canada
+@entity162:Internet
+@entity166:RAT
+@entity164:Seth Hardy
+@entity165:RATs
+@entity183:James Foley
+@entity45:Heaven on Earth
+@entity43:Sharia

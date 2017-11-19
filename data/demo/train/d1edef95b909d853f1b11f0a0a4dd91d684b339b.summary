@@ -1,0 +1,61 @@
+http://web.archive.org/web/20090913062312id_/http://www.cnn.com:80/2009/TECH/07/31/black.hat.conference.parking/
+
+-- scofflaws could hack the smart cards that access electronic parking meters in large cities around the @entity6 , researchers are finding			1
+" cities all over the nation and all over the world are deploying these smartcard meters , " researcher says			2
+the smart cards pay for parking spots , and their programming could be easily changed to obtain unlimited free parking			1
+it took researcher @entity16 only three days to design an attack on the smart cards			1
+the researchers examined the meters used in @entity21 , @entity22 , but the same and similar electronic meters are being installed in cities around the world			1
+" it was n't technically complicated and the fact that i can do it in three days means that other people are probably already doing it and probably taking advantage of it , " said @entity16 , a designer and hardware hacker and one of the hosts of the @entity29 's " @entity30			2
+" it seems like the system was n't analyzed at all			0
+" @entity38 and fellow researcher @entity39 presented their findings thursday afternoon at the @entity43 security conference in @entity44 , @entity45			1
+the researchers did not contact the @entity47 or the meter maker prior to their talk , and asked reporters not to contact those organizations ahead of their presentation , for fear of being gagged by a court order			2
+at last year 's @entity58 hacker conference , @entity56 students were barred from talking about similar vulnerabilities in smartcards used by the @entity61 after the @entity61 obtained a restraining order			0
+they spoke with @entity63 about their findings prior to the presentation			0
+" we 're not picking on @entity21 , " @entity16 said			2
+" we 're not even claiming to get free parking			0
+we 're trying to educate people about ... how they can take our research and apply it to their own cities if they are trying to deploy their own systems or make them more secure ...			0
+cities all over the nation and all over the world are deploying these smartcard meters [ and ] there 's a number of previously known problems with various parking meters in other cities			1
+" @entity21 launched a $ 35 - million pilot project in 2003 to deploy smart meters around the city in an effort to thwart thieves , including parking control officers who were skimming money from the meters			1
+the city estimated it was losing more than $ 3 million annually to theft			1
+in response , it installed 23,000 meters made by a @entity95 firm named @entity96 , which also has meters in @entity97 , @entity98 , @entity99 , @entity95 , @entity100 and other locales			0
+the machines are hybrids that allow drivers to insert either coins , or a pre-paid @entity107 smart card , which can be purchased in values of $ 20 or $ 50			2
+the machines also have an audit log to help catch insiders who might skim proceeds			0
+to record the communication between the card and the meter , @entity38 purchased a smartcard shim -- an electrical connector that duplicates a smartcard 's contact points -- and used an oscilloscope to record the electrical signals as the card and meter communicated			0
+he discovered the cards are n't digitally signed , and the only authentication between the meter and card is a password sent from the former to the latter			0
+the card does n't have to know the password , however , it just has to respond that the password is correct			0
+the cards sold in @entity21 are designed to be thrown out when the customer has exhausted them			0
+but the researchers found that the meters perform no upper - bounds check , so hackers could easily boost the transaction limit on a card beyond what could legitimately purchased			1
+they could also program a card to simply never deduct from the transaction count			1
+" we 're residents of @entity21 and our taxes are going towards a broken system that they could potentially be losing money on and we pay the consequences of that , " @entity16 said			1
+subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2009 @entity154 .			0
+
+researchers find smart cards that access parking meters can be hacked
+@entity16 and @entity39 present findings at @entity43 conference
+before smart cards , city was losing more than $ 3 million annually to theft
+researchers programmed cards to never deduct from transaction count
+
+@entity22:California
+@entity21:San Francisco
+@entity16:Joe Grand
+@entity29:Discovery Channel
+@entity154:Wired.com
+@entity0:WIRED magazine
+@entity6:United States
+@entity56:MIT
+@entity58:DefCon
+@entity30:Prototype This " show
+@entity107:GemPlus
+@entity39:Jake Appelbaum
+@entity38:Grand
+@entity100:Hong Kong
+@entity99:New York
+@entity98:Massachusetts
+@entity97:Florida
+@entity96:J.J. MacKay
+@entity95:Canada
+@entity44:Las Vegas
+@entity45:Nevada
+@entity47:San Francisco Municipal Transportation Agency
+@entity43:Black Hat
+@entity63:Threat Level
+@entity61:MBTA

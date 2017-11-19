@@ -1,0 +1,42 @@
+http://web.archive.org/web/20131215190918id_/http://www.cnn.com/2012/02/06/tech/social-media/deleted-facebook-photos-online
+
+-- @entity1 is still working on deleting photos from its servers in a timely manner nearly three years after @entity0 first brought attention to the topic			1
+the company admitted on friday that its older systems for storing uploaded content " did not always delete images from content delivery networks in a reasonable period of time even though they were immediately removed from the site , " but said it 's currently finishing up a newer system that makes the process much quicker			1
+in the meantime , photos that users thought they " deleted " from the social network months or even years ago remain accessible via direct link			2
+the problem : " deleted " photos never go away when we first investigated this phenomenon in 2009 , we discovered that photos " deleted " from @entity1 seemingly never go away if you have a direct link to the image file on @entity1 's servers			1
+users who might have had second thoughts about posting a photo -- whether it was because they did n't want retaliation from an employer , wanted to avoid family drama , or uploaded a photo of a friend without their permission — could certainly remove the image from @entity1 's main user interface , but as long as someone had a direct link to the			2
+jpg file in question , the photo would remain accessible for an indefinite amount of time			0
+when we asked @entity1 about it , we were told that the company was " working with our content delivery network ( @entity52 ) partner to significantly reduce the amount of time that backup copies persist			1
+" but when we followed up on the story more than a year later , our " deleted " photos were still accessible via direct link			0
+that 's when the reader stories started pouring in : we were told horror stories about online harassment using photos that were allegedly deleted years ago , and users who were asked to take down photos of friends that they had put online			2
+there were plenty of stories in between as well , and panicked @entity1 users continue to e-mail me , asking if we have heard of any new way to ensure that their deleted photos are , well , deleted			2
+for example , one reader linked me to a photo that a friend of his had posted of his toddler crawling naked on the lawn			0
+he asked his friend to take it down for obvious reasons , and so the friend did -- in may of 2008			0
+as of this writing in 2012 , i have personally confirmed that the photo is still online , as are several others that readers linked me to that were deleted at various points in 2009 and 2010			0
+( @entity94 , after publishing the 2010 followup , @entity1 appeared to delete my photos from its cdn that i had linked in the piece			1
+the company never offered me any explanation , but my photos were the only ones that were deleted at that time			2
+other " deleted " photos that i had saved links to -- ones that were n't from my account and were deleted even earlier than mine — remained online			0
+) it 's 2012 , and things are n't much different -- yet after confirming once again that all the photos that my friends and @entity0 readers had sent in were still online , i reached out to @entity1 once again , looking for an answer as to why this is still going on nearly three years after the company first promised it was " working " on the issue			1
+" the systems we used for photo storage a few years ago did not always delete images from content delivery networks in a reasonable period of time even though they were immediately removed from the site , " @entity1 spokesperson @entity114 told @entity0 via e-mail			1
+@entity114 explained that photos remaining online are stuck in a legacy system that was apparently never operating properly , but said the company is working on a new system that will delete the photos in a mere month and a half			1
+for really real this time			0
+" we have been working hard to move our photo storage to newer systems which do ensure photos are fully deleted within 45 days of the removal request being received , " @entity114 said			1
+" this process is nearly complete and there is only a very small percentage of user photos still on the old system awaiting migration , the url you provided was stored on this legacy system			1
+we expect this process to be completed within the next month or two , at which point we will verify the migration is complete and we will disable all the old content			0
+" long story short , @entity147 claims that @entity1 is on the verge of fixing up its content systems so that " deleted " photos are really , truly deleted from the @entity52 within 45 days			1
+but with the process not expected to be finished until a couple months from now — and unfortunately , with a company history of stretching the truth when asked about this topic — we 'll have to see it before we believe it			0
+it 's hard to believe that we 've been following this story over a period of years and the problem has n't been fixed yet			0
+but unlike the past , we do have some semblance of confidence that @entity1 might actually be working on it this time			2
+we 'll continue to follow this story until the new changes are actually in place			0
+in the meantime , does anyone have any new @entity1 horror stories to share ? copyright 2011 @entity0			0
+
+@entity1 admitted that its older systems f " did not always delete images "
+the company was " working with our content delivery network ( @entity52 ) partner "
+@entity114 explained that photos remaining online are stuck in a legacy system
+
+@entity1:Facebook
+@entity147:Wolens
+@entity0:ARSTECHNICA.COM
+@entity52:CDN
+@entity114:Frederic Wolens
+@entity94:Amusingly

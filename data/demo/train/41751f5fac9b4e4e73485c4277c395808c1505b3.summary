@@ -1,0 +1,116 @@
+http://web.archive.org/web/20150607224115id_/http://www.cnn.com/2013/08/05/tech/mobile/five-hacks/
+
+if something can connect to a network , it can be hacked			1
+computers and phones are still popular targets , but increasingly so are cars , home security systems , tvs and even oil refineries			1
+that was the message at this year 's @entity12 and @entity13 computer security conferences , which took place last week in @entity15			1
+the annual conferences draw a mix of computer researchers and hackers who present the latest bugs and vulnerabilities they 've discovered			1
+it 's a combination of public service , business and sport			2
+these are some of the more popular targets covered at this year 's conferences			0
+by drawing attention to them , the " white - hat " hackers hope to encourage greater security from the various manufacturers and industries , and more vigilance from consumers			1
+typically , the presenters inform manufacturers of bugs ahead of their talks so the companies can fix the issues before they are exploited by criminals			0
+remote - controlled cars someone hacking your computer can be an inconvenience			0
+someone hacking your car can be deadly			1
+a pair of presentations on hacking cars kicked off the @entity13 conference on friday			0
+@entity59 hacker @entity58 outlined the security issues fully autonomous cars will face and said car - hacking is inevitable			1
+autonomous vehicles like cars and drones are essentially robots , and they rely on sensors to operate			0
+he said a hacker could theoretically take complete control of a car over wireless networks or trick its various sensors into feeding a motorist false information about location , speed and the proximity of other cars or objects			1
+fully driverless cars are still a few years away , but computerized systems are common in vehicles on the road today			0
+electronic control units can control a range of car functions , including braking , accelerating and steering			1
+they manage security features , in - car displays and even seat belts			1
+researchers @entity93 and @entity94 , funded by a grant from the @entity98 military 's @entity96 , looked into what kind of damage hackers could do to a car by taking control of a @entity103 and a @entity104			1
+to access the systems , they had to physically connect a computer to the cars through a diagnostics port			0
+they wrote custom software that let them hijack the cars ' systems			0
+once in control , they disabled brakes , changed the display to show incorrect speed or gas levels , and messed with the steering and seat belts			0
+they were able to kill the engine and toy with with less consequential features like the car 's horn and lights			1
+@entity103 played down the wired demonstration and said it is focusing on security measures to prevent wireless attacks			1
+compromising smartphones attacks on personal computers used to be the bread and butter of cybercriminals , spawning a lucrative industry of black - market malware and the anti-virus programs that fight them			1
+the next big target is smartphones			1
+mobile devices are not impervious to attacks , even though walled - off app stores have kept much of the malware at bay			1
+@entity149 demonstrated how a piece of malware could turn an @entity153 smartphone into a " spy phone " that remotely monitors its owner , sending information on the location , communications and content , like photos , back to a third party			1
+the hack is n't new , but @entity149 managed to inject the malicious code into popular apps like " @entity165			0
+" once it was installed , the user would have no idea that their phone was acting as a remote surveillance device			1
+@entity181 " femtocells " -- small boxes used to extend cell service -- were hacked by security researchers at @entity173 to intercept calls and any other data sent over cellular networks like texts , images and browsing history			1
+the wireless carrier issued a fix for all its femtocells , but researchers say other networks could still have the same issue			1
+with $ 45 in hardware , researchers @entity191 , @entity192 and @entity193 turned an innocent - looking @entity196 charger into a tool for gathering information such as passcodes , e-mails and other communications , and location data directly from the smartphone			1
+@entity204 thanked the researchers and said it is deploying a fix for the bug in its @entity209 software update , which comes out this year			1
+the too - smart home thanks to cheap , low - power sensors , anything in your house can become a " smart " device , helpfully connecting to the internet so you can control it from a computer or smartphone			1
+smart home security devices have the potential to cause the most damage if hacked , and two separate demonstrations showed how to break in by opening " smart " front - door locks			1
+another unsettling trend at the conferences was spying on unwitting people through their own cameras			1
+home security cameras could be disabled by someone who wanted to break in , or they could be turned into remote surveillance devices			1
+one researcher showed how she easily took over the camera stream on a child 's toy from a computer			2
+researchers @entity240 and @entity241 found bugs in the 2012 model of the @entity244 that allowed them to turn on and watch video from the set 's camera			2
+@entity244 said it had released a software update to fix the issue			0
+( many security experts suggest placing a piece of tape over any cameras you do n't want surreptitiously watching you , just to be safe			1
+) hackers get personal even in the wake of this year 's @entity259 revelations , a homemade surveillance device that sniffs out pieces of data from your various computing devices , even when they 're not online , is disturbing			0
+@entity266 , who runs a security firm and is finishing a law degree , has created such a device , dubbed @entity270 ( @entity271 stands for @entity272 ; " @entity274 " is self - explanatory )			2
+the device cost $ 57 to make and consists of a @entity277 computer , a usb hub , two @entity280 connections , an sd card and usb power inside an nondescript black case			0
+computers and phones act as tracking devices and leak information constantly , according to @entity266			2
+when plugged in , @entity270 detects nearby phones and computers and uses them to track people 's location and patterns , figuring out who they are , where they go and what they do online			2
+to demonstrate the device without breaking any laws , @entity266 showed his own information as sniffed out by one of the devices			2
+using a gaming engine and @entity302 , he hovered over his dot on a map			0
+it brought up his name , e-mail address , a photo , the dating website he used , details about his devices and the locations he visited in town			0
+in a worst - case scenario , as imagined by @entity266 , a miscreant could plug in one of the devices under any @entity318 near a capital building to pick up the scent of a state senator and wait for them to do something compromising			0
+" you find somebody with power and exploit them , " said @entity266			0
+the creation is remarkable for how simple it is			0
+it 's likely others have similar knowledge and setups that exploit the same security flaws in applications , websites , devices and networks			2
+industrial facilities the most frightening targets highlighted at the conference were the opposite of personal			0
+critical infrastructure such as oil and gas pipelines or water treatment plants are potential targets for hackers			0
+many industries are controlled with supervisory control and data acquisition , or @entity350 , systems			0
+the systems are older , installed at a time when people were n't concerned about cyberattacks , and connect to the internet over an unsecured network protocol			0
+the reason the systems are online in the first place is so that they 're easier to monitor			0
+some , like oil pipelines , are often in remote locations			0
+multiple demonstrations at the conferences showed just how simple it is to hack energy systems			2
+researchers @entity366 and @entity367 staged a mock hack of an oil well using pumps and a liquid container filled with teal liquid			2
+they got into the system , turned the pumps on and off and overflowed the containers by feeding the system false data			0
+if it happened on an actual oil well , the hack could result in an environmental catastrophe , according to the researchers			2
+it 's possible to shut down an entire industrial facility from 40 miles away using a radio transmitter , according to researchers @entity386 and @entity388			2
+they demonstrated injecting fake measurements , causing the device that received them to behave differently			0
+for example , someone could trigger a water tank to overflow by faking an abnormally high temperature			0
+the industries and @entity98 government are aware that industrial systems are vulnerable , but their remoteness and age make upgrading difficult and expensive			0
+there is no built - in system for releasing software patches , like there is with personal computers .			2
+
+security researchers showed the latest phone , home and car hacks in @entity15
+smartphones were hacked through chargers , malware and femtocells
+some cameras in computers , toys and smart @entity421 can be *secretly* viewed by third parties
+
+@entity241:Josh Yavor
+@entity421:TVs
+@entity98:U.S.
+@entity277:Raspberry Pi
+@entity153:Android
+@entity259:NSA
+@entity274:Creepy
+@entity272:Distributed Object Locator
+@entity350:SCADA
+@entity270:CreepyDOL
+@entity271:DOL
+@entity173:iSEC Partners
+@entity94:Chris Valasek
+@entity244:Samsung
+@entity196:iPhone
+@entity193:Chengyu Song
+@entity192:Yeongjin Jang
+@entity191:Billy Lau
+@entity59:Australian
+@entity58:Zoz
+@entity15:Las Vegas
+@entity13:DefCon
+@entity12:Black Hat
+@entity209:iOS 7
+@entity103:Toyota
+@entity104:Ford Escape
+@entity366:Brian Meixell
+@entity240:Aaron Grattafiori
+@entity96:DARPA
+@entity266:O'Connor
+@entity93:Charlie Miller
+@entity204:Apple
+@entity302:Open Street Maps
+@entity367:Eric Forner
+@entity165:Angry Birds
+@entity181:Verizon
+@entity149:McNamee
+@entity388:Lucas Apa
+@entity280:WiFi
+@entity318:Starbucks
+@entity386:Carlos Penagos

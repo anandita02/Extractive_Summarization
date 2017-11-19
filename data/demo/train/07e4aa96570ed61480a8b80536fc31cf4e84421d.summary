@@ -1,0 +1,33 @@
+http://web.archive.org/web/20130515171725id_/http://edition.cnn.com:80/2011/10/31/business/japan-yen/
+
+@entity0 , @entity1 -- the @entity1 government stepped in monday to weaken the yen , after it climbed to a @entity5 high against the dollar			1
+finance minister @entity7 said @entity1 intervened unilaterally at 10:25 a.m. it was the third intervention this year			0
+" foreign exchange rates should reflect the real economy and fluctuate within the range of common sense			1
+otherwise it will distort the real economy , " @entity13 said			1
+" i decided it ( the intervention ) this morning as i can not tolerate such appreciation			0
+" the yen went up to the post-war high of 75.32 per dollar early monday			1
+the intervention immediately sent it tumbling to 79 per dollar			2
+the government is worried that a strengthened yen will impact its economy , which relies heavily on exports			1
+the country has only now begun to recover from the devastating aftereffects of a march 11 earthquake and tsunami			0
+" the yen 's appreciation might close down factories and i can not tolerate it , " @entity13 said			1
+for every 1 yen appreciation against the dollar , @entity32 , the car manufacturer , loses 30 billion yen ( $ 380 million ) in profits			2
+the stock market , however , lost the upward momentum after an initial 100 - point gain as some analysts expressed skepticism about the effectiveness of the intervention			0
+" the question is how long will the effect of the intervention continue , " said @entity43 , a senior strategist of @entity44			0
+" the market is looking at the past examples			0
+if this is a one - time only , the effect would be limited			0
+it all depends how far the government is ready to intervene			2
+it 's a battle between the market and the government			2
+
+@entity13 : " foreign exchange rates should reflect the real economy "
+the yen went up to a post-war high of 75.32 per dollar
+the government is worried that a strengthened yen will impact its economy , which relies heavily on exports
+
+@entity2:CNN
+@entity1:Japan
+@entity0:Tokyo
+@entity13:Azumi
+@entity5:post-World War II
+@entity44:SMBC Friend Securities
+@entity32:Toyota
+@entity43:Toshihiko Matsuno
+@entity7:Jun Assume

@@ -1,0 +1,23 @@
+http://web.archive.org/web/20140616153308id_/http://www.cnn.com/2014/06/15/us/nba-finals-spurs-heat/
+
+-- @entity1 defeated the @entity2 104 to 87 to claim the @entity4 championship sunday night			1
+" this is a team , and that 's what makes this so , so great , " @entity1 guard @entity5 said			0
+@entity1 dominated the series , winning four games to one			0
+each @entity1 victory was by at least 15 points			2
+" hard to believe , is n't it ? @entity5 said			0
+" we played at a really high level			0
+" the victory snaps the @entity2 's two - year championship run and hands @entity1 its fifth @entity4 title			1
+@entity1 forward @entity20 was named the series @entity22 .			1
+
+@entity1 wins the series 4 - 1
+each win was by 15 points or more
+this is the @entity1 ' fifth @entity4 title
+@entity20 is named the series @entity22
+
+@entity22:MVP
+@entity2:Heat
+@entity1:Spurs
+@entity0:CNN
+@entity5:Ginobili
+@entity4:NBA
+@entity20:Kawhi Leonard

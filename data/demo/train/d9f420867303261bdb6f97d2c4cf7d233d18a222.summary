@@ -1,0 +1,70 @@
+http://web.archive.org/web/20130522044944id_/http://www.cnn.com/2012/06/20/tech/mobile/microsoft-surface-tablet-security
+
+-- @entity1 has announced its surface tablets , due out late this year , at a time when security is a growing concern for users of mobile devices			1
+and when most consumers think security , @entity1 probably is n't the first brand to spring to mind			1
+but are surface tablets likely to be any more or less secure than the @entity12 or @entity14 tablets ? that could depend on which surface model you 're talking about			1
+but in general , these devices probably wo n't pose any significant additional security risks to mobile users			1
+@entity1 said there will be two versions of @entity23			2
+the first , due out this fall , will run the not - yet - released @entity25 operating system -- a tablet - based version of the @entity27 , which will only run apps adapted for @entity1 's tile - based " @entity29 " user interface			2
+so far , @entity1 has offered few hardcore details about this system			2
+but the tech news site @entity34 offered a good rundown of what to expect from @entity25 the higher - end second surface tablet , probably due out a few months later , will run the full @entity39 operating system			2
+this os also has not yet been released , but a consumer preview has been available for several months			0
+at a conference tuesday , @entity42 , senior director of development for @entity46 's @entity45 line of security software , explained that so far it 's hard to say exactly what types of security concerns @entity25 devices might pose			1
+but security experts know a fair bit about @entity39			0
+" it 's a lot like the current desktop version of @entity59 we have today , so its security issues will probably be very similar , " he said			0
+" @entity1 raised the security bar considerably a few years ago when they introduced @entity66 , " @entity42 added , referring to software has since been rebranded as @entity63			1
+it offers a level of protection against threats such as spyware , botnets , phishing attacks , websites that install malicious code and more			0
+" we know that @entity39 will include defender , " @entity42 said			0
+the " bad guys " who develop malware and other security threats pay close attention to the level of security built into @entity1 products , since @entity59 remains the most popular computer operating system in the world			1
+and right now , those bad guys are busily updating their code , @entity42 said			0
+hackers today can already exploit @entity90 and soon should be able to exploit @entity59 8 , he said			0
+one key difference in @entity39 is that it 's two operating systems in one			0
+it offers a regular @entity59 desktop interface as well as @entity1 's newer " @entity29 " interface -- the tile - based design that 's the hallmark of @entity27			2
+in contrast , the first model of the surface tablet ( @entity25 only ) will only offer the @entity29 interface , so it wo n't be able to run the full versions of many desktop apps popular with @entity59 users , such as @entity106			1
+" from a security perspective , we expect this device to be about the same as what we see with current mobile operating systems such as @entity14 and @entity113 , " @entity42 said			2
+according to @entity114 , @entity25 might offer some security advantages for large organizations : " @entity1 can perform a type of network access control on @entity25 devices as a way to protect corporate networks from harm ... making them a cut above @entity12 and @entity14 tablets in this regard			1
+" if you 're concerned about security , you can purchase extra security software such as @entity45 or other products from various vendors , many of which have mobile apps			2
+for the @entity39 version of @entity23 , such software could provide additional protection above what @entity63 offers			0
+in the big picture for mobile , so far the vast majority of mobile security threats are malware that target @entity14 devices			1
+the open nature of the @entity14 and the ease with which @entity14 apps can be distributed through the @entity149 store make this possible			0
+so users of @entity14 devices , including tablets , should be especially careful of security risks			1
+despite popular opinion that @entity157 devices are inherently more secure and despite ongoing @entity59 security problems such as the pernicious @entity160 worm , @entity1 may actually be better at security overall than @entity157			1
+security expert @entity162 recently told @entity163 that @entity157 is " 10 years behind @entity1 in terms of security			1
+" @entity162 was referring to @entity167 computers , but his comments might also apply to iphones and @entity12			0
+simply because @entity59 has long been the world 's most popular computer operating system by a long shot , it has been a far more attractive target for bad guys seeking to exploit security holes			0
+thus @entity1 has far more experience with spotting , combating and communicating about security issues			1
+whether this expertise ends up making these new @entity59 tablets extra secure remains to be seen			0
+the opinions expressed in this post are solely those of @entity182 .			0
+
+@entity1 announced its surface tablets this week
+security is a growing concern for users of mobile devices
+surface models probably wo n't pose any significant additional security risks to mobile users
+one expert says @entity1 is *ahead* of @entity157 in security
+
+@entity23:Surface
+@entity27:Windows Phone
+@entity25:Windows RT
+@entity29:Metro
+@entity114:Networked World
+@entity113:iOS
+@entity157:Apple
+@entity34:Pocket Lint
+@entity1:Microsoft
+@entity0:CNN
+@entity59:Windows
+@entity14:Android
+@entity12:iPads
+@entity39:Windows 8
+@entity106:Photoshop
+@entity90:Windows 7
+@entity162:Kaspersky
+@entity163:Computer Business Review
+@entity160:Conficker
+@entity167:Macintosh
+@entity182:Amy Gahran
+@entity149:Google Play
+@entity45:Norton
+@entity46:Symantec
+@entity42:Davis
+@entity66:Microsoft Security Essentials
+@entity63:Microsoft Defender

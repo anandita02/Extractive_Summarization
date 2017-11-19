@@ -1,0 +1,74 @@
+http://web.archive.org/web/20131021200850id_/http://www.cnn.com/2011/09/29/tech/gaming-gadgets/amazon-silk-browser
+
+-- @entity2 and @entity3 's privacy issues are well - known			0
+but they 're nothing compared with those surrounding @entity7 , @entity9 's in - house internet browser for its newly announced tablet computer , says @entity11 , a senior security adviser at @entity13 computer security firm @entity12 , a @entity13 computer security firm			1
+" all of your web surfing habits will transit @entity9 's cloud , " he writes on @entity15 blog			1
+" if you think that @entity20 and @entity2 are watching you , this service is guaranteed to have a record of everything you do on the @entity23			0
+" @entity9 , best known for its online marketplace and the @entity26 e-reader , unveiled a touch - screen tablet computer on wednesday called the @entity28			1
+that got lots of chatter in tech circles			0
+what 's been less discussed is the new cloud - based web browser that 's loaded onto every one of @entity9 's tablets			1
+the @entity7 browser appears to work unlike anything on the market today			1
+most web browsers -- like @entity40 , @entity41 and @entity42 -- connect internet users directly with websites			0
+@entity7 filters everything through @entity9 's own cloud - computing servers , a move the company claims will vastly speed up the mobile web experience -- perhaps doubling the speed at which websites load			1
+but privacy advocates say there may be other consequences			0
+" what this means is that @entity9 will capture and control every web transaction performed by @entity28 users , " @entity56 , one of the first @entity58 employees , wrote on his personal blog			1
+" every page they see , every link they follow , every click they make , every ad they see is going to be intermediated by one of the largest server farms on the planet			0
+people who cringe at the data - mining implications of the @entity77 ought to be just floored by the magnitude of @entity9 's opportunity here			1
+" @entity9 now has what every storefront lusts for : the knowledge of what other stores your customers are shopping in and what prices they 're being offered there			0
+" @entity9 says in its privacy statement that it does temporarily log web use			2
+" @entity7 also temporarily logs web addresses known as uniform resource locators ( ' urls ' ) for the web pages it serves and certain identifiers , such as ip or @entity99 addresses , to troubleshoot and diagnose @entity7 technical issues			2
+we generally do not keep this information for longer than 30 days , " the company says in its privacy statement			0
+" browsing activity is aggregated and is not linked to identity , " an @entity9 spokeswoman said in an e-mail to @entity0			0
+for now , the silk browser is available only to people who use the @entity28 , which does n't go on sale until mid-november			1
+there are rumors , however , that the @entity9 browser could make its way onto other mobile devices and possibly desktop machines			2
+people who worry about the data @entity7 may be collecting can turn off the cloud - computing piece of the browser			1
+if they do n't , every move they make online will be logged by the company for at least a month , @entity11 said			0
+@entity9 probably wo n't sell that data to advertisers , he said , but the fact that the company keeps a log of internet use is scary for consumers , because that data could be hacked from @entity9 's control , or it could be subject to subpoena by the @entity134 government			1
+the web tracking applies to secure connections as well , he said , meaning @entity9 could keep a log of communications made on banking sites or the secure versions of sites like @entity142 , @entity2 and @entity143			2
+@entity9 says @entity7 will bring about a much faster web browsing experience on mobile devices			1
+" i 'm sure you 've had the experience where you 're trying to load a page , and the browser is just sitting there hanging , and you 're like , ' oh , i wish i was on a better network , ' " @entity9 engineer @entity146 says in a promotional video			2
+" we 're on a better network			0
+our back end has some of the fattest pipes to the internet that you 'll find			0
+and we do all the heavy lifting on the back end and then serve optimized content over this dedicated channel back to your device , so you do n't have to worry about it			0
+" the underlying argument for a browser like @entity7 is that mobile devices do n't have enough processing power to download websites as quickly as users would like			2
+@entity9 essentially is using its computer warehouses -- which are all over the country and the world -- to do this processing for its tablet computers so that websites will load faster			1
+the name silk is representative of this " split architecture			0
+" " we decided to call our browser @entity7 because , really , a thread of silk is an invisible yet incredibly strong connection between two different things , " @entity182 , director of software development for @entity7 , says in a video			1
+" in our case , it 's the connection between your @entity28 and our @entity193			2
+and it 's the bringing together those two elements to create a better web browser			1
+" it 's also a browser that 's better at tracking you , @entity12 ' @entity11 writes			0
+" while most of us roll our eyes when confronted with long privacy policies and pages of legalese , privacy risks lurk around every corner , " he writes			0
+" if you buy a @entity28 device , think carefully as to whether your privacy is worth trading for a few milliseconds faster web surfing experience			2
+
+@entity9 unveils web browser called @entity7
+at least for now , the browser works only on the new @entity28 tablet
+silk routes @entity220 *traffic* through @entity9 's cloud
+it claims faster performance , but it may also collect lots of user data
+
+@entity23:Web
+@entity20:Google AdWords
+@entity26:Kindle
+@entity28:Kindle Fire
+@entity134:U.S.
+@entity3:Google
+@entity2:Facebook
+@entity0:CNN
+@entity7:Silk
+@entity9:Amazon
+@entity193:Amazon Compute Cloud
+@entity56:Chris Espinosa
+@entity77:Facebook Timeline
+@entity58:Apple
+@entity15:Sophos ' Naked Security
+@entity13:British
+@entity12:Sophos
+@entity11:Wisniewski
+@entity99:MAC
+@entity220:Internet
+@entity146:Peter Vosshall
+@entity142:Gmail
+@entity143:Twitter
+@entity182:Jon Jenkins
+@entity40:Safari
+@entity41:Explorer
+@entity42:Firefox

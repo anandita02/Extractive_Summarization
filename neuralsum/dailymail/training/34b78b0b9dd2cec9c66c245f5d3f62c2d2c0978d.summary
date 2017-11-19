@@ -1,0 +1,74 @@
+http://web.archive.org/web/20140706011951id_/http://www.dailymail.co.uk/sciencetech/article-2517476/Is-internet-widening-gap-rich-poor-Personalised-ads-search-results-creating-tier-web.html
+
+by @entity0 when you search @entity2 or use @entity3 , you might assume the results you see are the same as those viewed by your friends , family and other internet users			1
+but you ’d be wrong			0
+websites and social networks track your location and search history and make assumptions about your age , race , gender and political views to create a profile of who they think you are			1
+they then show adverts they believe to be the most relevant , in order to maximise clicks , and personalise which results you see by filtering out what they think is irrelevant			2
+this is sold to the public as positive - making each web session relevant and interesting - yet is leading researchers to fear the so - called ‘ filter bubble ’ could widen divides between the @entity38 , rich and poor , and young and old			1
+websites track users to create a personal profile of who they think they are			2
+@entity44 has created bots with fake ages and genders , virtually based in various locations , to map the extent at which this personalisation effects how people move around the web			1
+an example map is pictured for example , in terms of wealth , if users are only ever shown particular products and job advertisements based on how much they earn or where the live , these users will never be given the opportunities to increase how their wealth , or how much they spend on items			2
+to assess the extent to which personalisation is having an effect on our society , @entity44 has created bots , each with their own fake profiles			0
+these bots have different fake ages and genders , each of them earn a different level of money , are virtually based in various locations around the world and have different interests			0
+by using these bots to scan and search the web , the researchers hope to create a picture of not only what each of them sees , but also what sites they are missing out on			1
+the filter bubble is when a website guesses what information a particular user wants to see			0
+it uses information it knows , from a person ’s search history and location , and attempts to guess what it does n’t			1
+it makes assumptions about a person ’s wealth , based on where they live and work , for example , or looks at their credit score			2
+it guesses a person ’s age by comparing what they ’ve searched for with what people of the same age are searching for			1
+some algorithms can also scan personal social network profiles , for example , to fill in the knowledge gaps			0
+political views and opinions can then be garnered from various sources			0
+this tracking is all done using cookies installed on websites and browsers			0
+for example , if two different people search for the word ‘ apple ’ they could get different results			1
+if their age and search history suggests they like tech and gadgets , a search for ‘ apple ’ will show results for @entity145 , @entity146 and @entity148 - related news stories ( pictured left )			1
+if the person searching regularly checks in at the gym , or is a keen baker , or does grocery shopping online , the algorithm might decide they are instead looking for the fruit ( pictured right )			0
+this means they push @entity148 products down the list and in some cases the irrelevant results are n’t shown at all			2
+when it comes to wealth , if users are only ever shown particular products , job adverts and so on , they will never increase how much money they earn or how much they spend on items ; widening the rich and poor divide			2
+in terms of politics , if a user has previously searched for details about a particular political party or policy , or live in a @entity176 stronghold as an example , when they search for news they may be shown more left - leaning publications or links			1
+this means alternative policies are hidden , meaning their beliefs are constantly reaffirmed and they only deal with like - minded sites and people			1
+researchers fear this can prevent change as well as widen the gaps between political groups and lead to a state of isolation			1
+according to lead researcher , @entity209 : ‘ our goal is a web privacy census which will be a comprehensive map of which entities are collecting what information , what they are inferring from it , and who they are sharing it with			0
+it is an important step in our ultimate goal of figuring out how users are treated based on that information			0
+’ personalisation also has its benefits			0
+shopping sites such as @entity3 , for example , can scan a user 's search and purchase history to offer suggestions			1
+this can help find similar , cheaper items or items that are more suited to their needs at a glance , without having to perform additional searches			2
+it 's also possible to disable personalised adverts and results			0
+@entity2 's search engine lets you switch off personalisation , for example			1
+while all web users can enable the @entity237 features built into the major browsers			2
+researchers from the @entity240 in @entity241 and @entity242 felt the issue was so potentially damaging , they have also created a way to ‘ burst the filter bubble			0
+’ @entity213 does have its benefits			0
+shopping sites such as @entity3 , for example , can scan a user 's search and purchase history to offer suggestions			1
+this can help find similar , cheaper items or items that are more suited to their needs at a glance , without having to perform additional searches they believe that just because people have opposing views on certain topics , does n't mean they wo n't share interests in others			1
+to this end , they created a recommendation engine that makes filter bubble - style assumptions to create a profile , but then widens the results to show opposing views that a user may also be interested in			1
+@entity2 lets users switch off personalisation			1
+users can also enable the @entity237 features built into all of the major browsers including @entity277 , pictured ' we nudge users to read content from people who may have opposite views , or high view gaps , in those issues , while still being relevant according to their preferences , ” @entity278 told @entity287			2
+the team scanned thousands of tweets to establish a @entity290 looked at people who tweeted about a certain topic and then looked at what other interests they had tweeted about previously			0
+@entity295 was then able to create a list of interests for each topic along the lines of ‘ if you like that , you ’ve love this			0
+’ when a user searched for a particular topic , the recommendation engine would not only show similar links , it would also show interests that may overlap , but may not share the same view			0
+their results discovered that people can be more open to ideas that are different from their own and people who are opinionated , appreciate the opinions of others more .			0
+
+sites such as @entity2 , @entity3 and @entity319 personalise what users see
+this personalisation depends on the user ’s location , age , or search history
+these sites make assumptions about what they think a user will find interesting and *repeatedly* serves similar results
+researchers fear this could create a two - tier web and widen social divides as people are never shown opposing views
+
+@entity3:Amazon
+@entity2:Google
+@entity146:iPads
+@entity0:Victoria Woollaston
+@entity277:Firefox
+@entity237:Do Not Track
+@entity145:Apple iPhones
+@entity319:Facebook
+@entity38:North and South
+@entity176:Labour
+@entity148:Apple
+@entity44:Princeton University
+@entity209:Arvind Narayanan
+@entity287:MIT Technology Review
+@entity242:Yahoo Labs
+@entity278:Graells-Garrido
+@entity240:Universitat Pompeu Fabra
+@entity241:Barcelona
+@entity295:Graells-Carrido
+@entity290:wordcloud.They
+@entity213:Personalisation

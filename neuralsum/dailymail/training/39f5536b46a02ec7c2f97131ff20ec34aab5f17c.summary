@@ -1,0 +1,74 @@
+http://web.archive.org/web/20150524183642id_/http://www.dailymail.co.uk/sciencetech/article-2562894/London-Underground-brought-life-mesmerising-3D-map-complete-tube-trains-moving-REAL-TIME.html
+
+it ’s hot , cramped and breaks down almost daily yet the twisting turns and complex nature of trains travelling around the @entity4 every second is undeniably fascinating			2
+to showcase this , a pair of developers have used online code to build an interactive @entity11 map of the tube network , complete with moving trains			1
+the visualisation was built to demonstrate the capabilities of the @entity17 project , and its creators have now made the code behind the project available for anyone to use			1
+the visualisation was built to showcase the @entity17 project			1
+its creators have made the code behind the project available for anyone to use to try and capture the unique sounds of the @entity4 , archivist @entity33 has created the @entity35 - an online collection of field recordings , sound maps , early @entity40 radio actuality and more			1
+as part of this project , @entity33 travelled @entity4 's canals and rivers during during 2011 and 2012 recording ambient sounds along the way and has plotted these on his @entity4 - inspired @entity49 map			2
+although the map follows @entity4 ’s canals and smaller rivers , noises from other landmarks including the @entity54 bridge , @entity55 and @entity56 are also featured			2
+set up by developers @entity57 and @entity59 almost a year ago , @entity17 was designed ‘ to change the way you look at cities and the data contained within them			1
+' cities are created using @entity65 data and are powered by @entity66 and @entity67			2
+' maps and data visualisations have always captured the imagination of people , ' @entity59 told the @entity72			1
+' perhaps because they are often beautiful to look at , but i imagine more because they communicate complex situations in an easy to consume fashion			0
+' trying to understand how the entire @entity4 network works would be a headache for anyone , let alone @entity81 , but seeing it all happen before your eyes in an interactive 3d experience allows you to step back and comprehend what ’s happening			2
+' the data for projects be taken from any open source information , including @entity81 , but also traffic agencies , social networks and more			1
+for example , @entity57 and @entity59 also created a map of a town with small blue boxes floating into the air			1
+set up by developers @entity57 and @entity59 almost a year ago , @entity17 was designed ' to change the way you look at cities and the data contained within them			1
+' cities are created using @entity65 data and powered by @entity66 and @entity67 the data can be taken from any open source information , including @entity81 , but also traffic agencies , social networks and more			1
+for example , @entity57 and @entity59 created a map of a town with small blue boxes , designed to be tweets , floating into the air , pictured the boxes were designed to represent tweets sent from different co-ordinates within a town			1
+another of their projects visualised traffic flowing around a city			0
+the @entity17 code has now been added to @entity121 along with instructions on how to begin building @entity17 projects			2
+however , the developers stress the software is in a pre-alpha state , meaning features may change , be added or removed , and there may be bugs			0
+current features include the ability to add buildings , waterways including rivers and canals , as well as parks , grass and forests			0
+users can also zoom , pan and orbit cities			0
+smart and @entity59 will be adding 3d road networks , live data visualisation from tweets and public transport , local weather and more to later versions of the software			1
+to get started the developers have created a demo city that users can experiment on			2
+@entity59 told @entity72 : ' we started the project it 's an exciting technical and design challenge for us - both @entity57 and i thrive on pushing ourselves to the limits by exploring something unknown to us			1
+' there ’s something exciting about creating a way to do that for real - world cities rather than fictional ones			0
+' the idea of visualising a city in @entity11 with up - to - date data about that city overlaid is an appealing one			0
+' imagine if you could see census data about your area , education data , health data , crime data , property information , live transport - you ’d be able to learn and understand so much more about the place you live			0
+and this is really just the beginning			0
+the possibilities are endless ! ' more recently , the developers took part in # @entity183			0
+using data from the @entity185 , they created a 3d map of the @entity187 and overlayed it with current and predicted water levels			2
+this helped them work out what areas were likely to flood and allow people to take action by seeing which locations are safer			0
+they won a prize at # @entity198 for this particular 3d visualisation			0
+current features include buildings , waterways and parks			0
+@entity57 and @entity59 will be adding 3d road networks , live data visualisation from tweets , local weather , and more to future versions of the software			1
+to get started the developers have created a demo city , pictured , that users can experiment on ' maps are a common tool used by just about everyone to help them understand where they are and how to get from a to @entity219 , ' continued @entity59			1
+' online maps have shown us the power and demand for easy ways to visualise the location of business and to get directions from where you are now to where you want to be in an hour			0
+people will always have a fascination and need for maps			0
+' potential applications for @entity17 include visualising air traffic in @entity11 , analysing and predicting traffic flow using 3d road networks and artificial intelligence , civic planning - using a @entity11 city to see the impact of planned developments - and interactive 3d floor plans for museums , public buildings and shopping centres			1
+the team is also looking at new methods of interaction and virtual reality using technologies such as @entity249 and @entity250 .			0
+
+@entity17 project was created by developers @entity57 and @entity59
+they use open source maps and web tools to create 3d models of cities
+these maps can be *combined* with data to create interactive visualisations
+examples include a map of the @entity4 with moving trains , tweets floating above streets and flows of traffic
+following months of tests , the code is available online for anyone to use
+
+@entity183:FloodHack
+@entity250:Occulus Rift
+@entity81:Transport for London
+@entity4:London Underground
+@entity219:B
+@entity57:Peter Smart
+@entity56:Victoria Park
+@entity55:London Zoo
+@entity54:M4
+@entity59:Robin Hawkes
+@entity72:MailOnline
+@entity17:ViziCities
+@entity33:Rawes
+@entity35:London Sound Survey
+@entity11:3D
+@entity249:Leap Motion
+@entity121:Github
+@entity198:FloodHack
+@entity185:Environment Agency
+@entity187:UK
+@entity40:BBC
+@entity66:JavaScript
+@entity67:WebGL
+@entity65:OpenStreetMap
+@entity49:Waterways

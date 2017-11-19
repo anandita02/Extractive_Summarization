@@ -1,0 +1,47 @@
+http://web.archive.org/web/20150407074703id_/http://www.dailymail.co.uk/sciencetech/article-2377841/Hackers-hijack-software-CAR-remotely-control-steering-brakes-horn-using-laptop.html
+
+forget hacking accounts , computers or mobile devices - security engineers from @entity3 have managed to hack the software inside the @entity5 and @entity6			1
+using a laptop wirelessly connected to the car 's electronics , @entity11 and @entity12 were able to remotely control the brakes , the accelerator , change the speedometer , switch the headlights on and off , tighten the seatbelts and even blast the horn			2
+the project was funded by a grant from the @entity20 to highlight the security risks affecting modern - day cars			1
+turning headlights on and off			0
+changing the speedometer and petrol gauge			0
+preventing the car from powering down so to drain the battery			0
+@entity11 , a security engineer at @entity43 , and @entity12 , director of security intelligence at @entity45 , are due to officially announce their findings at the @entity49 21 conference in @entity50 the weekend of the 1 - 3 august			1
+however , they have given @entity53 journalist @entity52 a preview by taking him for a test ride in their hijacked vehicle			0
+according to @entity52 , the majority of @entity60 car manufacturers provide a mobile or @entity62 in their vehicles			0
+many cars additionally come with built - in software that runs on an operating system in a similar way to phones and computers			1
+these include the 2010 models of the @entity6 running the @entity73 software , and the @entity5 ' safety connect			1
+by hacking this network and exploiting @entity78 bugs this software becomes hackable and makes it possible to send remote code executions from a mobile device			2
+remote code executions let people remotely control the car 's features			0
+using a laptop wirelessly connected to a @entity5 ' electronics , the engineers @entity11 and @entity12 were able to remotely control the brakes , the accelerator , change the speedometer , switch the headlights on and off , tighten the seatbelts and even blast the horn during his hour - long test drive , @entity11 and @entity12 demonstrated to @entity52 they could send commands from their laptop to accelerate to high speeds before slamming the brakes on			1
+the pair also disabled the power steering , tricked the @entity102 into thinking it was in a different location , adjusted the speedometer and honk the horn - all remotely			0
+the steering , for example , was hacked by exploiting the @entity5 and @entity6 's self - parking features			1
+@entity5 said ' it is n't impressed ' with @entity11 and @entity12 's hack and claimed its systems were robust and secure			1
+a @entity6 spokesman said they were taking the hack ' very seriously '			2
+researchers from the @entity116 and the @entity117 , @entity114 were the first to publish findings into hacking software in cars in 2010			2
+@entity12 told @entity52 : ' academics have shown you can get remote code execution			0
+we showed you can do a lot of crazy things once you ’re inside			0
+
+security engineers have managed to hack the software in a @entity5
+the @entity20 funded the hack
+
+@entity3:Indiana
+@entity53:Forbes
+@entity20:U.S Defense Advanced Research Projects Agency
+@entity6:Ford
+@entity11:Miller
+@entity5:Toyota Prius
+@entity62:Wi-Fi network
+@entity116:University of Washington
+@entity60:American
+@entity117:University of California
+@entity52:Greenberg
+@entity102:GPS
+@entity50:Vegas
+@entity78:Bluetooth
+@entity43:Twitter
+@entity45:IOActive
+@entity114:San Diego
+@entity49:Def Con
+@entity73:Ford SYNC
+@entity12:Valasek

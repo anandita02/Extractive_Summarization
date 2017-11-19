@@ -1,0 +1,80 @@
+http://web.archive.org/web/20150702074937id_/http://www.cnn.com/2014/01/28/tech/mobile/video-streaming-super-bowl/
+
+smartphone usage has skyrocketed at sporting events , as anyone who 's attended a recent game can tell you			1
+look around the stands and you 'll see fans checking stats , sharing pictures on social media , or just killing time between plays			2
+while stadiums have boosted cellular and @entity16 infrastructure to keep fans connected during games , there 's always the possibility that there wo n't be enough bandwidth for everyone			1
+that 's why on @entity25 , the @entity24 is planning to block live streams of the game inside the stadium			1
+@entity29 , between the @entity30 and @entity31 , will be streamed by @entity24 and @entity32 , but both of those sources will be blocked on the @entity16 and cellular networks at @entity36 in @entity37 , @entity24 cio @entity38 told @entity39 in a phone interview			1
+the @entity24 and @entity32 blocks will be implemented both for mobile apps and within web browsers			1
+the decision stems from last year 's @entity25 , when streaming was initially allowed but eventually blocked when it took up too much bandwidth			1
+" we [ blocked ] it last year , but we did it on the fly when we started having some challenges			2
+this year we planned ahead to do it , " @entity38 said			0
+she said the 82,500 - seat stadium will be able to handle 25,000 to 30,000 concurrent internet users across cellular and @entity16			0
+the @entity24 did n't tell us what the anticipated speeds are because @entity59 , which led the @entity16 and cellular buildout , preferred to keep that information under wraps			1
+but the plan is to prioritize upload speeds over download because fans generally spend a lot of time posting photos and statuses to social media			2
+the @entity24 is providing a @entity25 app to attendees with an event guide and " exclusive content , " but it wo n't include streaming video or replays			1
+" while we do know that people like to look at replays on their phones and there are some people who like to stream certain amounts of video in the game , the vast majority of our fans want to watch the game on the field , watch the replays on the jumbo board , and participate in the event more than they want to be checking their phone , " @entity38 said			1
+" while we could have made some of that available , it might have impacted the ability for the majority of the fans to be able to stay connected to social media , tweet , @entity103 , that kind of thing			0
+" big games , big network usage at last year 's @entity25 , the @entity16 stayed up even during the infamous mid-game power outage			1
+while some attendees told @entity39 after last year 's game that @entity16 access was problematic at times , a broadcast engineer we spoke with measured the network at @entity116 down and @entity117 up			2
+it 's common at high - density events for fans to have trouble sending text messages or uploading photos , @entity38 noted			2
+network congestion is especially pronounced at key moments of each game			0
+while attending the final game of last year 's @entity129 at @entity130 in @entity131 , i was able to upload , e-mail , and text photos on the cellular network during the game			2
+immediately after the final out however , fans swarmed the network and uploads became impossible			0
+" when you ca n't do the basics , it 's all of a sudden not that cool that you can show replays or stream the game , " @entity38 said			1
+" it 's a fine balance			0
+we 're pushing the envelope every year			0
+as technology gets better and better i 'm willing to take more and more risks about what we allow			0
+" @entity38 is optimistic that multicast technology , as opposed to the unicast tech used today , will limit the amount of data needed for streaming video at future @entity25			1
+" a @entity158 transmission / stream sends ip packets to a single recipient on a network			0
+a multicast transmission sends ip packets to a group of hosts on a network , " explains network video @entity162			0
+but that wo n't be used at this year 's game , because multicast streaming is n't commonly supported on smartphones yet , @entity38 said			1
+keeping fans connected the @entity25 restriction does n't mean live streaming is blocked at every @entity24 game			1
+for example , the @entity178 ' app provides access to @entity24 @entity182 video when users are connected to @entity184 's @entity16			1
+" it depends on the stadium , " @entity38 said			0
+" each team manages every game themselves and they have mobile apps that they run			0
+some allow it based on their infrastructure , and some block it			0
+" the @entity16 network , open to all fans , has about 900 access points , using @entity199 equipment powered by the new 802.11ac standard , according to the @entity24			1
+@entity59 is providing the internet connectivity , with about @entity202 coming into the stadium			0
+while @entity59 is the lead vendor , all four major carriers invested in upgrading their @entity206 at the @entity25 site , @entity38 said			2
+one nicety provided to attendees is a radio providing four audio feeds from @entity32 , @entity212 , @entity213 , and the in - stadium public address			0
+while it would be possible to provide audio feeds to a mobile app , @entity38 noted that " we 've always given this radio for broadcast , and fans have told us they really love it			2
+" as usual , the @entity25 crew will use monitoring tools to identify hacker attacks on the network or technical problems that prevent fans from getting on the @entity229			1
+monitoring user activity helps plan capacity for future events and fix problems as they arise			0
+network monitoring tools divide the stadium into sectors , and this year " we cut the stadium into more sectors than we had in the past so we can pinpoint more quickly where issues are in a section of the stadium , " @entity38 said			0
+" if we start to hear we 're having issues in a certain part , we can work on a smaller segment of the stadium without it impacting as many people			0
+
+fans wo n't be allowed to stream video on their phones at the @entity25
+@entity24 will stream the game , but it will be blocked at @entity36
+there 's a @entity25 app , but it wo n't stream video
+league fears video could clog bandwidth
+
+@entity24:NFL.com
+@entity25:Super Bowl
+@entity29:Super Bowl XLVIII
+@entity117:44Mbps
+@entity116:23Mbps
+@entity158:Unicast
+@entity131:Boston
+@entity130:Fenway Park
+@entity199:Cisco
+@entity213:ESPN Deportes
+@entity178:New England Patriots
+@entity59:Verizon
+@entity31:Seattle Seahawks
+@entity30:Denver Broncos
+@entity32:Fox
+@entity37:New Jersey
+@entity36:MetLife Stadium
+@entity39:Ars
+@entity38:McKenna-Doyle
+@entity103:Facebook
+@entity129:World Series
+@entity202:4Gbps
+@entity206:Distributed Antenna Systems
+@entity162:Visionary Solutions
+@entity212:Westwood One
+@entity229:Internet
+@entity182:Red Zone
+@entity184:Gillette Stadium
+@entity16:Wi-Fi

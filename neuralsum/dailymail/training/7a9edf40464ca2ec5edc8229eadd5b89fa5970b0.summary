@@ -1,0 +1,54 @@
+http://web.archive.org/web/20150326120917id_/http://www.dailymail.co.uk/sciencetech/article-2222959/Twitter-map-London-shows-linguistic-diversity-truly-international-city.html
+
+it 's long been hailed as one of the great international cities , but now @entity4 's linguistic diversity has been mapped thanks to @entity6			0
+this colour - coded graphic pinpoints the location and language of tweets sent from the @entity12 capital and shows how linguistic groups are clustered in the city 's various districts			2
+the revealing map is the work of @entity19 phd student @entity18 and @entity20 , a lecturer at @entity19 's @entity21			0
+global city : this map shows the language distribution of tweets across @entity4 over this summer using an open - source website language detector , the pair detected the predominant language used in 3.3million gps - enabled tweets sent over the summer			2
+perhaps unsurprisingly , 92.5 per cent of the tweets were sent in @entity30 , but the researchers detected a total of 66 languages among the data including tongues as esoteric as @entity36 , @entity37 and even @entity38			1
+the map shows how @entity30 tweets , shown in grey , predominate and provide crisp outlines to roads and train lines as people tweet while moving around the city , professor @entity20 explains			1
+the city 's beating heart : most of @entity4 's linguistic diversity is situated in the city centre , but includes multilingual hot spots like the @entity53 and a bizarre concentration of @entity56 speakers in @entity57 , bottom right in the city 's north more @entity60 tweets , shown in blue , appear ; arabic tweets - appropriately in green - are most common around @entity65 ; and parts of the @entity67 show pockets of @entity70 tweets in pink			1
+professor @entity20 explains on his blog : ' the geography of the @entity56 tweets ( red ) is perhaps most surprising as they appear to exist in high density pockets around the centre and do n’t stand out in @entity78 ( an area with the @entity79 , a @entity80 and the @entity81 )			1
+' it may be that as a proportion of tweeters in this area they are small so they do n’t stand out , or it could be that there are prolific tweeters ( or bots ) in the highly concentrated areas			0
+' mr @entity18 told @entity91 the project revealed a few matches but ' a lot of the time it did n't actually match in the same volume as we expected '			0
+on his blog he points out that languages he had expected to feature prominently like @entity99 and @entity100 barely appear on the map			2
+' either people only tweet in @entity30 , or usage of @entity6 varies significantly among language groups in @entity4 , ' he speculates			1
+to create the map mr @entity18 fed a @entity6 dataset containing the tweets through the @entity107 - a open - source @entity108 library adapted from the @entity111 algorithm which detects a website 's language			2
+the approach was not entirely reliable			0
+around 1.4million tweets had to be discarded because the language could not be determined , while it showed a surprising number sent in @entity118 - a language of the @entity120			0
+a closer look revealed that many of these exotic tweets included uses of @entity30 online colloquialisms like ' hahahahaha ' , ' ahhhhhhh ' and ' lololololol '			1
+' i do n't know much about @entity118 but it sounds like a fun language , ' mr @entity18 said on his blog , adding that it was eventually removed from the analysis .			0
+
+92.5 per cent of tweets sent in @entity30 , but other major languages include @entity134 , @entity56 , @entity60 and @entity135
+
+@entity20:Cheshire
+@entity21:Centre of Advanced Spatial Analysis
+@entity80:French High School
+@entity81:French Embassy
+@entity111:Google Chrome
+@entity135:Arabic
+@entity134:Spanish
+@entity118:Tagalog
+@entity6:Twitter
+@entity4:London
+@entity53:Olympic Park
+@entity79:Institut Francais
+@entity56:French
+@entity57:Lewisham
+@entity70:Russian
+@entity78:South Kensington
+@entity30:English
+@entity12:British
+@entity37:Basque
+@entity36:Haitian Creole
+@entity38:Swahili
+@entity19:UCL
+@entity18:Manley
+@entity100:Somali
+@entity99:Bengali
+@entity107:Chromium Compact Language Detector
+@entity108:Python
+@entity91:Metro
+@entity120:Philippines
+@entity67:West End
+@entity65:Edgware Road
+@entity60:Turkish

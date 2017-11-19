@@ -1,0 +1,40 @@
+http://web.archive.org/web/20121106002707id_/http://www.dailymail.co.uk:80/sciencetech/article-2191000/How-sheep-woolly-jumper-revolutionise-animation.html
+
+by @entity0 published : 09:27 est , 20 august 2012 updated : 09:27 est , 20 august 2012 a sheep in a knitted jumper may not , at first glance , seem the biggest advance in animation ever seen			1
+however , experts say the image could usher in a new era of characters wearing ultra-realistic clothes			1
+the images are the first time researchers have managed the incredibly complex feat of recreated knitting inside a computer			1
+the images of a sheep in a knitted jumper is the first time researchers have been able to ' virtually knit ' an outfit , and could lead to far more realistic animated characters to put clothes on their characters , computer graphic artists usually simulate cloth by creating a thin sheet , then adding some sort of texture			1
+however , this does n't work for knitted garments , as they are simply too complex			1
+to make the image realistic , the computer has to simulate the surface right down to the intricate intertwining of yarn			1
+so computer scientists are in effect teaching the computer to knit			2
+the research , from @entity41 , was unveiled at a computer graphics conference			1
+' we are actually changing the shape of the yarn loops that make up the stitches , ' professor @entity47 from @entity41 , who led the research , explained , ' simulating how they wrap around other loops			2
+' the result is a simulation with detail down to the yarn level			0
+the trickiest part , @entity47 said , is to make sure the images of yarn loops do n't slide through each other like ghosts			0
+that would cause the simulation to " unravel " like a dropped stitch in real knitting			0
+the team has also revealed far more natural looking knitted outfits for human			1
+funded by @entity67 , the research could be seen on a cinema screen soon			1
+the @entity41 innovation is to create a 3 - d model of a single stitch and then combine multiple copies into a mesh , like tiles in a mosaic			2
+the computer projects the mesh onto a model of the desired shape of the garment , treating each stitch as a tiny flat polygon that stretches and bends to fit the @entity84 surface			0
+then it " relaxes " the graphic image of each stitch to fit the shape of its polygon , just as real yarn would stretch and bend to fit the shape of the wearer			0
+in knitting , a single stitch is formed by pulling yarn through a loop			0
+rows of stitches , built on the loops formed by previous rows , make up the finished garment			0
+the yarn can be pulled through in a variety of ways or multiple times , creating various shapes and textures			0
+to simulate this realistically , a computer graphic artist would have to painstakingly model the @entity84 structure of every stitch			0
+the researchers tested their method with several patterns from knitting books and created images of dresses , sweaters , a shawl and a tea cozy			0
+the simulations are highly realistic , but the researchers noted that the results of knitting a particular pattern depend on the yarn and needles used , as well as the style of the individual knitter			2
+the method has some parameters that can even be adjusted to simulate the effects of different needles or yarn , or different yarn tension used by the knitter , they said			0
+the research was supported by the @entity137 , the @entity138 , the @entity139 and @entity67			1
+a range of different knitting techniques can now be virtually created and wrapped around a character 's body .			2
+
+@entity67 - backed research has managed to virtually recreate knitted fabric for the first time
+could lead to far more realistic outfits for animated characters
+
+@entity0:Mark Prigg
+@entity47:Marschner
+@entity139:John Simon Guggenheim Memorial Foundation
+@entity41:Cornell
+@entity67:Pixar
+@entity84:3-D
+@entity137:National Science Foundation
+@entity138:Alfred P. Sloan Foundation

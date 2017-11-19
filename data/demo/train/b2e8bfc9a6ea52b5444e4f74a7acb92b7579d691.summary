@@ -1,0 +1,88 @@
+http://web.archive.org/web/20090602054942id_/http://www.cnn.com:80/2009/TECH/05/28/pixar.up.technology/
+
+-- if you want to consider a difficult computational problem , try thinking of the algorithms required to animate more than 10,000 helium balloons , each with its own string , but each also interdependent on the rest , which are collectively hoisting aloft a small house			1
+the production team at @entity11 faced many new technological challenges on " @entity13 , " its tenth feature film			1
+that was the challenge the production team at @entity11 faced when it set out to begin work on " @entity13 , " its tenth feature film , five years in the works , which hits theaters on friday			1
+there was absolutely no way the team was going to hand - animate the balloons			1
+not with their numbers in five - figures , and especially not when you consider that within the cluster , every interaction between two balloons has a ripple effect : if one bumped another , the second would move , likely bumping a third , and so on			2
+and every bit of this would need to be seen on screen			2
+in " up , " the story revolves around the main character , 78 - year - old @entity39 , who , frustrated with his mundane life , ties the thousands of balloons to his house and sets off for adventures in @entity45			1
+a small boy ends up marooned on board , and hilarity ensues			0
+the cluster of balloons is so central to the film 's branding -- it 's called " up , " after all -- that to promote the film , @entity11 teamed up with two of the world 's cluster ballooning experts for a nationwide tour involving a real - life flying armchair and dozens of huge , colorful balloons			1
+" you have a movie that 's about a house that flies , which is a pretty far - fetched idea , " said @entity62 , the supervising technical director on " @entity13			1
+" " we all know , from kids ' parties , how a bunch of balloons behave , so if we could animate balloons in a realistic way , the believability that the house could fly would sell			1
+" for may , " @entity13 " producer @entity77 , director @entity78 , and the many others involved in making the film , believability was key , even within the context of a story about a flying house			1
+and while a major part of instilling that believability must come from a well - conceived and executed story and script , the animation is no less responsible for winning over potentially skeptical audiences			2
+balloons , the mother of animation invention may said that the animation department at @entity11 never even considered hand - animating the balloons			1
+but even standard computer animation would n't be up to the task , because of the @entity98 - squared complexity involved in the thousands of interdependent balloons			1
+instead , the studio 's computer whizzes figured out a way to turn the problem over to a programmed physical simulator , which , employing newtonian physics , was able to address the animation problem			1
+" these are relatively simple physical equations , so you program them into the computer and therefore kind of let the computer animate things for you , using those physics , " said may			1
+" so in every frame of the animation , ( the computer can ) literally compute the forces acting on those balloons , ( so ) that they 're buoyant , that their strings are attached , that wind is blowing through them			1
+and based on those forces , we can compute how the balloon should move			0
+" this process is known as procedural animation , and is described by an algorithm or set of equations , and is in stark contrast to what is known as key frame animation , in which the animators explicitly define the movement of an object or objects in every frame			2
+procedural animation has been around for some time , but may suggested that even the most difficult uses of it in the past do n't come close to what @entity11 had to achieve in " @entity13			1
+" @entity11 fans may remember the scenes in " cars " of a stadium full of 300,000 car " fans " cheering on a high - speed race below , each of which was independently animated			1
+that , too , was done with procedural animation , may said , since creating so many cars individually would have been a non-starter			2
+but even that complex computation problem did n't approach the balloon cluster issue in " @entity13 " : the " cars " scene involved no interdependent physics			0
+getting the simulator humming properly is no easy task , as one might imagine			2
+may said it involves setting rules for how individual objects should behave , giving the computer these initial conditions , and then " let it run			0
+" oddly , because the simulator does indeed run with those conditions and rules and the peculiarities of physics , the animators found themselves without precise control of what would happen with the balloons -- or other objects in the film animated using these techniques			1
+" if the ( balloon cluster ) is moving too slow , we increase the amount of wind , and then run the simulator again , " may said			2
+" then maybe we turn the wind down			0
+it 's a little fun science experiment where sometimes , hopefully by the end , we 're getting what we want			0
+" losing control of balloons sometimes , given the vagaries of physics and chaos theory , unexpected things happen			0
+the computer team inputs the rules and because some of the initial conditions are random , " you get semi-random results			0
+" one of may 's favorite examples is that early in the film , when the house first is hoisted aloft by the balloons , a small group of the balloons actually broke off of the main cluster			1
+may said that this breakaway group of balloons is actually visible -- albeit very briefly -- in " @entity13			0
+" @entity208 - eyed moviegoers can see the escaped balloons in the upper right - hand side of the screen , he said			1
+" we did n't mean for that to happen , " he said , " but ( we said ) ' it 's cool , let 's keep it			0
+' " even being able to make such choices was n't possible at the beginning of the film 's production , however			1
+may said @entity11 's physical simulator , an open - source program called @entity223 , could n't initially handle the complexity of modeling the behavior of more than 10,000 balloons			1
+" we could handle about 500 ( balloons ) , and we knew we needed tens of thousands , " he said			1
+" we knew we needed to develop a new simulator software pipeline ... to handle an order of magnitude more complex simulation			0
+" of course , at @entity11 , adjusting to evolving computer needs on the fly is nothing new			2
+in fact , may said the studio has done so in one form or another on many of its films			0
+for example , he said that when the studio made " @entity248 , " it had to figure out how to animate the movie 's monsters ' fur			1
+similarly , when @entity11 made " @entity253 , " the animators had to figure out how to simulate underwater scenes			2
+" we had to learn about ( how light refracts under water ) , and murk and how particulates float under water , " may said			0
+and in " up , " too , there were additional animation challenges			2
+among them were figuring out how to animate and render the feathers on @entity13 , a bird that is a major character in the film , and how to make the cloth on ( main character ) @entity39 's clothes seem believable			1
+@entity39 's threads were " the hardest clothing we 've ever had to animate here , " said may , " in part because @entity39 's a ( small ) man in an oversized suit			1
+that was another case of ( using ) the physical simulation , and of setting up rules for how cloth should behave			0
+and the looser the clothing , the more it can behave badly			0
+" even @entity39 himself presented some animation difficulties , may said , because the character 's head is shaped like a cube			2
+like many other elements in " @entity13 , " the cube - shape of @entity39 's face was n't a random whim of the director			0
+rather , it is a story element : may explained that @entity39 's character is based on someone who , as a young man , was vivacious and adventurous			2
+but as he grew older , his small house became more and more surrounded by buildings , and " it 's like his world has compressed him into a square			2
+" thus , a cube - like face			0
+but may said animating his facial expressions , which must fit into this cube shape , was complicated			0
+smiles , for example , had to come up and wrap around his cheek			0
+still , for the award - winning filmmakers at @entity11 , the goal is to make even the hardest animation problems look simple on the silver screen			1
+as producer @entity77 put it , " the audience looks at ( the balloon cluster ) and says , ' oh , that 's pretty			0
+' but they have no idea how much work went into it			0
+we worked on that for over a year			0
+( then ) the kid takes off his hat and runs his fingers through his hair			0
+my mother will never know that took 15 people six weeks			0
+" © 2009 @entity329 all rights reserved			0
+@entity0 , @entity0 and the @entity0 logo are registered trademarks of @entity329 used by permission .			0
+
+@entity11 faced many new technological challenges on its film " up , " opening friday
+the movie is about an old man who flies away on a house lifted by balloons
+@entity11 used a programmed physical simulator to animate thousands of balloons
+@entity346 's goal is to make even the hardest animation problems look simple on screen
+
+@entity223:ODE
+@entity0:CNET
+@entity13:Up
+@entity11:Pixar
+@entity39:Carl
+@entity329:CBS Interactive Inc.
+@entity45:South America
+@entity208:Eagle
+@entity253:Finding Nemo
+@entity78:Pete Docter
+@entity98:N
+@entity346:Studio
+@entity77:Jonas Rivera
+@entity62:Steve May
+@entity248:Monsters , Inc.

@@ -1,0 +1,21 @@
+http://web.archive.org/web/20110830181230id_/http://www.cnn.com:80/2011/TECH/social.media/03/16/twitter.https.mashable/
+
+-- @entity1 has taken a big step towards improving account security with a new setting that permanently enables @entity5			1
+@entity5 ( @entity5 ) allows encrypted communication between networks and users			1
+it creates a secure tunnel through the inherently chaotic web , decreasing the chance that somebody will access a user 's account information on an open @entity16 , for example			0
+@entity1 has offered @entity5 access for some time			0
+but starting today , users can activate @entity5 permanently by going to their settings and selecting " always use @entity5			1
+" these users will always be logged into @entity1 via @entity5 rather than the traditional @entity23 method			2
+@entity0 : the @entity1 guide book the company notes that its mobile website still ca n't force https permanently			0
+so users currently need to make sure they are logged into https://mobile.twitter.com rather than http://mobile.twitter.com if they want a secure connection			0
+@entity1 says it is working on a solution that will make the permanent @entity5 feature work on both its mobile website and @entity1			2
+
+@entity1 has been working to improve security for the site
+@entity5 allows encrypted communication between networks and users
+users can activate @entity5 permanently by going to their settings
+
+@entity16:Wi-Fi network
+@entity1:Twitter
+@entity0:MASHABLE.com
+@entity5:HTTPS
+@entity23:HTTP

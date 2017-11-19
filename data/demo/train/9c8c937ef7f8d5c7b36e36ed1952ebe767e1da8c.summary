@@ -1,0 +1,30 @@
+http://web.archive.org/web/20120310063521id_/http://edition.cnn.com/2008/HEALTH/12/03/cholera.facts/index.html
+
+@entity1 , @entity0 -- cholera is caused by becoming infected with a bacterium called vibrio cholera			1
+it 's a disease that affects the bowels and in its most severe form is characterized by acute watery diarrhoea that can lead to immediate death through severe dehydration and kidney failure			1
+a man from @entity16 wheels his sick relative to a cholera clinic			0
+almost 12,000 people have contracted cholera since august in @entity16 , and the outbreak threatens to kill even greater numbers as the water situation becomes more desperate			2
+@entity24 says it plans on providing a month 's supply of water treatment chemicals for the capital @entity28 where water supply has been cut off because the government of @entity31 is unable to buy chemicals needed to clean tap water			0
+with the world 's eyes on @entity16 where it is estimated that more than 500 people have already died , many myths and misconceptions abound about cholera			0
+@entity2 compiles some crucial cholera facts : -- unlike other diarrhoeal diseases , cholera can kill a healthy adult within hours			0
+-- @entity46 's short incubation period of two hours to five days enhances the potential for increased outbreaks -- seventy - five percent of people infected with cholera do not exhibit any symptoms			1
+-- a total of 236 896 cases were reported in 2006 , an overall increase of 79 % compared with the number of cases reported in 2005 -- people who have @entity58 or are malnourished have a greater risk of dying from cholera than others			1
+-- the disease is mostly spread through contaminated water and food supplies			1
+-- the belief that cholera epidemics are caused by dead bodies after a disaster is false			0
+-- cholera remains a problem in almost every developing country -- if untreated , as many as one in two people may die			2
+-- the true burden of the disease is grossly underestimated as not all cases are reported			0
+
+cholera is a disease that affects the bowels and untreated
+malnourished and @entity58 - infected people are at a high risk for death if infected
+cholera is *transmitted* through contaminated water and food supplies
+
+@entity31:Robert Mugabe
+@entity2:CNN
+@entity1:LONDON
+@entity0:England
+@entity24:Unicef
+@entity16:Zimbabwe
+@entity28:Harare
+@entity46:Cholera
+@entity78:World Health Organization
+@entity58:HIV

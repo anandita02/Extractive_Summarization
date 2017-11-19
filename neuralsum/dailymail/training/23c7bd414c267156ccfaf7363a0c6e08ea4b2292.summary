@@ -1,0 +1,81 @@
+http://web.archive.org/web/20150504110500id_/http://www.dailymail.co.uk/sciencetech/article-2847065/World-s-advanced-hacking-spyware-uncovered-Extraordinary-Regin-bug-stealing-state-secrets-six-years.html
+
+the world 's most sophisticated cyber spying tool has been stealing information from government , businesses and individuals for six years			0
+the malware , called ' @entity7 ' , is probably run by a western intelligence agency and has mostly affected computers in @entity10 , @entity11 and @entity12			1
+once installed on a computer , it can steal passwords , capture screenshots , listen in on phone conversations and restore deleted files			1
+the largest number of infections discovered - 28 per cent - was in @entity10 , and @entity11 was second with 24 per cent @entity28 , who found the malware , describes it as the most ' extraordinary ' piece of hacking software developed , and was probably ' months or years in the making '			1
+they claim it is more advanced than @entity37 , which was developed by @entity39 and @entity40 government hackers in 2010 to target the @entity42 nuclear programme			1
+' we are starting to get glimpses into the secret war that is occurring at a nation - level in intelligence , ' professor @entity43 , director of the @entity44 at @entity45 told @entity51			1
+he said individuals should not be concerned about their private details , as @entity7 was designed to steal secrets at a state level			2
+cyber espionage : no one yet knows how @entity7 infected systems but it had been deployed against internet service providers and telecoms companies worldwide			2
+private individuals and small businesses account for around half of the affected organisations so far , infection from @entity7 have been found between 2008 and 2011 , after which the malware disappeared before a new version surfaced in 2013			2
+no one yet knows how @entity7 infected systems but it had been deployed against internet service providers and telecoms companies worldwide			2
+the largest number of infections discovered - 28 per cent - was in @entity10 , and @entity11 was second with 24 percent			1
+@entity7 has been active since 2008 and may have been created by a @entity75 government			1
+it has been used to attack individuals and small businesses as well as private companies , government entities and research institutes			0
+telecoms companies have also been infected , allowing hackers to gain access to phone calls			0
+it is highly sophisticated and may have taken months or even years to complete			0
+computers can be infected with the software through means including fake internet sites and instant messenger programs			1
+it is unusually low - key , meaning that it can be used on a target for several years before being noticed			1
+a report released by @entity95 claims @entity12 has been the site of 9 per cent of confirmed infections and @entity10 , @entity11 and @entity98 have also been heavily affected			1
+the report describes the purpose of @entity7 as ' intelligence gathering ' and says : ' it is used for the collection of data and continuous monitoring of targeted organisations or individuals			2
+' other countries where the malware was found included @entity98 , @entity12 , @entity109 , @entity110 , @entity42 , @entity111 , @entity112 and @entity113			1
+there were no reported infections in the @entity39			0
+@entity28 said it believes the targets of these infections were customers of these companies rather than the companies themselves			0
+telecom companies were also infected , apparently to gain access to calls being routed through their infrastructure , the report noted			0
+@entity7 appeared to allow the attackers to capture screenshots , take control of the mouse 's point - and - click functions , steal passwords , monitor traffic and recover deleted files			1
+@entity28 said some targets may have been tricked into visiting spoofed versions of well - known websites to allow the malware to be installed , and in one case it originated from @entity139			2
+' @entity7 's developers put considerable effort into making it highly inconspicuous , ' @entity28 said			0
+' its low key nature means it can potentially be used in espionage campaigns lasting several years			0
+' even when its presence is detected , it is very difficult to ascertain what it is doing			0
+@entity28 was only able to analyse the payloads after it decrypted sample files			0
+' professor @entity43 said it is was difficult to draw conclusions about the purpose of @entity7 or its origin			1
+' the targets are what you expect from a western nation , ' he told @entity51			1
+' so it seems reasonable that it came from them			0
+' that said , there is a fine tradition of false flagging in intelligence , where you make something look like it came from somewhere else , by targeting countries that throw people off the scent			2
+' where did it come from ? @entity7 is highly sophisticated and may have taken months or even years to complete			0
+computers can be infected with the software through means including fake internet sites and instant messenger programs the researchers said many components of @entity7 are still probably undiscovered and that there could be new versions of this tool which have not yet been detected			1
+the news comes amid heightened concerns on cyber espionage			0
+last month , separate teams of security researchers said the @entity10 and @entity190 governments are likely behind widespread cyber espionage that has hit targets in the @entity39 and elsewhere			2
+one team of researchers led by the security firm @entity195 said it identified a hacker group believed to act ' on behalf of a @entity190 government intelligence apparatus			0
+' a separate report by the security firm @entity199 said a long - running effort to hack into @entity39 defence contractors , @entity203 governments and @entity203 security organisations is ' likely sponsored by the @entity10 government			2
+' however , professor @entity43 said he is not concerned about @entity7			1
+' when we had the cuban missile crisis in 1962 , it was the intelligence that both sides were getting that stopped us from having a global nuclear war			0
+' @entity213 sometimes defends us all			0
+
+@entity7 may have been created by @entity75 state to spy on governments
+*bug* can steal passwords , capture screenshots and restore deleted files
+computers were infected through fake sites and messenger programs
+@entity7 is low - key and can be used for years before being noticed
+@entity12 , @entity10 , @entity11 and @entity98 have been heavily affected
+it is more complex than @entity37 which targeted @entity42 nuclear *facilities*
+@entity7 may be a case of ' false flagging ' in which a nation targets allies to avoid being *uncovered* as source , professor @entity43 told @entity51
+
+@entity21:Extraordinary
+@entity28:Symantec
+@entity113:Pakistan
+@entity112:Austria
+@entity111:Belgium
+@entity110:Afghanistan
+@entity7:Regin
+@entity11:Saudi Arabia
+@entity199:FireEye
+@entity213:Intelligence
+@entity195:Novetta Solutions
+@entity190:Chinese
+@entity51:MailOnline
+@entity75:Western
+@entity12:Ireland
+@entity37:Stuxnet
+@entity10:Russia
+@entity39:US
+@entity98:Mexico
+@entity203:European
+@entity109:India
+@entity95:Symnatec
+@entity44:Cyber Security Centre
+@entity45:Warwick University
+@entity40:Israel
+@entity42:Iranian
+@entity43:Tim Watson
+@entity139:Yahoo Instant Messenger

@@ -1,0 +1,30 @@
+http://web.archive.org/web/20130308082159id_/http://www.cnn.com:80/2013/03/04/travel/netherlands-delta-emergency-landing
+
+-- two planes made emergency landings at @entity5 at almost the same time monday , the @entity2 airport said			1
+the first plane was a @entity8 flight departing en route to @entity10 , @entity11			1
+the flight reported a possible technical problem and asked to return			0
+the plane was inspected by engineers , and passengers were waiting to depart , the airport said			2
+the second emergency landing involved a @entity19 plane			1
+it was not immediately clear what prompted that plane to land			0
+initially , the airport said a fire caused the landing			0
+but a military police official described the issue as one of " technical difficulties			2
+" @entity19 would only say the plane , from @entity5 to @entity31 , made the landing for " precautionary measures			1
+" " the aircraft landed without incident , and passengers deplaned normally , " the airline said in a statement			0
+it was " nothing big , " @entity40 of @entity41 of the incident			0
+@entity5 is one of @entity45 's busiest transit sites .			2
+
+new : a @entity8 and a @entity19 plane make emergency landings in @entity5
+the @entity8 plane , en route to @entity10 , had a possible technical issue and has been inspected
+@entity19 says its plane , en route to @entity31 , landed for " precautionary measures "
+
+@entity31:Mumbai
+@entity2:Dutch
+@entity0:CNN
+@entity5:Amsterdam
+@entity11:Italy
+@entity10:Milan
+@entity8:KLM
+@entity19:Delta
+@entity45:Europe
+@entity40:Robert Van Kappel
+@entity41:Schipol Military Police

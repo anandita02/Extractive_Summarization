@@ -1,0 +1,46 @@
+http://web.archive.org/web/20141011164003id_/http://www.dailymail.co.uk/sciencetech/article-2563262/Tinder-reveal-EXACT-location-sees-app-researchers-claim.html
+
+security experts have revealed a major flaw in dating app @entity3 's security that could allow a someone to pinpoint the exact location of a user			1
+the flaw was discovered in october , when security firm @entity9 first told @entity3 of the bug			1
+however , they waited until now - when the flaw was fixed - to go public because of the huge security risk it posed			0
+it would allow hackers to easily triangulate where a user was			1
+the team found the @entity3 app revealed the exact distance from the match in code sent to its sever			1
+by intercepting this , it was possible to find the exact distance from the user			2
+by creating three fake accounts and locations and looking at the target user , they could triangulate the exact location of the user			1
+' being a dating app , it 's important that @entity3 shows you attractive singles in your area , ' said @entity45 of @entity9 , which uncovered the flaw			1
+' to that end , @entity3 tells you how far away potential matches are			2
+' the firm said that in july 2013 it found @entity3 was actually sending latitude and longitude co-ordinates of potential matches to the @entity54 client			2
+' anyone with rudimentary programming skills could query the @entity57 directly and pull down the co-ordinates of any user			0
+' however , the firm said @entity3 soon fixed the bug - but introduced a new bug as they did			0
+' by proxying @entity65 requests , it 's possible to get a picture of the @entity57 the @entity3 app uses			1
+' of interest to us today is the user endpoint , which returns details about a user by id			0
+the researchers even created a private web app called @entity3 finder to show off their discovery - but did not reveal until the flaw was fixed one of the fake profiles created by the researchers - using their flaw , they were able to pinpoint the user exactly ' this is called by the client for your potential matches as you swipe through pictures in the app. ' the team found the @entity57 revealed the exact distance from the match			1
+by creating three fake accounts and locations , they could triangulate the exact location of the user			1
+the team even built a special site to show exactly where a user was , automating the entire process			0
+' i can create a profile on @entity3 , use the @entity57 to tell @entity3 that i 'm at some arbitrary location , and query the @entity57 to find a distance to a user			1
+' when i know the city my target lives in , i create 3 fake accounts on @entity3			0
+' i then tell the @entity57 that i am at three locations around where i guess my target is			0
+' then i can plug the distances into the formula on this wikipedia page			0
+' the firm stressed the app was never made available , and that the flaw had now been fixed by tinder - even though it was first reported in october last year			2
+' this is a serious vulnerability , and we in no way want to help people invade the privacy of others			0
+' by setting up three accounts and looking at the same user , the hackers could triangulate their exact location ' at @entity9 we specialize in application security assessment for our clients , that means taking applications apart and finding really crazy vulnerabilities before other hackers do			1
+' the api calls used in this proof of concept demonstration are not special in any way , they do not attack @entity3 's servers and they use data which the @entity3 web services exports intentionally			0
+' there is no simple way to determine if this attack was used against a specific @entity3 user			2
+' @entity3 , @entity3 's cofounder and ceo , told @entity146 : ' @entity147 identified a technical exploit that theoretically could have led to the calculation of a user ’s last known location			1
+' shortly after being contacted , @entity3 implemented specific measures to enhance location security and further obscure location data			2
+' we did not respond to further inquiries about the specific security remedies and enhancements taken as we typically do not share the specifics of @entity3 's security measures			0
+' we are not aware of anyone else attempting to use this technique			0
+' our users ’ privacy and security continue to be our highest priority .			0
+
+app maker was *notified* of serious privacy flaw in october
+code in the app allowed any user to easily triangulate a users exact location
+@entity3 says exploit was ' theoretical '
+
+@entity3:Tinder
+@entity146:MailOnline
+@entity147:Include Security
+@entity9:IncludeSec
+@entity45:Max Veytsman
+@entity57:Tinder API
+@entity54:iOS
+@entity65:iPhone

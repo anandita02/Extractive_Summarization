@@ -1,0 +1,60 @@
+http://web.archive.org/web/20150723101523id_/http://www.dailymail.co.uk/sciencetech/article-2997401/The-killer-USB-FRIES-laptops-Malicious-drive-uses-high-voltage-destroy-computer-s-circuit-board.html
+
+security experts have warned of the dangers associated with usb drives for some time , but until now , the biggest danger has been viruses and malware			0
+now there is a new potential threat that turns the lowly thumb drive into a ‘ laptop killer ’ by using a high voltage to destroy the computer ’s components			1
+dubbed ‘ @entity14 ’ , the crude device was created by a @entity16 electronics expert known as @entity17			1
+the malicious drive has been dubbed ‘ @entity14 ’ and it uses a high voltage and current to ‘ fry ’ the laptop ’s components			1
+the prototype ( pictured ) was created by a @entity16 electronics expert known as @entity17 the user posted photos and specifications about the project on @entity16 blog @entity29 , and this was later syndicated and posted in @entity32 on @entity33			1
+the @entity32 post said : ‘ i work in [ a ] company engaged in the development and manufacture of electronics			1
+‘ in modern computers , the usb ‘ physics ’ is built in the processor [ and ] the task of the designed usb flash drive is to burn all of this stuff , or at least kill the usb port			1
+’ @entity17 posted photos and specifications about his project on @entity16 blog @entity29			1
+the user said : ' in modern computers , the usb ‘ physics ’ is built in the processor [ and ] the task of the designed usb flash drive is to burn all of this stuff , or at least kill the usb port ’ ( the custom circuit board is pictured ) the drive uses high voltage and high current to ‘ fry ’ the electronics inside the port			1
+and because this port is often connected to the cpu , the whole laptop can be affected			2
+a colleague of @entity17 is reported as saying the device is ‘ like an atomic bomb : cool to have , but can not be applied ’ @entity17 ordered the parts , including a custom circuit board , from @entity69 before making a ‘ full - fledged prototype ’			1
+and in tests , the user said they had ‘ burnt down ’ everything they could			2
+in november a team of @entity77 - based researchers reverse - engineered the files that control how a usb drive 's software works			1
+this so - called firmware was then reprogrammed to give complete control of a pc to the hacker			2
+firmware is a software program , or set of instructions , programmed onto a hardware device			0
+it tells the device how to communicate with other devices , including computers			0
+drive manufacturers will often update firmware to improve the performance of their devices			2
+these changes are made at a central level before being pushed out to individual devices			0
+the flaw was discovered by @entity101 and @entity102 at @entity103 has been dubbed @entity104			2
+it affects thumb drives and external hard drives , but also any device that connects to a pc using @entity41			0
+this includes keyboards and the mouse , as well as the usb drives used to charge phones and tablets			0
+‘ the basic idea of the usb drive is quite simple , ’ explained @entity17			1
+‘ when connected to the usb port , an inverting @entity117 / @entity117 converter runs and charges capacitors to @entity121 [ and ] when the voltage is reached , the @entity117 / @entity117 is switched off			2
+‘ the loop runs till everything possible is broken down			2
+’ put more simply , it uses high voltage and high current to ‘ fry ’ the electronics inside the port			1
+and because this port is often connected to the cpu , the whole laptop can be affected			0
+a colleague of @entity17 is reported as saying the device is ‘ like an atomic bomb : cool to have , but can not be applied			1
+’ in november a team of @entity77 - based researchers reverse - engineered the files that control how a usb drive 's software works			1
+this so - called firmware was then reprogrammed to give complete control of a pc to the hacker			0
+firmware is a software program , or set of instructions , programmed onto a hardware device			0
+it tells the device how to communicate with other devices , including computers			0
+drive manufacturers will often update firmware to improve the performance of their devices			0
+these changes are made at a central level before being pushed out to individual devices			0
+the flaw was discovered by @entity101 and @entity102 at @entity103 has been dubbed @entity104			0
+it affects thumb drives and external hard drives , but also any device that connects to a pc using @entity41			0
+this includes keyboards and the mouse , as well as the usb drives used to charge phones and tablets .			0
+
+the malicious , custom - built drive has been dubbed ‘ @entity14 ’
+it uses a high voltage and current to ‘ fry ’ the laptop 's components
+prototype was created by an electronics expert known as @entity17
+@entity17 designed the drive using parts bought in @entity69
+it was described as an ' atomic bomb : cool to have but not to be applied '
+
+@entity17:Dark Purple
+@entity16:Russian
+@entity33:Kukuruku
+@entity14:USB Killer
+@entity29:Habrahabr
+@entity117:DC
+@entity101:Karsten Nohl
+@entity102:Jakob Lell
+@entity103:Security Research Labs
+@entity104:BadUSB
+@entity41:USB
+@entity32:English
+@entity69:China
+@entity77:Berlin
+@entity121:-110V

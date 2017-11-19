@@ -1,0 +1,33 @@
+http://web.archive.org/web/20110131111938id_/http://edition.cnn.com:80/2011/WORLD/asiapcf/01/28/indonesia.volcano.flights/
+
+@entity0 , @entity1 -- international flights to the @entity1 island of @entity5 were canceled friday because of volcanic ash , according to a transportation official			1
+@entity8 in @entity9 has been erupting since late last year			0
+although the threat level was downgraded recently , it continues to spew out ash columns , according to the @entity14 agency			0
+@entity9 is in close proximity to @entity5			1
+a volcanic ash monitoring center in @entity18 , in northern @entity16 , issued a notice to @entity20 warning that the ash could affect aviation			0
+that prompted all international airlines to cancel flights			1
+international flights of the airlines @entity28 , @entity29 , @entity30 and @entity31 were affected , said @entity32 , spokesman of the @entity33			1
+domestic flights were not canceled , as the they may go through another air route that is deemed safer , officials said			2
+" our team and also the ( @entity5 's ) @entity38 team is still monitoring the conditions at the airport , " @entity32 said			2
+airlines are asking passengers to check flights before the scheduled date of departure for updates .			0
+
+an ash cloud has affected flights to the @entity1 island of @entity5
+several airlines have canceled international flights
+
+@entity31:Value
+@entity2:CNN
+@entity1:Indonesian
+@entity0:Jakarta
+@entity5:Bali
+@entity16:Australia
+@entity38:Ngurah Rai Airport
+@entity9:East Java
+@entity8:Mount Bromo
+@entity20:Airmen
+@entity29:Virgin Blue
+@entity18:Darwin
+@entity14:Indonesian Volcanology and Geological Hazard Mitigation
+@entity32:Ervan
+@entity33:Transportation Ministry
+@entity30:Jetstar
+@entity28:Cathay Pacific

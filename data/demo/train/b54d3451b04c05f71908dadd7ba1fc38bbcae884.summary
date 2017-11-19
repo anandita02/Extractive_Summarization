@@ -1,0 +1,55 @@
+http://web.archive.org/web/20140518110743id_/http://edition.cnn.com:80/2011/TECH/web/05/05/last.pass.gahran/
+
+-- virtually every online service requires users set up an account protected by a password , and the conventional wisdom is that you should n't use the same password for multiple accounts			1
+this makes services that help users generate and store strong passwords very appealing			2
+@entity13 , one of the most popular password - storing services , announced wednesday that it may have been hacked			1
+the company is now asking many of its users to change what its marketing has been touting as " the last password you 'll ever need			2
+" @entity13 , which manages passwords and reproduces users ' personal info for online forms by integrating with their computer or mobile web browser , does n't know for certain whether its database of master passwords for user accounts was compromised			1
+the company noticed some anomalies in data traffic to and from its servers that it could n't explain			1
+but one possible explanation was a data breach			2
+" we 're going to be paranoid and assume the worst : that the data we stored in the database was somehow accessed , " wrote ceo @entity38			2
+not all @entity13 users are equally at risk			1
+according to the company : " if you have a strong , nondictionary - based password or pass phrase , this should n't impact you			0
+the potential threat here is brute - forcing your master password using dictionary words , then going to @entity13 with that password to get your data			1
+unfortunately not everyone picks a master password that 's immune to brute forcing			0
+" initially , as a security measure , @entity13 tried forcing all users to change their master passwords			1
+but this slowed down their system too much			0
+so now they 've implemented a system to verify user e-mail addresses			0
+once you verify your e-mail , most @entity13 users can wait a few days to change the master password			1
+what to do : if you use @entity13 and your master password was a simple dictionary word , you should verify your e-mail with @entity13 and then change to a stronger password sometime in the next few days			1
+security expert @entity74 offers advice on choosing strong passwords			0
+this @entity13 incident indicates the importance of consumer - friendly communications about data security , especially for services that are actively marketed to , and popular with , nontech - savvy consumers			1
+many consumers are intimidated by online security			0
+they keep hearing they face dire risks online and need to protect themselves -- but doing so on their own seems cumbersome and uncertain			0
+the whole point of using a service like @entity13 ( or its competitors , such as @entity92 or @entity93 ) is to make an average person 's online experience simpler and safer			1
+the catch is that the field of data security is highly complex and technical			0
+often , the people who are skilled enough at it to create reliable services that become popular with consumers are n't very good at communicating in ways that consumers understand			0
+this can inadvertently create fear , uncertainty and doubt , which can backfire on data security vendors and consumers alike			0
+for example , @entity112 's @entity13 blog post announcing the possible breach included passages like this : " we know roughly the amount of data transferred and that it 's big enough to have transferred people 's e-mail addresses , the server salt and their salted password hashes from the database			1
+we also know that the amount of data taken is n't remotely enough to have pulled many users ' encrypted data blobs			1
+" similarly , the last line in that post as of this writing ( further updates might be possible ) instructs users : " you can access your data via @entity13 in offline mode ( pull the cable out of the wall , then login ) or by downloading @entity139 : https://lastpass.com/misc_download.php ( choose your @entity140 )			1
+" however , it 's unclear which kind of data users can access this way , or how this step might help them , or how they can decide whether they should do this			2
+furthermore , " pull the cable out of the wall " sounds rather daunting			0
+without further clarification , an instruction like that might cause some nontechnical users to inadvertently damage their home broadband connections			0
+i 'm not saying @entity13 did anything wrong here			2
+i agree with @entity160 technology editor @entity159 that @entity13 acted quickly and responsibly to protect its customers			2
+still , the way the company has been communicating so far about this incident with its customers , most of whom probably are n't as tech - savvy as @entity167 , leaves something to be desired			0
+the opinions expressed in this post are solely those of @entity171 .			0
+
+@entity13 announced wednesday that it may have been hacked
+not all @entity13 users are equally at risk , however
+@entity13 noticed some anomalies in data traffic to and from its servers that it could n't explain
+
+@entity171:Amy Gahran
+@entity160:Wall Street Journal
+@entity0:CNN
+@entity13:LastPass
+@entity167:Rooney
+@entity38:Joe Siegrist
+@entity159:Ben Rooney
+@entity139:LastPass Pocket
+@entity112:Siegert
+@entity74:Bruce Schneier
+@entity140:OS
+@entity93:1Password
+@entity92:RoboForm

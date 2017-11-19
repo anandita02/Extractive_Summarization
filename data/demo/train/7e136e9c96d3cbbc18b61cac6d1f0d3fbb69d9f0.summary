@@ -1,0 +1,23 @@
+http://web.archive.org/web/20150721043939id_/http://www.cnn.com/2015/02/24/us/state-department-official-arrested/
+
+@entity2 a @entity1 official has been arrested on suspicion of soliciting sex from a minor			1
+@entity9 was arrested tuesday at his @entity2 home , police in @entity7 , @entity8 , said			2
+authorities say @entity9 had been communicating online with a female detective from the county 's child exploitation unit			1
+the officer had been posing as a minor			0
+when the detective arrived at @entity9 's home , he was arrested			1
+police said the @entity1 was notified after the arrest			2
+@entity9 was taken to a @entity2 jail and will be extradited to @entity7			0
+@entity1 spokeswoman @entity21 said she is aware of the case but did not identify the arrested			0
+" for issues related to @entity1 personnel and for privacy reasons , we are not able to confirm the identity of the individual or specific charges , " @entity21 said			0
+" his security clearance will be suspended , and he will be put on administrative leave while this proceeds to its end through any judicial process			1
+
+police : @entity9 had been talking online to a female detective posing as a minor
+@entity1 : the *employee* 's security clearance will be suspended
+
+@entity3:CNN
+@entity2:Washington
+@entity1:State Department
+@entity21:Psaki
+@entity7:Fairfax County
+@entity9:Daniel Rosen
+@entity8:Virginia

@@ -1,0 +1,63 @@
+http://web.archive.org/web/20140822173629id_/http://www.dailymail.co.uk/sciencetech/article-2716440/The-spy-loved-cheese-onion-Scientists-extract-conversations-crisp-packets-using-high-speed-camera.html
+
+by @entity0 next time you hold a secret conversation in a secure room , you might want to make sure there are n’t any crisp packets or plants in the line of sight of a window			0
+scientists have found that using a high speed camera , the vibrations of seemingly inanimate objects like these can actually ‘ record ’ sounds in a room			1
+the incredible technique can be used to identify music , speech and more just by filming objects and monitoring their tiny vibrations			1
+in one experiment the researchers identify words being spoken by filming a crisp packet through soundproof glass ( shown ) the research was carried out at the @entity26 ( @entity26 ) in partnership with @entity38 and @entity39 by @entity40 , @entity41 , @entity42 , @entity43 , @entity44 and @entity45			1
+to reconstruct audio from a video , the frequency of the video samples – - that is the number of frames captured in the video per second - needs to be higher than the frequency of the audio signal			2
+audio such as human speech has frequencies of thousands of hertz , meaning that a high speed camera that can record thousands of frames per second is needed to identify the audio			1
+in their experiment the researchers used a high - speed camera that captured 2,000 to 6,000 frames per second to identify audio			1
+this allowed them to pick out words in speech and hear fairly clearly songs being played			2
+however , they also showed that the technique can be replicated using a digital camera			2
+these typically shoot video in 60 frames per second so , while their quality could not match that of high speed cameras , ordinary cameras could still pick up some sound			1
+this was shown in an experiment where a regular digital camera manages to record the @entity84 song ‘ @entity85 ’ and have smartphone audio recognition software identify the song when it was played back			1
+the team developed an algorithm that can reconstruct an audio signal by analysing tiny vibrations of objects			1
+for example , in one experiment the scientists were able to recover intelligible speech from the vibrations of a crisp packet filmed from 15 feet ( 4.6 metres ) away through soundproof glass			1
+in another experiment , the researchers show how filming the vibrations encountered by a plant ’s leaves enabled them to identify that a song playing nearby was ‘ @entity105 had a little lamb			1
+’ ‘ when sound hits an object , it causes the object to vibrate , ’ says @entity40 , a graduate student in electrical engineering and computer science at @entity26 and first author on the new paper			2
+‘ the motion of this vibration creates a very subtle visual signal that ’s usually invisible to the naked eye			0
+‘ people did n’t realise that this information was there			0
+’ the algorithm developed by the researchers is able to analyse the motions of an object as a whole when it 's struck by sound waves			0
+as different edges move in different directions , the algorithm aligns all the measurements so that they do n’t cancel each other out			0
+the result is that it can then identify signals of different frequencies and play them back			0
+this means speech and music can be picked out and identified from the vibrations alone			1
+the team used a high speed camera filming at thousands of frames per second and found nanoscale vibrations corresponded to sounds that had been played			1
+this meant audio such as music and speech could be identified from video			1
+in the above experiment a song was recorded in the vibrations of plant leaves ‘ we ’re scientists , and sometimes we watch these movies , like @entity157 , and we think , “ this is @entity160 theatrics			1
+it ’s not possible to do that			0
+this is ridiculous , ” ’ says @entity152 , an associate professor of electrical engineering and computer science at the @entity154			0
+‘ and suddenly , there you have it			0
+this is totally out of some @entity160 thriller			0
+‘ you know that the killer has admitted his guilt because there ’s surveillance footage of his potato chip bag vibrating			0
+’ while the researchers ’ technique has obvious applications in law enforcement and forensics , @entity40 is also enthusiastic about the possibility of what he describes as a ' new kind of imaging '			2
+in ongoing work the researchers are trying to determine the shape and structure of objects from just their visible responses to short bursts of sound			2
+‘ we ’re recovering sounds from objects , ’ he says			0
+‘ that gives us a lot of information about the sound that ’s going on around the object , but it also gives us a lot of information about the object itself , because different objects are going to respond to sound in different ways			0
+’ to clearly reconstruct audio from a video , the frequency of the video samples - that is the number of frames captured in the video per second - needs to be higher than the frequency of the audio signal			2
+the song ' @entity105 had a little lamb ' was used in a number of experiments by the researchers			0
+
+research led by the @entity26 has shown that sounds can be identified by monitoring tiny vibrations of objects
+team used a high speed camera filming at thousands of frames per second
+found nanoscale vibrations corresponded to sounds that had been played
+this meant audio such as music and speech could be identified from video
+in one experiment the researchers identify words being spoken by filming a crisp packet through soundproof glass
+in another they replay a song recorded in the vibrations of plant leaves
+and the technique could even be *reversed* to *reveal* the shape and composition of objects by *subjecting* them to bursts of audio
+
+@entity160:Hollywood
+@entity0:Jonathan O'Callaghan
+@entity26:Massachusetts Institute of Technology
+@entity39:Adobe
+@entity38:Microsoft
+@entity44:Fredo Durand
+@entity45:William T. Freeman
+@entity40:Davis
+@entity105:Mary
+@entity42:Neal Wadhwa
+@entity43:Gautham Mysore
+@entity85:Under Pressure
+@entity152:Alexei Efros
+@entity84:Queen
+@entity154:University of California at Berkeley
+@entity157:James Bond
+@entity41:Michael Rubinstein

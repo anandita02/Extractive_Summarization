@@ -1,0 +1,50 @@
+http://web.archive.org/web/20150507220515id_/http://www.dailymail.co.uk/sciencetech/article-2851201/Muggle-magic-Scientists-use-Harry-Potter-s-Sorcerer-s-Stone-pinpoint-areas-brain-allow-understand-stories.html
+
+researchers have used @entity1 to reveal that magic that happens inside our brain as we read			1
+they scanned the brains of people reading @entity7 , and were able to work out which areas of the brain were being used			1
+the team identified parts of the brain responsible for parsing sentences , determining the meaning of words and and understanding characters relationships			1
+researchers from @entity18 performed functional magnetic resonance imaging ( @entity20 ) scans of eight people as they read a chapter @entity24 and the @entity25 ( pictured )			1
+the team devised a technique in which people see one word of a passage every half second — or four words for every two - second @entity20 scan			1
+for each word , they identified 195 detailed features — everything from the number of letters in the word to its part of speech			2
+they then used a machine learning algorithm to analyze the activation of each cubic centimeter of the brain for each four - word segment			2
+bit by bit , the algorithm was able to associate certain features with certain regions of the brain , @entity48 said			2
+researchers from @entity18 's @entity55 departmentperformed functional magnetic resonance imaging ( @entity20 ) scans of eight people as they read a chapter of a @entity1 book			1
+they then analyzed the scans , cubic millimeter by cubic millimeter , for every four - word segment of that chapter			0
+the result was the first integrated computational model of reading , identifying which parts of the brain are responsible for such subprocesses as parsing sentences , determining the meaning of words and understanding relationships between characters			1
+' at first , we were skeptical of whether this would work at all , ' @entity77 of @entity18 said			0
+analyzing multiple subprocesses of the brain at the same time is unprecedented in cognitive neuroscience			2
+' but it turned out amazingly well and now we have these wonderful brain maps that describe where in the brain you 're thinking about a wide variety of things			2
+' the research , published in the online journal @entity92 , was able to predict @entity20 activity for novel text passages with sufficient accuracy to tell which of two different passages a person was reading with 74 percent accuracy			0
+@entity48 and @entity77 said the model is still inexact , but might someday be useful in studying and diagnosing reading disorders , such as dyslexia , or to track the recovery of patients whose speech was impacted by a stroke			0
+it also might be used by educators to identify what might be giving a student trouble when learning a foreign language			0
+' if i 'm having trouble learning a new language , i may have a hard time figuring out exactly what i do n't get , ' @entity77 said			0
+' when i ca n't understand a sentence , i ca n't articulate what it is i do n't understand			0
+' but a brain scan might show that the region of my brain responsible for grammar is n't activating properly , or perhaps instead i 'm not understanding the individual words			1
+' researchers at @entity18 and elsewhere have used @entity20 scans to identify activation patterns associated with particular words or phrases or even emotions			1
+researchers were able to pinpoint the areas of the brain that deal with different aspects of but these have always been tightly controlled experiments , with only one variable analyzed at a time			1
+the experiments were unnatural , usually involving only single words or phrases , but the slow pace of @entity20 — one scan every two seconds — made other approaches seem unfeasible			0
+the team devised a technique in which people see one word of a passage every half second — or four words for every two - second @entity20 scan			1
+for each word , they identified 195 detailed features — everything from the number of letters in the word to its part of speech			0
+they then used a machine learning algorithm to analyze the activation of each cubic centimeter of the brain for each four - word segment			0
+bit by bit , the algorithm was able to associate certain features with certain regions of the brain , @entity48 said			0
+' the test subjects read chapter 9 of @entity25 , which is about @entity1 's first flying lesson , ' she noted			0
+' it turns out that movement of the characters — such as when they are flying their brooms — is associated with activation in the same brain region that we use to perceive other people 's motion			1
+similarly , the characters in the story are associated with activation in the same brain region we use to process other people 's intentions			1
+' exactly how the brain creates these neural encodings is still a mystery , they said , but it is the beginning of understanding what the brain is doing when a person reads			2
+' it 's sort of like a dna fingerprint — you may not understand all aspects of @entity197 's function , but it guides you in understanding cell function or development , ' @entity77 said			0
+' this model of reading initially is that kind of a fingerprint			0
+
+researchers studied people reading @entity7
+identified parts of the brain responsible for parsing sentences , determining the meaning of words and and understanding characters relationships
+
+@entity1:Harry
+@entity7:Harry Potter and the Sorcerer 's Stone
+@entity24:ofHarry Potter
+@entity25:Sorcerer 's Stone
+@entity197:DNA
+@entity20:fMRI
+@entity18:Carnegie Mellon
+@entity55:Machine Learning
+@entity77:Mitchell
+@entity48:Wehbe
+@entity92:PLOS ONE

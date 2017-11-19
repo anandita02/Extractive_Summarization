@@ -1,0 +1,55 @@
+http://web.archive.org/web/20140310102642id_/http://www.cnn.com:80/2011/TECH/gaming.gadgets/05/23/malware.security.debate.wired/
+
+-- a new piece of malware has caused an uptick in @entity5 customers reporting infected machines , renewing a timeless debate on the state of @entity10 security versus @entity11			1
+the trojan horse is called @entity13			1
+it 's a web pop - up containing a spoof message that tells customers their machines are infected by a virus and they must install anti-virus software			1
+if customers agree to install the software , the program sporadically loads porn websites on their computer			1
+@entity26 writer @entity25 was first to spot a long thread of complaints in @entity5 's support forums related to @entity13 , with at least 200 posts of customers reporting they 've been infected by the malware			2
+" i 've done similar searches in the past ... [ and ] i have never found more than one or two in - the - wild reports , " @entity25 wrote			0
+" this time , the volume is truly exceptional			0
+" furthering his case , @entity25 in a follow - up article quoted an @entity41 technician who claims that phone calls to @entity41 support have grown four to five times recently , and the majority of the calls are related to @entity13			0
+customers and technology observers have debated for years whether the @entity10 is truly more secure than a @entity11 pc			1
+the general consensus among security researchers is that there 's nothing about the @entity10 that makes it inherently more secure than @entity11 -- indeed , the @entity10 platform has been easily penetrated in the @entity56 hacking contest in years past			1
+but @entity11 has always been a juicier target for malicious hackers because it has much larger market share than the @entity10 as a result , when customers switch from a @entity11 to a @entity10 , they 're often under the impression that they 're switching to a more secure , sterile environment where they wo n't need to install expensive , resource - hogging anti-virus software			1
+while it 's not true that the @entity10 is more secure , theplatform is generally " safer " because fewer people target it , security researchers have told @entity0 in the past			2
+@entity25 's discovery renews this debate : a new piece of malware seems to be fooling more @entity10 customers than past examples			1
+so does this change the scenario ? should @entity10 customers install anti-virus software by default like most @entity11 customers do ? @entity83 , a security researcher who has repeatedly won the annual @entity56 hacking contest by hacking @entity10 and @entity85 , told @entity0 he does n't think so			1
+@entity83 noted that @entity86 recently pointed out that 1 in 14 downloads on @entity11 are malicious			0
+and the fact that there is just one piece of @entity10 malware being widely discussed illustrates how rare malware still is on the @entity10 platform , he said			0
+and while 200 posts complaining about @entity13 in @entity5 's support forums may seem like a lot , that 's still a small fraction of the millions of @entity10 customers in the world			1
+while @entity13 does show that the problem is getting worse and people should be more wary about malware , it does n't necessarily mean that every @entity10 user today should rush to buy anti-virus software , @entity83 said			1
+ultimately , it 's up to the customer because there 's a trade - off involved			0
+anti-virus software will help protect your system from being infected , but it 's expensive , uses system memory and reduces battery life			1
+" @entity10 malware is still relatively rare , but is getting worse , " @entity83 said			0
+" at some point soon , the scales will tip to installing antivirus , but at this point , i do n't think it 's worth it yet for most people			0
+" in looking into the effects of @entity13 , @entity0 's sister publication @entity122 did a thorough investigation on the state of @entity10 malware , speaking with 14 @entity10 support specialists			2
+" the truth is hard to tease out , " @entity122 's @entity127 wrote			0
+" partly because @entity130 still makes up a comparatively small percentage of the global os market share , and partly because @entity5 itself is a secretive company , it 's not easy to find out whether malware on the @entity10 is indeed becoming more common , or it 's simply being reported on more often			2
+" the results were all over the map , with most certified @entity10 support specialists logging a low number of malware reports			0
+but some @entity140 technicians noticed an uptick in malware instances , thanks to @entity13			0
+though the conclusion is unclear , the moral of this story is to be wary that @entity10 malware is in the wild , and be cautious about installing sketchy software from unfamiliar sources			2
+@entity13 may be the first wake - up call for people who believed that @entity10 do n't get viruses			2
+subscribe to @entity153 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity0 .			0
+
+a " trojan horse " called @entity13 is telling @entity10 customers they must install anti-virus software
+if a customer agrees , the program loads porn sites on their computer
+despite some *perceptions* , experts say the @entity10 is n't more secure than @entity11
+anti-virus software will help protect your system from being infected , but it 's expensive
+
+@entity56:Pwn2Own
+@entity0:Wired.com
+@entity26:ZDNet
+@entity5:Apple
+@entity11:Windows
+@entity10:Mac
+@entity122:ArsTechnica
+@entity25:Bott
+@entity83:Miller
+@entity41:AppleCare
+@entity86:Microsoft
+@entity127:Jacqui Cheng
+@entity153:WIRED magazine
+@entity140:Apple Genius Bar
+@entity13:Mac Defender
+@entity130:Mac OS X
+@entity85:iPhones

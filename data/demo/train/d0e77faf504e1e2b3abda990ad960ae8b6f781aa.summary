@@ -1,0 +1,36 @@
+http://web.archive.org/web/20101023221417id_/http://edition.cnn.com:80/2010/US/09/17/toyota.settlement/index.html?hpt=T2
+
+-- @entity3 has reached a settlement with two families over product liability claims following a crash that killed four family members , a spokesman for the automaker said			1
+@entity10 highway patrolman @entity9 ; his wife , @entity11 ; a 13 - year - old daughter , @entity12 ; and @entity9 's brother - in - law , @entity19 , were killed when a @entity14 sedan they were in accelerated uncontrollably on a freeway near @entity17 last year and crashed over an embankment			1
+@entity14 is a division of @entity3			2
+" @entity3 and the @entity23 and @entity19 families reached an amicable agreement in mediation that fully resolves their product liability claims against @entity3 and a @entity14 dealership , " @entity21 said			2
+" through mutual respect and cooperation , we were able to resolve this matter without the need for litigation			0
+" @entity21 said the company and two families " wish to keep the amount of the settlement confidential			0
+" @entity9 family attorney @entity37 told @entity0 affiliate @entity38 in @entity17 that as part of the settlement , @entity3 did not admit liability			1
+an investigation revealed the accelerator pedal in the car probably became trapped on an all - weather floor mat that had been incorrectly installed in the vehicle			1
+@entity3 issued a recall to address possible floor mat entrapment			1
+a 911 recording obtained by @entity38 reveals a desperate call from inside the car as it approached the end of the freeway			2
+" we 're in trouble			0
+we ca n't ... there 's no brakes , " @entity19 said			0
+" end freeway half mile			0
+" @entity0 's @entity58 contributed to this report .			0
+
+new : attorney : @entity3 does not admit liability
+four family members were killed in a @entity14 crash last year
+911 call : " there 's no brakes "
+investigation : an accelerator pedal probably became stuck on a floor mat
+
+@entity3:Toyota
+@entity17:San Diego
+@entity0:CNN
+@entity12:Mahala
+@entity11:Cleofe Lastrella
+@entity10:California
+@entity38:KGTV
+@entity9:Saylor
+@entity23:Saylor
+@entity19:Chris Lastrella
+@entity37:John Gomez
+@entity21:Lyons
+@entity14:Lexus
+@entity58:Greg Morrison

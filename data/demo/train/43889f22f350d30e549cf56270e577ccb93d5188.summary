@@ -1,0 +1,57 @@
+http://web.archive.org/web/20141218063314id_/http://www.cnn.com/2014/05/02/opinion/goff-big-data/
+
+-- @entity1 knows when you get pregnant			1
+@entity3 knows when you break up with someone			2
+@entity6 knows when you have been in a car accident			2
+these are all ( terrifying ) consequences of our increasing lack of privacy			0
+they are also results of the " big data " revolution that 's transforming our society			1
+whether you are a buyer , a seller or a hopeless romantic " researching " your old high school crush , chances are , some program is keeping track of all your clicks			2
+this is what big data can do			1
+by aggregating data from billions of people , analysts can predict what you are likely to do next			2
+given the degree to which @entity35 and @entity3 have crushed their competition , companies that do not take advantage of big data are doomed to obsolescence			1
+why then , with all the noise we hear about the rise of big data in consumerism , do we hear so little about big data in social justice ? is it not possible for big data to make the world a better place while making it creepier and less private ? the short answer is that big data can make the world a fairer place			1
+but there is less immediate financial gain to be made from it , and some of the science is still in progress			0
+the biggest reason perhaps is that we fear what big data will tell us about our democracy			1
+racism , sexism and other forms of discrimination are still alive			0
+if we collect data about disparities , we might see far more ugliness in our society			2
+" measuring fairness " is harder than it sounds			1
+but big data can help us			1
+for example , some police departments are leveraging big data innovations , like the use of @entity77			1
+you know , the scenes in " @entity80 " where people talk about " bringing numbers down " ? @entity77 is a way of mapping crime in regions of a given city and measuring patterns of crime in those regions			0
+it has become a popular method for holding police executives accountable for crime rates , and it seems to work			0
+all kinds of information is captured through @entity77 : type of crime , time of day , gps coordinates of the incident and even the demographics ( e.g. , race , gender , age ) of the suspect			0
+why , then , do n't most police departments conduct @entity77 for officer fairness ? in part , it 's because we do n't know how to measure " fairness			2
+" simply comparing the percentage of white suspects an officer stops to the percentage of whites in the neighborhood is a common but terrible metric			0
+that is because , if whites commit disproportionately more ( or less ) crime than their representation in the neighborhood , then using the neighborhood as a benchmark will mislead us			0
+this technique , called population benchmarking , is widely discredited by scholars and law enforcement alike			0
+comparing officers against each other makes it hard to tell whether all or none of the officers are engaged in biased policing , which troubles academics and civil liberties groups alike			0
+and comparing officers in one district against officers in another is often an unfair comparison given that income -- and , often , crime -- varies widely across districts			0
+so what is a police chief to do ? the answer is , at least collect the data			2
+@entity1 can tell if you get pregnant because it has billions of data points about who buys what when			2
+hidden within the data are patterns of behavior -- the " if this , then that " logic -- that most of us do not recognize within our own decisions			0
+this is how it recommends purchases to you			0
+there are billions of police encounters across the country every year			0
+when we start to aggregate the data , we can figure out how to ask better questions and get better answers			0
+this year , my colleagues and i will begin collecting data for the nation 's first database ( @entity172 ) tracking police stops and use of force			1
+using big data to analyze police behavior across the country is the first step in harnessing these powers to make our society fairer			1
+although this justice database will not end unfairness in policing , it might give us tangible benchmarks from which to work in our conversations about race in the @entity190 and it will let us learn how to ask the right questions to reduce racial disparities			1
+just like @entity35 was not remotely correct in thinking i might like @entity195 's new album because i liked " @entity198 , " big data may need time to get it right			1
+and although we must remain at least as vigilant over privacy concerns in law enforcement as we are over online shopping , it 's time to leverage the big data revolution to start helping us achieve a fairer society .			1
+
+companies like @entity3 , @entity1 and @entity6 track consumer behaviors
+@entity209 says big data *key* to businesses ; it should also be used in social justice
+he says " measuring fairness " is not easy , but big data can give us useful info
+@entity209 : tracking police stops and use of force may help us reduce racial disparities
+
+@entity3:Facebook
+@entity1:Target
+@entity0:CNN
+@entity35:Amazon
+@entity6:Google
+@entity198:Purple Rain
+@entity195:Justin Bieber
+@entity190:U.S.
+@entity80:The Wire
+@entity209:Goff
+@entity172:PDF
+@entity77:CompStat

@@ -1,0 +1,54 @@
+http://web.archive.org/web/20150407075339id_/http://www.dailymail.co.uk/sciencetech/article-2366566/Far-Out-software-knows-exactly-youll-precise-time-date-YEARS-future.html
+
+where do you see yourself in five years time ? it 's a common interview question designed to learn about a person 's ambitions , and thanks to new technology you could soon be able to give a precise answer to this question			1
+researchers from @entity11 and @entity12 can predict where a person will be years from now using a new computer software called @entity17 programme tracks a person using a gps device and learns their routine			1
+it then uses this information to accurately guess their future locations and will adapts its predictions even if someone changes their job , relationship or moves house			1
+a screenshot from the @entity31 mapping software			2
+researchers from @entity11 and @entity12 can predict where a person will be years from now using this system			2
+the program tracks a person using gps and learns their routine			1
+it then uses this information to accurately plot their future locations using gps systems carried by volunteers and fitted to the transport they used on a daily basis , the researchers were able to plot around 150 million location points			1
+furthermore , over 32,000 days worth of precise gps data was collected			0
+this information was fed into the @entity31 software which uses an algorithm to predict where a person will be in the future , based on where they 've been in the past			1
+it does this by accurately ' learning ' a person 's routine			2
+far out then offers predictions but can also automatically discover when someone veers from this routine			2
+the program will plot these changes , learn from them , and adapt accordingly			1
+researchers believe the results could be used to predict rises in populations , the spread of disease , traffic and broadband demand to quote a number of the researchers examples			0
+@entity79 and @entity80 wanted to learn more about what they call ' human mobility ' so set about developing a formula that could predict where a person would be years in the future in their paper ' far out : predicting @entity90			1
+' they gave 703 volunteers in @entity93 a gps device and told them to carry it around with them at all times , including going to work , shopping , out with friends and even travelling			0
+the researchers also fitted gps units to the buses , cars and other transport used by the volunteers on a daily basis			0
+@entity79 and @entity80 managed to collect around 150 million location points and 32,000 days worth of gps data during this experiment			0
+this data was fed into their @entity31 computer program to predict the ' long - term human mobilty ' of each subject			1
+@entity31 was able to offer predictions , and could also automatically discover when someone veered from their usual routine , adapting accordingly			1
+' for example , [ @entity31 ] might notice that tuesdays and thursdays are usually about the same and fairly consistent from week to week , ' the researchers told @entity118			2
+' then when we ask about a future tuesday or thursday , the algorithm automatically produces a typical tuesday / thursday as a prediction			0
+' ' if there is a sharp transition , such as a move to another city , the system notices there is a discrepancy between its predictions and actual data and adapts to the new patterns			0
+' most people have only a few ‘ revolutionary ’ changes in the course of their lives , so @entity137 is n't caught off guard too often			0
+' according to @entity140 and @entity80 's paper , humans are mostly predictable even over extended periods of time			0
+the researchers gave volunteers in @entity93 a gps device and told them to carry it around with them at all times			0
+the researchers also fitted gps units to the transport used daily by the volunteers			0
+@entity79 and @entity80 managed to collect around 150 million location points and 32,000 days worth of gps data the gps data was fed into the @entity31 system so the program could learn a person 's routine			1
+@entity31 then predicted where that person would be , including their longitudinal and latitudinal positions , on a certain date in the future			1
+the software even takes into account if there is a national holiday on that date the paper said : ' much work has been done on predicting where is one going to be in the immediate future , typically within the next hour			2
+by contrast , we address the open problem of predicting human mobility far into the future , a scale of months and years			2
+' @entity31 uses ' a nonparametric method that extracts significant and robust patterns in location data , learns their associations with contextual features ( such as day of week ) , and subsequently leverages this information to predict the most likely location at any given time in the future			1
+' the researchers believe the software could have social uses , similar to @entity189 , or could be used by advertisers and marketers			0
+they also believe the results ' open a number of interesting avenues for future research and applications			0
+' this could include predicting rises in populations , the spread of disease , traffic problems and broadband demand .			0
+
+program called @entity31 tracks people using gps to learn their routine
+it then makes predictions about where that person will be in future years
+@entity31 can react to changes in jobs , relationships and moving house
+the results are ' *highly* accurate ' and can plot locations to the date
+
+@entity17:Far Out.The
+@entity31:Far Out
+@entity140:Salidek
+@entity12:Google
+@entity11:Microsoft
+@entity189:Foursquare
+@entity80:Krumm
+@entity79:Sadilek
+@entity137:Far Out
+@entity90:Long-Term Human Mobility
+@entity93:Seattle
+@entity118:Fast Company

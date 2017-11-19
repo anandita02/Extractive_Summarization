@@ -1,0 +1,40 @@
+http://web.archive.org/web/20120114032042id_/http://www.dailymail.co.uk/sciencetech/article-2083271/SpyEye-trojan-horse-New-PC-virus-steals-money-creates-fake-online-bank-statements.html
+
+by @entity0 last updated at 8:17 pm on 6th january 2012 the new @entity3 ' trojan horse ' software steals your card details - then when you log into your online bank , it adjusts your balance so you do n't realise anything is wrong			1
+it 's already been found in the @entity10 and the @entity11 a new version of the @entity3 ' trojan horse ' software not only steals your money , it then offers false reassurance that it 's still there			1
+when you visit your online bank , there will be no trace of the transactions that cyber-criminals are using to empty your bank account			2
+worse , your balance will also be adjusted on screen so it looks as if nothing is happening			0
+the attack - on @entity29 - has already been detected in the @entity10 and the @entity11			1
+the software - which steals your bank passwords to give access to your account - waits for you to enter the same banking details before ' adjusting ' what you see			1
+the idea is that it gives thieves more time to use your debit card details on fraudulent transactions without you realising it 's happening			1
+the first you 'll learn of the attack is your bank refusing you money , or a paper statement showing you that cyber criminals have been draining money out of your account			1
+the new version of @entity3 has targeted banks in the @entity10 and the @entity11			2
+@entity51 , a security company which detected the attack , says , ' the next time the victim visits their online banking site , the malware hides the fraudulent transactions , as well as artificially changing the total balance			0
+' ' as a result , the deceived customer has no idea that their account has been ‘ taken over ’ , nor that any fraudulent transactions have taken place			0
+' the software , a variant on a commonly used cyber attack , has been ' tweaked ' so that as well as its usual attack - grabbing passwords and login information from your web browser without you knowing , it also adjusts your balance when you next visit your bank 's web page			1
+' @entity3 is a tweak of the @entity77 crimeware kit that grabs web form data within browsers , ' says the @entity81 blog at web security experts @entity83			0
+' this year , right before the recent holiday season , @entity51 found a hopped - up version of @entity3 attacking banks in the @entity10 and @entity11 ' the new @entity86 , instead of intercepting or diverting email messages , hides bogus transactions even after users have logged out and then logged back into their accounts			2
+' ' this version of @entity3 both hides the fraudulent transaction and masks the amount of the transaction , putting forward a fake balance and ensuring that victims are oblivious to anything being amiss			0
+' with hi - tech cyber attacks such as @entity3 , there are few visible signs that anything is wrong			0
+there are defences , though - ensure your browser is up to date , manually updating it if necessary			0
+you should also ensure that the ' anti-phishing ' option is switched to ' on ' in @entity111 , @entity112 or @entity113 , which will check for ' blacklisted ' websites and prevent your browser being directed to the ' fake ' version that delivers your bank statement .			0
+
+@entity118 steals passwords from your browser
+cyber criminals use your debit card details to drain your account
+when you visit your bank , it adjusts figures so the criminal transactions do n't appear
+attack has been used in @entity10 and @entity11
+
+@entity3:SpyEye
+@entity0:Rob Waugh
+@entity86:Trojan
+@entity11:UK
+@entity10:U.S.
+@entity29:Windows PCs
+@entity81:Naked Security
+@entity51:Trusteer
+@entity83:Sophos
+@entity113:Internet Explorer
+@entity112:Chrome
+@entity111:Firefox
+@entity77:Zeus
+@entity118:Crimeware

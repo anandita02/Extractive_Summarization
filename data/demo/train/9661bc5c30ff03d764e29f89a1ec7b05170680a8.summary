@@ -1,0 +1,62 @@
+http://web.archive.org/web/20110829160503id_/http://www.cnn.com:80/2011/TECH/mobile/03/17/hacking.devices.undefeated.wired/?
+
+-- from the results of the @entity4 hacking competition , it looks like @entity5 and @entity6 are tough nuts to crack			1
+it took only two days for hackers to crack into the @entity10 and @entity11 operating systems during the three - day @entity4 tournament last week , while @entity5 and @entity6 7 models were abandoned and left unhacked by the end of the contest			1
+is this because their operating systems are more secure ? yes and no. " the survival of a target at @entity4 does not automatically declare it safer than a target that went down , " last year 's @entity20 winner @entity19 cautions			1
+the contestants who were lined up to beat the @entity5 and @entity27 devices in the competition withdrew for a variety of reasons			1
+@entity4 , now in its fifth year , is a hacking competition divided into two areas : web browsers and mobile phones			1
+this year , @entity39 , @entity36 , @entity37 , and @entity38 were the web - browser targets			0
+in the mobile phone category , the @entity41 ( @entity6 ) , @entity42 ( @entity43 ) , @entity44 ( @entity11 6 ) and @entity45 ( @entity5 ) were targeted			1
+the os and browser versions were frozen last week ( so for example , @entity10 's @entity50 update was not used ) , ensuring that all contestants are working on the same version of each os. pwning and owning occurs if the hacker defeats the frozen version			2
+if the exploit they used still exists in the current firmware , they are also eligible to receive a monetary prize			0
+the 2011 @entity4 competition ran march 9 to 11			1
+@entity19 says many different factors determine how hard a target is to hack			0
+there 's the safety of the software itself , the exploit mitigations that are already in place for that software , and then the amount of research that has already been conducted ( which can speed up the process of writing an actual exploit )			0
+@entity37 and @entity38 web browsers were also left undefeated because contestants withdrew from @entity4			2
+" @entity38 has the advantages of having multiple exploit - mitigation techniques that certainly make it more difficult to hack			0
+as for @entity5 , we see no particular reason why @entity5 would be harder to hack than one of the other targets			2
+" @entity50 , @entity38 , @entity42 , @entity5 and @entity11 all use @entity85 in their browsers , which means that they are all susceptible to exploitation through the browser -- and that 's exactly how the @entity42 and @entity11 were attacked			1
+@entity90 , a @entity4 veteran , worked with @entity91 to hack the iphone 4 in this year 's competition using a flaw in its @entity88 and a " specially - crafted webpage			2
+" a team of 3 ( @entity97 , @entity98 , and @entity99 ) defeated the @entity100 using a similar technique			0
+so what did the contest 's organizers think of the outcome of 2011 's @entity4 ? @entity19 and other organizers were not surprised that the @entity42 went down quickly			2
+it has been a major target and a lot of research has already been done on that platform			0
+@entity5 's survival was a bit of a surprise , since it is also a big target and had four contestants lined up			1
+although no device is unhackable , some factors contribute to a safer product			0
+for those that are out to find the safest phone on the market , @entity19 says you 'll want to compare features such as @entity126 ( @entity126 ) , @entity127 ( address space layout randomization ) , @entity129 , code signing and the ease with which software can be updated on the device			0
+subscribe to @entity0 for less than $ 1 an issue and get a free gift ! click here ! copyright 2010 @entity137 .			0
+
+at @entity20 hacking competition , @entity5 and @entity6 7 tough nuts to crack
+took only two days for hackers to crack into the @entity10 and @entity11 operating systems
+" survival of a target at @entity4 does not automatically declare it safer , " winner cautions
+
+@entity20:Pwn2Own
+@entity27:WP7
+@entity129:Sandboxing
+@entity97:Vincenzo Iozzo
+@entity85:WebKit
+@entity88:Mobile Safari Web browser
+@entity137:Wired.com
+@entity0:WIRED magazine
+@entity11:Blackberry
+@entity5:Android
+@entity4:Pwn2Own
+@entity10:Apple
+@entity50:Safari
+@entity90:Charlie Miller
+@entity37:Firefox
+@entity36:Apple Safari 5.0.3
+@entity39:Microsoft Internet Explorer 8
+@entity38:Chrome
+@entity19:Vreugdenhil
+@entity100:BlackBerry Torch
+@entity99:Ralf Philipp Weinmenn
+@entity98:Willem Pinckaers
+@entity126:Data Execution Prevention
+@entity127:ASLR
+@entity91:Dion Blazakis
+@entity6:Windows Phone
+@entity44:BlackBerry Torch 9800
+@entity45:Nexus S
+@entity41:Dell Venue Pro
+@entity42:iPhone
+@entity43:iOS

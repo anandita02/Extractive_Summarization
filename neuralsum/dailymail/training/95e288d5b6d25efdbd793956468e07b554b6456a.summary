@@ -1,0 +1,58 @@
+http://web.archive.org/web/20140725161828id_/http://www.dailymail.co.uk/sciencetech/article-2676301/Is-Amazon-Fire-TV-draining-data-Screensaver-bug-forcing-users-exceed-monthly-limits.html
+
+by @entity0 if you 've recently bought an @entity3 box , you may have noticed the amount of data you ’re using has jumped			1
+this is due to a bug in the streaming box ’s screensaver feature that means picture files are n’t being cached correctly			1
+screensaver images are taken directly from a user ’s cloud storage , and the bug causes the full picture size to be used - rather than a compressed version - each time the screensaver refreshes			2
+@entity3 users have complained that the streaming box is draining their internet data			1
+@entity3 said this is due to a bug in the streaming box 's screensaver feature ( pictured ) that means image files are n't being cached properly			1
+it is working on fixing the problem and has advised users to disable the feature temporarily any photos and videos uploaded to @entity29 are automatically available on @entity3			2
+these images can be used to create a screensaver for the streaming box			1
+the screensaver launches when @entity3 is left idle , and the default screensaver uses a slideshow of images			2
+the ' mosaic ' screensaver , instead , shows these images as an ever - changing grid			2
+the data use flaw was only discovered in this mosaic layout			0
+to disable this feature , press the home button , select settings , select system , and then select @entity47			0
+and each time an image is taken , the box uses data to extract the file			0
+@entity3 told @entity52 it is aware of the problem and is working on getting it fixed			0
+it added that affected users can disable the feature in the meantime			0
+the issue was raised by @entity61 - based @entity60 , who complained to @entity3 about data use on his fire tv after discovering the streaming box was using more than @entity65 of data a day			1
+once he unplugged the device , data barely peaked above @entity68			0
+other users have similarly complained on forum threads including @entity71			0
+the amount of data the bug drains depends on how many photos are being used in the screensaver , so it can vary			0
+people with unlimited data packages may not be charged extra for the additional use , but they 're speed may be capped - depending on the deal they have with their service provider			1
+users who have a set data limit may find themselves exceeding their monthly caps and could be charged extra			0
+@entity60 initially blamed @entity3 ’s @entity86 ( asap ) feature for draining his data			1
+asap learns what movies and shows users like , and gets them ready to be watched			1
+this is designed to remove buffering , but means data is used in the background to prepare these shows			0
+this tool ca n’t be switched off			0
+but , after alerting @entity3 to the problem , the retailer discovered it was actually a fault in the ‘ mosaic ’ screensaver feature			1
+the fault was initially blamed on @entity3 's @entity86 ( asap ) feature			1
+asap learns what movies and shows users like , ( pictured ) and gets them ready to watch			1
+this is designed to remove buffering , but means data is used in the background any photos and videos uploaded to @entity29 are automatically available on @entity3 , and these images can be used to create a screensaver for the streaming box			1
+the screensaver launches when @entity3 is left idle , and the default screensaver uses a slideshow of images			2
+the ' mosaic ' screensaver , instead , shows these images as an ever - changing grid			2
+the data use flaw was only discovered in this mosaic layout			0
+to disable this feature , press the home button , select settings , select system , and then select @entity47			0
+by comparison , this feature is not turned on by default , suggesting why @entity130 and only a small number of people appear to have been affected .			0
+
+@entity134 complained to @entity3 about data use on his @entity3
+he *stated* the streaming box was using more than @entity65 of data a day
+@entity60 initially blamed the @entity86 and *prediction* feature
+this feature learns what shows users like and gets them ready for viewing
+but @entity3 said fault was with a screensaver bug not caching images
+unlimited data packages may not charge extra for the additional use , but they 're speed may be capped - depending on the service provider
+the streaming box is only available in the @entity157 and the bug only relates to the ' mosaic ' screensaver setting
+
+@entity3:Amazon
+@entity0:Victoria Woollaston
+@entity68:20GB
+@entity71:Hacker News
+@entity29:Amazon Cloud Drive
+@entity52:MailOnline
+@entity47:Screen Saver
+@entity86:Advanced Streaming
+@entity134:User Tyler Hayes
+@entity65:60GB
+@entity157:U.S
+@entity130:Hayes
+@entity60:Hayes
+@entity61:California

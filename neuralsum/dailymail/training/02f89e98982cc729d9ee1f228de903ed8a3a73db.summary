@@ -1,0 +1,73 @@
+http://web.archive.org/web/20150711221533id_/http://www.dailymail.co.uk/sciencetech/article-2895004/What-Android-apps-know-Researchers-reveal-software-listen-microphone-access-contacts-knows-exactly-are.html
+
+@entity2 apps are spying on users far more than expected , a new study has found			1
+the research by @entity5 shows the apps that can access user 's microphones , call logs and contacts			1
+it found one of the worst offenders was a game aimed at children			1
+developer @entity19 , programmed the game so that it can collect a precise location , has access to your photos and can read your text messages			1
+called @entity18 , developer @entity19 , programmed the game so that it can collect a precise location , has access to your photos and can read your text messages			1
+it can even tell which @entity31 network you 're using			0
+@entity2 users have taken to messageboards to complain about the problems			2
+the hugely popular game @entity35 asks users for permissions described as ' crazy ' by users			1
+one reviewer wrote ' i will never install this until it is clear as to why the developer needs access to all your private content			2
+' the chart ranks the apps ( top to bottom ) that ask for the most permissions			2
+@entity52 , @entity53 and @entity54 top the charts			0
+however , more than half of the 25 apps have access to contacts , and about a third tap into text messages , call log and microphone			1
+the key to the permissions , experts say , is ads. the research by @entity5 shows the apps that can access user 's microphones , call logs and contacts			1
+@entity52 , @entity53 and @entity54 top the charts			0
+' these advertisers are trying to get more targeted information about you , so they can get more targeted ads , ' @entity76 founder and @entity78 professor of computer science @entity79 said			2
+' these apps access information about a user that can be highly sensitive , such as location , contact lists and call logs , yet it often is difficult for the average user to understand how that information is being used or who it might be shared with , ' ' most developers are n't evil , but they often do n't know what to do with respect to privacy and security , ' @entity79 added , explaining that some developers may simply collect data with their apps because they can , and nobody stops them			1
+the site assigns letter grades to more than one million free @entity2 apps , ranging from an @entity107 for the puzzle game @entity108 to a @entity110 for the @entity111 : @entity113 game			2
+@entity114 keeps track of hundreds of apps , and publishes its ratings for them			0
+it says that for @entity2 smartphones , you only have a few options			0
+if you 're feeling particularly sensitive about privacy , you can delete the app. @entity127 also names and shames @entity35 , @entity128 as popular apps with poor privacy alternatively , you can try to find a replacement app that has similar functionality ( e.g. there are many flashlight apps that do n't need an internet connection or location data )			1
+if you 're worried about location data , you can turn off location services			1
+also , generally speaking , for - pay apps are better about privacy than free apps			1
+the grades are assigned automatically using a privacy model that the researchers developed based on the preference ratings of 725 users			2
+the final grade is based in part on an automated analysis of how an app uses sensitive data — whether it is essential for the app operation or whether it is shared with advertisers and marketers			0
+part of the grade is based on survey information about how comfortable users are with information being used in those ways			0
+' our privacy model measures the gap between people 's expectations of an app 's behavior and the app 's actual behavior , ' said @entity79			0
+' most people expect apps such as @entity172 to be able to access their location , but most are surprised and troubled to learn that a game accesses their location			1
+' the second part of @entity179 's research , revealing apps such as @entity181 , and @entity182			0
+@entity114 keeps track of hundreds of apps			0
+' today 's smartphones have an incredible array of capabilities , ' it says			0
+' smartphones have access to our communications ( email , contacts list , and social networks ) , activities ( location , call logs , photos , accelerometers ) , and more			2
+' however , some apps access this sensitive data in ways that people do not expect			1
+' these are not just hypothetical risks either : several app developers have already been fined by the @entity208 for deceptive uses of people 's data			0
+' last year the @entity208 offered guidelines to developers , but they are often ignored			0
+in 2013 , @entity214 , the social networking site , was fined $ 800,000 for deceiving users by collecting phone numbers from its address book			0
+in september 2014 , review site @entity220 forked over $ 450,000 for collecting location data about its underage users			1
+the @entity208 says : ' the complexity of the ecosystem raises 21st century concerns : when people use their mobile devices , they are sharing information about their daily lives with a multitude of players			0
+' how many companies are privy to this information ? how often do they access such content and how do they use it or share it ? what do consumers understand about who is getting their information and how they are using it ? '			0
+
+data is used to *effectively* target ads to users by knowing their location
+games aimed at children had access to location and microphone
+@entity35 , @entity256 popular apps with poor privacy
+
+@entity111:Despicable Me
+@entity114:PrivacyGrade.org
+@entity113:Minion Rush
+@entity256:Despicable Me & Talking Tom
+@entity110:D
+@entity214:Path
+@entity2:Android
+@entity172:Google Maps
+@entity5:Vocativ
+@entity179:Vocatic
+@entity53:Viber
+@entity52:AntiVirus Security
+@entity79:Hong
+@entity78:Carnegie Mellon
+@entity54:Facebook
+@entity76:PrivacyGrade.org
+@entity31:Wi-Fi
+@entity35:Fruit Ninja
+@entity19:HappyElements
+@entity18:Happy Fish
+@entity208:FTC
+@entity128:Despicable Me & Talking Tom
+@entity107:A +
+@entity108:Lazors
+@entity127:PrivacyGrade
+@entity220:Yelp
+@entity181:Twitter
+@entity182:Chrome

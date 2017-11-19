@@ -1,0 +1,58 @@
+http://web.archive.org/web/20140513184634id_/http://www.dailymail.co.uk/sciencetech/article-2623542/Could-drones-save-nuclear-waste-Unmanned-aircraft-fly-toxic-materials-safe-locations.html
+
+by @entity0 could autonomous drones be used to transport hazardous materials to safety ? that ’s what engineers at @entity6 are aiming for with their newest project , which uses robotic drones to move objects			1
+and they say their system could be used to safely dispose of objects such as nuclear waste containers in the future			1
+the flying 3d - printer and collection system consists of two robots			1
+one robot is a quadcopter with four blades , which is used to dispense polyurethane foam through a nozzle			0
+through a system of 16 infrared cameras , the robot then ‘ prints ’ the foam onto the target , such as a nuclear waste - filled container			1
+next the second , a hexacopter with six blades , steps in			0
+on the bottom of this drone is a flat surface which the foam previously laid by the first robot adheres to when it lands on the target			1
+this drone then flies away with the object , taking it to a safe location			2
+this method allows a wide array of objects to be collected , no matter the shape			0
+the project is known as ‘ @entity57 with flying robots ' and has been in developed over the past 12 months , starting life as a tank - like robot before taking to the skies			1
+the group has developed flying drones that work in tandem to print sticky foam on an object and then carry it away			1
+one robot sprays a target with foam , and another lands on it and sticks to it			2
+it then takes off and transports the target to a safe distance			2
+this target could be a container with nuclear waste inside , that would be hazardous for humans to handle			1
+although the system requires some manual input for now , in the future the team hopes to allow the robots to perform the entire task of autonomously detecting , spraying and collecting an object themselves			2
+this is a first step towards a concept of a robotic ' nest ' say the engineers , where in principle a robot can construct a platform and use it to extend its range by landing to recharge , or collect and deliver objects			2
+‘ this is an exciting first step in the lab 's development of cooperative robotic systems for building structures inspired by the natural world , in this case bird nesting behaviour , ’ says @entity105 , ecologist at the @entity106 who works with the @entity107 ‘ the aim is that these systems will enable a wide range of robotic applications , in particular extending the operating scope of scientific survey robots in challenging environments such as rainforests through the adaptable construction of recharging platforms or monitoring stations			2
+’ the two drones , one a quadcopter ( four blades ) and the other a hexacopter ( six blades ) , work in tandem to move a target			2
+the first sprays it with foam ( pictured ) , and the second then sticks to it before flying away as the concept is developed , project lead dr @entity18 envisages a future where such robots roam freely in the wild			1
+‘ swarms of flying robots will inhabit natural and urban areas as living sensor nodes that will be able to interact with the environment and move in varied terrain effectively , ’ he says			1
+‘ they will build nests to recharge their batteries with solar cells and to observe the environment			0
+' like in nature , the robots will have specialised functions and division of labour			0
+' using swarm intelligence , the robots will be able to perform very complex tasks of autonomous inspection and aerial construction effectively			0
+' for example , inspection drones will create a 3d scan to detect damage in hazardous environments and a second swarm of construction drones will selectively repair the structure with aerial 3d printing			1
+' the robots can detect and repair structural damage of hard to reach areas such as wind turbine blades , in nuclear reactors and in oil pipelines			0
+' other applications include the protection of the environment and natural habitats , early detection of forest fires , monitoring of pollution levels and humanitarian aid in search and rescue scenarios			0
+' the next step will be to use swarms of @entity188 and 3d printing robots to repair damaged structures with very high efficiency			1
+' dr @entity18 envisages a future where ' swarms of flying robots will inhabit natural and urban areas as living sensor nodes that will be able to interact with the environment and move in varied terrain effectively ' and sees this project as an important step in that direction dr @entity18 also reveals how they took inspiration from wildlife , such as swiftlets , to develop the robots			1
+' biological inspiration is key to build truly innovative technical solutions , ' he explains			0
+' we take inspiration from nest - building swiftlets that use saliva to build structures			0
+' we analyse and implement the underlying design principles that allows them to build nest very effectively			0
+' we do n’t copy nature , we use the same principles and implement them using the best of robotic engineering			0
+' this is the first major output from the @entity222 , a relatively new research group at @entity6			0
+they say they have ' many new and exciting robotic developments ' currently in construction			0
+the lab will be displaying some of their work , including these flying robots , at the @entity230 at @entity6 's @entity232 campus , @entity233 this coming 9 and 10 may .			1
+
+a team of engineers have created what they call ' flying 3d printing robots '
+the project is led by dr @entity18 at @entity6
+two drones are used to transport hazardous waste autonomously
+the first drone ' prints ' a target with foam , and the second sticks to it
+it can then move objects like nuclear waste containers to safe locations
+dr @entity18 said this could be the first step to flying robots in the wild
+
+@entity188:3D scanning
+@entity232:South Kensington
+@entity230:Imperial Festival
+@entity0:Jonathan O'Callaghan
+@entity6:Imperial College London
+@entity233:London
+@entity19:Aerial Robotics Laboratory
+@entity18:Kovac
+@entity222:Aerial Robotics Lab
+@entity57:3D printing
+@entity105:Thomas Creedy
+@entity106:Natural History Museum
+@entity107:Aerial Robotics Lab.

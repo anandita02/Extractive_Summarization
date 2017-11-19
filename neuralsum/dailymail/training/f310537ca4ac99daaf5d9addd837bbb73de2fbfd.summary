@@ -1,0 +1,52 @@
+http://web.archive.org/web/20140814040425id_/http://www.dailymail.co.uk/sciencetech/article-2667073/Familiar-faces-soon-replace-passwords-Software-asks-identify-friends-celebrities-unlock-accounts.html
+
+by @entity0 and @entity1 if you ’re terrible with numbers but never forget a face , your life could be about to get quite a bit easier			0
+because scientists are planning to replace fiddly passwords and pins with an access code based on pictures			0
+the @entity13 system capitalises on the human brain ’s excellent ability to recognise faces , which its creators say makes it almost impossible to forget			1
+the @entity13 system asks users to identify familiar faces , including friends and celebrities , across a range of photos , known as a @entity25 ( pictured )			1
+by showing faces only the user recognises , the research team claim it 's harder for hackers to gain access to web accounts @entity33 asks people to identify familiar faces across a range of different photos			1
+previous research has found people recognise a face even if images are poor			1
+the system uses a set of faces known to a user , to create a personalised ‘ lock ’			1
+users can pick portraits of people familiar to them , which can include idols such as sports personalities , musicians or even poker players			1
+researchers then create a set of faces known to that user only , to make it difficult for hackers to break into accounts			1
+if we know someone well we will quickly recognise them in a photo even if it is blurred or hazy			0
+but when we are shown two pictures of a stranger , we often assume the images show two different people			2
+scientists from @entity69 and @entity71 universities asked volunteers to name z - list celebrities who they knew well , but most people would not			0
+the team then made up panels of nine pictures , each showing one celebrity face and eight strangers			0
+volunteers were shown four of the panels and asked to spot the faces they knew			0
+they got all four right almost 100 per cent of the time			0
+even a year later , they still did extremely well , journal @entity87 reports			0
+the researchers said this is because , unlike with passwords , they did not have to memorise anything			0
+do you remember : faces may soon replace passwords but will you remember who 's who ? this scatterplot shows the relationship between personal attackers ' acquaintance ratings , and the number of correctly guessed targets in their first attacks			0
+the area of each datapoint is sized to correspond to the number of cases contributing to it previous research found matching identical images ( a ) is trivial , matching different images of unfamiliar faces is hard ( b ) , but matching different images of familiar faces is easy ( c ) tests also showed it was very hard for strangers to crack the code			1
+spouses sometimes spotted all four faces , but the risk could be cut by using more obscure celebrities or more pictures			0
+lead author dr @entity124 said : ‘ pretending to know a face you do n’t know is like pretending to know a language you do n’t know – it just does n’t work			2
+‘ the only system that can reliably recognise faces is a human who is familiar with the faces concerned			1
+’ it is hoped software firms will use the research to create photo access codes for computers and mobile phones			1
+the ‘ lock ’ consists of a series of face grids , and each grid is constructed so that one face is familiar to the user , whilst all other faces are unfamiliar			1
+authentication is a matter of simply touching the familiar face in each grid			2
+but for fraudsters , looking at the same grid will be left confused as none of the faces stand out			0
+researchers said the system is better than current methods as users do n’t have to consign complex passwords or pins to memory , or put names to faces			1
+past psychological research has shown that familiarity with a face is virtually impossible to lose , and in the current study users authenticated easily even after a one - year gap			2
+in contrast , disused passwords can be forgotten within days			0
+plus , @entity33 is said to be hard to crack			2
+researchers asked volunteer attackers to watch a successful authentication sequence based on four target faces , so they could pick out the same four faces from similar test grids			2
+however , the attacks were thwarted simply by using different photos of the same faces in the test grids			2
+for the user , who is familiar with the target faces , it is easy to recognise the faces across a range of images			1
+for the attacker , who is unfamiliar with the target faces , generalising across images is difficult .			0
+
+@entity33 asks people to identify familiar faces across different photos
+previous research found people recognise a face even if images are poor
+system uses a set of faces known to a user to create a personalised ‘ lock ’
+users pick portraits of people familiar to them and can include idols such as sports personalities , musicians or even poker players
+researchers then create a set of faces , or @entity25 , known to that user only
+
+@entity1:Fiona Macrae
+@entity0:Victoria Woollaston
+@entity13:Facelock
+@entity25:Challenge Grid
+@entity69:Glasgow
+@entity33:Facelock
+@entity87:PeerJ
+@entity124:Rob Jenkins
+@entity71:York

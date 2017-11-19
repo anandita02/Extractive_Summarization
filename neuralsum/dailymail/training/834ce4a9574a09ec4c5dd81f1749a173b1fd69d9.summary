@@ -1,0 +1,59 @@
+http://web.archive.org/web/20150422042842id_/http://www.dailymail.co.uk/sciencetech/article-2719866/The-20-hackable-CARS-revealed-Report-lists-smart-vehicles-risk-having-systems-hijacked.html
+
+security experts have warned for months that smart cars are vulnerable to hackers , and now a pair of researchers has revealed the specific vehicles that are at the greatest risk			1
+@entity7 and @entity8 studied the schematics for a range of cars from the 2006 @entity12 to this year 's @entity13			1
+the 2014 @entity14 and 2015 @entity15 were the most vulnerable of the cars studied , while the 2006 @entity17 and 2010 @entity12 were listed as two of the most secure			1
+according to the report , the 2014 @entity14 ( pictured ) and 2015 @entity15 were the most vulnerable of the cars studied mr @entity8 is a security engineer at @entity30 , and mr @entity7 is director of @entity31 at @entity32			1
+other cars that performed poorly in their tests were the 2010 and 2014 @entity36 , as well as the 2014 @entity37			1
+the report has been shared with the @entity39 and industry group , the @entity41			2
+each car was rated under three categories – attack surface , network architecture and cyber physical			2
+a car ’s wireless ‘ attack surface ’ includes the range of features that can be hacked , including @entity49 , @entity50 , mobile network connections , key fobs , and tyre pressure monitoring systems			2
+the network architecture includes how much access these features give to a vehicle ’s critical systems , such as the horn , the steering and brakes			0
+cyber physical relates to capabilities such as automated braking and parking sensors that can be controlled using wireless commands			0
+‘ automotive security concerns have gone from the fringe to the mainstream with security researchers showing the susceptibility of the modern vehicle to local and remote attacks , ’ said mr @entity7 and mr @entity8			1
+the 2006 @entity17 ( pictured ) and the 2006 and 2010 @entity12 were listed as two of the most secure vehicles studied ‘ a malicious attacker leveraging a remote vulnerability could do anything from enabling a microphone for eavesdropping to turning the steering wheel to disabling the brakes			1
+‘ unfortunately , research has only been presented on three or four particular vehicles			2
+‘ each manufacturer designs their fleets differently ; therefore analysis of remote threats must avoid generalities			0
+‘ [ our research ] takes a step back and examines the automotive network of a large number of different manufacturers from a security perspective			0
+the results were published in a 92 - page report presented at the @entity100 conference in @entity101			1
+mr @entity8 and mr @entity7 were the same researchers who demonstrated hacking a @entity36 and a @entity103 last year			1
+each car was rated for attack surface , network architecture and cyber physical			2
+a car ’s ‘ attack surface ’ includes features that can be hacked			0
+network architecture includes how much access these features give to steering and brakes			0
+cyber physical covers automated functions			0
+the 2015 @entity15 is pictured using a laptop wirelessly connected to the car 's electronics , they were able to remotely control the brakes , the accelerator , change the speedometer , switch the headlights on and off , tighten the seatbelts and even blast the horn			1
+the project was funded by a grant from the @entity129 to highlight the security risks affecting modern - day cars			0
+@entity132 told @entity133 that the researchers did n’t physically hack the car , but said it is looking into the claims			0
+this was also true for @entity138			0
+@entity139 has contacted the other manufacturers mentioned for their view on the findings .			0
+
+experts @entity7 and @entity8 studied 20 car makes and models
+using schematics , they *assessed* the vehicles for signs of vulnerabilities
+results were published in a 92 - page report and presented at the @entity100 conference in @entity101
+2014 @entity14 and 2015 @entity15 were the most vulnerable
+meanwhile , the 2006 @entity17 and 2010 @entity12 were listed as two of the most secure
+
+@entity17:Ford Fusion
+@entity14:Jeep Cherokee
+@entity139:MailOnline
+@entity138:Chrysler
+@entity133:Wired
+@entity132:Infinity
+@entity7:Chris Valasek
+@entity8:Charlie Miller
+@entity50:Wi-Fi
+@entity31:Security Intelligence
+@entity30:Twitter
+@entity15:Cadillac Escalade
+@entity32:IOActive
+@entity13:BMW 3 Series
+@entity12:Range Rover Sport
+@entity37:Infiniti Q50
+@entity36:Toyota Prius
+@entity39:Department of Transportation
+@entity100:Black Hat
+@entity101:Las Vegas
+@entity103:Ford Escape
+@entity129:U.S Defense Advanced Research Projects Agency
+@entity41:Society of Automobile Engineers
+@entity49:Bluetooth

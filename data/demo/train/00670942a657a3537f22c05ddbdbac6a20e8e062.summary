@@ -1,0 +1,62 @@
+http://web.archive.org/web/20130718140850id_/http://www.cnn.com/2013/03/05/tech/threat-cloud-cyber-security
+
+@entity0 , @entity1 -- @entity3 is an @entity1 programmer and entrepreneur who is regarded as one of the fathers of modern internet security			1
+he got his first job writing software at the age of 12 , and by 1993 , at the age of 24 , he formed the internet security company @entity12 with two business partners and a borrowed computer in his associate 's grandmother 's apartment in @entity0			1
+@entity12 created the first firewall using " stateful inspection " -- the second - generation of firewall technology widely used today			1
+in the years since , hacking has become big business -- one of the fastest growing areas of crime , according to @entity28 , with an estimated global cost of $ 1 trillion a year			0
+read : materials that magically mend themselves as a result , his company @entity12 now has grown to boast nearly 3,000 staff and accounts for one third of the global security software market , with its security software used by every @entity40 company			1
+" in 1993 , most people did n't know what the @entity41 is all about , " says @entity3 , who sensed the @entity41 would be big but had no idea it would grow to become as central to modern life as it has			1
+" i never imagined the @entity41 to have such a huge effect on the world or for @entity12 to be a company that sells for nearly a billion - and - a - half dollars today , " he said			1
+but as vital as the @entity41 -- and by extension , cyber security -- has become to our lives , few of us really have a handle on how it works			1
+here , @entity3 explains of some of the basic concepts			1
+what 's a firewall ? a firewall is a piece of software or hardware that protects the security of a computer network -- be it a home or business network -- by controlling incoming and outgoing traffic between the network and the rest of the @entity41			1
+some form of security is necessary to protect computer networks from hackers			1
+" basically , a simple system connected to the @entity41 , every hacker can break in in a few seconds			0
+you put some layers of security ; the efforts required to break in are becoming bigger			2
+" a firewall works by analyzing incoming data packets and determining whether they should be allowed through			0
+read : smartphone knows if you 're happy or sad " it can just sit in the entrance to the organization like a door and you block whoever goes in or goes out , " says @entity3			1
+" it knows how to analyze the traffic and basically classify each type of connection			0
+" today , firewalls are becoming increasingly complicated , says @entity3			1
+" there are multiple layers and you need to provide ... many different types of protection , many different types of the system , " he says			2
+" today , the firewall does probably ten more things : it knows how to encrypt your traffic when you communicate with mobile devices , it knows how to scan the data for potential leakage ... it knows how to look for very sophisticated attacks ; it knows how to look for bots			2
+" what are bots ? also known as web robots , bots are software applications that run automated tasks over the @entity41 , and are often used for malicious purposes			2
+" bots are small software agents that sit on our personal computers			2
+they hide there , they communicate with their operator which tells them what bad things to do , " says @entity3			1
+bots can often be disguised in legitimate - looking content to infect vulnerable computer networks			2
+read : will dandelion tires gain traction ? " ( the firewall ) knows how to find these kinds of communications that disguise themselves in sort of legal communications			0
+" computers infected with malicious bots can be by directed by the third party controlling them -- known as a " bot herder " -- to perform tasks en masse , such as a distributed denial of service , or @entity147 attack			0
+in a @entity147 attack , massive networks of infected " zombie " computers are directed to target a system with traffic , overloading and effectively crashing the targeted network			0
+how has the threat environment changed ? " twenty years ago , the typical hacker was like a student trying to show his technical skills with no bad intentions , " says @entity3			1
+" today it 's governments , sophisticated organizations			0
+" he said that " every business today is facing hundreds , if not thousands of attacks everyday			2
+and these attacks can go from small things that slow you down to bad things that will stop your business right away immediately			0
+" that motivation can be political , it can be financial -- stealing data or things like that			0
+" the extortion could take the form of a threat to take down a network if a sum was not paid , or a more subtle approach			0
+" we 've seen several cases where somebody calls an organization and says ' i 'm a security researcher , i 've found that your company is being targeted			1
+i 'll let you know how to block it if you pay me my consulting fees			0
+' it can start from small amounts , $ 5000 , $ 15000			0
+" but while large companies and governments were obvious and attractive targets , home computer users were just as vulnerable , as general attacks were aimed at security vulnerabilities , rather than specific targets			1
+" the general break - ins are not happening by targeted attacks , by somebody trying to attack you or your organization			0
+the general attacks ( come through ) tools that scan the @entity41 and find the place to break in -- and wherever they can break in , they 'll break into			0
+are there any new approaches to the problem ? @entity3 's company has a new product called @entity219 , which it bills as the first collaborative approach to fighting cybercrime			1
+" one of the things we realized about two years ago is that today every company , every person in the world fights cyber threats individually			2
+we all install systems , we 're all being attacked , in many cases , by the same people , thousands of times a day			0
+" so what we came up with was that idea of a threat cloud			0
+and @entity219 is like a collaboration network -- whenever a customer network sees an attack or sees something suspicious , it reports to the @entity219 service ( which ) analyzes threats from multiple sources			2
+" if it finds out that it 's actually an attack , it can automatically update the rest of the world and let everybody enjoy that intelligence , that know - how that some attack has been happening and everybody should block that source			0
+
+@entity3 is the *ceo* of @entity12 , a leading name in computer security software
+he says @entity12 provide security software used by every @entity40 company
+company launching a new collaborative approach to cyber security called " @entity219 "
+" @entity219 " will share information on attempted cyber attacks between users
+
+@entity3:Gil Shwed
+@entity2:CNN
+@entity1:Israeli
+@entity0:Tel Aviv
+@entity12:Check Point
+@entity28:Interpol
+@entity219:ThreatCloud
+@entity147:DDoS
+@entity40:Fortune 100
+@entity41:Internet

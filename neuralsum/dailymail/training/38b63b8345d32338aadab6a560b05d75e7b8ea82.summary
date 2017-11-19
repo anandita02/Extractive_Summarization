@@ -1,0 +1,40 @@
+http://web.archive.org/web/20140310022355id_/http://www.dailymail.co.uk/sciencetech/article-2574667/Amazing-software-creates-art-using-17-MILLION-colours-make-single-pixel-different-hue-PC-screen.html
+
+by @entity0 published : 08:23 est , 6 march 2014 updated : 08:48 est , 6 march 2014 these artworks are so beautiful you may be forgiven for thinking they ’ve been meticulously painted by hand			0
+in fact they are the result of a computer algorithm and contain up to almost 17 million different colours , with each pixel being a different colour to the one next to it			2
+called ‘ rainbow smoke ’ , the designs and software were created by @entity18 programmer @entity17 as part of an online competition			1
+an online contest , set up by @entity22 and @entity23 recently challenged coders to create images where every pixel was a different colour			1
+it was won by @entity18 @entity17 for his algorithm that created ' rainbow smoke ' designs , pictured the contest was set up by @entity22 and @entity23			1
+it challenged coders to create images where each pixel was a unique colour , with no colours being repeated and no colours missing			1
+the images had to be created using just algorithms , cover at least 256 x 128 pixels and use all the 15 - bit rgb system - a total of 32,768 individual hues			0
+however , coders could make larger pictures if they wanted to			0
+a pixel in the @entity48 system is made up of three bytes for red , green and blue			2
+this is where the name ' @entity48 ' comes from			0
+each colour then has different intensity levels of green , blue and red light			0
+@entity17 ' images began using the 15 - bit @entity48 colours , but his algorithm was also capable of creating up to 24 - bit @entity48 images , which contain a total of 16,777,216 colours			1
+each image , or range of images , were then put to a public vote , which @entity17 , also known as @entity67 , won with 144 votes			2
+the images had to be created using just algorithms , cover at least 256 x 128 pixels and use all the colours in @entity48 24 - bit images - up to 16,777,216 colours			1
+each colour in a pixel is made up of different intensity levels of green , blue and red light , for example @entity17 ' final full - size pieces cover 4096 x 4096 pixels			1
+the images pictured are compressed so do n't display all the colours			0
+the view also varies depending on the number of pixels a screen can handle - for example , it will look different on a phone to a laptop to a high - definition tv @entity17 ’ program works by plotting a single colour before placing a similar colour next to it , based on intensity levels of light in each colour			2
+in some of his images , the program picked a colour at random , in others the program plotted all the variations of reds , oranges , yellows , and so on , in sequence			0
+‘ at first i did n't really know if it was going to end up looking beautiful or not , it was just an interesting programming challenge for me , ’ @entity17 told @entity106			2
+‘ i was very surprised at how beautiful it turned out to be			0
+’ @entity17 ' winning program plots single colours before placing similar colours next to them , based on intensity levels of light in each colour			1
+in some of his images , the program picked a colour at random , in others the program plotted all the variations of reds , oranges , yellows , and so on in sequence although the contest said entrants had to cover at least 256 x 128 pixels , @entity17 ' final full - size pieces cover 4096 x 4096			1
+these images are compressed versions so do n’t display all the colours			0
+the view also varies depending on the number of pixels the screen can handle - for example , it will look slightly different on a phone to a laptop to a high - definition tv .			0
+
+online contest challenged coders to create computer - generated images where every pixel was a different colour
+they could use all the colours from the @entity48 ( red , green and blue ) system up to 24 - bits , a total of 16,777,216 colours
+@entity18 programmer @entity17 won with his range of images called ‘ rainbow smoke ’
+@entity17 ' algorithm plots colours based on how similar they are to each other , and can plot variations of red , yellow , orange and so on in sequence
+
+@entity17:Fejes
+@entity22:Programming Puzzles
+@entity0:Victoria Woollaston
+@entity23:Code Golf Stack Exchange
+@entity18:Hungarian
+@entity106:New Scientist
+@entity67:fejescoco
+@entity48:RGB

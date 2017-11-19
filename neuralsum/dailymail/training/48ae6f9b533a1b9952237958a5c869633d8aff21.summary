@@ -1,0 +1,37 @@
+http://web.archive.org/web/20130828054350id_/http://www.dailymail.co.uk/sciencetech/article-2399934/What-email-says-Website-uses-data-create-constellation-friends--shows-whos-centre-universe.html
+
+by @entity0 published : 09:53 est , 22 august 2013 updated : 11:37 est , 22 august 2013 with just a small amount of basic information taken from a person 's email account , researchers in the @entity2 are able to create a ' constellation ' of your friends and family that maps your closest relationships and how they all intertwine			1
+the project , called @entity14 , has been designed as a way of visualising the data held in a person 's @entity18 account and even shows you which of your friends are at the centre of your electronic universe based on how often you contact them			1
+each contact is represented as a node that changes size depending on how many emails have been sent to and from them , and node colours are determined by what group the contact has been put into , such as friends , family or colleagues			1
+researchers at @entity38 have created a project called @entity14 that takes basic metadata from emails including the names of people messages have been sent to and from , into an interactive display that also shows how contacts are connected			1
+the size of the nodes are determined by the amount of correspondence clicking a contact creates a graph , pictured , that shows exactly how many messages have been exchanged with the account owner any contacts that know each other are then connected by lines and this is detemined by whether they have ever been included on the same email thread , for example			1
+clicking a contact creates a graph that shows exactly how many messages have been exchanged between the account owner and that person			2
+it also highlights when the first email to that person was sent , as well as the most recent			0
+once a user logs in and grants @entity14 access to their email account , the project gathers the metadata from the from , to , @entity77 and @entity78 fields of any emails in that account - even emails that have been deleted			1
+it does not access the subject or the body content of the emails			0
+@entity14 uses a technology called @entity87 to authorise users through a @entity90 website			0
+according to the site , the email address and passwords used to log in to @entity14 are not shared and are only seen by @entity90			0
+@entity14 will only scan a total of 300,000 emails per user and a contact only appears if a minimum of three emails have been sent to or from that person			1
+by default , the display shows the top one hundred contacts but users can increase or decrease this number			2
+another slider lets users change the timeframe included in the display , from the past week , the past year or of all time this means it can filter out newsletters , social network notifications , spam and junk , for example			0
+by default , the display shows the top one hundred contacts , although sliders on the left let users increase or decrease this number			2
+a slider along the bottom of the screen additionally lets users change the timeframe from the past week , the past year or from all time			0
+if a person has multiple email addresses , @entity14 will also attempt to link them together and clicking on a contact shows all associated addresses			2
+' when you see it all together , it is , in a way , an out - of - body experience , ' the creators told the @entity141			0
+' you 're seeing all of your network and you 're seeing yourself out of it and you 're seeing it from afar and you 're seeing it in one picture			0
+
+*immersion* uses basic contact and email history from @entity18 accounts
+each contact is shown as a node on an interactive display
+node 's size determines the number of emails sent to and from a contact
+lines then show how each contact is connected to others
+
+@entity2:U.S
+@entity0:Victoria Woollaston
+@entity141:Boston Globe
+@entity38:MIT
+@entity18:Gmail
+@entity14:Immersion
+@entity78:Timestamp
+@entity87:OAuth
+@entity77:Cc
+@entity90:Google

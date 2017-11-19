@@ -1,0 +1,53 @@
+http://web.archive.org/web/20150405212836id_/http://www.cnn.com/2014/12/29/tech/innovation/nasa-jpl-robot-darpa/
+
+when we imagine the robots of the future , they often look and move like humans , standing up on two legs and using a pair of arms to grab and move objects			0
+@entity10 's @entity9 is working on a different kind of robot for disaster response that 's designed to move like an ape			1
+headless but covered with seven cameras that act as " eyes , " the @entity15 has four identical limbs that do double duty as arms and legs			1
+together , they ably move the robot across rough terrain and rubble but can also pick up and manipulate objects			2
+it has wheels it can coast on if the surface is smooth enough			0
+the @entity32 is @entity9 's final entry into the @entity34 , a 27 - month - long competition among some of the world 's top robotic talent to create an emergency response robot			1
+in situations such as a nuclear disaster , one of these robots could go into environments too dangerous for human rescue workers and execute simple tasks such as lifting debris off survivors or turning off a valve			0
+in june , @entity32 and up to 18 other finalists will have to make their way through an obstacle course that simulates eight common scenarios			1
+each robot will attempt to drive a car , move across rubble , use a tool and climb stairs , all without a human controlling it			0
+@entity34 says the final competitors should be as competent as a 2 - year - old child			1
+the winning team will receive a $ 2 million prize			0
+@entity9 used leftover parts from @entity32 to create another robot called @entity67			1
+the more traditional upright robot has a flexible spine , head and two arms			2
+while better at manipulating objects , @entity67 ran on tracks and was n't as adept at traversing the complicated terrain that is common in a disaster			0
+after considering both candidates , the team decided to take @entity32 to the finals			1
+one trade - off is that @entity80 is slower than many other competitors			0
+@entity9 's team is working with the @entity83 , @entity84 , and @entity85 to increase the robot 's walking speed			1
+" it is intentionally the tortoise relative to the other hares in the competition			0
+we feel that a very stable and deliberate approach suites our technical strengths and provides a model for one vital element of the ' ecosystem ' of robots that we expect to be deployed to disaster scenarios in the future , " said @entity9 's @entity92 , who is supervisor of the @entity93			1
+the @entity9 is most known for designing robotics for space exploration , such as the @entity106 rovers			2
+but the @entity34 competition was an opportunity for the @entity9 group to take its existing robotics research and compare approaches directly to other talented teams			1
+@entity10 also has a long history of taking technology developed for space exploration and using it here on @entity116			2
+@entity32 software was influenced by programs used to control the @entity106 rovers			2
+in both cases , the system is designed to let the robots work as autonomously as possible when communication with a human operator is dropped			0
+spotty communications are common in disaster scenarios ( and on @entity106 )			0
+the team has thought hard about all aspects of @entity32 's design , even making sure it has the right look			1
+" we included industrial designers in the team in an effort to create a robot that looked professional rather than either threatening or overly cute , " said @entity92			0
+" basically , we wanted the perceptual equivalent of a @entity135			0
+" while @entity9 is focused on perfecting the ape - like design for @entity116 - bound applications for now , this is just one stop in the circular life of @entity10 technology			1
+" we intend to spin the technologies developed for the terrestrial @entity32 back out to applications in space , " said @entity92			2
+" these tasks include assembly and maintenance of orbital structures ; exploration of low - gravity bodies like asteroids , comets , and moons ; exploration of caves and cliffs on @entity106 or our moon ; and even preconstruction of habitats wherever humans care to venture in the solar system			0
+
+@entity10 's @entity9 has designed the ape - like robot @entity32
+the disaster - response robot is competing in the @entity34 finals
+@entity32 has four limbs , no head and *multiple* cameras
+
+@entity15:RobotSimian
+@entity32:RoboSimian
+@entity34:DARPA Robotics Challenge
+@entity10:NASA
+@entity9:Jet Propulsion Laboratory
+@entity80:RoboSiman
+@entity116:Earth
+@entity83:University of California
+@entity84:Santa Barbara
+@entity85:Caltech
+@entity106:Mars
+@entity135:St. Bernard
+@entity67:Surrogate
+@entity93:Robotic Vehicles and Manipulators Group
+@entity92:Kennedy

@@ -1,0 +1,97 @@
+http://web.archive.org/web/20100824000031id_/http://www.cnn.com:80/2010/TECH/innovation/07/16/computer.voice/?
+
+-- in this tech - saturated world , few things are more annoying than car navigation systems that yell at you for making a wrong turn			1
+" @entity9 , " the system says in that condescending robot voice , as if it is offended by having to rethink the route			0
+" @entity10 left at ... [ sigh ] ... recalculating ... " such interactions lead people to think gps devices are nagging them , said @entity15 , chief technology officer of @entity16 , a gps maker			0
+" the main interaction you have with the device is a series of commands , so that starts the tone of the relationship right from the start , " he said			0
+" it 's ' do this , do that , turn right			0
+' " and it does n't help if the computer sounds snippy , he said			1
+despite advances in " text to speech " technology , current computer voices can still be socially tone deaf			1
+e-readers read to us aloud , but they do n't know what they 're reading , so @entity39 can sound just like a monotone reading of a spreadsheet			1
+none of them can get intonations , pauses or emotional context quite right			0
+@entity47 , a tech columnist at @entity48 , compared the @entity50 's reading voice , for example , to " @entity51 laid up with a tuberculin cough " and " a dyslexic robot who spent his formative years in @entity55			1
+" so what gives ? with more than a decade of voice research under our belts , why ca n't computers speak our language -- or at least sound a bit more human ? well , they 're trying , tech researchers say , but these machines face a striking number of technological hurdles in their efforts to sound un-robotic			1
+complex speech patterns the most obvious reason the computers have trouble is that human speech is almost infinitely complex			1
+there are about 40 phonemes -- or basic sounds -- in the @entity79 language , but there are seemingly limitless combinations			0
+to try to get computers on the right track , voice technologists record human actors reading all kinds of wacky sentences , which are designed to elicit as many phoneme combinations as possible			1
+computers store all these sentences in a database , chop them into sounds , and then remix them to make any possible combination of words			1
+the result is intelligible , but it 's not quite human			1
+a super-high - quality computer voice might require 40 hours of voice recordings in order to sound nearly human , said @entity98 , a computer speech researcher at @entity99			1
+that 's just for one voice , one accent			0
+computing power @entity98 said computers that have lots of voice data to pull from can sound , at times , nearly human			1
+but the issue is that not every computer has an entire server farm waiting to process every sentence it would like to say			2
+mobile phones and gps devices , in particular , just do n't have enough computing power or storage space to thumb through mountains of voice files in order to sound as realistic as possible with current technology			1
+the result : corners are cut in the name of workability , and some of the nuances of the spoken language are lost , said @entity15 of @entity16			0
+this will improve as computers continue to get faster and able to store more data , he said			2
+parts of computer voices are also generated entirely from equations and models , not actor - read sounds			1
+those bits act as filler , and cut down on database sizes , too			0
+speak thy heart another major problem for talking computers is that it 's somewhat difficult for them to replicate the sound of human emotion and inflection			1
+this , however , is a major topic of speech research , and the technology appears to have made some strides			1
+people who record the sentences that are the grist for computer speech sometimes are asked to read in different emotional states			2
+computers can pull from these sounds if they want to flip the pitch of a computer voice up at the end of a sentence , for example , in order to ask a question			1
+or they pull from higher frequencies to sound happy or excited			2
+@entity168 has posted a demo of this on its website in order to show the differences between emotive and robotic computer voices			1
+take this example sentence : " these cookies are delicious			0
+" listen to that sentence as read by a computer with no emotion			1
+here it is again , spoken by a computer using a system called @entity183 , which tries to take emotional cues into account			2
+notice that the voice perks up at the end , as if the computer is saying the cookies are " de-lish - ious			2
+" it makes some difference			0
+emotional context but copying the sounds of human emotion is only half the battle			1
+to really make computers sound more human , the machines have to understand what they 're reading -- at least to some degree -- so that they know when to inflect			1
+this part of computer science is much more challenging , said @entity98			2
+consider another sample sentence : " i say tomato , and you say tomato			0
+" most people would have heard that line before , and would automatically pronounce " tomato " as " to - mah - toe " the second time , said @entity98 , of @entity99			1
+" how would the computer know that those two words are supposed to be pronounced differently ? " @entity98 said			2
+" it 's only real - world knowledge that can tell the computer that those two words are supposed to be pronounced differently			2
+" the same applies to emotions and inflections			0
+it 's difficult for a computer to know how to read a passage of text , and what emotions should apply			2
+" if you read a passage to somebody , you 're obviously going to read it a way that does justice to the content , " said @entity222 , chief technology officer of @entity223 , a company that develops speech technologies			0
+" if you 're reading a technical report , you 're probably not going to read it in a way that 's much different from a computer , but if you 're reading a poem , it 's a different kettle of fish , " he said			2
+" you 're really trying to communicate a lot of emotional meaning through the pauses you introduce and through the pacing and such			0
+that really requires a pretty deep understanding " of language			0
+' you want to punch them ' as it turns out , the best computer voices may be those that sound exactly like the person who 's listening			1
+if a computer voice matches your mood , your speech patterns , your accent and your tonal range , you 're less likely to be annoyed by it , researchers said			2
+how well a computer voice matches the listener 's mood is not just a matter of preference -- it 's a matter of safety , said @entity265 , a @entity266 professor who studies computer voices			1
+in a 2005 study , @entity265 found that these emotional mismatches may actually be dangerous in driving situations			0
+sad drivers who get instructions from happy computer voices -- and happy drivers who listen to sad voices -- are more likely to have accidents , he said			1
+the emotionally confused drivers are also less likely to be able to pay attention to the road			0
+so , if you 're having a groggy sort of morning , instructions from a gps device that sounds like a caffeinated cheerleader might just push you over the edge			0
+" if you think about it , when you 're happy , you want to be around happy people			0
+but if you 're sad , do you really want to hang around chirpy , happy people saying , ' let 's turn that frown upside down ? ' " he said			0
+" no. you want to punch them			0
+" @entity222 , from @entity223 , said his company has developed a prototype computer voice system that listens to a person speak and then tries to mimic it			2
+@entity15 , from @entity16 , said his company has n't looked into matching drivers ' emotions to the voices of their navigation systems yet			1
+but one interim solution , he said , gives drivers many options when it comes to the voices of their computerized companions			0
+@entity16 offers a range of downloadable voices -- from the fictional @entity309 and @entity310 to celebrities like the rapper @entity312			0
+users can also read a set of test sentences and have their own voices transferred into the @entity317 -- so that they 're , in effect , bossing themselves around			0
+perhaps it 's a little less tempting to yell at the computer if the computer sounds exactly like you do -- or as close as technology allows .			0
+
+computers still do n't sound human , even after years of research
+but technologists are making some strides
+@entity99 is trying to make computer voices convey emotion
+professor says we *attribute* human *characteristics* to computer voices
+
+@entity183:Naxpres
+@entity310:Homer Simpson
+@entity0:CNN
+@entity317:GPS
+@entity9:Re-CALC-ulating
+@entity51:Gilbert Gottfried
+@entity50:Amazon Kindle
+@entity79:English
+@entity55:Eastern Europe
+@entity16:TomTom
+@entity15:Gretton
+@entity10:Turn
+@entity39:Shakespeare
+@entity312:Snoop Dogg
+@entity99:IBM
+@entity98:Aaron
+@entity265:Nass
+@entity266:Stanford
+@entity223:Nuance
+@entity222:Sejnoha
+@entity168:IBM Research
+@entity309:Darth Vader
+@entity47:Farhad Manjoo
+@entity48:Slate

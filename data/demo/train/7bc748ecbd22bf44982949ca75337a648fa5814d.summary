@@ -1,0 +1,39 @@
+http://web.archive.org/web/20130828050444id_/http://www.cnn.com/2013/08/14/opinion/schneier-hacking-baby-monitor
+
+-- last weekend a @entity2 couple apparently discovered that the electronic " baby monitor " in their children 's bedroom had been hacked			1
+according to a local tv station , the couple said they heard an unfamiliar voice coming from the room , went to investigate and found that someone had taken control of the camera monitor remotely and was shouting profanity - laden abuse			1
+the child 's father unplugged the monitor			1
+what does this mean for the rest of us ? how secure are consumer electronic systems , now that they 're all attached to the @entity23 ? the answer is not very , and it 's been this bad for many years			1
+security vulnerabilities have been found in all types of webcams , cameras of all sorts , implanted medical devices , cars , and even smart toilets -- not to mention yachts , atm machines , industrial control systems and military drones			1
+all of these things have long been hackable			1
+those of us who work in security are often amazed that most people do n't know about it			2
+why are they hackable ? because security is very hard to get right			2
+it takes expertise , and it takes time			0
+most companies do n't care because most customers buying security systems and smart appliances do n't know enough to care			1
+why should a baby monitor manufacturer spend all sorts of money making sure its security is good when the average customer wo n't even notice ? five scary hacks even worse , that consumer will look at two competing baby monitors -- a more expensive one with better security , and a cheaper one with minimal security -- and buy the cheaper			1
+without the expertise to make an informed buying decision , cheaper wins			0
+a lot of hacks happen because the users do n't configure or install their devices properly , but that 's really the fault of the manufacturer			2
+these are supposed to be consumer devices , not specialized equipment for security experts only			0
+this sort of thing is true in other aspects of society , and we have a variety of mechanisms to deal with it			0
+government regulation is one of them			0
+for example , few of us can differentiate real pharmaceuticals from snake oil , so the @entity89 regulates what can be sold and what sorts of claims vendors can make			0
+independent product testing is another			0
+you and i might not be able to tell a well - made car from a poorly - made one at a glance , but we can both read the reports from a variety of testing agencies			0
+' smart homes ' are vulnerable , say hackers computer security has resisted these mechanisms , both because the industry changes so quickly and because this sort of testing is hard and expensive			2
+but the effect is that we 're all being sold a lot of insecure consumer products with embedded computers			0
+and as these computers get connected to the @entity23 , the problems will get worse			0
+the moral here is n't that your baby monitor could be hacked			1
+the moral is that pretty much every " smart " everything can be hacked , and because consumers do n't care , the market wo n't fix the problem			1
+the opinions expressed in this commentary are solely those of @entity126 .			2
+
+@entity126 : @entity2 couple 's baby monitor hacked . @entity130 was looking into child 's room
+he says , *surprise* , many smart electronics attached to *internet* have long been insecure
+he says everything from smart toilets to drones hackable . consumers do n't demand better
+@entity126 : consumers *settle* for cheapest item with poor security , so market wo n't fix problem
+
+@entity2:Texas
+@entity0:CNN
+@entity23:Internet
+@entity126:Schneier
+@entity89:FDA
+@entity130:Stranger

@@ -1,0 +1,17 @@
+http://web.archive.org/web/20110724224106id_/http://www.cnn.com/2011/WORLD/americas/07/23/venezuela.chavez/index.html
+
+-- @entity4 president @entity5 has arrived in his home country from @entity7 , where he underwent cancer treatment , the @entity4 state - run broadcaster @entity1 reported saturday			1
+he returned after roughly a week in @entity7 , where he received chemotherapy treatment			1
+@entity5 underwent surgery to remove a cancerous tumor last month			2
+he has not said what type of cancer he has			0
+@entity1 published an image of the president arriving saturday night .			0
+
+the @entity4 president returns after about a week in @entity7
+he underwent chemotherapy treatment for cancer
+@entity5 has not said what type of cancer he has
+
+@entity1:VTV
+@entity0:CNN
+@entity7:Cuba
+@entity5:Chavez
+@entity4:Venezuelan

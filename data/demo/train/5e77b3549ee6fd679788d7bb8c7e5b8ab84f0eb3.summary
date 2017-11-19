@@ -1,0 +1,34 @@
+http://web.archive.org/web/20140907080448id_/http://edition.cnn.com/2012/03/09/tech/web/spyware-russian-opposition/index.html
+
+-- a computer virus campaign is targeting opponents of @entity4 president - elect @entity3 , according to anti-virus software maker @entity5			1
+" a wave of spam e-mails promoting a rally " against the newly elected president is delivering the spyware as an attachment that appears to be a @entity10 document			1
+in reality , the file is a software program known as " @entity18			0
+" the spam e-mails began circulating sometime around march 5 , according to an entry wednesday on @entity5 's official blog			1
+the subject lines in the e-mails call demonstrators to action with phrases like : " all to demonstration , " " instructions what to do , " or " meeting for the equal elections			0
+" the body of the e-mail pushes the recipient to open an attachment , purporting that it contains need - to - know information			0
+when the user opens the file , a document does actually open revealing an announcement for a supposed @entity42 rally with a map indicating its apparent location			2
+but at the same time , the file drops a trojan horse virus onto the unwitting user 's computer			1
+once on the computer , the virus overwrites many of the user 's files then deletes them thoroughly			1
+" the @entity54 also attempts to connect to ip address 193.104.153.31 ( down at the time of analysis ) , " @entity5 says			2
+this server address is located in @entity59 , but it is associated with another " notorious " virus that once operated off of a web address with a @entity4 domain name			0
+at the end of its virulent rampage , the malware crashes the victim 's computer , causing it to blue - screen			0
+@entity5 characterizes the spam attack as " unusual -- mainly because of its size			1
+" these messages average 500 @entity72 in size -- 50 times the usual size of junk e-mails			0
+" most spam messages do not exceed 10 @entity72 , " the it security company points out			0
+antivirus software has been adjusted to recognize the malware , but @entity5 warns on its blog : " as always , be aware of any unsolicited e-mails containing attachments , which might take advantage of current events like the recent election result in @entity4			2
+
+spam e-mails promoting a rally against president - elect @entity3 contain spyware
+e-mails began circulating around march 5 , @entity5 says
+@entity94 overwrites many of the user 's files then deletes them thoroughly
+
+@entity3:Putin
+@entity0:CNN
+@entity5:Symantec
+@entity4:Russia
+@entity10:Word
+@entity18:Trojan.Dropper
+@entity42:anti-Putin
+@entity54:Trojan
+@entity59:Switzerland
+@entity94:Virus
+@entity72:KB

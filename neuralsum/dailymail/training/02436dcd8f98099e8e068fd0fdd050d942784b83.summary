@@ -1,0 +1,38 @@
+http://web.archive.org/web/20150128162455id_/http://www.dailymail.co.uk/sciencetech/article-2387111/nEmesis-software-listens-tweets-reveal-restaurants-make-ill.html
+
+technology that eavesdrops on tweets could warn you of how likely it is to become ill by visiting a restaurant			0
+the system , dubbed ‘ @entity6 ’ , combines machine - learning and crowdsourcing techniques to analyse millions of tweets posted by people after visiting restaurants			2
+it then ranks restaurants according to how likely it is for someone to get food poisoning after eating there			1
+@entity6 combines machine - learning and crowdsourcing techniques to analyse millions of tweets posted by people after visiting restaurants			0
+it then ranks restaurants according to how likely it is for someone to get food poisoning after eating there in just four months , the system collected 3.8 million tweets from more than 94,000 unique users in @entity27 , traced 23,000 restaurant visitors , and found 480 reports of likely food poisoning			1
+according to scientists at the @entity33 in @entity27 , the technology could also be used by authorities to better monitor food safety , by providing more timely restaurant inspections			2
+‘ the @entity40 reports are not an exact indicator – any individual case could well be due to factors unrelated to the restaurant meal – but in aggregate the numbers are revealing , ’ said @entity37 , chair of the computer science department			2
+if a user tweets from a location that is determined to be a restaurant , the system will continue to track this person 's tweets for 72 hours , even when they 're not geotagged , or when they are using a different device the @entity55 has estimated that each year in the @entity56 : around a million people suffer a foodborne illness around 20,000 people receive hospital treatment due to food poisoning there are around 500 deaths because of it it costs nearly £ 1.5 billion the @entity55 claims that each one per cent reduction in case numbers would mean around 10,000 fewer cases and would save the economy around £ 15 million each year			1
+a seemingly random collection of online rants becomes an actionable alert , according to @entity37 , which can rapidly help detect cases of food - borne illness			0
+@entity6 ' listens ' to relevant public tweets and detects restaurant visits by matching up where a person tweets from and the known locations of restaurants			2
+people will often tweet from their phones or other mobile devices , which are @entity86 enabled , which means the system knows a person 's exact location			0
+if a user tweets from a location that is determined to be a restaurant , the system will continue to track this person 's tweets for 72 hours , even when they 're not geotagged , or when they are tweeted from a different device			1
+in just four months , the system collected 3.8 million tweets from more than 94,000 unique users in @entity27 , traced 23,000 restaurant visitors , and found 480 reports of likely food poisoning if a user then tweets about feeling ill , the system captures the information along with the specific restaurant visited			1
+according to the researchers , around one third of the inspection scores could be reliably predicted from the @entity40 data			1
+the remainder of the scores show some disagreement			0
+‘ this disagreement is interesting as the public inspection data is not perfect either , ‘ argued co-author @entity115 , formerly a colleague of @entity37 at @entity33 and who is now at @entity117			0
+‘ the adaptive inspections could reveal the real risk , which is currently hidden for both methods			0
+’ the @entity55 ( @entity55 ) estimates that in the @entity56 there are over a million cases of food poisoning each year , 20,000 hospitalisations and 500 deaths			1
+foods that are most frequently associated with foodborne illness include meat , fish andpoultry			0
+the @entity55 claims that each one per cent reduction in case numbers would mean around 10,000 fewer cases and would save the economy around £ 15 million per year			0
+overall food poisoning costs the @entity56 economy £ 1.5 billion each year .			1
+
+@entity6 analyses posts 72 hours after someone has visited a restaurant
+it then scores places by how likely it is for someone to get food poisoning
+the @entity40 data matched one third of *results* from *official* inspections
+
+@entity33:Rochester
+@entity27:New York City
+@entity6:nEmesis
+@entity37:Kautz
+@entity117:Google
+@entity115:Adam Sadilek
+@entity40:Twitter
+@entity56:UK
+@entity86:GPS
+@entity55:FSA

@@ -1,0 +1,72 @@
+http://web.archive.org/web/20150713011406id_/http://www.dailymail.co.uk/sciencetech/article-2903261/Beware-coffee-shop-hacker-New-breed-cyber-criminal-spies-laptop-listening-signals-s-OFFLINE.html
+
+when your computer performs a spell check , opens a program or even just types a letter , it emits a tiny , imperceptible signal			0
+at least , it was thought to be imperceptible - but researchers say a new breed of hackers could ' listen ' to these signals and find out what your computer is doing			1
+and now they are trying to devise methods to keep your computer safe from hackers employing this discreet technique			1
+they say hackers can ' listen in ' to signals emitted by laptops and phones ( stock image shown )			1
+this means , even when offline , they could find out what you are doing			1
+it is very hard to track because the spying is ' silent ' the researchers at the @entity17 are investigating where these information ' leaks ' originate so they can help hardware and software designers develop strategies to plug them			1
+studying emissions from multiple computers , they have found a way to measure the strength of the leaks - known technically as ' side - channel signals ' - and prioritise security efforts			1
+worryingly , the signals do n't even require your computer to be online - simply being active is enough for a hacker to listen in to what you are up to			1
+' people are focused on security for the internet and on the wireless communication side , but we are concerned with what can be learned from your computer without it intentionally sending anything , ' said dr @entity60 , an assistant professor in @entity17 's @entity61			1
+in separate research , security experts recently revealed a massive security flaw that could let hackers listen in on private calls and read text messages on mobile networks			1
+one way in which such hackers - as well as some intelligence agencies - get access to such information is by using @entity74 ( @entity74 ) catchers , or ' stingrays '			2
+these controversial tracking devices trick mobiles into connecting with them , and now developers have created an app that claims to detect such gadgets , and warn users if their data is at risk			1
+@entity74 catchers - eavesdropping devices used for intercepting mobile phone traffic and tracking the movement of smartphone users - are controversial because they act like ‘ fake ’ mobile towers			2
+called @entity92 , the app scans for signals that indicate a switch from a legitimate tower to such fake towers , called ' stingray ' , where information may be being collected			2
+' even if you have the internet connection disabled , you are still emanating information that somebody could use to attack your computer or smartphone			0
+' side - channel emissions can be measured several feet away from an operating computer using a variety of spying methods			2
+electromagnetic emissions can be received using antennas hidden in a briefcase , for instance			0
+acoustic emissions - sounds produced by electronic components such as capacitors - can be picked up by microphones hidden beneath tables			0
+information on power fluctuations , which can help hackers determine what the computer is doing , can be measured by fake battery chargers plugged into power outlets adjacent to a laptop 's power converter			2
+some signals can be picked up by a simple @entity129 , while others require more sophisticated spectrum analysers			2
+and computer components such as voltage regulators produce emissions that can carry signals produced elsewhere in the laptop			2
+because the spying is passive and emits no signals itself , users of computers and smartphones would n't know they 're being watched			1
+' if somebody is putting strange objects near your computer , you certainly should beware , ' said dr @entity60			0
+' but from the user 's perspective , there is not much they can do right now			0
+' based on our research , we hope to develop something like virus scan software that will look for vulnerability in the code and tell developers what they should update to reduce this vulnerability			1
+' according to the researchers , different tasks carried out by a laptop or smarphone produces a signal of different intensity			2
+pictured is a still from their video showing the signal from a laptop			0
+they say devices will need specialist software in order to patch up the vulnerability as a demonstration , dr @entity60 typed a simulated password on one laptop that was not connected to the internet			1
+on the other side of a wall , a colleague using another disconnected laptop read the password as it was being typed by intercepting side - channel signals produced by the first laptop 's keyboard software , which had been modified to make the characters easier to identify			1
+' there is nothing added in the code to raise suspicion , ' said dr @entity194 , an associate professor in the @entity195			0
+' it looks like a correct , but not terribly efficient version of normal keyboard driver software			2
+and in several applications , such as normal spell - checking , grammar - checking and display - updating , the existing software is sufficient for a successful attack			2
+' currently , there has been no mention in open literature of hackers using side - channel attacks , but the researchers believe it 's only a matter of time before that happens			1
+the potential risks of side - channel emissions have been reported over the years , but not at the level of detail being studied by the @entity17 researchers			1
+' of course , it 's possible that somebody is using it right now , but they are not sharing that information , ' dr @entity60 noted			0
+the signals are produced from the hardware of the computer ( shown ) when it performs a task			2
+currently , there has been no mention in open literature of hackers using side - channel attacks , but the researchers believe it 's only a matter of time before that happens to counter the threat , the researchers are determining where the leaks originate			1
+' we are trying to understand why these side channels exist and what can be done to fix these leaks , ' said dr @entity60			0
+' we are measuring computers and smartphones to identify the parts of the devices that leak the most			0
+that information can guide efforts to redesign them , and on an architectural level , perhaps change the instructions in the software to change the device behavior			0
+' each computer operation has a different potential for leaking information			0
+the processor draws different amounts of current depending on the operation , creating fluctuations that can be measured			0
+saving data to memory also requires a large amount of current , creating a ' loud ' operation			0
+people in coffee shops could be at particularly risk ( stock image shown ) , as in a public space hackers could more easily listen in to the signals from their laptop			1
+' if somebody is putting strange objects near your computer , you certainly should beware , ' said dr @entity60 ' when you are executing instructions in the processor , you generate a different type of waveform than if you are doing things in memory , ' explained dr @entity60			0
+' and there is interaction between the two			0
+' to measure the vulnerability , dr @entity60 , dr @entity194 and graduate student @entity285 developed a metric known as ' signal available to attacker ' ( @entity291 ) , which is a measure of the strength of the signal emitted			1
+they measured the level of @entity297 for 11 different instructions executed on three different laptops , and found the largest signals when the processors accessed off - chip memory			1
+' it is not really possible to eliminate all side - channel signals , ' said dr @entity194			0
+' the trick is to make those signals weak , so potential attackers would have to be closer , use larger antennas and utilise time - consuming signal analyses			0
+' we have found that some operations are much " louder " than others , so quieting them would make it more difficult for attackers			0
+' the researchers are also now studying smartphones , whose compact design and large differential between idle and in - use power may make them more vulnerable .			0
+
+@entity17 researchers reveal new hacking method
+they say hackers can ' listen in ' to signals emitted by laptops and phones
+this means , even when offline , they could find out what you are doing
+it is very hard to track because the spying is ' silent '
+however , they say developers can create software to patch up the vulnerability in devices
+
+@entity17:Georgia Institute of Technology
+@entity195:Georgia Tech School of Computer Science
+@entity194:Prvulovic
+@entity92:SnoopSnitch
+@entity285:Robert Callen
+@entity129:AM / FM radio
+@entity74:IMSI
+@entity297:Savat
+@entity291:Savat
+@entity60:Zajic
+@entity61:School of Electrical and Computer Engineering

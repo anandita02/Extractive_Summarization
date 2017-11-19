@@ -1,0 +1,46 @@
+http://web.archive.org/web/20140402215757id_/http://www.dailymail.co.uk/sciencetech/article-2588032/The-picture-reveals-entire-history-internet.html
+
+by @entity0 you may already be aware your @entity3 use is bordering on addiction , but now a browser tool reveals the true extent of your social networking in a single picture			0
+called iconic history , the @entity10 extension visualises every website you ’ve ever visited by plotting your browsing history into an interactive graphic			1
+pages are shown using favicons - low - resolution icons associated with sites - and are mapped according to the time and date they were visited			1
+the @entity21 extension visualises every website you 've ever visited by plotting your browsing history into an interactive graphic , pictured			1
+pages are shown using favicons - low - resolution icons associated with sites - and are mapped according to the time and date they were visited each url on @entity10 is timestamped with the date and hour it was accessed			1
+once the @entity30 extension is installed , it scans web history for these stamps			1
+many websites are also stamped with so - called favicons - low - resolution icons based on the site 's logo , for example			1
+these icons are plotted , in date order , separated with markers			1
+some websites do n’t have dedicated favicons , and these will appear as blank white pages			2
+hovering a mouse over each favicon reveals the name of the site and time it was accessed			0
+each favicon represents a @entity25 web address , as opposed to a single visit , meaning you may visit the site even more often than the favicon appears on the graph			1
+‘ i spend so much time online every day , doing all sorts of things from working to socialising to just aimless wandering , i thought browser history alone could narrate a significant portion of my life and what was on my mind , ’ said creator @entity55 , a student at @entity56 , in a blog post			1
+‘ my initial idea was to create a library of all webpages i viewed			0
+i was curious about the equivalent amount of reading i would have done if all the webpages i had viewed were books			0
+‘ i was planning on creating a book for each site visited - and the thickness of the book would be proportional by the total word count of all pages viewed under the site			0
+‘ [ but ] while doing so , it became obvious that i also needed some sort of images for my book covers			0
+in the process i accidentally created the graph			0
+’ some websites do n't have dedicated favicons , and these will appear as blank white pages , pictured			2
+hovering a mouse over each favicon reveals the name of the site and time it was accessed each url on @entity10 is timestamped so pages can be sorted by date and hour			1
+many of the favicons that appear on the graphic will be immediately recognisable , such as @entity3 and @entity97 , whereas others will be harder to identify			0
+some websites also do n’t have dedicated favicons , and these addresses will appear as blank white pages			2
+hovering a mouse over each favicon reveals the name of the site and time it was accessed			0
+‘ ideally i would like to visualise visits because a ‘ visit ’ is the lowest - level unit of browser history			2
+however chrome only provides access to urls timestamped by their last visit time , so my only option was to visualise [ these ]			0
+' this gives us less data , but nevertheless it does n’t take away the indicative power of the result , ' added @entity55			0
+websites accessed via @entity10 's @entity120 are not plotted , neither are pages that a user has visited , but has since removed from the browser history			2
+if a user is signed into @entity10 on various devices , the entire history from all of these places will be revealed .			2
+
+the tool was created by @entity55 from @entity56
+many websites feature so - called favicons - low - resolution icons
+each time someone visits a web address the time and date is recorded
+@entity10 extension scans a *person* ’s web history for these icons , and dates
+it then plots them all in date order to reveal your entire browsing history
+
+@entity3:Facebook
+@entity30:Iconic History
+@entity0:Victoria Woollaston
+@entity10:Chrome
+@entity25:URL
+@entity21:Iconic History Chrome
+@entity56:Carnegie Mellon University
+@entity55:Shan Huang
+@entity97:Gmail
+@entity120:Incognitio Mode

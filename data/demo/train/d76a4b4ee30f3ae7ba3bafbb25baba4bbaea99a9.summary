@@ -1,0 +1,24 @@
+http://web.archive.org/web/20141218160554id_/http://edition.cnn.com/2014/12/08/showbiz/music/green-day-guitarist-jason-white-tonsil-cancer/index.html
+
+-- @entity2 's @entity1 has tonsil cancer , the band reported on its website			1
+" we have some news to report regarding our brother @entity1 , and wanted you to hear it from us before word spread , " the post read			0
+" @entity1 recently underwent a routine tonsillectomy , and his doctors discovered a treatable form of tonsil cancer			1
+thankfully they caught it early and he should make a full and speedy recovery			0
+" @entity1 , 41 , has been an official part of the band since 1999 , when he joined them on tour as a guitarist			0
+however , he 's been friends with the band members much longer , having been guitarist in @entity26 -- another band fronted by @entity2 's @entity28 -- and @entity28 's partner in running @entity30			1
+the band , known for such albums as " @entity33 " and " @entity34 , " asks that fans " join us in sending him love and positive healing vibes during this time			2
+" @entity2 is among the nominees for the @entity41 class of 2015 .			0
+
+@entity2 's @entity1 was *diagnosed* with tonsil cancer
+@entity1 has been part of the *group* since the late ' *90s*
+@entity2 is best known for " @entity33 , " " @entity34 "
+
+@entity2:Green Day
+@entity1:White
+@entity0:CNN
+@entity26:Pinhead Gunpowder
+@entity34:American Idiot
+@entity30:Adeline Records
+@entity28:Armstrong
+@entity33:Dookie
+@entity41:Rock and Roll Hall of Fame

@@ -1,0 +1,28 @@
+http://web.archive.org/web/20140925040619id_/http://edition.cnn.com:80/2014/09/22/us/dallas-airline-flight-issues/index.html?hpt=hp_t3
+
+-- two @entity2 flights flew back to @entity4 / @entity3 early monday because of unrelated technical issues			1
+the passenger jets landed within two minutes of each other			0
+flight 1359 made an emergency landing at 12:21 a.m. ct after the pilot was alerted to a mechanical issue , airline spokeswoman @entity8 said			1
+the @entity14 plane had left for @entity15 , @entity16 , with 140 passengers and five crew members an hour earlier			0
+@entity8 did not say what the mechanical issue was			0
+the second flight , @entity22 997 , was over the @entity23 on its way to @entity25 , @entity26 , when a problem with pressurization turned up			2
+the @entity29 777 - 200 , carrying 223 passengers and 14 crew members , turned back to have the issue checked out but did not have to make an emergency landing , @entity8 said			1
+it arrived at 12:23 a.m. both planes landed safely , and the flights were rescheduled for later times .			0
+
+both are @entity2 flights
+@entity22 1359 makes an emergency landing after an *unnamed* technical issue
+@entity22 997 has cabin pressure issues , turns back but does *n't* make an emergency landing
+
+@entity3:Fort Worth International Airport
+@entity2:American Airlines
+@entity15:Fresno
+@entity14:McDonnell Douglas MD-80
+@entity26:Argentina
+@entity4:Dallas
+@entity8:Masvidal
+@entity23:Gulf of Mexico
+@entity22:AAL
+@entity0:CNN
+@entity29:Boeing
+@entity25:Buenos Aires
+@entity16:California

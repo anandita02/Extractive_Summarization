@@ -1,0 +1,46 @@
+http://web.archive.org/web/20131211075159id_/http://www.dailymail.co.uk/sciencetech/article-2488326/Engineers-training-knife-wielding-robots-checkout-jobs--coming-supermarket-near-YOU.html
+
+by @entity0 published : 07:39 est , 6 november 2013 updated : 08:47 est , 6 november 2013 would you trust a knife - wielding robot to come just inches away from you ? that ’s exactly what one @entity5 professor did when he attempted to train a robot on a supermarket checkout			1
+a video released by the @entity11 - based research team shows the knife coming dangerously close to professor @entity14 ’s body			1
+professor @entity14 understandably lurches away from the naked blade as its thrashed around by the semi-autonomous machine , named @entity18			2
+the learning technique , according to professor @entity14 , could mean that robots could soon be trusted with delicate or dangerous objects such as knives			1
+‘ i think co-robotic environments such as warehouses and grocery checkout robots will be available in few years , ’ professor @entity14 said in an interview with @entity36			1
+today robots are reaching new levels of intelligence by being able to process information faster than ever before			2
+the researchers at @entity5 attempted to teach their knife - happy robot using something called a ‘ coactive learning technique ’			1
+this means that through a process of trial and error and gentle nudging , the robot could learn exactly what it had to do			2
+as the robot executes its movements , researchers intervene , manually guiding the arms to fine - tune the trajectory			2
+the learning algorithm the researchers provided allows the robot to learn incrementally , refining its trajectory a little more each time			1
+but bizarrely , tasks that most humans find easy , such as balancing a plate full of food or moving a glass of water , are still difficult for robots to learn			0
+the researchers at @entity5 attempted to teach their knife - happy robot using something called a ‘ coactive learning technique ’			1
+this means that through a process of trial and error and gentle nudging , the robot could learn exactly what it had to do			0
+@entity18 ’s arms have two elbows and a rotating wrist , so it ’s not always obvious to a human operator how best to move the arms			0
+to deal with this , the robot displays three possible trajectories on a touch screen where the operator can select the one that looks best			0
+as the robot executes its movements , researchers can intervene , manually guiding the arms to fine - tune the trajectory			0
+the learning algorithm the researchers provided allows the robot to learn incrementally , refining its trajectory a little more each time			1
+@entity5 engineers have taught a robot to work in a mock - supermarket checkout line , modifying a @entity18 robot from @entity101 in @entity102 to ' coactively learn ' ‘ this research allows the robot to plan its motions appropriately in new circumstances , ’ said @entity5 ’s professor @entity103 told @entity36			1
+‘ one of the challenges was incorporating user 's feedback , which was not correct all the time , and developing a learning algorithm that can learn despite such weak user feedback			0
+‘ our new algorithm allows learning from intuitive and easy feedback given by non-expert users			0
+the robot learns to associate a particular trajectory with each type of object			0
+a quick flip over might be the fastest way to move a cereal box , but that would n't work with a carton of eggs as well as handling knives , the @entity5 researchers taught @entity18 to carry cartons full of eggs without breaking them			1
+the robot learns to associate a particular trajectory with each type of object			0
+a quick flip over might be the fastest way to move a cereal box , but that would n’t work with a carton of eggs			0
+also , since eggs are fragile , the robot is taught that they should n’t be lifted far above the counter			2
+the researchers claim that their technique could one day turn fumbling robots into effective everyday servant			2
+the work , funded by the @entity147 , @entity148 the @entity149 , will be presented in detail in december .			0
+
+video shows robot almost stabbing a professor at @entity5
+however it is later taught to *safely* handle a knife by ' coactively ' learning
+engineers claim the robots could be available at checkouts in next few years
+
+@entity0:Ellie Zolfagharifard
+@entity147:U.S. Army Research Office
+@entity5:Cornell University
+@entity11:New York
+@entity36:MailOnline
+@entity148:Microsoft
+@entity149:National Science Foundation
+@entity18:Baxter
+@entity101:Rethink Robotics
+@entity102:Boston
+@entity103:Ashutosh Siena
+@entity14:Saxena

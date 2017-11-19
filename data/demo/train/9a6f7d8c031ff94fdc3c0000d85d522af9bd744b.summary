@@ -1,0 +1,51 @@
+http://web.archive.org/web/20150606214754id_/http://www.cnn.com/2013/01/11/tech/web/java-vulnerability/
+
+the critical @entity2 vulnerability that is currently under attack was made possible by an incomplete patch @entity6 developers issued last year to fix an earlier security bug , a researcher said			1
+the revelation , made friday by @entity9 of @entity11 - based @entity10 , is the latest black eye for @entity6 's @entity2 software framework which is installed on more than 1 billion pcs , smartphones , and other devices			1
+miscreants use these exploits to turn compromised websites into platforms for silently installing keyloggers and other types of malicious software on the computers of unsuspecting visitors			2
+last year saw a steady stream of attacks that exploited @entity2 vulnerabilities , allowing miscreants to surreptitiously install keyloggers and other malicious software when unwitting people browsed compromised websites			1
+the abuse has already continued into 2013 , when on thursday researchers reported yet another critical bug that is being " massively exploited in the wild "			0
+according to @entity9 , the latest vulnerability is a holdover from a bug ( referred to here as @entity42 ) that @entity10 researchers reported to @entity6 in late august			1
+@entity6 released a patch for the issue in october but it was incomplete , he said in an e-mail to @entity48 that was later published to the @entity50 mailing list			1
+" bugs are like mushrooms , in many cases they can be found in a close proximity to those already spotted , " @entity9 wrote			0
+" it looks like @entity6 either stopped the picking too early or they are still deep in the woods			2
+" @entity6 representatives did n't immediately respond to a request for comment			1
+this post will be updated if a reply comes later			0
+people who do n't use @entity2 much should once again consider unplugging @entity2 from their browser , while those who do n't use it at all may want to uninstall it altogether			1
+the release notes for @entity68 — the most recent version — say users can disable the program from the browser by accessing the @entity73			0
+@entity74 has instructions here for other ways to do this			0
+exploits of the latest @entity2 vulnerability , which were first observed more than a month ago , are the combination of two bugs			1
+the first involves the @entity82 ( ) method and allows the loading of arbitrary ( restricted ) classes			0
+the second bug relies on the @entity88 method call and was also a problem with @entity42 that @entity6 purportedly patched in october			2
+" however , it turns out that the fix was not complete as one can still abuse @entity88 method to setup calls to @entity95 method with a trusted system class as a target method caller , " @entity9 wrote			0
+" this time the call is however done to methods of new @entity100 ( from java.lang.invoke			0
+* package ) , of which many rely on security checks conducted against the caller of the target method			0
+" developers of the @entity109 framework for hackers and penetration testers have released a module that should exploit the vulnerability on machines running @entity115 , @entity116 , and @entity117 regardless of the browser they 're using			2
+the @entity121 - @entity120 , which is affiliated with the @entity122 , is advising people to disable @entity2 in web browsers .			2
+
+@entity2 vulnerability is *due* to incomplete patch by @entity6 , researcher says
+@entity2 's software is on more than 1 billion pcs , smartphones and other computers
+people who do n't use @entity2 are *encouraged* to uninstall it
+
+@entity117:Linux
+@entity116:Apple OS X
+@entity82:Class.forName
+@entity88:invokeWithArguments
+@entity2:Java
+@entity6:Oracle
+@entity9:Gowdiak
+@entity50:Bugtraq
+@entity74:KrebsOnSecurity
+@entity73:Java Control Panel
+@entity42:Issue 32
+@entity11:Poland
+@entity10:Security Explorations
+@entity100:Reflection API
+@entity109:Metasploit
+@entity95:invokeExact
+@entity122:Department of Homeland Security
+@entity120:CERT
+@entity121:US
+@entity115:Windows
+@entity68:Java 7 Update 10
+@entity48:Ars

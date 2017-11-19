@@ -1,0 +1,20 @@
+http://web.archive.org/web/20090422151011id_/http://www.cnn.com:80/2009/POLITICS/02/11/freshman.year/index.html?iref=topnews
+
+congressman @entity0 @entity5 : @entity6			0
+
+*video* : *hand* *-* *held* cams *track* *freshmen* *moves*
+two *freshman* representatives *document* their *experience* for @entity14
+rep. @entity0 is a @entity16 **representing** @entity2 **'s** second **district**
+rep. @entity4 is a @entity19 **representing** @entity5 **'s** @entity21 **district**
+
+@entity3:District 02
+@entity2:Colorado
+@entity1:D
+@entity0:Jared Polis
+@entity6:District 03
+@entity5:Utah
+@entity4:Jason Chaffetz
+@entity19:Republican
+@entity21:Third
+@entity14:CNN
+@entity16:Democrat

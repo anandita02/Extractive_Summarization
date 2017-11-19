@@ -1,0 +1,66 @@
+http://web.archive.org/web/20131217075806id_/http://www.dailymail.co.uk/sciencetech/article-2329544/Twitter-boosts-security-adding-step-logins-following-number-hackings.html
+
+by @entity0 published : 08:10 est , 23 may 2013 updated : 08:24 est , 23 may 2013 following a number of high - profile hacks @entity2 has boosted account security on the site by introducing two - step logins			1
+@entity2 is calling the feature ' login verification ' and when users log into @entity2 they will now be sent six - digit code via text each time , to check they are who they say they are			1
+this code will need to be entered onto the login screen in order for users to get access to their accounts			0
+users must enter a mobile number to enable the feature			2
+each time they log into @entity2 a unique six - digit code is sent via text message			1
+this code must be entered to get access to the account go to @entity2			1
+click the cog icon in the top right - hand corner and go to the account settings page			2
+select ' require a verification code when i sign in			0
+' click the link to ' add a phone ' and follow the prompts			0
+after enabling login verification , you ’ll be asked to enter a six - digit code that @entity2 send to your phone via text message each time you sign in to twitter.com			1
+to disable the feature , go back to account settings and untick the login verification box			1
+if you get locked out of your account while two - step verification is enabled , or you lose your phone you must contact @entity2 support and answer a series of security questions			1
+the feature is optional and is not currently turned on by default			2
+in a blog post , @entity56 from @entity2 's product security team said : ' every day , a growing number of people log in to @entity2			1
+usually these login attempts come from the genuine account owners , but we occasionally hear from people whose accounts have been compromised by email phishing schemes or a breach of password data elsewhere on the web			2
+' we ’re introducing a new security feature to better protect your @entity2 account : login verification			1
+' users can enable login verification on @entity2 by going to their account settings page and selecting ' require a verification code when i sign in '			1
+after clicking ' add a phone ' , the user will get a verification code sent to the mobile number which is connected to their account			0
+@entity2 has launched two - step logins after a series of high - profile accounts were hacked			2
+one account targeted by the @entity88 was @entity89 in march this year			0
+other hack victims include @entity92 , @entity93 and @entity94 once login verification has been enabled a temporary password will be need to log into @entity2 on other devices and via @entity2 apps			1
+go to the @entity100 tab of your account settings on twitter.com			2
+enter your current account password and hit generate again			0
+when prompted to log in to your other device or application , enter your username and use the temporary password that you were provided			0
+temporary passwords will expire after one hour			0
+this code must then be entered to verify that device to their account			0
+each time a user with login verification enabled then signs in at @entity2 , they will be sent another unique six - digit code that they must enter to get access to their account			1
+people who share access , such as business accounts , will need to have the code sent to a shared phone or nominate a person to receive the text			0
+hackers have previously targeted the accounts of satire - news site @entity92 , @entity133 , @entity134 actor @entity94 , @entity89 , @entity135 presenter @entity93 and more			0
+in february , 250,000 @entity2 users had their passwords stolen in an attack			2
+@entity56 added that when users try to access @entity2 from apps and other devices a temporary password will need to be generated , from the applications page , to authorise the login			1
+however , @entity56 said that existing applications will ' continue to work without disruption			2
+' he also said : ' of course , even with this new security option turned on , it 's still important for you to use a strong password and follow the rest of our advice for keeping your account secure			1
+' @entity156 and @entity157 already have two - step logins for their respective accounts			0
+video : @entity2 introduces extra security measures yet , @entity162 , senior security researcher at @entity163 believes there are pitfalls involved with the two - step verification process : ' two - factor authentication makes it difficult for someone to hijack an account , and its easy to see why @entity2 has chosen to use sms as the second authentication method			1
+nearly everyone today has a mobile phone			0
+' however , there are some potential pitfalls with using @entity171 as an authentication method			0
+many people log into their @entity2 account from their smartphone via the @entity2 app which does n’t require login credentials to be entered each time			1
+this means that the same device is being used for both authentication factors and if this device is lost or stolen , whoever finds ( or has stolen ) it will be able to access the account			0
+therefore , in effect , there is no longer two - factor authentication			0
+' also , it is possible that we will see the development of smartphone - based malware that is specifically designed to steal the sms authentication code			0
+
+@entity2 's new system will send users an email or text each time they log in to their account to verify its really them
+the feature is not turned on by default , users must enabled it in account security settings
+@entity2 's security team said apps will ' continue to work without disruption '
+
+@entity162:David Emm
+@entity2:Twitter
+@entity0:Victoria Woollaston
+@entity163:Kaspersky Lab
+@entity93:Jeremy Clarkson
+@entity92:The Onion
+@entity100:Applications
+@entity88:Syrian Electronic Army
+@entity56:O'Leary
+@entity171:SMS
+@entity135:Top Gear
+@entity134:Hollywood
+@entity89:BBC Weather
+@entity94:Ashton Kutcher
+@entity157:Google
+@entity156:Facebook
+@entity133:The Telegraph
+@entity105:Generate

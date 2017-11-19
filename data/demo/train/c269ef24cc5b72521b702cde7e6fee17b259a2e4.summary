@@ -1,0 +1,38 @@
+http://web.archive.org/web/20130811132746id_/http://www.cnn.com:80/2013/06/27/tech/mobile/ios-7-motion-detection
+
+-- @entity1 appears to be testing out motion control features that will let people control their iphones by moving their heads			2
+the feature , first reported by @entity7 , was discovered in the developer version of @entity1 's latest mobile operating system , @entity9 7 , and is not yet publicly available			1
+it is an option in the accessibility menu that overrides the usual touchscreen controls			1
+it works by using the front - facing @entity14 or @entity16 camera to detect head movements , according to the report			1
+when on , the system automatically runs through every option on the device screen until the user selects the one he or she wants by turning his or her head to one side			2
+the left or right head movements can be assigned to different tasks , including returning to the main home screen , displaying notifications or activating voice assistant @entity31			1
+( you can watch a video demonstration here			0
+) the approach appears time - consuming , but being able to navigate the phone interface this way with head movements could potentially be useful for people with limited mobility or other disabilities that make touch or voice interfaces difficult to use			1
+the new version of the @entity45 mobile operating system is still in beta testing , when its features are used by developers creating new apps while @entity1 fixes bugs and polishes the interface			2
+regular @entity14 users will be able to upgrade to @entity9 in the fall			1
+the head - movement feature is meant as an accessibility option , but it 's easy to imagine similar motion control features becoming more commonplace on devices in the future			1
+motion detection technology that lets you control a computer interface has taken off in the past few years			1
+the @entity63 and a soon - to - be - released device from @entity65 use powerful depth sensor cameras			0
+the @entity63 can detect a person 's skeleton , face and even expressions			0
+the leap detects gestures such as finger movements			2
+in a pinch , regular smartphone cameras can perform some minor motion detection features , but they are still in the early stages and need work before they are good enough to be practical tools			0
+motion control options are already popping up in smartphones			0
+the @entity82 supports eye scrolling , moving a page when the user 's eyes look up or down , and detecting when motion has stopped			0
+if you look away from a video while it is playing , it can automatically pause			0
+it also supports gestures , such as picking up calls when you wave a hand over the device .			0
+
+a new feature being tested in @entity9 lets you control the @entity14 interface with head movements
+the feature , reported by @entity7 , is an accessibility option that can help the disabled
+there is no *guarantee* the option will be in the final version of @entity9 when it comes out in the fall
+
+@entity31:Siri
+@entity16:iPad
+@entity1:Apple
+@entity0:CNN
+@entity7:9to5 Mac
+@entity9:iOS 7
+@entity45:iOS
+@entity82:Samsung Galaxy S4
+@entity14:iPhone
+@entity65:Leap Motion
+@entity63:Kinect

@@ -1,0 +1,70 @@
+http://web.archive.org/web/20150714112709id_/http://www.dailymail.co.uk/sciencetech/article-2913134/Would-store-fingerprint-cloud-Apple-patent-lets-access-biometric-sensors-using-prints-stored-online.html
+
+@entity0 has n’t had the best track record in terms of security on @entity4 recently - and now the tech giant is suggesting storing fingerprints on the online service			1
+a patent awarded earlier this week reveals plans to let @entity0 users store their fingerprints in the cloud , which could then be used on other devices with biometric sensors			1
+as the files revealed , after the prints are stored online , the user could press the @entity19 scanner on any @entity0 device to sign into accounts and make payments			1
+the files detail a system that would let users store their fingerprints on @entity4 , which could then be downloaded and used when touching a biometric sensor on another device the benefit of doing this would mean people would n’t have to record their fingerprints across multiple devices , which @entity0 described in the patent as ‘ cumbersome			1
+’ but , it would mean the fingerprints would be much easier , potentially , to be accessed by hackers			2
+in theory , hackers would be limited with what they could do with a file of a fingerprint , but last month a team of security researchers was able to recreate a physical print using just a high - resolution photo - highlighting the dangers			0
+according to the ‘ @entity52 biometric sensor data synchronization via a cloud computing device and related methods ’ patent : ‘ a common approach to fingerprint identification involves scanning a sample fingerprint or an image , and storing the image			1
+once a fingerprint is stored online , each time the user tries to use a @entity19 sensor on any @entity0 device , the prints would be matched			1
+and to allay potential privacy concerns , @entity0 explained that a user would have to validate their @entity69 account before registering their prints to verify an account and fingerprint , the user would need to enter a username , password and pass code			1
+the fingerprints would then be encrypted and sent to @entity4			1
+to verify the print on the second device , the user would equally need to be signed into @entity4 , and the prints would need to match ‘ the characteristics of a sample fingerprint may be compared to information for reference or enrolled fingerprints already in a database to determine proper identification of a person , such as for verification purposes			1
+‘ despite the existence of such fingerprint matching techniques , enrollment may become cumbersome for users in some instances , such as when multiple fingerprints , users , and devices are used			1
+’ with this in mind , @entity0 proposes an electronic system that uses a biometric sensor and a so - called ‘ first processor ’			1
+the processor collects biometric data from a sensor			2
+the system would then include a cloud computing device that would upload and store the data			1
+last year , @entity0 ’s @entity4 fell victim to hackers who stole photos from a number of its celebrity users including @entity117 ( pictured ) last year , @entity0 ’s @entity4 fell victim to hackers who broke into the online service and stole photos from a number of its celebrity users			1
+these photos , including some that were nude selfies uploaded by celebrities such as @entity117 , were then posted online			0
+following the news , @entity0 said it was ' outraged ' by the attacks , and said they were the result of ' a very targeted attack on user names , passwords and security questions '			2
+it advised worried customers to update their accounts with a ' strong ' password and enable two - step verification			0
+the hackers are believed to have used @entity4 's password reset function to gain access to accounts			2
+this allows users to reset their password by entering their username , date of birth and correctly answering two security questions			2
+experts said this information should be relatively easy to find for celebrities			0
+last year , @entity0 ’s @entity4 fell victim to hackers who broke into the online service and stole photos from a number of its celebrity users			1
+these photos , including some that were nude selfies , were then posted online			0
+following the news , @entity0 said it was ' outraged ' by the attacks , and were the result of ' a very targeted attack ' last month , a team of security researchers was able to recreate a physical print using a photo			2
+@entity173 , whose real name is @entity175 , told attendees of the @entity177 ’s ( @entity177 ) 31st annual congress in @entity178 , @entity179 , how he achieved the hack			0
+mr @entity175 obtained a high - resolution photograph of the politician ’s thumb using a ‘ standard photo camera ’ during a press conference			0
+he also used other ' good quality ' photos of the politician , taken from a variety of angles			0
+from these images , he reconstructed an accurate thumbprint using the @entity194 software			0
+this software is good enough , according to @entity177 , to fool fingerprint security systems			0
+a second phone , with a second biometric sensor , and a second processor would ‘ collect to - be matched finger biometric data ’ from the second device , and download data from the cloud			1
+the fingerprint data collected by the second sensor would be matched with the encrypted online data , and access would be granted			0
+put simply , once a fingerprint is stored online , each time the user tries to use a @entity19 sensor on any @entity0 device , the prints would be compared and matched			1
+and to allay potential privacy concerns , @entity0 explained that a user would have to validate their @entity69 account before registering their prints			2
+this would require the username , password and pass code			0
+the fingerprints would be encrypted and sent to @entity4			2
+to verify the print on the second device , the user would equally need to be signed into @entity4 , and the prints would need to match			1
+as well as a phone or tablet , the ‘ second device ’ could be fingerprint scanners in shops that work with @entity229			0
+however , @entity230 , principal security researcher at @entity231 told @entity232 : ' if implemented , this would give @entity0 a further way of trying to establish the @entity234 as a payment mechanism			2
+' on the face of it , this would appear to present no greater risk than the storage of password hashes on a provider ’s site			0
+' however , there is one key difference			0
+if my password is compromised , i can create a new one for the compromised account			0
+' unfortunately , i ’m unable to change my biometric data			0
+so if such data is n’t stored securely - and there ’s no such thing as 100 per cent security - the risks could be far greater than the theft of a single password			0
+
+the patent was filed in july 2013 but only awarded yesterday
+files detail a system that would let users store their fingerprints on @entity4
+the prints would be recorded on one @entity0 device , and then accessible from any other with an appropriate biometric sensor
+it *prevents* having to record prints on multiple @entity0 devices
+
+@entity232:MailOnline
+@entity173:Starbug
+@entity0:Apple
+@entity26:Californian
+@entity234:iPhone
+@entity177:CCC
+@entity4:iCloud
+@entity229:Apple Pay
+@entity178:Hamburg
+@entity194:VeriFinger
+@entity230:David Emm
+@entity19:TouchID
+@entity117:Jennifer Lawrence
+@entity179:Germany
+@entity231:Kaspersky Lab
+@entity69:Apple ID
+@entity175:Krissler
+@entity52:Finger

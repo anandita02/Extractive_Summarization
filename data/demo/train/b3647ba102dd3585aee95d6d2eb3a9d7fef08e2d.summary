@@ -1,0 +1,22 @@
+http://web.archive.org/web/20141011040102id_/http://www.cnn.com/2011/WORLD/africa/08/05/zimbabwe.hackers.stock.exchange/index.html
+
+@entity0 , @entity1 -- computer hackers targeted the @entity1 stock exchange for the second time this week and used it as a phishing site , an official said friday			1
+phishing is a form of internet fraud that targets personal information such as credit cards and user ids			0
+the stock exchange chief said they have hired it experts to solve the problem			1
+" we hope the it experts will get to the bottom of the problem and identify the source by the end of the day ( friday ) , " said @entity18 , the stock exchange chief executive			2
+" the website is a popular source of information and i am sure we have lost a lot of potential investors since we took it offline			0
+" the company has 79 listed companies , but it does not conduct trading on the @entity32			1
+@entity33 is not common in @entity1			0
+last year , hackers targeted the state - owned daily newspaper , @entity36 , and this year , the website of the nation 's finance ministry was also affected .			0
+
+the stock exchange chief says they have hired it experts to solve the problem
+the company has 79 listed companies , but it does not conduct *online* trading
+@entity33 is not common in @entity1
+
+@entity2:CNN
+@entity1:Zimbabwe
+@entity0:Harare
+@entity36:The Herald
+@entity33:Hacking
+@entity18:Emmanuel Munyukwi
+@entity32:Internet

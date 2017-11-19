@@ -1,0 +1,62 @@
+http://web.archive.org/web/20150719095808id_/http://www.dailymail.co.uk/sciencetech/article-2961357/Volvo-s-self-driving-cars-ready-hit-roads-100-cars-autopilot-trialled-public-roads-2017.html
+
+the race to get self - driving cars on to public roads is now truly on			1
+@entity3 has announced it aims to put 100 of its autonomous vehicles on roads as soon as 2017			1
+members of the public will be put in the driving seats of production - ready cars to test the drive me system , which the company claims can cope with ‘ even the most complicated scenarios ’			1
+driving change : @entity3 aims to put 100 of its self - driving cars on real roads as soon as 2017 , putting members of the public in the driving seats of production - ready cars to test a system that the company claims can cope with ‘ even the most complicated scenarios ’ ‘ we are entering uncharted territory in the field of autonomous driving , ’ said dr @entity26 , senior vice president research and development of @entity27			1
+‘ taking the exciting step to a public pilot , with the ambition to enable ordinary people to sit behind the wheel in normal traffic on public roads , has never been done before			1
+’ the trial is set to take place on selected roads in @entity42 , @entity43 and is a collaboration between the auto manufacturer , transport authorities and critically , legislators			1
+laws governing the driving of autonomous vehicles has restricted other technology trials			0
+the trial is set to take place on selected roads in @entity42 , @entity43 and is a collaboration between the auto manufacturer , transport authorities and critically , legislators			1
+it will use 100 cars fitted with sensors and cameras , which use a cloud - based 3d digital map to guide their journey ( illustrated ) it is not clear how much the people involved in the trial will have to take control of their vehicles , but it seems unlikely they will be able to chat on a phone , watch a film , read a book ( illustrated ) or do some work , for example , as the car motors along			1
+but this is the firm 's vision for the future sensors : @entity3 's @entity80 car is fitted with multiple radars , cameras and laser sensors to plot its exact positioning on the road and give the system a 360 ° view of the car ’s surroundings			1
+a network of computers processes the information , which together with @entity93 , generates a real - time map of moving and stationary objects in the environment			0
+twelve ultrasonic sensors around the car are used to identify objects close to the vehicle and support autonomous drive at low speeds			2
+radars : a wave radar and camera placed on the windscreen reads traffic signs and the road ’s curvature and can detect objects on the road such as other road users			0
+four radars behind the front and rear bumpers also locate objects			0
+two long - range radars on the bumper are used to detect fast - moving vehicles approaching from far behind , which is useful on motorways			0
+cameras : four cameras - two on the wing mirrors , one on the grille and one on the rear bumper - monitor objects in close proximity to the vehicle and lane markings			2
+a trifocal camera on the windscreen provides a broad 140 ° view , a 45 ° view and a long - range , yet narrow , 34 ° view for improved depth perception and distant - object detection			0
+it ’s used to spot suddenly appearing pedestrians and unexpected road hazards			0
+@entity140 digital map : an @entity140 digital map is used to provide the vehicle with information about the surroundings , such as road curvature , number of lanes , geometry of tunnels and signs etc. ‘ @entity160 ’ is matched with the map and the 360 ° image created by the multitude of sensors , to give the car information about its position in relation to the surroundings			2
+this means the @entity163 car is able to choose the best course in real time , factoring in variables such as the curvature of the road , speed limit , temporary signs and other traffic			0
+@entity3 's @entity80 cars rely on 28 cameras , sensors and lasers as well as software rules to drive itself on busy roads			1
+like other autonomous systems , the system needs a user to select a chosen route so it can use a cloud - based digital map to guide the car 's driving , giving it an awareness of known obstacles and features on the road			1
+the cars use a complex network of sensors , cloud - based positioning systems and intelligent braking and steering technologies			2
+dr @entity26 said : ‘ autonomous driving will fundamentally change the way we look at driving			0
+in the future , you will be able to choose between autonomous and active driving			0
+‘ this transforms everyday commuting from lost time to quality time , opening up new opportunities for work and pleasure			0
+’ it is not clear how much the people involved in the trial will have to take control of their vehicles , but it seems unlikely they will be able to chat on a phone , watch a film or do some work , for example , as the car motors along			2
+this is the aspiration for the future			0
+@entity3 ’s autopilot system is designed to allow the car to take over every aspect of driving in autonomous mode , which the company says is a ‘ crucial ’ step beyond the automotive systems demonstrated , because it includes fault - tolerant systems			1
+dr @entity229 , technical specialist at @entity3 , said : ‘ it is relatively easy to build and demonstrate a self - driving concept vehicle , but if you want to create an impact in the real world , you have to design and produce a complete system that will be safe , robust and affordable for ordinary customers			1
+’ the main challenge for engineers is building a system that ’s robust enough to cope with technical faults that might occur , because a ‘ driver ’ might not be on the ball enough to respond to a situation immediately , if their attention is focused elsewhere			2
+initially , the cars will drive autonomously on selected roads with suitable conditions , for example without oncoming traffic , cyclists and pedestrians			1
+mr @entity229 said : ‘ making this complex system 99 per cent reliable is not good enough			2
+you need to get much closer to 100 per cent before you can let self - driving cars mix with other road users in real - life traffic			0
+the car relies on 28 cameras , sensors and lasers as well as software rules to drive itself on busy roads			1
+initially , the cars ( illustrated ) will drive autonomously on selected roads with suitable conditions , for example without oncoming traffic , cyclists and pedestrians ‘ here , we have a similar approach to that of the aircraft industry			1
+our fail - operational architecture includes backup systems that will ensure that @entity276 will continue to function safely also if an element of the system were to become disabled			2
+’ @entity3 says that its autopilot systems can cope with ‘ even the most complicated scenarios ’ such as heavy traffic and emergency situations which require quick , hard braking			1
+mr @entity229 said : ‘ just as good drivers would , potentially critical situations are approached with sensible caution			0
+in a real emergency , however , the car reacts faster than most humans			0
+’ the system , however , is n’t designed to negotiate exceptional weather conditions or if the end of a route is reached			0
+in such cases , the driver will be prompted to take over			0
+if the driver does n't take over in time , the car will bring itself to a safe place to stop .			0
+
+trial is slated to begin on selected roads in @entity42 , @entity43
+members of the public will test @entity3 's @entity80 system in 2017
+system uses cameras , sensors and software to cope with tricky situations
+
+@entity3:Volvo
+@entity163:Drive Me
+@entity160:High performance GPS
+@entity26:Mertens
+@entity27:Volvo Car Group
+@entity229:Coelingh
+@entity80:Drive Me
+@entity42:Gothenburg
+@entity43:Sweden
+@entity276:Autopilot
+@entity140:HD 3D
+@entity93:GPS

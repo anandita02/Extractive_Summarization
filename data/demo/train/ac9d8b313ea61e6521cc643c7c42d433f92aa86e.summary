@@ -1,0 +1,73 @@
+http://web.archive.org/web/20130829051556id_/http://www.cnn.com/2011/TECH/mobile/04/25/iphone.tracking.wired/
+
+-- you should care about @entity3 's collection of geodata on @entity5 , @entity6 and @entity8 devices , because the method is flawed			1
+to be clear , " care " does n't mean you should smash your @entity5 with a hammer , rip out the gps chip and gulp it down your throat			1
+this is n't an issue of " big brother is watching			2
+" it 's just a matter of a security flaw that puts your location data at risk if it gets in the wrong hands -- not an immediate concern , but a concern nonetheless			1
+two data scientists broke the news wednesday that an unencrypted file stored on @entity29 devices contains a detailed log of the device 's geographical data dating back 10 months			1
+the scientists also wrote a program , allowing you to plug in your @entity29 device and automatically output the geodata into an interactive map , just so you could see for yourself			0
+as this story developed , some tech observers have attempted to defuse the issue			2
+" so what ? " @entity44 wrote in his @entity46 column			0
+" i have nothing to hide			0
+who cares if anyone knows where i 've been ? " here 's why we care			2
+permanent data storage is unnecessary as @entity0 pointed out yesterday , @entity3 already admitted and explained that it deliberately stores geodata on its mobile devices so the company can collect it to improve location services			1
+the general process , summarized : whenever you use an app with a location service -- the @entity62 app , for instance , to find nearby restaurants -- the @entity5 gets information about nearby cell towers and @entity68 access points , and stores the info			1
+every 12 hours , an @entity29 device 's stored geodata gets anonymized with a random string of numbers , and it gets transmitted to @entity3 in a batch			1
+@entity3 says it keeps all this data in its own database , so it can provide you quicker and more precise location services			1
+so when you use a location - based app , such as your @entity82 app to get your location , you 're first pulling data from @entity3 's geo database to get your general location , and then your @entity88 chip homes in on a more precise latitude and longitude			1
+@entity3 's location database speeds up the location process			1
+location gathering techniques like this are n't anything new			2
+for instance , when using an app like @entity82 app on your @entity101 phone , some of your location data is cached -- or stored -- so that if your network connection is interrupted , following directions on the map wo n't be			2
+data caching also improves the speed of an app 's performance			2
+" it makes such a huge difference when you can cache this data , " @entity110 , cto of @entity101 - app -- developing studio @entity112			0
+" cellphone connections are incredibly high in latency			0
+imagine having to wait half - a - second longer when sending a tweet with your location included			2
+from a user experience point of view , these caches make sense			0
+" but the problem remains that there is no reason for that geo data to remain on your device after it 's transmitted to @entity3			1
+in contrast to @entity3 , @entity82 's stance on the position is clear : it has been upfront about location data collection from the start			1
+in a statement provided to @entity0 , @entity82 says as much : all location sharing on @entity101 is opt - in by the user			2
+we provide users with notice and control over the collection , sharing and use of location in order to provide a better mobile experience on @entity101 devices			0
+any location data that is sent back to @entity82 location servers is anonymized and is not tied or traceable to a specific user			0
+this is true for both @entity101 and @entity5 , but it 's no longer the point			1
+having a data file with over a year 's worth of your location information stored on your @entity5 is a security risk			1
+so if a thief got his hands on your @entity5 , he can figure out where you live and loot you there , too			1
+same goes for a hacker who gains remote access to the consolidated.db file			0
+but if a thief or hacker dug into an @entity101 device , there is n't going to be much geodata saved on the smartphone to digitally stalk you			0
+( there 's plenty of other data on smartphones such as text messages , address books and so forth , but at least we have control over what data we store in this regard			0
+) bottom line , this data should n't stick around on your @entity29 device , because it does nothing but put you at risk			0
+and you should care about that , because this problem can be and should be fixed by @entity3 , and you should demand that			1
+the database makes a tempting target for law enforcement if police wanted to , they could subpoena the @entity5 's location database file when investigating a suspect			1
+that file contains too much information for this to even be justified			0
+imagine if you were suspected of a crime and police wanted to know where you were at 5 p.m. thursday			0
+they could subpoena your @entity5 , dig into this file and , looking at the various data points , get a good idea of where you were at that time			1
+sure , that sounds like it could be a useful practice for busting bad criminals , but what about all that other data ? with that file police can not only find out where you were at 5 p.m. thursday , but also that you see a therapist every monday morning , or simply that you were somewhere that you 'd want to keep to yourself -- private matters			2
+as tempting as it may be to say , " they 're suspected for a crime , they deserve it , " even suspects deserve privacy			0
+they 're suspects , after all , not criminals ( yet )			0
+the fact that law enforcement can easily get more information than necessary is not a positive thing			0
+but it 's not a huge immediate danger with that said , the chances are small that your @entity5 is going to get hacked or stolen , or that you 're going to be suspected of a crime ( we would hope )			1
+so there 's no reason to freak out			0
+but we should care about the implications of a rich file of geographic data living on our @entity29 devices offering no customer benefit , creating digital footprints that we ca n't erase			0
+fortunately , @entity3 is a media giant , and customer trust is too valuable for the company to lose			2
+it 's likely we 'll see @entity3 issue a software update soon tweaking the geodata - storage method , hopefully with a full explanation			1
+subscribe to @entity253 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity0 .			0
+
+if a thief got his hands on your @entity5 , he can figure out where you live
+the police could subpoena the @entity5 's location database file when investigating a suspect
+it 's likely we 'll see @entity3 issue a software update soon
+
+@entity3:Apple
+@entity0:Wired.com
+@entity6:iPads
+@entity5:iPhone
+@entity8:iPod Touch
+@entity46:New York Times
+@entity29:iOS
+@entity44:David Pogue
+@entity101:Android
+@entity82:Google
+@entity253:WIRED magazine
+@entity112:Catch.com
+@entity68:Wi-Fi
+@entity110:Andreas Schobel
+@entity88:GPS
+@entity62:Yelp

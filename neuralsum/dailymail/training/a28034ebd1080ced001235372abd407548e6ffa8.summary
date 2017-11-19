@@ -1,0 +1,39 @@
+http://web.archive.org/web/20150803081438id_/http://www.dailymail.co.uk/sciencetech/article-2860630/Forget-breathalysers-VOICE-stop-drink-driving-Software-detects-slurring-speech-embedded-cars-immobilise-them.html
+
+up to 40 per cent of road deaths around the world are thought to be caused by alcohol			0
+but one day , cars could detect whether a driver ’s voice sounds drunk , to stop them from driving and prevent accidents			1
+researchers in @entity9 have created the first library of drunk speech patterns , which could be used to predict drunkenness by listening for vocal cues			1
+there are currently conversations from 162 @entity9 men and women in the publicly - available audio database			1
+experts at @entity34 and the @entity35 in the city collected the data , @entity32 reported			0
+from this , an algorithm that is capable of detecting whether someone is drunk by listening in on slurring speech patterns , has been created by computer scientists at @entity43 and @entity44			1
+scientists have used the library to create an algorithm that can predict if a driver is drunk			1
+the hope is that it could be built into cars to stop people putting their key in the ignition and driving off			1
+the technology would act as a preventative measure , unlike breathalysers ( pictured ) that are used by the police to prove an offence just three hours behind the wheel at night can make motorists drive as badly as if they were drunk , scientists claim			2
+driver tiredness after a few hours has the same effect as being over the drink - driving limit , a 2011 study revealed			2
+even two hours of motorway driving in the dark can affect performance so severely it is the same as having a couple of drinks			0
+it 's estimated that one - fifth of all traffic accidents are due to sleepiness behind the wheel and one in three people admit to nodding off while driving at night			2
+they found that they could detect drunken speech patterns much like identifying an accent			1
+drunken speech hallmarks include stammering and stuttering			0
+voices also tend to rise in pitch and words begin to slur , they said			0
+it is hoped that the software could be used alongside devices such as locks and immobilisers to make it impossible for people to drive when drunk – perhaps by asking them a few questions while analysing the driver ’s voice			1
+‘ the cars themselves could listen to the driver , detect that the potential driver is intoxicated , and prevent the car from starting , ’ the researchers explained			2
+however , the safety system may be a few years away , because the algorithm to detect drunkenness is typically only right around three quarters of the time			0
+‘ that means , you want to go and drive your car , one in three times we 're going to say you 're drunk			0
+that 's bad for a product , ’ professor @entity109 , of @entity43 @entity110 ( @entity111 ) said			0
+the next step is to add more languages to the library so that more experts can use the public library for their own research .			0
+
+@entity9 researchers have created the first library of drunk speech patterns
+@entity20 is based on 162 drunk conversations
+it 's been used by scientists to make an algorithm to detect slurred speech
+software could one day be fitted in cars to stop people drink driving
+
+@entity20:Alcohol Language Corpus
+@entity32:FastCompany
+@entity35:Institute of Legal Medicine
+@entity34:Ludwig Maximilian University of Munich
+@entity9:German
+@entity43:Queens College
+@entity44:Columbia University
+@entity111:CUNY
+@entity110:New York
+@entity109:Andrew Rosenberg

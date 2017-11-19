@@ -1,0 +1,92 @@
+http://web.archive.org/web/20150204161835id_/http://www.cnn.com/2010/TECH/web/10/15/photo.gps.privacy/
+
+-- skim through the photos on @entity2 or @entity3 , and you 'll find pictures of cats pawing at living - room sofas , children playing in backyards and mothers gardening at home			1
+dig a little deeper , and you can unearth the exact locations of many of those homes , embedded in data within the pictures			1
+images often contain a bundle of information and various traces left by digital cameras or photo manipulation software			1
+this data , called @entity25 ( @entity25 ) , is a key tool for many professionals			0
+it can detail whether the photographer used a flash , which digital effects were applied to a picture and when the photo was taken			2
+@entity25 can also contain the precise gps coordinates for where a photo was taken			1
+this information is readily accessible and can be plugged into software such as @entity39 -- leading some security and photography experts to express concerns about amateurs unknowingly disclosing private information , such as the location of their home			1
+" what could go wrong with that ? " @entity49 , the chief research officer for digital security firm @entity50 , said sarcastically			0
+@entity51 , an active @entity2 user and the former chief executive of competing photo site @entity53 , said @entity25 is an important part of his archival process			1
+but he has also used that data to track down someone who was harassing him online and managed to coerce an apology , he said			0
+" i do n't geotag any pictures to my house , " @entity51 said on the phone last week			0
+" i think it 's a huge concern			0
+i think a lot of people do n't realize or recognize what 's in all of the @entity25 data that they 're publishing			0
+" most gadgets ignore the geotagging component of @entity25 because relatively few cameras contain the gps chips needed to tag them			0
+however , many smartphones , such as those from @entity74 and @entity39 's @entity76 system , let users employ this feature			0
+@entity74 's and @entity39 's systems ask each user once or a few times for permission to access their location in order to provide additional services			2
+if they click " ok " on that popup , every photo they take is tagged with gps coordinates			1
+smartphones are fast becoming the camera of choice for many people			0
+cameras on newer phones have come to rival dedicated point - and - shoots , and many smartphone owners carry them just about everywhere			0
+smartphone sales have increased 50 percent since last year , according to a report by research firm @entity102			0
+millions of images are uploaded to @entity104 using the company 's @entity106 , @entity76 and @entity107 applications			1
+the @entity109 is the most popular shooter among photographers on @entity112 's @entity2 website , according to a report on that site			2
+judging by the abundance of pictures in @entity2 's database that include geolocation data in the @entity25 , some smartphone owners are n't thinking twice about opting into their devices ' gps feature			1
+doing so can facilitate useful tools			0
+for example , software like @entity126 and @entity127 can group images by location and display them on a map			2
+but amateur photographers may not realize that this info stays with the image when it 's uploaded to @entity2 , @entity3 , @entity135 and some other photo - sharing services			1
+( @entity104 says it strips the @entity25 data from all photos to protect its users ' privacy			1
+) pictures uploaded to @entity3 by one woman show her children preparing lunch and bathing in a kitchen sink			1
+the location data , which is displayed directly on each photo 's webpage , can be inputted into @entity39 to find a satellite image of her rural home in @entity153 , @entity154			1
+the woman could n't be reached for comment			0
+" we added @entity25 data a few years ago at the request of our users , " @entity157 , a spokesman for @entity3 , wrote in an e-mail			1
+" to date , we have not received any complaints from users who were previously unaware of the gps tagging feature			0
+" displaying the gps coordinates on the page can be disabled in a user 's settings panel , @entity157 noted			1
+however , anyone could still download the original file using a link on @entity3 and view the location info in @entity177 's @entity176 or in software included with every new @entity180 and @entity181 computer			1
+@entity2 's and @entity127 's pages do n't show the coordinates by default			1
+but the services similarly offer links to access the original files , which can contain @entity25			0
+" having the ability to download the original version of photos on @entity2 is an important feature for our members , " a @entity2 spokeswoman wrote			2
+" however , we help people maintain their privacy by stripping the @entity25 data of an image from view on the site and making the default control option to keep this information private			2
+" users who do n't want their photos tagged with @entity166 data can either disable the option on their cameras or run the images through software , such as @entity176 , that can remove the @entity25			2
+" we realize not everyone wants to share this information with others , " a @entity39 spokeswoman wrote in an e-mail			0
+she notes how to disable @entity166 tagging , but added : " this is a popular @entity127 feature that many people find useful			0
+" some photo services , including @entity104 , @entity221 and @entity222 , strip @entity25 once a file is uploaded and do n't offer a way for users to access the original			1
+for @entity222 , the lack of @entity25 is a byproduct of automatic image optimizations done by the system , not something designed specifically with privacy in mind , @entity227 , a spokesman for the @entity229 - owned @entity222 site , wrote in an e-mail			1
+while @entity104 's system compresses some photos , it does n't do so for every one			2
+" for those that we do n't compress , we still strip out @entity25 data , " @entity104 spokeswoman @entity242 wrote in an e-mail			1
+" we do this since users can unintentionally leak sensitive information in @entity25 data			0
+" @entity49 , the security expert from @entity50 , commended these efforts			0
+" @entity253 one up to @entity104 for that one , " he said			2
+" one of the alarming things is that every [ @entity104 ] application wants to access your profile and your contacts and your photos			2
+so if they were n't stripping that [ @entity25 data ] , it would be particularly alarming			0
+
+images can contain the precise gps coordinates for where a photo was taken
+pictures on @entity2 , @entity3 and @entity135 can contain location data
+other services , like @entity104 , @entity221 and @entity222 , strip that data
+digital photo experts express concerns over privacy implications
+
+@entity25:EXIF
+@entity135:Picasa Web Albums
+@entity253:Chalk
+@entity112:Yahoo
+@entity127:Picasa
+@entity153:Edmond
+@entity157:Newton
+@entity154:Oklahoma
+@entity3:Photobucket
+@entity2:Flickr
+@entity0:CNN
+@entity177:Adobe
+@entity176:Photoshop
+@entity53:Zooomr
+@entity51:Hawk
+@entity50:AVG
+@entity74:Apple
+@entity76:Android
+@entity39:Google
+@entity102:Gartner
+@entity104:Facebook
+@entity242:Jaime Schopflin
+@entity106:iPhone
+@entity107:BlackBerry
+@entity126:iPhoto
+@entity109:iPhone 3G
+@entity221:TwitPic
+@entity222:Yfrog
+@entity166:GPS
+@entity227:Mike Harkey
+@entity180:Mac
+@entity181:Windows 7
+@entity229:ImageShack
+@entity49:Thompson

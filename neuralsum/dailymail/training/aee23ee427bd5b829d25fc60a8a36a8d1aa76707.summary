@@ -1,0 +1,63 @@
+http://web.archive.org/web/20150504074742id_/http://www.dailymail.co.uk/sciencetech/article-2642883/Crow-raven-Twitcher-app-analyses-photos-tell-bird-youve-snapped.html
+
+it 's not uncommon to see a pretty bird flit by when you are enjoying a walk or a picnic - even if you live in a built - up area			0
+but if your knowledge of flying fauna is n't up to @entity10 's standards , it can be difficult to work out which creature you have spotted			0
+but now an app , developed by computer scientists , can identify a bird from a single photo			1
+watch the birdie : computer scientists have developed an app that can identify birds from a photo using computer vision and machine learning techniques			1
+users can also browse though species ( pictured ) a team of researchers led by professor @entity27 at @entity28 , @entity29 , have used computer vision and machine learning techniques to create @entity30			1
+the free @entity32 app claims to be an electronic field guide featuring 500 of the most common @entity35 bird species			1
+it lets users identify bird species by uploading photos and there is also a website , which includes 50,000 images as well as bird calls for each species			1
+beginners and experts can sort through species alphabetically , by their relationship in the @entity49 and by the frequency with which they are sighted at a particular place and season			0
+picky : the app detects parts of a bird so that it can examine the visual similarity of its comparable parts			2
+it automatically discovers visually similar species and makes visual suggestions for how they can be distinguished ( pictured left ) and information about the different birds can be scrolled through ( right ) it automatically discovers visually similar species and makes visual suggestions for how they can be distinguished			0
+birdsnap app was developed by computer scientists			2
+it uses computer vision and machine learning techniques to identify species of birds from photos			1
+' electronic field guide ' features 500 of the most common @entity35 species			1
+it is designed for iphones and is free from the @entity79			0
+users can upload photos and the app will identify birds in them			1
+they can also use a website to browse through the species in different ways and listen to different bird calls			1
+in the future the app could offer a @entity91 - like feature to recognise bird song			2
+the technology could also be added to binoculars to identify and tag species within the field of view			2
+the app and website were developed with the @entity99 and made their debut at the @entity101 in @entity102 , @entity103			0
+‘ our goal is to use computer vision and artificial intelligence to create a digital field guide that will help people learn to recognise birds , ’ professor @entity27 said			1
+he has previously launched @entity112 - a similar electronic field guide for trees			1
+‘ we 've been able to take an incredible collection of data - thousands of photos of birds - and use technology to organise the data in a useful and fun way			0
+’ he and fellow computer scientist @entity121 of the @entity99 , realised that many of the techniques they have developed for face recognition , in work spanning more than a decade , could also be applied to automatic species identification			2
+face recognition algorithms rely on methods that find correspondences between comparable parts of different faces , so that , for example , a nose is compared to a nose and an eye to an eye			0
+@entity137 works the same way by detecting the parts of a bird so that it can examine the visual similarity of its comparable parts			0
+each species is labelled through the location of 17 parts			0
+it automatically discovers visually similar species and makes visual suggestions for how they can be distinguished			0
+catalogue of calls and clucks : a website ( pictured ) includes 50,000 images plus bird calls for each species			1
+beginners and experts can sort through species alphabetically , by their relationship in the @entity49 , and by the frequency with which they are sighted at a particular place and season ‘ categorisation is one of the fundamental problems of computer vision , ’ said @entity165 , a @entity28 computer science phd candidate			1
+‘ recently , there 's been a lot of progress in fine - grained visual categorisation , the recognition of - and distinguishing between - categories that look very similar			0
+‘ what 's really exciting about @entity137 is that not only does it do well at identifying species , but it can also identify which parts of the bird the algorithm uses to identify each species			2
+‘ @entity137 then automatically annotates images of the bird to show these distinctive parts - birders call them “ field marks ” - so the user can learn what to look for			2
+’ the team is also using the fact that smartphone cameras embed the date and location in their images to improve classification accuracy			0
+they have designed a system that can pinpoint which birds are arriving , departing , or migrating			0
+the scientists hope to add the ability to recognise bird songs in the future as well as creating ‘ smart ’ binoculars that use this artificial intelligence technology to identify and tag species within the field of view			1
+i spy : the scientists hope to add the ability to recognise bird songs in the future as well as creating ' smart ' binoculars that use this artificial intelligence technology to identify and tag species within the field of view			2
+a girl using standard binoculars is pictured			0
+
+researchers at @entity28 in @entity29 , used computer vision and machine learning techniques to create the @entity30 app
+the free @entity32 app claims to be an electronic field guide featuring 500 of the most common @entity35 bird species
+users can identify bird species by uploading photos
+website includes 50,000 images as well as bird calls for each species
+
+@entity30:Birdsnap
+@entity32:iPhone
+@entity35:North American
+@entity27:Belhumeur
+@entity10:Bill Oddie
+@entity28:Columbia Engineering
+@entity29:New York City
+@entity101:EEE Conference on Computer Vision and Pattern Recognition
+@entity102:Columbus
+@entity103:Ohio
+@entity79:App Store
+@entity112:Leafsnap
+@entity99:University of Maryland
+@entity165:Thomas Berg
+@entity137:Birdsnap
+@entity49:Tree of Life
+@entity91:Shazam
+@entity121:David Jacobs

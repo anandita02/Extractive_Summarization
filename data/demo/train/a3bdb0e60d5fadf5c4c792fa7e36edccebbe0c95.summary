@@ -1,0 +1,13 @@
+http://web.archive.org/web/20141023035201id_/http://edition.cnn.com/2014/09/12/business/russia-companies-hit/index.html
+
+-- the @entity1 is hitting @entity2 with sanctions over the crisis in @entity5			1
+the sanctions vary from financial restrictions to a block on access to energy exploration technology			0
+explore @entity0 's graphic to discover the biggest companies being hit , and read more here .			0
+
+the @entity1 has *introduced* sanctions on @entity2
+the move is in *reaction* to the @entity5 crisis
+
+@entity2:Russia
+@entity1:West
+@entity0:CNN
+@entity5:Ukraine

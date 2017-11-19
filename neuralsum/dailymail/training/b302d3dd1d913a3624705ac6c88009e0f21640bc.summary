@@ -1,0 +1,80 @@
+http://web.archive.org/web/20140425195505id_/http://www.dailymail.co.uk/sciencetech/article-2611427/Quantum-Key-Distribution-uses-light-quantum-mechanics-protect-private-data.html
+
+by @entity0 a ‘ quantum leap ’ has been made in encryption technology that could help securely transfer sensitive data			1
+the technology - known as @entity5 ( @entity5 ) – delivers private data using the smallest possible packets of light			1
+data could include encrypted personal information , such as patient health records between hospitals , or payments between credit card providers and online retailers			1
+the end of cyber snooping ? @entity5 ( @entity5 ) delivers private data using the smallest possible packets of light			1
+it could be used to transmit encrypted payments between credit card providers and online retailers to prevent people 's private information falling into the hands of cyber criminals ( illustrated ) ' @entity5 ' is defined as the minimum amount of a physical entity			1
+a photon is a quantum , for example , as it is the smallest divisible unit of light : a single light particle			1
+quantum mechanics , also known as quantum physics , describes the behaviour of small particles , including photons , as well as atoms , ions and electrons			1
+the behaviour of these particles can seem counter-intuitive and often goes against the rules of classical physical systems			0
+one of the fundamental principles of quantum systems is that they can behave like both particles and waves			0
+light is commonly referred to as , and treated like , a wave , but it consists of particles : photons			2
+this type of behaviour , known as wave - particle duality , gives rise to the strange properties that make the prospect of future quantum technologies exciting in areas such as communication , timing , navigation and information security and storage			1
+in theory , quantum computing could allow for huge amounts of data to be processed , which is even beyond today 's supercomputers , as well as entirely new types of computation			1
+‘ encrypted data is very secure , ’ @entity74 from the @entity75 ( @entity75 ) told @entity76			1
+‘ its main vulnerability comes from people working out or intercepting the key which allows it to be unencrypted			0
+’ ‘ @entity5 ensures that the key is transmitted securely			1
+first the key is created and then data scientists can encrypt the data to send it from one party to the other			2
+’ @entity5 shares a key between two users that is made completely secure using quantum mechanics			1
+it provides an additional layer of security over and above standard methods used by banks and credit card companies to send data encryption ‘ keys ’ across a network			0
+it works because binary data is encoded into the particles of light			2
+the ' phase ' – a property of photons – is altered to represent binary data : a 0 or 1			2
+‘ the transmitter can encode these photons in two different ways – known as bases - creating four possible combinations , ’ said mr @entity74			2
+the photons are randomly encoded , creating a random key and sent at precise time intervals to the receiver			2
+secure : @entity5 shares a key ( illustrated ) between two users that is made completely secure using quantum mechanics			1
+it provides an additional layer of security over and above standard methods used by banks and credit card companies to send data encryption ' keys ' across a network the receiver detects the photons as 0s and 1s but not which base			0
+so it randomly chooses which base it will detect and records the values and bases			0
+once all the information has been received , the receiver tells the transmitter which bases it detected and the transmitter reveals which were right and wrong			0
+the receiver rejects all wrong detection events – leaving just the correct ones			0
+armed with this information , it can create the key to first encrypt and subsequently decrypt and unlock the data			1
+the technology works because binary data ( illustrated ) is encoded into the particles of light			2
+the phase - a property of photons - is altered to represent binary data : a 0 or 1			1
+the transmitter encodes these photons in two different ways - known as bases - creating four possible combinations ‘ the system is secure because it enables eavesdroppers on the line to be detected , ’ said mr @entity74			1
+‘ any attempt to monitor the data will interfere with the photons , affecting the encoding			0
+if there is interference , the receiver will terminate the process before the key is produced			0
+’ a consortium of companies , including @entity173 , @entity174 and @entity75 , recently completed the first successful trial of @entity5 over a live fibre network			1
+the field trial shows quantum encryption of 40 gb / s of data on a live optical fibre			0
+although these are just tests , the data could include phone calls , personal email , bank details and health records			1
+the trial , which is supported by the @entity188 ’s innovation agency , the @entity187 , is the first to use a single ‘ lit ’ fibre – which is fibre to transmit data and the quantum key itself			1
+the use of a single fibre is significant , as both the quantum ‘ key ’ and the encrypted data can now use the same pathway for the first time			1
+‘ the laws of @entity203 dictate that eavesdropper would n’t be able to detect the key without fundamentally changing it , so anything untoward can be easily detected , ’ @entity200 , head of optical research at @entity173 told @entity76			0
+early days : although the technology has only been tested so far , it could one day be used for phone calls , personal email , bank details and health records ( illustrated ) ‘ but if they want somebody to un-encrypt that data at the other end , then obviously they have to send the key too			1
+’ ‘ that ’s what makes @entity5 a potentially very secure way of transmitting keys			2
+’ the technology can be used to protect any data being carried by an optical communications system			2
+‘ any organisation could use it to secure their telephony and video links , whilst businesses could use it to transmit commercially sensitive data , ’ said mr @entity200 researchers , however , are reluctant to put a time - scale on when the technology could be available for wider use			1
+‘ this research is helping us to understand that , and it ’s very promising , ’ said mr @entity200			0
+‘ we have begun to test an advanced prototype with this trial and we ’ll be looking at the possibility of further trials in the future			0
+’ a key is created so that data can be encrypted and sent from one party to the other			2
+then the key to unlock that data is transmitted securely using @entity5 ( @entity5 )			1
+binary data is encoded into tiny light particles called photons			2
+the ' phase ' – a property of photons – is altered to represent binary data : a 0 or 1			0
+the transmitter can encode these photons in two different ways – known as bases - creating four possible combinations			0
+the photons are randomly encoded to create a random key and sent at precise time intervals to the receiver			0
+the receiver detects the photons			0
+it can detect 0s and 1s but not which base , so it randomly chooses which base it will detect and records the values and bases			0
+once all the information has been received , the receiver tells the transmitter which bases it detected and the transmitter reveals which were right and wrong			0
+the receiver rejects all wrong detection events – leaving just the correct ones			0
+armed with this information , it can create the key to first encrypt and subsequently decrypt or unlock the data			2
+the system is secure because it enables eavesdroppers on the line to be detected			1
+any attempt to monitor the data will interfere with the photons , affecting the encoding			0
+if there is interference , the receiver will terminate the process before the key is produced			0
+any attempt to monitor or interfere with the transmitted key while it ’s being sent will be detectable .			0
+
+@entity5 ( @entity5 ) has been partly developed by the @entity188 's @entity75
+it delivers data using photons - the smallest possible packets of light
+@entity5 shares a key between two users that is made completely secure using quantum mechanics
+secure system enables eavesdroppers to be detected and phone calls or *transactions* terminated
+technology could be used to transmit encrypted personal information , such as patient health records or payments
+
+@entity188:UK
+@entity173:BT
+@entity0:Ellie Zolfagharifard
+@entity174:Toshiba
+@entity5:QKD
+@entity187:Technology Strategy Board
+@entity75:National Physical Laboratory
+@entity76:MailOnline
+@entity203:Quantum Mechanics
+@entity74:Sinclair
+@entity200:Lord

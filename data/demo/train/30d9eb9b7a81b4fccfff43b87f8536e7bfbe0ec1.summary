@@ -1,0 +1,28 @@
+http://web.archive.org/web/20120413223225id_/http://edition.cnn.com:80/2012/01/27/world/americas/orange-juice-shipments/index.html?hpt=hp_t3
+
+@entity0 , @entity1 -- the @entity3 said on friday it had detained shipments of orange juice and concentrate from @entity1 and @entity6 after finding traces of the unapproved fungicide carbendazim			1
+the agency discovered the substance in 11 shipments , six from @entity6 and five from @entity1			2
+the @entity3 said it had detained nine of the shipments because companies behind two of the shipments withdrew their import request			0
+the fungicide is allowed in limited quantities across @entity20 and @entity21 , but the @entity22 banned its use in 2009			2
+the levels found by the @entity3 are below international maximum levels			0
+earlier this month , the @entity3 temporarily halted all orange juice imports after low levels of carbandazim were found in some juice shipments from @entity1			1
+it later declared that the juice posed no health risks , but that it would analyze all incoming shipments for even trace elements of the banned fungicide			1
+the controversy has sent orange juice prices skyrocketing			2
+@entity1 is the world 's biggest exporter , accounting for 85 % of total global exports			0
+the @entity22 is its second - biggest market after @entity20			0
+the @entity3 has collected samples from 80 shipments of orange juice			1
+so far , 29 have tested negative for carbendazim .			0
+
+@entity22 *government* detains orange juice sent from @entity1 , @entity6
+@entity50 has said *products* posed no health risks
+@entity3 does not allow traces of unapproved fungicide
+
+@entity3:FDA
+@entity2:CNN
+@entity1:Brazil
+@entity0:Sao Paulo
+@entity6:Canada
+@entity21:Latin America
+@entity20:Europe
+@entity22:U.S.
+@entity50:Agency

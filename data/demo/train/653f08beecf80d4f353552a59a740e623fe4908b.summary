@@ -1,0 +1,82 @@
+http://web.archive.org/web/20140926023112id_/http://www.cnn.com:80/2011/10/13/tech/mobile/blackberry-servers-android-iphone
+
+-- here 's a little secret @entity1 does n't want you to know : it would be technically impossible for all @entity5 phones or @entity6 to experience a global four - day outage like the one @entity1 saw this week , according to mobile communications experts			1
+why ? the answer is in the technical details of how @entity11 -- the company that makes @entity1 smartphones , with their click - clacking keyboards and tie - wearing owners -- handles e-mails and text messages			1
+here 's the gist : @entity11 acts as a middleman for all e-mail and @entity1 text messages			1
+it picks up messages from the wireless carrier and passes them on to the recipient			0
+@entity25 and @entity6 do n't have a middleman for texts and e-mail			2
+it 's this @entity1 baton - passing system that went down monday , killing or slowing e-mail and texting services for millions of people in @entity34 , @entity35 , @entity36 , @entity37 , the @entity38 and @entity39			1
+the ordeal lasted four days			0
+" it 's because of the way @entity11 has set up the ( network ) architecture that is the downfall when it comes to these types of outages , " said @entity41 , who manages wireless communications at a large tech company			0
+" when it 's working fine , it 's a great system			0
+when it 's not working fine , it 's a failure			0
+" this week , it 's fair to say the system was a big ol ' failure			2
+on social media sites , some @entity1 users said they were so upset about the outage -- the largest in the company 's history -- that they were switching to @entity63 and @entity64 @entity5 devices			1
+and customer satisfaction with @entity1 already was low			2
+" add up every other thing we 've ever written about why @entity1 is dying , " wrote the tech blog @entity67			2
+" this is not to say that @entity25 and @entity6 never experience network outages			0
+but they would n't be global			2
+and they would be the responsibility of a particular wireless carrier -- @entity77 , @entity78 , @entity79 and @entity80 -- or a particular messaging system , like @entity82 , @entity83 or @entity84 , @entity86 's new in - house messaging service			1
+not the maker of the phone			0
+that makes their problems inherently more localized			0
+" all the stuff goes through them for some form or fashion , " @entity92 , a writer for the site @entity94 , said of the way @entity1 handles messages and e-mail			1
+that makes it possible , he said , for the global @entity1 network to crash , which would n't be the case for iphones or @entity25			1
+@entity11 , however , takes issue with this analysis			0
+" i would not characterize that as fair , " @entity11 's co-ceo @entity111 said at a thursday news conference			0
+" we run a global , secure - push environment that provides the kind of instant messaging that 's made @entity1 so compelling and so valuable			1
+" @entity11 filters e-mails and blackberry messages through its own server farms -- giant warehouses full of computers -- for security reasons , said @entity41			2
+the company scrambles messages , making them more difficult to intercept			0
+that 's won @entity1 big fans in the business world			1
+the system also uses less battery power because @entity11 handles much of the computation work , @entity41 said			0
+" the process for checking your e-mail with a @entity1 is done by the @entity11 servers , " he said			1
+" so @entity11 is going to handle all the heavy lifting of going to your inbox and looking for new e-mail , and if it finds new e-mail , it 's going to push it back your devices			1
+" it also creates the risk of a global crash			2
+but maybe that 's not a completely bad thing			0
+" for two years , we have n't had a huge issue like this , " @entity41 said			0
+" it 's just been little bumps along the way			0
+so i do n't really see ( the middle - man system ) as a weakness			1
+i see it as expected , because no system can be faultless			0
+" @entity156 , who runs the industry blog @entity158 , said it 's clear @entity1 was unprepared for a failure like the one that began on monday			1
+" from what we can see from this outage , it appears @entity11 does n't have the infrastructure or the process in place to handle a failure properly when it happens and then to recover from it once it 's got a backlog of e-mail in its pipes , " he said			1
+@entity11 has said this week 's outage was caused by a failure at one of its messaging servers in @entity34 , along with the subsequent failure of its backup system			1
+@entity178 , a senior editor for technology at @entity180 , said problems like the one @entity1 had this week could actually become more common because people are storing more of their data -- from photos to music and documents -- in the cloud , meaning on remote computer servers rather than at home			1
+" if these services ever get disrupted , that could just mean a lot of unhappy customers , " he said			0
+" more and more of our stuff is stored on remote servers , and there 's increasing burden on the networks to have them available 24/7			2
+" as the @entity1 outage shows , he said , not all of them are ready .			0
+
+experts : iphones and @entity5 devices will not see a global messaging crash
+@entity1 filters messages through its own servers ; @entity86 and @entity64 do n't
+@entity1 's middle - man *approach* to messaging is what crashed this week
+millions of @entity1 users were without e-mail service for more than three days
+
+@entity111:Mike Lazaridis
+@entity25:Androids
+@entity80:T-Mobile
+@entity82:Gmail
+@entity83:Hotmail
+@entity84:iMessage
+@entity86:Apple
+@entity156:Rich Miller
+@entity1:BlackBerry
+@entity0:CNN
+@entity6:iPhones
+@entity5:Android
+@entity178:Mike Gikas
+@entity79:Verizon
+@entity78:Sprint
+@entity77:AT&T
+@entity35:North America
+@entity34:Europe
+@entity11:RIM
+@entity36:South America
+@entity39:Africa
+@entity38:Middle East
+@entity94:BlackBerryCool.com
+@entity92:Nan Palmero
+@entity180:Consumer Reports
+@entity37:Asia
+@entity158:Data Center Knowledge
+@entity41:Armstrong
+@entity67:Gizmodo
+@entity64:Google
+@entity63:Apple iOS

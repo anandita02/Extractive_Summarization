@@ -1,0 +1,30 @@
+http://web.archive.org/web/20120629100723id_/http://edition.cnn.com:80/2012/05/03/business/poland-economy/?
+
+@entity0 , @entity1 -- @entity1 , the @entity4 's fastest growing economy , wants to become a member of the eurozone -- but its finance minister says the country will wait until " it is safe to do so			1
+" " we want to join ( the eurozone ) , " @entity10 told @entity2			1
+" i think we feel that there is still a lot to be done and the eurozone has a lot of homework to do			0
+" the minister says the eurozone must be " repaired " and that there is more work to be done			2
+" we are very concerned , we think half the job has been done , but we are still not entirely out of the woods , " he said			0
+he says at the moment there is no real safety net when problems arise in the eurozone and there needs to be fewer restrictions on the @entity31 , for example when it comes to buying government bonds			0
+" we feel that the so - called firewall is inadequately large and we feel that the freedom of action that the @entity31 thinks it has is inadequate , " he added			0
+but despite the difficult economic climate engulfing much of @entity40 , @entity1 's economy is continuing to grow			1
+according to @entity10 , between 2008 and 2011 @entity1 achieved a cumulative growth of almost 16 % -- double that of the @entity4 's second fastest growing economy , @entity43			1
+regardless of @entity1 's growth , the country is enacting a policy of austerity			1
+@entity10 sees this as the most important part of the country 's fiscal policy			2
+he says @entity1 will reduce the ratio of public debt to gross domestic product this year , and is almost certain that they will eliminate " excessive " public debt			2
+the finance minister believes his country is well placed should the eurozone 's economic prospects improve , or even if they weaken , saying that scenario helps @entity1 's export performance			1
+" we are fairly comfortable with both situations , " @entity10 said			0
+" i am not too concerned one way or another			0
+
+@entity1 is the @entity4 's fastest growing economy
+@entity1 's finance minister says the country wants to join the eurozone
+finance minister @entity10 says the eurozone must be " repaired "
+
+@entity31:ECB
+@entity2:CNN
+@entity1:Poland
+@entity0:Warsaw
+@entity4:European Union
+@entity10:Jan Vincent-Rostowski
+@entity40:Europe
+@entity43:Slovakia

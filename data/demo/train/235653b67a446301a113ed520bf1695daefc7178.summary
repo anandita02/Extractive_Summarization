@@ -1,0 +1,28 @@
+http://web.archive.org/web/20080618173614id_/http://edition.cnn.com:80/2008/WORLD/asiapcf/06/15/nepal.palace/
+
+@entity0 , @entity1 -- @entity1 's new government has converted its deposed king 's opulent palace into a museum and unfurled the national flag on sunday as a symbolic move to signify the end of monarchy			1
+the @entity11 has been converted into a museum			2
+" the national flag is fluttering in the hands of the people in the royal palace now , " said prime minister @entity13 at a ceremony at the former palace sunday			1
+ex-king @entity20 , 60 , left @entity22 on wednesday			0
+he will live as a civilian in a summer palace on a forested hilltop outside the capital			2
+@entity20 's departure came following the declaration of the former @entity30 kingdom as a republic last month			1
+the monarchy 's end after 239 years of rule was the culmination of a two - year peace process in which @entity38 insurgents in @entity1 gave up their armed struggle , joined mainstream politics and won the most seats in april 's election for the @entity43			1
+the assembly is tasked with rewriting the constitution , deciding the country 's future political system and governing the nation			0
+@entity20 came to power in 2001 when his brother , @entity51 , and his family were massacred in the palace by the crown prince , who later shot himself			0
+@entity20 last week denied rumors that he had played a role in that event .			0
+
+@entity1 's new government converts deposed king 's palace into museum
+national flag unfurled over *building* in symbolic end to monarchy
+@entity30 kingdom was declared a republic last month
+
+@entity22:Narayanhiti Royal Palace
+@entity2:CNN
+@entity1:Nepal
+@entity0:KATHMANDU
+@entity13:Girija Prasad Koirala
+@entity11:Narayanthi Royal Palace
+@entity30:Himalayan
+@entity38:Maoist
+@entity20:Gyanendra
+@entity51:King Birendra
+@entity43:Constituent Assembly

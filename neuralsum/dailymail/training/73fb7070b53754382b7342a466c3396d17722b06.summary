@@ -1,0 +1,49 @@
+http://web.archive.org/web/20150510005725id_/http://www.dailymail.co.uk/sciencetech/article-2191451/The-camera-TRILLION-pictures-second--making-fast-watch-beams-light-travelling-slow-motion.html
+
+@entity1 researchers have created a camera which can take images so fast - one trillion of them in just a second - that it can capture light as it travels across objects			1
+nothing can go faster than the speed of light , which thanks to the work of scientific legends such as @entity12 and @entity13 , we know to be 299,792,458 metres per second in a vacuum			1
+but developers at @entity1 have managed to catch up , with their camera taking so many images that , when you play them in sequence at super-low - speed , you can see a light beam as it travels from a to @entity24 the fascinating video below was demonstrated at a @entity27 technology conference in @entity28			1
+it shows a burst of light traveling the length of a one - litre @entity34 bottle , bouncing off the cap , before then reflecting back to the bottle ’s bottom			1
+the team used a laser , flicking it on and off in the space of a femtosecond - or a millionth of a billionth of a second			2
+@entity27 : media lab associate professor @entity67 during his presentation in order to get a grip on how short this time is , an oft - quoted example is that a femtosecond is to a second what a second is to about 32 million years			0
+the laser , turned on and off , sends out a small beam of light , measuring in length just a millimetre			1
+the light is directed at a @entity34 bottle in a darkened room , and the camera then film the light as it ( relatively ) slowly enters the bottle through the plastic bottom , moves to the far end while scattering light within the bottle , and then bounces off the bottle cap			1
+this is the first time light has publicly been filmed moving , and could have huge repercussions in everything from photography to medical revolutions to shopping			0
+if the technology can become cheap to produce commercially , people could carry scanners to the supermarket and check the ripeness of their fruit and vegetable , as the scanner can beam light into , say , a tomato			1
+if a tomato is ripe , light will be absorbed into the fruit and bounce around , causing a ' glow ' in a super-slow video			2
+unripe or old fruit would not absorb the light			0
+@entity68 postdoc @entity125 , one of the system ’s developers , called the camera it the ' ultimate ' in slow motion			1
+he said : ' there ’s nothing in the universe that looks fast to this camera , '			0
+see the @entity27 video here : the system relies on a recent technology called a streak camera , deployed in a totally unexpected way			0
+the aperture of the streak camera is a narrow slit			0
+particles of light - photons - enter the camera through the slit and are converted into electrons , which pass through an electric field that deflects them in a direction perpendicular to the slit			1
+because the electric field is changing very rapidly , it deflects the electrons corresponding to late - arriving photons more than it does those corresponding to early arriving ones			0
+the image produced by the camera is thus two - dimensional , but only one of the dimensions — the one corresponding to the direction of the slit — is spatial			2
+the other dimension , corresponding to the degree of deflection , is time			0
+the image thus represents the time of arrival of photons passing through a one - dimensional slice of space			0
+the camera was intended for use in experiments where light passes through or is emitted by a chemical sample			2
+since chemists are chiefly interested in the wavelengths of light that a sample absorbs , or in how the intensity of the emitted light changes over time , the fact that the camera registers only one spatial dimension is irrelevant			2
+but it ’s a serious drawback in a video camera			0
+how it works : a tiny laser pulse is fired towards an object , such as a coke bottle or a brick wall explanation : the tiny beam of light ( pictured center ) travels towards the wall when the light hits an object , in this case a wall , it scatters in a thousand directions to produce their super-slow - mo videos , @entity125 , @entity68 associate professor @entity67 and @entity203 , the @entity204 , must perform the same experiment - such as passing a light pulse through a bottle - over and over , continually repositioning the streak camera to gradually build up a two - dimensional image			1
+synchronising the camera and the laser that generates the pulse , so that the timing of every exposure is the same , requires a battery of sophisticated optical equipment and exquisite mechanical control			0
+it takes only a nanosecond - a billionth of a second - for light to scatter through a bottle , but it takes about an hour to collect all the data necessary for the final video			1
+for that reason , @entity67 calls the new system ' the world ’s slowest fastest camera			1
+' after an hour , the researchers accumulate hundreds of thousands of data sets , each of which plots the one - dimensional positions of photons against their times of arrival			2
+@entity67 , @entity125 and other members of @entity67 ’s @entity236 at the @entity68 developed algorithms that can stitch that raw data into a set of sequential two - dimensional images .			0
+
+even ' travelling at the speed of light ' can not defeat the ' world *'s* fastest camera '
+@entity1 researchers film a beam of light hitting @entity34 bottle and tomato , and slow the *footage* down for a slow - motion replay
+
+@entity1:MIT
+@entity125:Velten
+@entity236:Camera Culture group
+@entity12:Leon Foucault
+@entity24:B.
+@entity28:Edinburgh
+@entity27:TED
+@entity68:Media Lab
+@entity67:Raskar
+@entity203:Moungi Bawendi
+@entity13:Einstein
+@entity204:Lester Wolfe Professor of Chemistry
+@entity34:Coke

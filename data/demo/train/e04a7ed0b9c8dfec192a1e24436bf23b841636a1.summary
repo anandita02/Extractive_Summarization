@@ -1,0 +1,28 @@
+http://web.archive.org/web/20140418005003id_/http://www.cnn.com:80/2014/02/06/us/rob-ford-declares-bob-marley-day
+
+-- @entity2 mayor @entity1 has decreed february 6 as " @entity3			1
+" the proclamation , issued thursday , includes the following text : " whereas each year on february 6 , we honour the legacy of @entity8 ( @entity3 ) @entity9 , an influential musician , advocate for human rights and international ambassador of peace			1
+@entity3 became one of the greatest ambassadors of peace the world has seen			0
+he used music to tear down the walls of apartheid and promoted @entity21 unity , culture and world peace both at home and internationally , with songs like @entity26 and @entity27			0
+today , his music continues to be loved by many and is instantly recognized around the world			0
+@entity34 , i , mayor @entity1 , on behalf of @entity33 , do hereby proclaim february 6 , 2014 as ' @entity35 of @entity2			2
+" @entity1 , who has admitted to smoking crack , was once captured on video dancing during a city council meeting to @entity9 's music			1
+he was also recently captured on video speaking in a @entity42 accent , although he never made any mention of @entity9 .			0
+
+@entity2 mayor @entity1 **declares** feburary 6 , @entity3
+mayor has admitted to smoking crack
+proclamation **declares** @entity9 a great ambassador of world peace
+
+@entity3:Bob Marley Day
+@entity2:Toronto
+@entity1:Rob Ford
+@entity0:CNN
+@entity26:One Love
+@entity27:Africa Unite
+@entity9:Marley
+@entity8:Robert
+@entity33:Toronto City Council
+@entity21:African
+@entity42:Jamaican
+@entity35:Bob Marley Day ' in the City
+@entity34:NOW THEREFORE

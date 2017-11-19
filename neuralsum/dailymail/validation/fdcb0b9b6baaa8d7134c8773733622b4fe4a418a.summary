@@ -1,0 +1,68 @@
+http://web.archive.org/web/20150722105825id_/http://www.dailymail.co.uk/sciencetech/article-3009732/Novels-Charles-Dickens-generate-secure-memorable-passwords.html
+
+‘ there are very few moments in a man 's existence when he experiences so much ludicrous distress , ’ @entity0 wrote about having to chasing a hat in @entity2			1
+but in the modern world , the same could easily be said about repeatedly forgetting an important password			0
+now researchers have turned to the great @entity12 author to help find a way of making passwords both secure and more memorable			1
+researchers have turned to the works of @entity0 ( illustrated ) to generate secure but memorable passwords according to new research by @entity20 - based computer scientists			1
+they used a model from probability theory to examine the occurrence of letters within mr @entity0 ' @entity25 to generate new passwords they used a model from probability theory to examine the occurrence of letters within mr @entity0 ' @entity25 to generate new passwords			1
+the process works by looking for two characters that commonly appear together but then generating a third letter that does not			0
+millions of internet users still rely upon easy - to - crack passwords such as ‘ qwerty ’ and ‘ 123456 ’ , but many people are choosing to use more complex sets of characters for our online accounts			1
+however , a new study has found these seemingly random passwords may be more obvious to hack than you realise			1
+researchers have shown that passwords such as ‘ mnbvcxz ’ , ‘ qaz2wsx ’ and ‘ adgjmptw ’ can be cracked in seconds - and adding numbers to your codes does little to boost its strength			1
+the analysis was made by hosting firm @entity57 using 10 million passwords recently released by security consultant @entity59			2
+they spotted that a number of complex passwords were being used by multiple people			2
+for example , ‘ qaz2wsx ’ was in the top 30			0
+they also noticed that a website called @entity68 scored these words as zero , or low , for so - called entropy			2
+entropy is used to determine the strength of a password in terms of ‘ information entropy ’			0
+this comes from information theory and is measured in bits			2
+the more bits a word is assigned , based on the number of guesses it would take to crack , the stronger the password			0
+other words that received a low score include ‘ qwertyuiop ’ , ‘ 1qaz2wsx ’ and ‘ zxcvbnm ’			0
+this is because each of these words follow a certain pattern on a keyboard , known as ‘ keyboard walks ’			0
+the same approach is used to generate the third character using the second and third letter and so on			1
+the result is 56 - bit passwords that look like @entity99 but are not , making them easy to remember but harder for hackers to guess			1
+among the examples produced by the approach from the @entity25 were : ' the cusay is wither ? ' and ' @entity105 highly to a vice of eart '			2
+this password would be entered as they are typed above , including spaces			0
+according to dr @entity112 , a computer and software engineer at the @entity114 who devised the approach , these are easier to remember than random strings of letters and characters that are often recommended by password generators			1
+he said : ' users are very bad at choosing passwords			2
+' today , the general assumption - evidenced by the lack of systems using randomly assigned passwords - is that users can not be expected to recall secure passwords ' if we ’re convinced that random passwords are a good idea , and that recalling a 56 - bit password is at least within the realm of possibility , we must try to find a set of passwords that are as memorable as possible			1
+' research on passwords has shown that most people tend to use letters or words that are easiest for them to remember			1
+@entity59 , a @entity142 - based password researcher who recently published a list of 10 million passwords taken from those shared over the internet , found that the most commonly used password is 123456 followed by the word password			1
+others tend to use their own name or use a password that is identical to their username			0
+these are easy to break as most hackers will use easy to remember passwords when trying to break into an account			1
+they will also tend to use real words when attempting to guess someones password			0
+the graph above shows the distribution of letters following ' ca ' in @entity25 by @entity0			1
+among the examples produced by the approach from the @entity25 include : ' the cusay is wither ? ' and ' @entity105 highly to a vice of eart '			2
+these would be entered as they are typed , including spaces 1			0
+trustno1 source : @entity59 online security experts recommend using a random string of letters , numbers and characters that use both upper and lower case letters			2
+an eight - character password generated in this way can produce around 72 quadrillion possible variations - making it virtually impossible to guess			0
+however , these are difficult to remember			0
+dr @entity112 ' approach , which was highlighted by the magazine @entity196 , uses @entity198 models which are a way of generating random states based on states that currently exist			2
+in the approach he took , two letters like ' ca ' may appear together in a piece of text , then the chance that they are followed by the letter ' r ' is 278/1397 for example			0
+however the chance of those two letters being followed by the letter ' f ' or ' x ' is far less in that piece of text			0
+by randomly generating letters using an algorthim that selects those letters based on meeting certain pobability rules of it appearing with the two preceeding letters in a piece of text , the method produces random but familiar looking passwords			1
+dr @entity112 said that the approach is not just limited to the works of @entity0			1
+indeed it could be used to generate passwords from a person 's own emails , for example			1
+he said : ' naturally , the choice of @entity25 is largely arbitrary - any corpus of reasonable length will suffice			0
+' one intriguing possibility would be to choose the full text of all of the e-mails in a particular user ’s history			0
+' this text would presumably reflect the style of text that a particular user is accustomed to read and write , and should in principle be extraordinarily memorable			0
+
+computer expert applied probability theory to @entity0 ' tale of two *cities*
+they found the approach could generate random but familiar passwords
+the 56 - bit passwords are secure but easier to remember , claim scientist
+he said the approach could also be used to create passwords from emails
+
+@entity2:The Pickwick Papers
+@entity20:US
+@entity0:Dickens
+@entity12:Victorian
+@entity142:Utah
+@entity25:A Tale of Two Cities
+@entity196:New Scientist
+@entity198:Markov
+@entity68:Zxcvbn
+@entity114:California Polytechnic State University
+@entity57:WP Engine
+@entity105:Ther
+@entity99:English
+@entity59:Mark Burnett
+@entity112:Clements

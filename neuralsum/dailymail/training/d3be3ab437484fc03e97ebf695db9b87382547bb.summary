@@ -1,0 +1,87 @@
+http://web.archive.org/web/20150713114411id_/http://www.dailymail.co.uk/sciencetech/article-2906541/Forensic-holodeck-recreates-crimes-3D-Oculus-Rift-help-judges-jurors-explore-scenes-trials.html
+
+one of the most difficult parts of a trial , especially in front of a jury , is accurately describing the crime scene			1
+a number of courtrooms have begun projecting 3d images of scenes onto walls - but these can only reveal a limited amount of information			2
+to take criminal courtroom reconstructions to the next level , experts have created a @entity17 immersive system that virtually transports people inside the scene using an @entity21 headset			1
+the setup uses an @entity24 ( d ) , the @entity27 optical tracker ( e ) , laser scanner from @entity29 and @entity31 software to create the final reconstructions			1
+the computer system is shown at ( a ) , ( b ) is the @entity35 connector , and ( c ) is a wall - mounted tracker it has been dubbed ' forensic holodeck ' after the environment simulator used in sci - fi show @entity41			1
+the low - cost setup uses an @entity24 , the @entity27 optical tracker , a laser scanner from @entity29 and @entity31 software to create the final reconstructions			1
+it also uses gaming software called @entity17			0
+this creates an immersive world in which the jury , judges and other members of the court can explore and see in @entity17 high - resolution detail - similar to @entity41 ’s hologram setup			1
+‘ in @entity58 , scenes are routinely reconstructed by combining 3d laser scans of the scene to post-mortem surface scans and medical images , such as @entity63 and @entity64 , ’ explained lead researcher @entity54 from the from the @entity55 in @entity56			1
+to demonstrate the system , the researchers chose to reconstruct a shooting in an internet cafe ( pictured )			2
+the scene was recorded by a surveillance camera , and the team then used a laser to scan the surroundings			1
+the aim was to show how close bullet trajectories came to injuring people in the room the low - cost setup uses an @entity24 , the @entity27 optical tracker , a laser scanner from @entity29 and @entity31 software to create the final reconstructions			1
+this creates an immersive world in which the jury , judges and other members of the court can explore and see in 3d high - resolution detail			1
+@entity21 is worn on the head and measures the orientation of the wearer in real time , allowing for calculation of the scene with the correct perspective			1
+@entity21 ( pictured ) is worn on the head and measures the orientation of the wearer in real time the headset consists of a screen that is split in half , delivering half the 1280 x 800 pixel resolution for each eye			1
+in the front of the screen , two plastic lenses help create a diagonal viewing angle of 110 - degrees			2
+the @entity21 is then connected to the pc using a @entity109 cable , and a usb transfers information about the head orientation to a computer			2
+head orientation is measured using a combination of gyros , accelerometers , and magnetometers			0
+when used for gaming , the headset does n’t typically need to use positional information of the head is usually not required			0
+to overcome this problem for the forensic holodeck system , the researchers added an optical tracker to measure the user position			1
+this meant they could freely move inside the virtual scene			0
+to demonstrate the system , the researchers recently chose to reconstruct a shooting in an internet cafe			1
+the scene was recorded by a surveillance camera , and the team then used a laser to scan the surroundings			1
+the aim was to show how close bullet trajectories came to injuring people in the room			0
+‘ the purpose of these reconstructions is to create a visualisation of an event to make it possible for a state attorney or judge to properly assess a situation based on the bullet trajectories , visibility , speed and distance			0
+’ mr @entity54 continued , however , that although the data used for these reconstructions are high resolution , and allow for a spatially correct display of the scene , they typically use a 3d reconstruction on a 2d display			1
+this reduces the amount of spatial information available			0
+the technology is similar to the fictional holodeck in @entity41 ( pictured with @entity166 played by @entity167 left and @entity168 as @entity169 right )			1
+holodecks were installed on starships , space stations , and at @entity173 for entertainment , training , and investigative purposes and although 3d screens partially solve this problem , estimating distances is still difficult because the perceived depth depends on the size of the display			0
+mr @entity54 believes his @entity21 system is a solution to this			2
+to demonstrate the system , the researchers recently chose to reconstruct a shooting			2
+during the incident in an internet cafe , a known drug dealer was approached by policemen and women in civilian clothes as well as in uniform for the purpose of arresting him			0
+a @entity197 , or holodeck for short , was a form of holotechnology designed and used by @entity173 in @entity41			2
+holodecks were installed on starships , space stations , and at @entity173 institutions for entertainment , training , and investigative purposes			0
+a typical holodeck consisted of a room with a hologrid containing so - called omnidirectional holographic diodes			2
+holographic projections could be shown by manipulating photons contained within force fields			0
+it was also used in an episode of @entity216 , called @entity217 , to recreate the events leading up to a space station explosion for forensic investigations			0
+source : @entity222 despite being surrounded , the man was able to get up from his chair and draw a handgun			0
+one of the policemen managed to grab onto the arm bearing the gun while the others attempted to take cover			0
+in the course of the struggle , seven gunshots were fired and one of the bullets hit a policeman on his hand			0
+the entire scene was recorded by a surveillance camera in one of the top corners of the room , and these recordings were used to reconstruct the sequence of events			2
+the team then used a laser to scan the surroundings , and used to this to pinpoint the final position of the projectiles			0
+this , along with the camera footage , were used to reconstruct every bullet fired			1
+the aim of the reconstruction was to show how close the bullet trajectories came to severely injuring one of the people in the room			0
+' during a police congress , we were able to demonstrate the system , ' continued the researchers			0
+' the comments by the police officers involved in the presented incident were promising			0
+' further work will be carried out to make the technology more accurate before it is used widely in courtrooms			0
+' the forensic holodeck : an immersive display for forensic crime scene reconstructions ' was published in the @entity275 journal @entity274 , @entity276 , and @entity277 .			1
+
+the setup was *devised* by forensic experts from the @entity281
+it uses an @entity21 , optical tracker and @entity31 software
+camera footage is combined with laser scans to create final reconstruction
+this creates an immersive world in which the jury , judges and other members of the court can explore and see in 3d high - resolution detail
+technology is similar to the fictional holodeck in @entity41
+it was recently demonstrated to reconstruct the scene of shooting
+
+@entity17:3D
+@entity21:Oculus Rift
+@entity27:OptiTrack
+@entity24:Oculus Rift headset
+@entity29:Geomagic
+@entity276:Medicine
+@entity277:Pathology
+@entity274:Forensic Science
+@entity275:Springer
+@entity173:Starfleet
+@entity217:A Matter of Perspective
+@entity197:Holographic Environment Simulator
+@entity56:Zurich
+@entity55:Institute of Forensic Medicine
+@entity54:Ebert
+@entity58:Switzerland
+@entity31:Autodesk 3DS Max
+@entity35:Oculus USB
+@entity216:The Next Generation
+@entity109:HDMI
+@entity222:Memory Alpha
+@entity166:Deanna Troi
+@entity167:Marina Sirtis
+@entity168:Jonathan Frakes
+@entity169:William Riker
+@entity281:University of Zurich
+@entity41:Star Trek
+@entity64:MRI
+@entity63:CT

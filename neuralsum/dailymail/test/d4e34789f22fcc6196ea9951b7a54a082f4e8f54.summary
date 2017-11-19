@@ -1,0 +1,60 @@
+http://web.archive.org/web/20150720152726id_/http://www.dailymail.co.uk/sciencetech/article-3023335/Weather-reports-soon-read-ROBOTS-Computers-learn-mimic-humans-compiling-forecasts.html
+
+the days of the weather man could be numbered			2
+researchers from @entity2 and @entity3 are developing a computer that can collate meteorological information and then produce forecasts as if they were written by a human			1
+useing a process known as ' natural language generation ' ( @entity11 ) , it has the potential to one day be used in humanoid robots on our tv screens			1
+the days of weather presenters ( stock image ) could be numbered			0
+researchers from @entity2 and @entity3 have developed a computer that can collate meterological information and then produce forecasts as if they were written by a human			1
+it uses a process known as ' natural language generation ' ( @entity11 ) these computer - generated weather updates are being being tested by scientists at @entity26 and @entity27			1
+using @entity30 data , the researchers are developing new algorithms for automatically generating detailed reports			2
+if the project is successful , a prototype system will be tested by generating local weather reports on the @entity37 's website			1
+currently , the @entity37 website features 10 reports written by meteorologists			1
+each of these forecasts cover a large area of the country , such as @entity2 and @entity45 , but there are more than 20,000 individual locations that need tailored reports			0
+using @entity30 data , the researchers are developing new algorithms for automatically generating weather reports			1
+if the project is successful a prototype system will be tested by generating local weather reports on the @entity54 's website ( shown ) , which currently features just 10 reports for large areas of the country @entity11 is the process of producing readable texts in @entity60 , or other languages , automatically on a computer			1
+typically , the program starts with statistics and figures , or any information that is n't written in language			0
+this includes tables of numerical data or a collection of entries in a database			0
+@entity11 is the process of producing readable texts in @entity60 , or other languages , automatically on a computer			2
+typically , the program starts with statistics and figures , or any information that is n't written in language			0
+these includes tables of numerical data or a collection of entries in a database			0
+alternatively , @entity11 will rephrase a block of texts to make it easier to read and understand			2
+it is often referred to as a translator that converts computer speak into natural language , which is tricky for computers due to variances in tone and grammar			1
+alternatively , @entity11 will rephrase a block of text to make it easier to read and understand			2
+it is often referred to as a translator that converts computer speak into natural language , which is tricky for computers due to variances in tone and grammar			1
+the project is called @entity102 ( @entity103 ) and is being run by dr @entity104 from @entity26 's @entity105 and @entity106 , with dr @entity107 and dr @entity108 from the @entity106 department at @entity27			0
+' machine learning for @entity111 ( @entity111 ) is what @entity103 is all about , ' said dr @entity104			0
+' large companies such as @entity115 , @entity116 and @entity117 are making substantial new investments in this field and there are start - up opportunities emerging			0
+' the @entity122 is a world leader in this kind of research but we are under - represented in using machine learning approaches for @entity11			2
+this project will help to strengthen this research strand			0
+' these developments could also help overcome problems with @entity133 's @entity132 or @entity134 which often offer repetitive responses to questions or directions .			0
+
+researchers are developing a computer that can write weather forecasts
+it takes meteorological data and writes a report designed to *mimic* a human
+this process is known as ' natural language generation ' ( @entity11 )
+a prototype system will be tested on the @entity37 website later this year
+
+@entity26:Heriot-Watt University
+@entity27:University College London
+@entity117:Yahoo
+@entity116:Amazon
+@entity115:Microsoft
+@entity111:NLP
+@entity134:Google Voice
+@entity133:Apple
+@entity132:Siri
+@entity3:Edinburgh
+@entity2:London
+@entity11:NLG
+@entity54:MailOnline
+@entity30:Met Office
+@entity37:BBC
+@entity102:Domain-Independent Language Generation
+@entity103:DILiGENt
+@entity104:Rieser
+@entity105:School of Mathematical
+@entity106:Computer Science
+@entity107:Andreas Vlachos
+@entity108:Sebastian Riedel
+@entity122:UK
+@entity45:South East England
+@entity60:English

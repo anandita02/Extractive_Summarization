@@ -1,0 +1,77 @@
+http://web.archive.org/web/20150531163250id_/http://www.dailymail.co.uk/sciencetech/article-2744552/Apple-add-security-alerts-iCloud-users-says-Cook-WSJ.html
+
+@entity0 is planning to ramp up security on its @entity3 service to keep hackers out of user accounts			1
+chief executive @entity6 made the announcements in the face of the recent celebrity photo scandal that saw hundreds of images stolen from the online service			1
+mr @entity6 told the @entity12 @entity0 will aggressively encourage users to take stricter security measures , and the firm will alert users if someone tries to access their files			1
+chief executive @entity6 ( pictured ) said the firm will now send alerts to users each time someone tries to access and make changes to an @entity3 account these alerts will be sent using email and push notifications each time someone tries to change an account password , restore @entity3 data to a new device , or when a device logs into an account for the first time			1
+it is possible for users to enhance the security of their documents by turning off @entity43 on their device when they are not using it			2
+they can also turn on two - step verification for their @entity3 account			2
+the tool prevents people accessing accounts - even if they have the password			0
+to set up two - step verification , go to my @entity0 @entity53			0
+select manage your @entity0 id and sign in , then select @entity57			0
+under two - step verification , select get started and follow the onscreen instructions			0
+when a user sets up two - step verification , they register one or more trusted devices			0
+a trusted device is one that can receive 4 - digit verification codes using either @entity66 or @entity67			0
+once enabled , any time a user signs in to manage their @entity53 at my @entity53 , or make an @entity74 , @entity75 , or @entity73 purchase from a new device , they 'll need to verify their identity by entering both their password and a 4 - digit verification code			2
+@entity0 is said to be moving quickly to restore confidence in its systems ' security ahead of the crucial launch of its new @entity85 next week			1
+' when i step back from this terrible scenario that happened and say what more could we have done , i think about the awareness piece , ' mr @entity6 said			1
+' i think we have a responsibility to ratchet that up			0
+that 's not really an engineering thing			0
+' @entity6 added that @entity0 will also broaden its use of the two - factor authentication security system to avoid future intrusions			1
+two - factor authentication requires a user to have two of three things to access an account			0
+this can include a password , a separate four - digit one - time code , or a long access key given to the user when they signed up for the service			2
+' the usability battle will always be there but could you ever imagine using your debit card at an atm and not entering a pin ? that 's two factor , something you have - a card - and something you know - a pin - and we all get along just fine , ' @entity120 's @entity119 told @entity124			0
+following the attack , @entity125 spotted code on software development site @entity129 called @entity130 , that would have allowed malicious users to use ‘ brute force ’ to gain an account ’s password on @entity3 , and in particular its find my @entity85 service			1
+however , after an investigation , @entity0 said on tuesday the attacks on celebrities ' @entity3 accounts were individually targeted , and that none of the cases it investigated had resulted from a breach of its systems			1
+it is now working with law enforcement to identify the hackers			0
+the announcement comes in the face of the recent celebrity photo scandal that saw hundreds of images stolen from @entity0 's @entity152 ( pictured )			1
+@entity6 said @entity0 will also broaden its use of the two - factor authentication security system to avoid future intrusions @entity156 ( pictured ) was among the 101 celebrities who had their photos stolen from @entity3			1
+she is said to have posted more than 60 nude selfies to the online service ' we want to do everything we can do to protect our customers , because we are as outraged if not more so than they are , ' continued mr. @entity6			2
+the @entity3 service lets users store photos and other content , and access it from any @entity0 device			1
+scammers have been taking advantage of the celebrity hacking scandal to trick people into entering their @entity0 id and password details into a fake login screen			1
+security experts recently discovered emails and text messages that claim to be from @entity0 , warning users about unauthorised access to their accounts			1
+the latest threat to people 's accounts comes as both the @entity187 and @entity0 have said they are investigating the link			2
+the so - called phishing emails are designed to trick people into offering up their details			0
+@entity3 secures data by encrypting it when it is sent over the web , storing it in an encrypted format when kept on server , and using secure tokens for authentication ( explained above )			2
+this suggests the hackers were able to obtain the login credentials of the accounts , and pretend to be the user , in order to bypass this encryption @entity0 is said to be moving quickly to restore confidence in itssystems ' security ahead of the crucial launch of its new @entity85 next week			1
+shares of the smartphone maker slumped 4 per cent this week ( graph pictured ) - its worst percentage drop since late - january - as @entity0 faced scrutiny of its security systems @entity0 already offers a high - level of security on its @entity3 account			1
+the service secures data by encrypting it when it is sent over the web , storing it in an encrypted format when kept on server , and using secure tokens for authentication			0
+@entity224 , a technology analyst with @entity225 , told @entity226 : ' security in the cloud is an issue generally - you have to completely trust @entity231 , @entity0 , @entity232			0
+' @entity0 has some of the most powerful encryption tools out there - which is why they have almost a billion credit cards of file , and nobody had ever got hold of those			0
+' shares of the smartphone maker slumped 4 per cent this week - its worst percentage drop since late - january - as @entity0 faced scrutiny of its security systems			2
+the stock lost $ 3.57 to $ 99.15 , with 94 million shares changing hands , exceeding its 50 - day daily moving average of 45.8 million shares traded , and putting it on track for one of its busiest days of the year .			0
+
+@entity0 's @entity6 revealed the plans following the celebrity photo scandal
+hundreds of images were recently stolen from @entity0 's @entity3 service
+mr @entity6 said he is encouraging users to take stricter security measures
+the firm will now alert users if someone tries to access their files
+these alerts will be sent each time someone tries to change an account password , restore @entity3 data , or when a new device logs into an account
+@entity0 is said to be moving quickly to restore confidence in its systems
+
+@entity85:iPhone
+@entity152:iCloud service
+@entity130:iBrute
+@entity119:Matt Johansen
+@entity3:iCloud
+@entity0:Apple
+@entity6:Cook
+@entity156:Jennifer Lawrence
+@entity53:Apple ID
+@entity57:Password and Security
+@entity75:App Store
+@entity74:iTunes
+@entity73:iBooks Store
+@entity232:Samsung
+@entity12:Wall Street Journal
+@entity231:Google
+@entity129:Github
+@entity124:Reuters
+@entity125:The Next Web
+@entity120:WhiteHat Security
+@entity225:Creative Strategies
+@entity224:Tim Barajin
+@entity226:MailOnline
+@entity187:FBI
+@entity43:iCloud through Settings > iCloud
+@entity66:SMS
+@entity67:Find My iPhone
